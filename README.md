@@ -28,7 +28,31 @@ I used Logistic Regression (LR) to conduct topic classification (15 topics) and 
 
 ## Deep Learning methods
 
-### DAN
+### DAN and textCNN with fastText embedding
+
+I first used pre-trained embedding fastText (https://fasttext.cc/docs/en/english-vectors.html) to train both Deep Average Network (DAN) and text CNN. The structure of DAN is as follows:
+
+![Screenshot](figures/DAN.jpeg)
+
+DAN is a bag-of-words neural model. It averages the word embeddings in each input utterance as the utterance representation, then the representation is passed through a series of fully connected layers and a softmax output layer for classification. The loss graph is shown as follows:
+
+![Screenshot](figures/DANresults.jpeg)
+
+### DAN with self-trained skip-gram embedding
+
+We also used skip-gram model to train our own embeddings. The following is a visualization for the word vectors. I used T-SNE to visualize these high-dimensional word vectors.
+
+![Screenshot](figures/culster.png)
+
+
+## Results
+
+The following table shows the trainning results:
+
+![Screenshot](figures/results.png)
+
+
+
 
 
 
