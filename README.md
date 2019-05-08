@@ -92,7 +92,7 @@ You can try ```textCNN.py``` directly using ```sample_train.csv``` and ```sample
 ### skip-gram
 <b>Hyperparameters:</b>
 ```EPOCHS```, ```BATCH_SIZE```, ```WINDOW_SIZE```,  
-You can try ```skip-gram.py``` directly using ```sample_train.csv``` and ```sample_test.csv```
+You can try ```skip-gram.py``` directly using ```sample_train.csv```
 
 
 ## References
