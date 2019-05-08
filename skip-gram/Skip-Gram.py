@@ -137,7 +137,7 @@ get_ipython().system('mkdir checkpoints')
 
 
 
-epochs = 1
+epochs = 100
 batch_size = 1000
 window_size = 10
 
