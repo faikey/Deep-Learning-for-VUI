@@ -68,8 +68,34 @@ The analysis above proves the feasibility of deploying deep learning methods to 
 I only showed a sample of the Alexa Response Dataset because of future research reasons.
 
 ### crawler codes
-1. alexacrawler.py is used to run the basic "open-help-stop" loop for each Alexa skill
-2. 
+1. ```alexacrawler.py``` is used to run the basic "open-help-stop" loop for each Alexa skill
+2. ```recognizePossibleCommands.py``` is used to parse the instruction response.
+3. ```alexacrawler_withcommands.py``` is used to run the commands list.
+
+### preprocessing
+1. ```preprocessing.py``` is used to delete some repeated responses as well as labeling according to topics.
+
+### ML baseline
+You can try ```featengr_withtagchunk.py``` directly using ```sample_train.csv``` and ```sample_test.csv```
+
+### DAN
+
+<b>Hyperparameters:</b>
+```EPOCHS```, ```BATCH_SIZE```, ```LAYER_SIZES```,  ```ACTIVATION_FUNCTION```
+You can try ```DAN.py``` directly using ```sample_train.csv``` and ```sample_test.csv```
+
+### textCNN
+<b>Hyperparameters:</b>
+```EPOCHS```, ```BATCH_SIZE```, ```KERNEL_SIZE```,  ```DROPOUT```, ```KERNEL_NUM```
+You can try ```textCNN.py``` directly using ```sample_train.csv``` and ```sample_test.csv```
+
+### skip-gram
+<b>Hyperparameters:</b>
+```EPOCHS```, ```BATCH_SIZE```, ```WINDOW_SIZE```,  
+You can try ```skip-gram.py``` directly using ```sample_train.csv``` and ```sample_test.csv```
+
+
+
 
 
 
