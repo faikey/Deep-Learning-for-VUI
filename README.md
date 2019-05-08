@@ -49,7 +49,7 @@ We also used skip-gram model to train our own embeddings. The following is a vis
 
 The following table shows the trainning results:
 
-![Screenshot](figures/results.png)
+![Screenshot](figures/results.jpeg)
 
 
 
