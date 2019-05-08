@@ -52,7 +52,15 @@ The following table shows the trainning results:
 ![Screenshot](figures/results.jpeg)
 
 
+## Conclusion and analysis
 
+1. Deep Learning methods outperform the LR baseline in terms of classification accuracy. 
+2. DAN with fastText embedding has the best performance. One biggest characteristic ofmy dataset is that there is too much noise (including the limitation of Alexa’s error handling ability). In this case, DAN’s robustness to noise can result in better performance, as well as its ability in memorizing keywords. 
+3. Our DAN with self-trained skip-gram embedding matrix (Fig 5)  also outperforms the baseline. This result indicates the potential of our datasets developing to a robust pre-trained word vectors. 
+
+## Future work
+
+The analysis above proves the feasibility of deploying deep learning methods to conduct voice application evaluation. Based on this, In the future work, a chatbot trained by deep learning methods using the Alexa responses dataset can be deployed to do evaluation.
 
 
 
