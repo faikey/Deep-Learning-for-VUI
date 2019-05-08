@@ -1,0 +1,483 @@
+name,question,response
+Big Sky,"""Alexa, open Big Sky.""",You have Big Sky enabled. Do you want to open it?
+Big Sky,Yes,""" Welcome to big sky. I've sent a card to the home screen of the alexa app. Click on manage permissions to allow Big Sky access to your device address. For the most accurate hyperlocal forecasts, and to customize your report, you'll need to link your account. After saving permissions, click on settings, and then link account, to get the most out of Big Sky"""
+Big Sky,"""Alexa, open Big Sky.""",You have Big Sky enabled. Do you want to open it?
+Big Sky,quit,
+Big Sky,"""Alexa, ask Big Sky if it will rain in three hours.""","Hmm, I don't know that."
+Big Sky,quit,
+Big Sky,quit,
+Big Sky,"""Alexa, ask Big Sky to show the radar.""",You have Big Sky enabled. Do you want to open it?
+Big Sky,Yes,""" Welcome to big sky. I've sent a card to the home screen of the alexa app. Click on manage permissions to allow Big Sky access to your device address. For the most accurate hyperlocal forecasts, and to customize your report, you'll need to link your account. After saving permissions, click on settings, and then link account, to get the most out of Big Sky"""
+Big Sky,"""Alexa, ask Big Sky to show the radar.""",You have Big Sky enabled. Do you want to open it?
+Big Sky,quit,
+Big Sky,quit,
+Weather,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Weather,quit,
+Weather,"""Alexa, what's in the news?""",Here's your news.
+Weather,quit,
+Weather,quit,
+Weather,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Weather,quit,
+Weather,quit,
+AccuWeather,"""Alexa, start AccuWeather.""",This might answer your question: Amazon Alexa started in 2014.
+AccuWeather,quit,
+AccuWeather,"""Alexa, ask AccuWeather what is the weather like today?""","In Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Tonight's forecast calls for more of the same, with a low of 42 degrees."
+AccuWeather,quit,
+AccuWeather,quit,
+AccuWeather,"""Alexa, ask AccuWeather what is the weather for next weekend?""",I only have weather information for the next 10 days.
+AccuWeather,quit,
+AccuWeather,quit,
+Zyrtec ,"""Alexa, start Zyrtec.""",This might answer your question: Amazon Alexa started in 2014.
+Zyrtec ,quit,
+Zyrtec ,"""Alexa, ask Zyrtec for my AllergyCast.""",You have Zyrtec – Your Daily AllergyCast enabled. Do you want to open it?
+Zyrtec ,Yes,"Welcome to Zyrtec. Today in Boulder, the pollen count is High, at 11.7 out of 12. the Allergy Impact is 9.12, which is lower than the pollen count, so Tissues away, it may not be so bad today. Would you like to hear today’s predominant pollens or more about Allergy Impact?"
+Zyrtec ,"""Alexa, ask Zyrtec for my AllergyCast.""",You have Zyrtec – Your Daily AllergyCast enabled. Do you want to open it?
+Zyrtec ,quit,
+Zyrtec ,quit,
+Zyrtec,"""Alexa, tell Zyrtec I'm feeling good today.""",You have Zyrtec – Your Daily AllergyCast enabled. Do you want to open it?
+Zyrtec,Yes,"Welcome to Zyrtec. Today in Boulder, the pollen count is High, at 11.7 out of 12. the Allergy Impact is 9.12, which is lower than the pollen count, so Tissues away, it may not be so bad today. Would you like to hear today’s predominant pollens or more about Allergy Impact?"
+Zyrtec,"""Alexa, tell Zyrtec I'm feeling good today.""","So sorry to hear that! I will record that your allergies made you feel bad in your Alexa app, along with Yesterday's pesky pollens."
+Zyrtec,quit,
+MyRadar NOAA Weather Radar,"""Alexa, load my radar""","Hmm, I found a few skills that might help."
+MyRadar NOAA Weather Radar,quit,
+MyRadar NOAA Weather Radar,"""Alexa, open Big Sky.""",You have Big Sky enabled. Do you want to open it?
+MyRadar NOAA Weather Radar,Yes,""" Welcome to big sky. I've sent a card to the home screen of the alexa app. Click on manage permissions to allow Big Sky access to your device address. For the most accurate hyperlocal forecasts, and to customize your report, you'll need to link your account. After saving permissions, click on settings, and then link account, to get the most out of Big Sky"""
+MyRadar NOAA Weather Radar,"""Alexa, open Big Sky.""",You have Big Sky enabled. Do you want to open it?
+MyRadar NOAA Weather Radar,quit,
+MyRadar NOAA Weather Radar,quit,
+MyRadar NOAA Weather Radar,"""Alexa, start AccuWeather.""",This might answer your question: Amazon Alexa started in 2014.
+MyRadar NOAA Weather Radar,quit,
+MyRadar NOAA Weather Radar,quit,
+My AcuRite,"""Alexa, ask My AcuRite what is my current condition""","Ok, Here's My AcuRite"
+My AcuRite,quit,
+My AcuRite,"""Alexa, ask My AcuRite to list my devices""",
+My AcuRite,quit,
+My AcuRite,quit,
+My AcuRite,"""Alexa, open My AcuRite""",Please use the Alexa app to link to your my accurite account.
+My AcuRite,quit,
+My AcuRite,quit,
+Weather Sky,"""Alexa, start Weather Sky""",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+Weather Sky,quit,
+Weather Sky,"""Alexa, ask Weather Sky for my forecast""","Right now in Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Throughout the night you can expect more of the same, with a low of 42 degrees."
+Weather Sky,quit,
+Weather Sky,quit,
+Weather Sky,"""Alexa, ask Weather Sky for the temperature last Friday""",I only have weather information for the next 10 days.
+Weather Sky,quit,
+Weather Sky,quit,
+Sweater Weather,"""Alexa, ask sweater weather what should I wear today""","Hmm. Maybe the skill, Sweater Weather, can help. Do you want to try it?"
+Sweater Weather,quit,
+Sweater Weather,"""Alexa, ask sweater weather how should I dress tommorrow""",You have wikiHow enabled. Do you want to open it?
+Sweater Weather,Yes,Hi! Ask me how to do anything.
+Sweater Weather,"""Alexa, ask sweater weather how should I dress tommorrow""","How to Look Good for School. 4 steps. Step 1. Take a shower. Good hygiene is essential to look healthy and nice , if you're going to school, going to the movies, or even just going to church. You can either take a shower the night before or in the morning , but if you take a shower at night, you have a few more minutes of sleep in the morning. You don’t have to wash your hair every day. People with drier, coarser, thicker hair can get away with showering it once or twice a week. But ‘’do’’ wash your body every day to stay smelling fresh, especially if you regularly exercise. Say 'NEXT', to get the next step"
+Sweater Weather,quit,
+Sweater Weather,quit,
+Sweater Weather,"""Alexa, ask sweater weather about Sunday""",You have Weather Sky enabled. Do you want to open it?
+Sweater Weather,Yes,Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+Sweater Weather,"""Alexa, ask sweater weather about Sunday""","Sorry, I did not hear a ""Yes"" or ""No"" answer. Please say ""Yes"", if you'd like to continue the Weather Sky setup, or say ""No"" to cancel additional setup."
+Sweater Weather,quit,
+Sweater Weather,quit,
+WeatherBug,"""Alexa ask WeatherBug to set my default location to Chicago""","I've set your default location to Chicago Illinois. You can now set custom units for your future forecast reports by saying: set forecast units, or you could get weather forecast by saying: what is the forecast?"
+WeatherBug,quit,
+WeatherBug,"""Alexa ask WeatherBug what is the weather like right now in Miami Florida""",Right now in Miami Florida it's 79 degrees Fahrenheit with a relative humidity of 50%. Winds are blowing Northeast at around 2 miles per hour.. Is there anything else I can do for you?
+WeatherBug,quit,
+WeatherBug,quit,
+WeatherBug,"""Alexa ask WeatherBug what is the forecast tonight in Atlanta""",Forecast reports for tonight in Atlanta Georgia shows that it is CLEAR. LOWS IN THE MID 40S. LIGHT AND VARIABLE WINDS. Is there anything else I can do for you?
+WeatherBug,quit,
+WeatherBug,quit,
+TideGuide,"""Alexa, ask tide guide for the tides in Santa Barbara, California""","Hmm, I don't know that."
+TideGuide,quit,
+TideGuide,"""Alexa, ask tide guide for the tides for Seattle for Sunday""","On Sunday, April 21 in Seattle Washington, there will be lots of clouds, with a high of 62 degrees and a low of 43 degrees."
+TideGuide,quit,
+TideGuide,quit,
+TideGuide,"""Alexa, ask tide guide to set my default city and state to Portland, Oregon""","Ok, Here's TideGuide"
+TideGuide,quit,
+TideGuide,quit,
+Temperature Now,"""Alexa, Temperature Now""","Right now, it's 54 degrees. Tonight, expect a low of 42 degrees."
+Temperature Now,quit,
+Temperature Now,"""Alexa, Tell Temperature Now to set units to Fahrenheit""",Temperature unit is set to Fahrenheit
+Temperature Now,quit,
+Temperature Now,quit,
+Temperature Now,"""Alexa, start AccuWeather.""",This might answer your question: Amazon Alexa started in 2014.
+Temperature Now,quit,
+Temperature Now,quit,
+Weather,"""Alexa, what's the weather""","Right now in Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Throughout the night you can expect more of the same, with a low of 42 degrees."
+Weather,quit,
+Weather,"""Alexa, what's the weather for this weekend""",In Boulder it'll be a cloudy weekend with a high of 72 degrees and a low of 38 degrees.
+Weather,quit,
+Weather,quit,
+Weather,"""Alexa, what's the weather in Seattle, Washington""","In Seattle Washington this weekend, rain is expected on Friday. The remainder of the weekend will be cloudy with a high of 62 degrees and a low of 40 degrees."
+Weather,quit,
+Weather,quit,
+FishWise,"""Alexa, open FishWise""","Sorry, I’m not sure about that."
+FishWise,quit,
+FishWise,"""Alexa, ask FishWise for the forecast""","This might answer your question: Tomorrow, in Boulder, Colorado, you can expect mostly cloudy weather, with a high of 64 degrees Fahrenheit and a low of 43 degrees Fahrenheit."
+FishWise,quit,
+FishWise,quit,
+FishWise,"""Alexa, ask FishWise for the freshwater fish forecast""","Ok, Here's FishWise"
+FishWise,quit,
+FishWise,quit,
+What should I wear today?,"""Alexa, ask fashion me what should I wear""","Hmm. Maybe the skill, What should I wear today?, can help. Do you want to try it?"
+What should I wear today?,quit,
+What should I wear today?,"""Alexa, launch fashion me""","Sorry, I'm having trouble accessing your What should I wear today? skill right now"
+What should I wear today?,quit,
+What should I wear today?,quit,
+What should I wear today?,"""Alexa, ask fashion me to give me fashion""","Ok, Here's What should I wear today?"
+What should I wear today?,quit,
+What should I wear today?,quit,
+Feels Like,"""Alexa ask feels like""","I need to have permission to use your zip code to report the temperature at your location. You can do this by selecting Your Skills from the Alexa app, choosing, Feels Like, and then select Settings. If you do not want to enable this permission, I can still report on select cities. Just say Alexa, ask Feels Like in Cumming Georgia."
+Feels Like,quit,
+Feels Like,"""Alexa ask feels like in Rome""",
+Feels Like,quit,"With winds at 1 mile per hour and a temperature of 48 degrees Fahrenheit, Rome Italy feels like 48 degrees Fahrenheit."
+Feels Like,quit,"With winds at 1 mile per hour and a temperature of 48 degrees Fahrenheit, Rome Italy feels like 48 degrees Fahrenheit."
+Feels Like,"""Alexa ask feels like in Stone Mountain""","With winds at 3 miles per hour and a temperature of 48 degrees Fahrenheit, Stone Mountain Georgia feels like 47 degrees Fahrenheit."
+Feels Like,quit,
+Feels Like,quit,
+HuntWise,"""Alexa, open HuntWise""",What species would you like a forecast for?
+HuntWise,quit,
+HuntWise,"""Alexa, ask HuntWise for the whitetail deer forecast""",<Audio only response>
+HuntWise,quit,
+HuntWise,quit,
+HuntWise,"""Alexa, ask HuntWise for the turkey forecast on Saturday""",<Audio only response>
+HuntWise,quit,
+HuntWise,quit,
+Aviation Weather,"""Alexa, launch Aviation Weather""","Welcome to Aviation Weather Brief. Get the me tar for an airport with the eye cow airport identifier. You can say things like, get Kilo Sierra Mike Oscar. What airport would you like to try?"
+Aviation Weather,quit,
+Aviation Weather,"""Alexa, ask Aviation Weather to get the metar at Kilo Lima Alpha X-Ray""","Welcome to Aviation Weather Brief. Get the me tar for an airport with the eye cow airport identifier. You can say things like, get Kilo Sierra Mike Oscar. What airport would you like to try?"
+Aviation Weather,quit,
+Aviation Weather,quit,
+Aviation Weather,"""Alexa, ask Aviation Weather to get Sierra Bravo Alpha""","Welcome to Aviation Weather Brief. Get the me tar for an airport with the eye cow airport identifier. You can say things like, get Kilo Sierra Mike Oscar. What airport would you like to try?"
+Aviation Weather,quit,
+Aviation Weather,quit,
+Hurricane Center,"""Alexa, open Hurricane Center""","Welcome to the Hurricane Center, the best source for information related to tropical storms, past or present. There are no active tropical storms right now, but if you would like to learn more about storms, please say something like tell me a storm fact."
+Hurricane Center,quit,
+Hurricane Center,"""Alexa, ask Hurricane Center to give me a storm fact""","Welcome to the Hurricane Center, the best source for information related to tropical storms, past or present. There are no active tropical storms right now, but if you would like to learn more about storms, please say something like tell me a storm fact."
+Hurricane Center,quit,
+Hurricane Center,quit,
+Hurricane Center,"""Alexa, ask Hurricane Center what were the storms from two thousand and eigh... ""","This might answer your question: There aren't any 2000 Hurricanes near Center, Texas."
+Hurricane Center,quit,
+Hurricane Center,quit,
+BloomSky,"""Alexa, ask Bloom Sky for temperature""",You have Weather Sky enabled. Do you want to open it?
+BloomSky,Yes,Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+BloomSky,"""Alexa, ask Bloom Sky for temperature""","Sorry, I did not hear a ""Yes"" or ""No"" answer. Please say ""Yes"", if you'd like to continue the Weather Sky setup, or say ""No"" to cancel additional setup."
+BloomSky,quit,
+BloomSky,"""Alexa, ask Bloom Sky for humidity""",You have Big Sky enabled. Do you want to open it?
+BloomSky,Yes,""" Welcome to big sky. I've sent a card to the home screen of the alexa app. Click on manage permissions to allow Big Sky access to your device address. For the most accurate hyperlocal forecasts, and to customize your report, you'll need to link your account. After saving permissions, click on settings, and then link account, to get the most out of Big Sky"""
+BloomSky,"""Alexa, ask Bloom Sky for humidity""",You have Big Sky enabled. Do you want to open it?
+BloomSky,quit,
+BloomSky,quit,
+BloomSky,"""Alexa, ask Bloom Sky for air pressure""",You have Big Sky enabled. Do you want to open it?
+BloomSky,Yes,""" Welcome to big sky. I've sent a card to the home screen of the alexa app. Click on manage permissions to allow Big Sky access to your device address. For the most accurate hyperlocal forecasts, and to customize your report, you'll need to link your account. After saving permissions, click on settings, and then link account, to get the most out of Big Sky"""
+BloomSky,"""Alexa, ask Bloom Sky for air pressure""",You have Big Sky enabled. Do you want to open it?
+BloomSky,quit,
+BloomSky,quit,
+WeatherFlow Smart Weather,"""Alexa, ask WeatherFlow how's the weather?""","In Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Tonight's forecast calls for more of the same, with a low of 42 degrees."
+WeatherFlow Smart Weather,quit,
+WeatherFlow Smart Weather,"""Alexa, ask WeatherFlow what is the temperature?""","Right now, it's 54 degrees. Tonight, expect a low of 42 degrees."
+WeatherFlow Smart Weather,quit,
+WeatherFlow Smart Weather,quit,
+WeatherFlow Smart Weather,"""Alexa, ask WeatherFlow for a report""","Hmm. Maybe the skill, WeatherFlow Smart Weather, can help. Do you want to try it?"
+WeatherFlow Smart Weather,quit,
+WeatherFlow Smart Weather,quit,
+Surfline,"""Alexa, open Surfline""",
+Surfline,quit,
+Surfline,"""Alexa, ask Surfline to show me Pipeline.""","I couldn't find a match for the spot pipeline., let us know by sending an email to support@surfline.com. Goodbye."
+Surfline,quit,
+Surfline,quit,
+Surfline,"""Alexa, ask Surfline for the conditions at Lowers.""",You have Surfline enabled. Do you want to open it?
+Surfline,Yes,"Welcome back to Surfline, what spot would you like to hear about?"
+Surfline,"""Alexa, ask Surfline for the conditions at Lowers.""","I didn't quite understand that, let us know what went wrong by sending an email to support@surfline.com. Goodbye."
+Surfline,quit,
+Surfline,quit,
+EarthCam,"""Alexa, ask EarthCam to show me a sunrise.""",You have EarthCam enabled. Do you want to open it?
+EarthCam,Yes,"Sorry, but video is not supported on this device. Access your video on devices like the Echo Spot or Echo Show. You can also view live cameras on the EarthCam app or earthcam.com."
+EarthCam,"""Alexa, ask EarthCam to show me a sunrise.""",You have EarthCam enabled. Do you want to open it?
+EarthCam,quit,
+EarthCam,"""Alexa, ask EarthCam to show me a sunset.""",You have EarthCam enabled. Do you want to open it?
+EarthCam,Yes,"Sorry, but video is not supported on this device. Access your video on devices like the Echo Spot or Echo Show. You can also view live cameras on the EarthCam app or earthcam.com."
+EarthCam,"""Alexa, ask EarthCam to show me a sunset.""",You have EarthCam enabled. Do you want to open it?
+EarthCam,quit,
+EarthCam,quit,
+EarthCam,"""Alexa, ask EarthCam to show me something cool.""",You have EarthCam enabled. Do you want to open it?
+EarthCam,Yes,"Sorry, but video is not supported on this device. Access your video on devices like the Echo Spot or Echo Show. You can also view live cameras on the EarthCam app or earthcam.com."
+EarthCam,"""Alexa, ask EarthCam to show me something cool.""",You have EarthCam enabled. Do you want to open it?
+EarthCam,quit,
+EarthCam,quit,
+Windcast,"""Alexa open wind cast and get wind information for Seattle""","Currently in Seattle, the wind is around 2 miles per hour, with a bearing of 295 degrees. The wind high for the day will be 9 miles per hour at 4:00 in the afternoon, with a low wind of 1 miles per hour at 3:00 in the morning."
+Windcast,quit,
+Windcast,"""Alexa open wind cast and get wind for Boulder on Sunday""","Sunday April 21st in boulder the wind high for the day will be 5 miles per hour at 11:00 in the morning, with a low wind of 3 miles per hour at 2:00 in the morning."
+Windcast,quit,
+Windcast,quit,
+Windcast,"""Alexa open wind cast""",Welcome to Windcast. Which city would you like wind information for?
+Windcast,quit,
+Windcast,quit,
+Just The Temperature,"""Alexa, open just the temperature""","Right now, it's 54 degrees. Tonight, expect a low of 42 degrees."
+Just The Temperature,quit,
+Just The Temperature,"""Alexa, ask just the temperature what the current temperature is""","In Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Tonight's forecast calls for more of the same, with a low of 42 degrees."
+Just The Temperature,quit,
+Just The Temperature,quit,
+Just The Temperature,"""Alexa, ask just the temperature what the temperature outside is""","Right now in Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Throughout the night you can expect more of the same, with a low of 42 degrees."
+Just The Temperature,quit,
+Just The Temperature,quit,
+Silver Linings,"""Alexa, start Silver Linings.""",'Linings' is a plural form of 'lining'. 'Lining' is usually defined as a protective covering that protects an inside surface.
+Silver Linings,quit,
+Silver Linings,"""Alexa, open Silver Linings.""","Hmm, I don't know that one."
+Silver Linings,quit,
+Silver Linings,quit,
+Silver Linings,"""Alexa, launch Silver Linings.""",<Audio only response>
+Silver Linings,quit,
+Silver Linings,quit,
+Wind Speed Status,"""Alexa, ask wind speed for 10001.""",You have Windcast enabled. Do you want to open it?
+Wind Speed Status,Yes,Welcome to Windcast. Which city would you like wind information for?
+Wind Speed Status,"""Alexa, ask wind speed for 10001.""","Currently, I know wind information for most US cities. Which city would you like wind information for?"
+Wind Speed Status,quit,
+Wind Speed Status,"""Alexa, ask wind speed for the current wind speed in 10001.""","Sorry, I don't know that."
+Wind Speed Status,quit,
+Wind Speed Status,quit,
+Wind Speed Status,"""Alexa, ask wind speed 10001.""",You have Windcast enabled. Do you want to open it?
+Wind Speed Status,Yes,Welcome to Windcast. Which city would you like wind information for?
+Wind Speed Status,"""Alexa, ask wind speed 10001.""","Currently in seattle, the wind is around 2 miles per hour, with a bearing of 294 degrees. The wind high for the day will be 9 miles per hour at 4:00 in the afternoon, with a low wind of 1 miles per hour at 3:00 in the morning."
+Wind Speed Status,quit,
+Wind Speed Status,quit,
+OPM Status,"""Alexa, ask o. p. m. status is the government open today""",<Audio only response>
+OPM Status,quit,
+OPM Status,"""Alexa, ask o. p. m. status was the government open on March 03, 2017""","Sorry, I’m not sure about that."
+OPM Status,quit,
+OPM Status,quit,
+OPM Status,"""Alexa, ask o. p. m. status do I have to go to work today""","Hmm, I don't know that one."
+OPM Status,quit,
+OPM Status,quit,
+Moon Phases,"""Alexa, Open Moon Phases""",<Audio only response>
+Moon Phases,quit,
+Moon Phases,"""Alexa, ask moon phases to tell me the moon phase for February 4th 2018""","The next full moon is on Friday April 19th at 5:10 a.m. Currently, the moon is waxing. New moon occured on April 5th."
+Moon Phases,quit,
+Moon Phases,quit,
+Moon Phases,"""Alexa, ask moon phases to give me the moon phase for tonight""","The next full moon is on Friday April 19th at 5:10 a.m. Right now, the moon is waxing. New moon occured on April 5th."
+Moon Phases,quit,
+Moon Phases,quit,
+WNEP Weather,"""Alexa, what's my Flash Briefing?""",Here's your news.
+WNEP Weather,quit,
+WNEP Weather,"""Alexa, what's in the news?""",Here's your news.
+WNEP Weather,quit,
+WNEP Weather,quit,
+WNEP Weather,"""Alexa, what's my Flash Briefing?""",Here's your news.
+WNEP Weather,quit,
+WNEP Weather,quit,
+Humidity,"""Alexa, open humidity""",
+Humidity,quit,
+Humidity,"""Alexa, Temperature Now""","Right now, it's 54 degrees. Tonight, expect a low of 42 degrees."
+Humidity,quit,
+Humidity,quit,
+Humidity,"""Alexa ask feels like""","I need to have permission to use your zip code to report the temperature at your location. You can do this by selecting Your Skills from the Alexa app, choosing, Feels Like, and then select Settings. If you do not want to enable this permission, I can still report on select cities. Just say Alexa, ask Feels Like in Cumming Georgia."
+Humidity,quit,
+Humidity,quit,
+Wiregrass Alerts,"""Alexa, launch Wiregrass Alerts""",Welcome to wiregrass alerts. Which city would you like alerts information for?
+Wiregrass Alerts,quit,
+Wiregrass Alerts,"""Alexa, launch Wiregrass Alerts""",Welcome to wiregrass alerts. Which city would you like alerts information for?
+Wiregrass Alerts,"""Which cities are supported?""","The wiregrass region is an area of the Southern United States encompassing parts of southern Georgia, southeastern Alabama, and the Florida Panhandle. The wiregrass alerts only works with 24 of the major cities in this region, they are as follows. For Alabama the cities are: Abbeville, Dothan, Enterprise, Eufaula, Geneva, Luverne, Opp, Ozark and Troy. For Georgia the cities are: Albany, Americus, Bainbridge, Cordele, Donalsonville, Fitzgerald, Moultrie, Thomasville, Tifton, Valdosta. For Florida the cities are: Lake City, Live Oak, Marianna, Panama City, Tallahassee."
+Wiregrass Alerts,quit,
+Wiregrass Alerts,"""Alexa, launch Wiregrass Alerts""",Welcome to wiregrass alerts. Which city would you like alerts information for?
+Wiregrass Alerts,"""Alerts in Dothan?""",The city of dothan has no alerts at this time.
+Wiregrass Alerts,quit,
+Snow Report,"""Alexa open Snow Report""","Welcome to Snow Report. You can ask me about the temperature, forecast, or snow reports for your favorite ski resorts. What would you like to know?"
+Snow Report,quit,
+Snow Report,"""Alexa open Snow Report""","Welcome to Snow Report. You can ask me about the temperature, forecast, or snow reports for your favorite ski resorts. What would you like to know?"
+Snow Report,"""Give me the snow report for Stevens Pass""",In the last two days Stevens Pass has received 6 inches of new snow. The base depth is currently at 66 inches and mid mountain is at 98 inches. The season total is 304 inches.
+Snow Report,quit,
+Snow Report,"""Alexa open Snow Report""","Welcome to Snow Report. You can ask me about the temperature, forecast, or snow reports for your favorite ski resorts. What would you like to know?"
+Snow Report,"""What is the weather going to be like on Friday at Crystal Mountain""","At Crystal Mountain on Friday there will be a high of 43 with a low of 28. The forecast calls for, Rain showers likely before 5pm, then a chance of snow showers. Cloudy, with a high near 43. Little or no snow accumulation expected."
+Snow Report,quit,
+Wind Report,"""Alexa, ask Wind Report for Seattle""","Right now, in Seattle Washington, it's breezy at 4.7 miles per hour. Tonight, expect more of the same."
+Wind Report,quit,
+Wind Report,"""Alexa, open Wind Report for Seattle""","Right now, in Seattle Washington, it's breezy at 4.7 miles per hour. Tonight, expect more of the same."
+Wind Report,quit,
+Wind Report,quit,
+Wind Report,"""Alexa, ask Wind Report what's the wind like in Seattle""","Right now, in Seattle Washington, it's breezy at 4.7 miles per hour. Tonight, expect more of the same."
+Wind Report,quit,
+Wind Report,quit,
+My Weather,"""Alexa, ask my weather to get observations for home.""",<Audio only response>
+My Weather,quit,
+My Weather,"""Alexa, ask my weather to get forecast for work.""","Right now in Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Throughout the night you can expect more of the same, with a low of 42 degrees."
+My Weather,quit,
+My Weather,quit,
+My Weather,"""Alexa, ask my weather to get forecast for downtown at tomorrow morning.""","Here's the forecast for tomorrow in Boulder: look for lots of clouds, with a high of 64 degrees and a low of 43 degrees."
+My Weather,quit,
+My Weather,quit,
+Hourly Weather,"""Alexa, ask hourly weather if it's going to rain in the next 3 hours""",No rain is expected tonight.
+Hourly Weather,quit,
+Hourly Weather,"""Alexa, ask hourly weather for the forecast for 3PM""","In Boulder, at 11 PM, it'll be 53 degrees with partly cloudy skies. At 12 AM, it'll be 51 degrees with partly cloudy skies. At 1 AM, it'll be 49 degrees with partly cloudy skies. At 2 AM, it'll be 48 degrees with mostly clear skies."
+Hourly Weather,quit,
+Hourly Weather,quit,
+Hourly Weather,"""Alexa, ask hourly weather if it's going to snow in the next 3 hours""",No snow is expected tonight.
+Hourly Weather,quit,
+Hourly Weather,quit,
+Storm Watch,"""Alexa, open storm watch.""",You have Wiregrass Alerts enabled. Do you want to open it?
+Storm Watch,Yes,Welcome to wiregrass alerts. Which city would you like alerts information for?
+Storm Watch,"""Alexa, open storm watch.""",Welcome to wiregrass alerts. Which city would you like alerts information for?
+Storm Watch,quit,
+Storm Watch,"""Alexa, open storm watch.""",You have Wiregrass Alerts enabled. Do you want to open it?
+Storm Watch,Yes,You can say which cities are supported or You can say exit...What can I help you with?
+Storm Watch,quit,
+Storm Watch,"""Alexa ask storm watch city Raleigh""","Hmm, I found a few skills that might help."
+Storm Watch,quit,
+Storm Watch,quit,
+Brella - Personal Weather,"""Alexa, ask Brella Weather what I should wear today""",You have What should I wear today? enabled. Do you want to open it?
+Brella - Personal Weather,Yes,"Sorry, I'm having trouble accessing your What should I wear today? skill right now"
+Brella - Personal Weather,"""Alexa, ask Brella Weather what I should wear today""",You have What should I wear today? enabled. Do you want to open it?
+Brella - Personal Weather,quit,
+Brella - Personal Weather,"""Alexa, ask Brella Weather for my personal forecast""","Right now in Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Throughout the night you can expect more of the same, with a low of 42 degrees."
+Brella - Personal Weather,quit,
+Brella - Personal Weather,quit,
+Brella - Personal Weather,"""Alexa, ask Brella Weather what the weather is like""","In Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Tonight's forecast calls for more of the same, with a low of 42 degrees."
+Brella - Personal Weather,quit,
+Brella - Personal Weather,quit,
+Severe Weather Safety Tips,"""Alexa, open Severe Weather Safety Tips""","Welcome to severe weather safety tips. To hear a tip, say, ""tell me a tip."""
+Severe Weather Safety Tips,quit,
+Severe Weather Safety Tips,"""Alexa ask Severe Weather Safety Tips to tell me a tip.""","Tip, coming up. Avoid running water, or areas which may flood quickly. A person can be swept off their feet from just a few inches of moving water. Would you like to hear another safety tip"
+Severe Weather Safety Tips,quit,
+Severe Weather Safety Tips,quit,
+Severe Weather Safety Tips,"""Alexa, Open Moon Phases""",<Audio only response>
+Severe Weather Safety Tips,quit,
+Severe Weather Safety Tips,quit,
+Style Check,"""Alexa open Style Check""","Hi, Welcome to Style Check. Give Style Check a location to dress you for the day"
+Style Check,quit,
+Style Check,"""Alexa launch Style Check""","Hi, Welcome to Style Check. Give Style Check a location to dress you for the day"
+Style Check,quit,
+Style Check,quit,
+Style Check,"""Alexa start Style Check""","Hi, Welcome to Style Check. Give Style Check a location to dress you for the day"
+Style Check,quit,
+Style Check,quit,
+NBC4 Central Ohio Forecast,"""Alexa, what's my Flash Briefing?""",Here's your news.
+NBC4 Central Ohio Forecast,quit,
+NBC4 Central Ohio Forecast,"""Alexa, what's in the news?""",Here's your news.
+NBC4 Central Ohio Forecast,quit,
+NBC4 Central Ohio Forecast,quit,
+NBC4 Central Ohio Forecast,"""Alexa, what's my Flash Briefing?""",Here's your news.
+NBC4 Central Ohio Forecast,quit,
+NBC4 Central Ohio Forecast,quit,
+WeatherLink,"""Alexa, ask WeatherLink what are the current conditions""",You have My AcuRite enabled. Do you want to open it?
+WeatherLink,Yes,Please use the Alexa app to link to your my accurite account.
+WeatherLink,"""Alexa, ask WeatherLink what are the current conditions""",You have My AcuRite enabled. Do you want to open it?
+WeatherLink,quit,
+WeatherLink,"""Alexa, ask WeatherLink to get the current conditions""",You have Bitcoin Price enabled. Do you want to open it?
+WeatherLink,Yes,
+WeatherLink,"""Alexa, ask WeatherLink to get the current conditions""",You have Bitcoin Price enabled. Do you want to open it?
+WeatherLink,quit,
+WeatherLink,quit,
+WeatherLink,"""Alexa, open WeatherLink""","Sorry, I don't know that."
+WeatherLink,quit,
+WeatherLink,quit,
+Surf Now,"""Alexa, ask Surf Now what's the surf report in Venice?""","Ok, Here's Surfline"
+Surf Now,quit,
+Surf Now,"""Alexa, ask Surf Now how's the surf in Malibu?""",You have Surfline enabled. Do you want to open it?
+Surf Now,Yes,Which skill do you want to enable?
+Surf Now,"""Alexa, ask Surf Now how's the surf in Malibu?""",You have Surfline enabled. Do you want to open it?
+Surf Now,quit,
+Surf Now,quit,
+Surf Now,"""Alexa, ask Surf Now to get the surf report in El Porto.""","Ok, Here's Surfline"
+Surf Now,quit,
+Surf Now,quit,
+KSL Newsradio Weather Report,"""Alexa, what's my Flash Briefing?""",Here's your news.
+KSL Newsradio Weather Report,quit,
+KSL Newsradio Weather Report,"""Alexa, what's in the news?""",Here's your news.
+KSL Newsradio Weather Report,quit,
+KSL Newsradio Weather Report,quit,
+KSL Newsradio Weather Report,"""Alexa, play k. s. l. flash cast.""",KSL Newsradio from TuneIn.
+KSL Newsradio Weather Report,quit,
+KSL Newsradio Weather Report,quit,
+Just Weather Alerts,"""Alexa ask just weather alerts to give me my weather alerts""","Currently, in Boulder it's 54 degrees Fahrenheit with partly cloudy skies. You can expect more of the same tonight, with a low of 42 degrees."
+Just Weather Alerts,quit,
+Just Weather Alerts,"""Alexa ask just weather alerts to give me my weather alerts""","Right now in Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Throughout the night you can expect more of the same, with a low of 42 degrees."
+Just Weather Alerts,"""tell me more about alert one""","Sorry, I don't know that."
+Just Weather Alerts,quit,
+Just Weather Alerts,"""Alexa ask just weather alerts to give me my weather alerts""","Right now in Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Throughout the night you can expect more of the same, with a low of 42 degrees."
+Just Weather Alerts,"""give me the updated weather alerts""","Right now in Boulder, it's 54 degrees Fahrenheit with partly cloudy skies. Throughout the night you can expect more of the same, with a low of 42 degrees."
+Just Weather Alerts,quit,
+AccuWeather Daily Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+AccuWeather Daily Briefing,quit,
+AccuWeather Daily Briefing,"""Alexa, what's in the news?""",Here's your news.
+AccuWeather Daily Briefing,quit,
+AccuWeather Daily Briefing,quit,
+AccuWeather Daily Briefing,"""Alexa, start AccuWeather.""",This might answer your question: Amazon Alexa started in 2014.
+AccuWeather Daily Briefing,quit,
+AccuWeather Daily Briefing,quit,
+KPRC 2 Weather - Houston (Flash Briefing),"""Alexa, what's my Flash Briefing?""",Here's your news.
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),"""Alexa, what's in the news?""",Here's your news.
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),"""Alexa, what's my Flash Briefing?""",Here's your news.
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),"""Alexa, what's my Flash Briefing?""",Here's your news.
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),"""Alexa, what's in the news?""",Here's your news.
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),"""Alexa, what's my Flash Briefing?""",Here's your news.
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+Airport Weather Briefer,"""Alexa, Start Airport Weather Briefer""","Welcome to the mee-tar reader app. I will read you airport weather reports. You can say ""get San Francisco"" to get the weather at San Francisco airport. You can say ""get kilo oscar romeo delta"" to get the weather at Chicago O'Hare airport. Please note that the data I read is advisory and pilots should consult official sources for a legal weather briefing."
+Airport Weather Briefer,quit,
+Airport Weather Briefer,"""Alexa, Start Airport Weather Briefer""","Welcome to the mee-tar reader app. I will read you airport weather reports. You can say ""get San Francisco"" to get the weather at San Francisco airport. You can say ""get kilo oscar romeo delta"" to get the weather at Chicago O'Hare airport. Please note that the data I read is advisory and pilots should consult official sources for a legal weather briefing."
+Airport Weather Briefer,"""Ask Airport Weather Briefer for Juliet Foxtrot Kilo""",nyc jfk airport automated weather observation 0 3 5 1 zulu wind 2 8 7 at 23 gusting 35 visibility 10 sky condition few clouds fife thousand temperature 8 dewpoint minus 2 altimeter 2 niner 8 4 .
+Airport Weather Briefer,quit,
+Airport Weather Briefer,"""Alexa, start airport weather""","Welcome to the mee-tar reader app. I will read you airport weather reports. You can say ""get San Francisco"" to get the weather at San Francisco airport. You can say ""get kilo oscar romeo delta"" to get the weather at Chicago O'Hare airport. Please note that the data I read is advisory and pilots should consult official sources for a legal weather briefing."
+Airport Weather Briefer,quit,
+Airport Weather Briefer,quit,
+Aurora Monkey,"""Alexa, open Aurora Monkey.""","Hmm, I'm not sure."
+Aurora Monkey,quit,
+Aurora Monkey,"""Alexa, ask Aurora Monkey what is the aurora forecast.""","This might answer your question: Tomorrow, in Aurora, Colorado, look for mostly cloudy weather, with a high of 69 degrees Fahrenheit and a low of 41 degrees Fahrenheit."
+Aurora Monkey,quit,
+Aurora Monkey,quit,
+Aurora Monkey,"""Alexa, ask Aurora Monkey, what can I ask.""",You have Math Tutor enabled. Do you want to open it?
+Aurora Monkey,Yes,Math Tutor. Which times table would you like me to read?
+Aurora Monkey,"""Alexa, ask Aurora Monkey, what can I ask.""","Using Math Tutor, you can ask me for times tables between one and ten. I can then read them to you. Now, which table would you like?"
+Aurora Monkey,quit,
+Aurora Monkey,quit,
+Capital Weather Gang,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Capital Weather Gang,quit,
+Capital Weather Gang,"""Alexa, what's in the news?""",Here's your news.
+Capital Weather Gang,quit,
+Capital Weather Gang,quit,
+Capital Weather Gang,"""Alexa, open Washington Post""","Welcome to The Washington Post. We have three daily shows. Just ask me for news, politics, or a story from history. What would you like to do?"
+Capital Weather Gang,quit,
+Capital Weather Gang,quit,
+ClimaCell,"""Alexa, open ClimaCell Microweather.""","Hmm, I don't know that one."
+ClimaCell,quit,
+ClimaCell,"""Alexa, open ClimaCell Microweather.""","Sorry, I'm not sure."
+ClimaCell,"""What time should I take the dog for a walk today?""",<Audio only response>
+ClimaCell,quit,
+ClimaCell,"""Alexa, open ClimaCell Microweather.""","Sorry, I don't know that one."
+ClimaCell,"""Should I take an umbrella to New York?""",It might rain in New York today. There's a 51% chance at 1 AM.
+ClimaCell,quit,
+Wind Catcher,"""Alexa, open Wind Catcher""",You have Windcast enabled. Do you want to open it?
+Wind Catcher,Yes,Welcome to Windcast. Which city would you like wind information for?
+Wind Catcher,"""Alexa, open Wind Catcher""","Currently in seattle, the wind is around 1 miles per hour, with a bearing of 300 degrees. The wind high for the day will be 9 miles per hour at 4:00 in the afternoon, with a low wind of 1 miles per hour at 11:00 at night."
+Wind Catcher,quit,
+Wind Catcher,"""Alexa, ask Wind Catcher what it's like out there""",You have Windcast enabled. Do you want to open it?
+Wind Catcher,Yes,Welcome to Windcast. Which city would you like wind information for?
+Wind Catcher,"""Alexa, ask Wind Catcher what it's like out there""","Currently in seattle, the wind is around 1 miles per hour, with a bearing of 300 degrees. The wind high for the day will be 9 miles per hour at 4:00 in the afternoon, with a low wind of 1 miles per hour at 11:00 at night."
+Wind Catcher,quit,
+Wind Catcher,quit,
+Wind Catcher,"""Alexa, ask Wind Catcher should I go running""","Sorry, I'm not sure."
+Wind Catcher,quit,
+Wind Catcher,quit,
+My Weather,"""Alexa, ask My Weather for status""",You have Weather Sky enabled. Do you want to open it?
+My Weather,Yes,Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+My Weather,"""Alexa, ask My Weather for status""",Would you like to continue with the setup and introduction?
+My Weather,quit,
+My Weather,"""Alexa, ask My Weather is outside air is safe to breathe""","Sorry, I don't know that one."
+My Weather,quit,
+My Weather,quit,
+My Weather,"""Alexa, ask My Weather to set my station ID to 581294""","Sorry, I’m not sure about that."
+My Weather,quit,
+My Weather,quit,
+Piedmont - Triad Weather from WGHP,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Piedmont - Triad Weather from WGHP,quit,
+Piedmont - Triad Weather from WGHP,"""Alexa, what's in the news?""",Here's your news.
+Piedmont - Triad Weather from WGHP,quit,
+Piedmont - Triad Weather from WGHP,quit,
+Piedmont - Triad Weather from WGHP,"""Alexa, open one oh seven five k. z. l.""",1075 KZL from TuneIn.
+Piedmont - Triad Weather from WGHP,quit,
+Piedmont - Triad Weather from WGHP,quit,

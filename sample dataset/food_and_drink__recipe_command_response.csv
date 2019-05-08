@@ -1,0 +1,602 @@
+name,question,response
+Save The Food,"""Alexa, ask Save The Food how to store asparagus""",<Audio only response>
+Save The Food,quit,
+Save The Food,"""Alexa, ask Save The Food if my avocados are still good""","Ok, Here's Save The Food"
+Save The Food,quit,
+Save The Food,quit,
+Save The Food,"""Alexa, ask Save The Food if bruised apples are okay to eat.""","ok, the skill save the food can help you with that, let's try it"
+Save The Food,quit,
+Save The Food,quit,
+OurGroceries,"""Alexa, ask OurGroceries to add milk to shopping list.""",I couldn't find a list called list. shopping. Should I create one?
+OurGroceries,quit,
+OurGroceries,"""Alexa, tell OurGroceries to remove olive oil from Walmart.""",<Audio only response>
+OurGroceries,quit,
+OurGroceries,quit,
+OurGroceries,"""Alexa, ask OurGroceries what are my lists.""",You have OurGroceries enabled. Do you want to open it?
+OurGroceries,Yes,"Welcome to Our Groceries, you can say, add milk to Shopping List."
+OurGroceries,"""Alexa, ask OurGroceries what are my lists.""","You have 3 items on Shopping List: bread, eggs, and 2 milk"
+OurGroceries,quit,
+OurGroceries,quit,
+Meal Idea,"""Alexa, open meal idea""","Here's your meal idea, you can also view this idea on the Home screen of your Alexa app: Place any kind of tortilla chips in a glass baking dish, top with any type of shredded cheese, and add canned olives, beans, chopped tomatoes, or peppers. Bake at 375 for 15 minutes or until the cheese has melted."
+Meal Idea,quit,
+Meal Idea,"""Alexa, ask meal idea to give me a meal idea""","Hmm, I have a few skills that can help."
+Meal Idea,quit,
+Meal Idea,quit,
+Meal Idea,"""Alexa, ask meal idea to tell me something""",You have Meal Idea enabled. Do you want to open it?
+Meal Idea,Yes,"Here's your meal idea, you can also view this idea on the Home screen of your Alexa app: Place any kind of tortilla chips in a glass baking dish, top with any type of shredded cheese, and add canned olives, beans, chopped tomatoes, or peppers. Bake at 375 for 15 minutes or until the cheese has melted."
+Meal Idea,"""Alexa, ask meal idea to tell me something""",You have Meal Idea enabled. Do you want to open it?
+Meal Idea,quit,
+Meal Idea,quit,
+Allrecipes,"""Alexa, open Allrecipes.""",<Audio only response>
+Allrecipes,quit,
+Allrecipes,"""Alexa, ask Allrecipes for a grilled salmon recipe.""","Ok, for grilled salmon recipe. , here's a few recipes from allrecipes"
+Allrecipes,quit,
+Allrecipes,quit,
+Allrecipes,"""Alexa, ask Allrecipes for a recipe with chicken, bacon and broccoli.""","Ok, Here's Recipe Buddy"
+Allrecipes,quit,
+Allrecipes,quit,
+The Bartender,"""Alexa, open the bartender""","Hi; welcome to the bartender. Just ask for a drink, give me an ingredient, or try ""surprise me."""
+The Bartender,quit,
+The Bartender,"""Alexa, ask the bartender to pick a drink""",<Audio only response>
+The Bartender,quit,
+The Bartender,quit,
+The Bartender,"""Alexa, tell the bartender to surprise me""",You have The Bartender enabled. The Bartender contains mature content and may not be suitable for all ages. Do you want to open it?
+The Bartender,Yes,"Hi; the bartender here. You can get a drink by name, or ingredient, or try ""surprise me."""
+The Bartender,"""Alexa, tell the bartender to surprise me""",I found a drink named Miss Me Not. Would you like to make it?
+The Bartender,quit,
+The Bartender,quit,
+My Chef - Kitchen Assistant by Chefling,"""Alexa, ask My Chef what's expiring""","Ok, Here's My Chef - Kitchen Assistant by Chefling"
+My Chef - Kitchen Assistant by Chefling,quit,
+My Chef - Kitchen Assistant by Chefling,"""Alexa, ask My Chef what can I cook for dinner""","Ok, for dinner , here's a few recipes"
+My Chef - Kitchen Assistant by Chefling,quit,
+My Chef - Kitchen Assistant by Chefling,quit,
+My Chef - Kitchen Assistant by Chefling,"""Alexa, ask My Chef to add milk to my shopping list""",milk added to your Shopping list.
+My Chef - Kitchen Assistant by Chefling,quit,
+My Chef - Kitchen Assistant by Chefling,quit,
+Instant Pot,"""Alexa, open Instant Pot""","Sorry, I don't know that one."
+Instant Pot,quit,
+Instant Pot,"""Alexa, ask Instant Pot for a dinner recipe with chicken and potatoes""","Ok, for dinner with chicken, potatoes recipes, here's a few recipes"
+Instant Pot,quit,
+Instant Pot,quit,
+Instant Pot,"""Alexa, ask Instant Pot for an easy Italian recipe""","Ok, for italian using an instant pot, here's a few recipes"
+Instant Pot,quit,
+Instant Pot,quit,
+Food Network,"""Alexa, ask Food Network what's for dinner?""",You have Food Network enabled. Do you want to open it?
+Food Network,Yes,<Short audio>
+Food Network,"""Alexa, ask Food Network what's for dinner?""",I can help you with some 30 minute meals or I can help you find a recipe.
+Food Network,quit,
+Food Network,"""Alexa, ask Food Network to spin the Flavor Wheel.""",You have Food Network enabled. Do you want to open it?
+Food Network,Yes,<Short audio>
+Food Network,"""Alexa, ask Food Network to spin the Flavor Wheel.""",Need some inspiration? Spin my magic wheel to learn about a new flavor! Just say 'spin the wheel' to begin.
+Food Network,quit,
+Food Network,quit,
+Food Network,"""Alexa, ask Food Network for the Daily Bite.""",You have Food Network enabled. Do you want to open it?
+Food Network,Yes,<Short audio>
+Food Network,"""Alexa, ask Food Network for the Daily Bite.""","Here is today's Daily Bite: Mexican Lasagna Suiza. You can ask for ingredients or directions, email this recipe, or ask for something else."
+Food Network,quit,
+Food Network,quit,
+Ask Peapod,"""Alexa, ask Peapod to reorder my Peapod cart""",You have Ask Peapod enabled. Do you want to open it?
+Ask Peapod,Yes,Which skill do you want to enable?
+Ask Peapod,"""Alexa, ask Peapod to reorder my Peapod cart""","I can’t find that skill. To find skills, go to the Skills section of the Alexa App."
+Ask Peapod,quit,
+Ask Peapod,"""Alexa, ask Peapod to add avocados to my order""",Sorry. I can't do that yet.
+Ask Peapod,quit,
+Ask Peapod,quit,
+Ask Peapod,"""Alexa, ask Peapod when is my delivery coming""",You have Ask Peapod enabled. Do you want to open it?
+Ask Peapod,Yes,Please login to your Peapod account using the Amazon Alexa app.
+Ask Peapod,"""Alexa, ask Peapod when is my delivery coming""",You have Ask Peapod enabled. Do you want to open it?
+Ask Peapod,quit,
+Ask Peapod,quit,
+Behmor Brewer,"""Alexa, ask Behmor to brew my coffee.""","Hmm. Maybe the skill, Behmor Brewer, can help. Do you want to try it?"
+Behmor Brewer,quit,
+Behmor Brewer,"""Alexa, ask Behmor for brewer status.""","Hmm. Maybe the skill, Behmor Brewer, can help. Do you want to try it?"
+Behmor Brewer,quit,
+Behmor Brewer,quit,
+Behmor Brewer,"""Alexa, ask Behmor to run quick start.""","Hmm. Maybe the skill, Behmor Brewer, can help. Do you want to try it?"
+Behmor Brewer,quit,
+Behmor Brewer,quit,
+Meat Thermometer,"""Alexa, ask meat thermometer what is the best temperature for pork butt""","Ok, Here's Meat Thermometer"
+Meat Thermometer,quit,
+Meat Thermometer,"""Alexa, launch meat thermometer""","Howdy partner, and Welcome to Meat Thermometer."
+Meat Thermometer,quit,
+Meat Thermometer,quit,
+Meat Thermometer,"""Alexa, ask meat thermometer what is the best temperature for pork butt""","This might answer your question: It's recommended to roast raw boston butt pork in the oven at 350 degrees Fahrenheit for 20 minutes per pound, until it reaches an internal temperature of at least 145 degrees Fahrenheit. Start with meat at refrigerated temperature. Remove the meat from the oven when it reaches 5° to 10°F below the desired doneness; the temperature will continue to rise as the meat stands. Start with meat at refrigerated temperature. Remove the meat from the oven when it reaches 5° to 10°F below the desired doneness; the temperature will continue to rise as the meat stands."
+Meat Thermometer,"""tell me the temperature for veal""","Right now, in Veal Georgia, it's 58 degrees. Tonight, expect a low of 51 degrees."
+Meat Thermometer,quit,
+Cookie Monster,"""Alexa, launch cookie monster.""","Welcome to the Cookie Monster. You can ask a question like, what's the recipe for chocolate chip cookies? ... Now, what can I help you with?"
+Cookie Monster,quit,
+Cookie Monster,"""Alexa, launch cookie monster.""","Welcome to the Cookie Monster. You can ask a question like, what's the recipe for chocolate chip cookies? ... Now, what can I help you with?"
+Cookie Monster,"""Find a recipe for sugar cookies.""","I'm sorry, I currently do not know the recipe for sugar cookies.. What else can I help with?"
+Cookie Monster,quit,
+Cookie Monster,"""Alexa, launch cookie monster.""","Welcome to the Cookie Monster. You can ask a question like, what's the recipe for chocolate chip cookies? ... Now, what can I help you with?"
+Cookie Monster,"""How can I bake chocolate chip cookies?""","Chocolate chip, my favorite! Mix 3/4 cup granulated sugar, 3/4 cup packed brown sugar, 1 cup butter, 1 teaspoon vanilla, 1 egg , 2 1/4 cups flour, 1 teaspoon baking soda, 1/2 teaspoon salt, 1 cup coarsely chopped nuts,and 2 cups of chocolate chips. Bake at 375 degrees for 8-10 minutes."
+Cookie Monster,quit,
+Good Housekeeping,"""Alexa, open Good Housekeeping.""",<Audio only response>
+Good Housekeeping,quit,
+Good Housekeeping,"""Alexa, ask Good Housekeeping to continue.""",You have Good Housekeeping enabled. Do you want to open it?
+Good Housekeeping,Yes,<Short audio>
+Good Housekeeping,"""Alexa, ask Good Housekeeping to continue.""",You have Good Housekeeping enabled. Do you want to open it?
+Good Housekeeping,quit,
+Good Housekeeping,quit,
+Good Housekeeping,"""Alexa, ask Good Housekeeping what I should make for dinner tonight.""","Ok, for dinner , here's a few recipes"
+Good Housekeeping,quit,
+Good Housekeeping,quit,
+FridgeStorageTimesHelper,"""Alexa ask fridge storage times how long can I keep a steak""",
+FridgeStorageTimesHelper,quit,"Ok, Here's Good Housekeeping"
+FridgeStorageTimesHelper,"""Alexa ask fridge storage times how long can I store chicken""",You have wikiHow enabled. Do you want to open it?
+FridgeStorageTimesHelper,Yes,Hi! Ask me how to do anything.
+FridgeStorageTimesHelper,"""Alexa ask fridge storage times how long can I store chicken""","How to Puree Chicken for a Baby. 9 steps. Step 1. Purchase the necessary ingredients. You’ll need chicken (breasts or thighs work well) and fruits or vegetables of your choice. Make sure you also have a saucepan and blender or food processor on hand. Try to find the freshest chicken available. You may be able to find fresher (and often cheaper) chicken from local butchers and vendors, rather than using supermarket chains. Do some research online to find the best sources in your area. Wherever you buy your chicken, make sure it has a U.S.D.A grade A rating on the package, and check the sell-by date as well. Say 'NEXT', to get the next step"
+FridgeStorageTimesHelper,quit,
+FridgeStorageTimesHelper,quit,
+FridgeStorageTimesHelper,"""Alexa ask fridge storage times how long can I freeze tomatoes""",You have wikiHow enabled. Do you want to open it?
+FridgeStorageTimesHelper,Yes,Hi! Ask me how to do anything.
+FridgeStorageTimesHelper,"""Alexa ask fridge storage times how long can I freeze tomatoes""","How to Freeze Tomatoes. To freeze tomatoes without blanching, start by rinsing whole tomatoes and removing any stems. Then, set the tomatoes on a cookie sheet and place it in the freezer until they are frozen. Once they are frozen, take the tomatoes out and place them in a sealable plastic bag. Push all of the air out of the bag before sealing, and place it back in the freezer. To use your frozen tomatoes, run them under warm water until they thaw out. Say “READ STEPS”, if you want me to read each step in detail."
+FridgeStorageTimesHelper,quit,
+FridgeStorageTimesHelper,quit,
+Ingredient Sub,"""Alexa, open Ingredient Sub.""",You have Ingredient Sub enabled. Do you want to open it?
+Ingredient Sub,Yes,"Welcome to Ingredient Sub. You can ask a question like, what can I substitute for brown sugar? ... Now, what can I help you with."
+Ingredient Sub,"""Alexa, open Ingredient Sub.""","I'm sorry, I currently do not know a substitution for that. What else can I help with?"
+Ingredient Sub,quit,
+Ingredient Sub,"""Alexa, ask Ingredient Sub what can I substitute for chicken broth.""",<Audio only response>
+Ingredient Sub,quit,
+Ingredient Sub,quit,
+Ingredient Sub,"""Alexa, ask Ingredient Sub what can I use instead of brown sugar.""","Ok, Here's Chef"
+Ingredient Sub,quit,
+Ingredient Sub,quit,
+America's Test Kitchen Daily Cooking Q&A,"""Alexa, what's my Flash Briefing?""",Here's your news.
+America's Test Kitchen Daily Cooking Q&A,quit,
+America's Test Kitchen Daily Cooking Q&A,"""Alexa, what's in the news?""",Here's your news.
+America's Test Kitchen Daily Cooking Q&A,quit,
+America's Test Kitchen Daily Cooking Q&A,quit,
+America's Test Kitchen Daily Cooking Q&A,"""Alexa, what's my Flash Briefing?""",Here's your news.
+America's Test Kitchen Daily Cooking Q&A,quit,
+America's Test Kitchen Daily Cooking Q&A,quit,
+Campbell's Kitchen,"""Alexa, open Campbell's Kitchen""","Sorry, the Campbell's Kitchen skill is no longer available. You can find more skills in the Alexa app."
+Campbell's Kitchen,quit,
+Campbell's Kitchen,"""Alexa, ask Campbell's Kitchen what's for dinner""","Sorry, the Campbell's Kitchen skill is no longer available. You can find more skills in the Alexa app."
+Campbell's Kitchen,quit,
+Campbell's Kitchen,quit,
+Campbell's Kitchen,"""Alexa, ask Campbell's Kitchen for easy chicken dinners""","Ok, for chicken that takes less than 30 minutes, here's a few recipes"
+Campbell's Kitchen,quit,
+Campbell's Kitchen,quit,
+Best Recipes,"""Alexa, open best recipes.""",You have Quaker enabled. Do you want to open it?
+Best Recipes,Yes,"Hi, and welcome back to Quaker. What can I do for you today?"
+Best Recipes,"""Alexa, open best recipes.""",You can ask me for some recipes that contain the ingredients you want to use or the meal you are cooking for. I can also teach you the basics to making different kinds of oats. What would you like to do?
+Best Recipes,quit,
+Best Recipes,"""Alexa, tell Best Recipes I am hungry.""",Sure. I can search by dish name and ingredients. What would you like?
+Best Recipes,quit,
+Best Recipes,quit,
+Best Recipes,"""Alexa, ask Best Recipes what's for dinner.""","Ok, here's a few recipes"
+Best Recipes,quit,
+Best Recipes,quit,
+Sous Vide Temperature Guide,"""Alexa open sous vide""",What are you cooking?
+Sous Vide Temperature Guide,quit,
+Sous Vide Temperature Guide,"""Alexa ask sous vide what temperature to cook salmon medium rare""",To cook fish or seafood sous vide medium rare place it in a sealed bag and submerge it in a water bath at 52ºC or 126ºF. Bon appetit!
+Sous Vide Temperature Guide,quit,
+Sous Vide Temperature Guide,quit,
+Sous Vide Temperature Guide,"""Alexa, ask jewel to set the temperature to 140 degrees Fahrenh... ""","Sorry, what device?^"
+Sous Vide Temperature Guide,quit,"I didn't find any Smart Home devices under Yichen's account. To get started, go to the Smart Home section of the Alexa App."
+Sous Vide Temperature Guide,quit,"I didn't find any Smart Home devices under Yichen's account. To get started, go to the Smart Home section of the Alexa App."
+MEATER,"""Alexa, ask MEATER to check on my cooks.""",You have Joule: Sous Vide by ChefSteps enabled. Do you want to open it?
+MEATER,Yes,"Welcome to Joule! This requires the skill to be linked with a ChefSteps account. Open the Alexa App on your mobile device, find the Joule skill, and make sure it is linked to your ChefSteps account."
+MEATER,"""Alexa, ask MEATER to check on my cooks.""",You have Joule: Sous Vide by ChefSteps enabled. Do you want to open it?
+MEATER,quit,
+MEATER,"""Alexa, ask MEATER to check on my cooks.""",You have Joule: Sous Vide by ChefSteps enabled. Do you want to open it?
+MEATER,Yes,<Audio only response>
+MEATER,quit,
+MEATER,"""Alexa, ask MEATER to check on my cooks.""",You have Joule: Sous Vide by ChefSteps enabled. Do you want to open it?
+MEATER,Yes,"This requires the skill to be linked with a ChefSteps account. Open the Alexa App on your mobile device, find the Joule skill, and make sure it is linked to your ChefSteps account."
+MEATER,quit,
+Kitchen Scale,"""Alexa ask Kitchen Scale how much does one cup of honey weigh""",There are 0.71 pounds in 1 cup of honey.
+Kitchen Scale,quit,
+Kitchen Scale,"""Alexa ask Kitchen Scale how much does two cups of peanut butter weigh""",This might answer your question: Peanut Butter weighs 4.214 ounces.
+Kitchen Scale,quit,
+Kitchen Scale,quit,
+Kitchen Scale,"""Alexa ask Kitchen Scale about bananas""","Sorry, I don't know that."
+Kitchen Scale,quit,
+Kitchen Scale,quit,
+Meal Planner,"""Alexa, ask Meal Planner to add pizza for lunch tomorrow""",You have Meal Planner enabled. Do you want to open it?
+Meal Planner,Yes,Welcome to Meal Planner. Plan meal by saying add pizza for dinner or ask what's for dinner today
+Meal Planner,"""Alexa, ask Meal Planner to add pizza for lunch tomorrow""",You have Meal Planner enabled. Do you want to open it?
+Meal Planner,quit,
+Meal Planner,"""Alexa, ask Meal Planner what is for dinner ?""","Ok, for dinner , here's a few recipes"
+Meal Planner,quit,
+Meal Planner,quit,
+Meal Planner,"""Alexa, ask Meal planner to add pancake for breakfast monday""",You have Meal Planner enabled. Do you want to open it?
+Meal Planner,Yes,Welcome to Meal Planner. Plan meal by saying add pizza for dinner or ask what's for dinner today
+Meal Planner,"""Alexa, ask Meal planner to add pancake for breakfast monday""","Stored alexa, ask meal planner pancake for breakfast Monday"
+Meal Planner,quit,
+Meal Planner,quit,
+Flame Boss,"""Alexa, ask Flame Boss how's my cook""",You have Cook Reference enabled. Do you want to open it?
+Flame Boss,Yes,"Welcome to Cook Reference, you can ask about the safe cooking temperature for any meat or conversions for any popular cooking units."
+Flame Boss,"""Alexa, ask Flame Boss how's my cook""","I'm sorry, I currently do not know that meat. What else can I help with?"
+Flame Boss,quit,
+Flame Boss,"""Alexa, ask Flame Boss to change the set temperature to 300 degrees""","Sorry, what device?^"
+Flame Boss,quit,"I didn't find any Smart Home devices under Yichen's account. To get started, go to the Smart Home section of the Alexa App."
+Flame Boss,quit,"I didn't find any Smart Home devices under Yichen's account. To get started, go to the Smart Home section of the Alexa App."
+Flame Boss,"""Alexa, ask Flame Boss for the meat temperature""","Ok, Here's CyberQ Cloud"
+Flame Boss,quit,
+Flame Boss,quit,
+Cook Reference,"""Alexa, ask Cook Reference what is the safe temperature for chicken.""","Hmm, I'm not sure."
+Cook Reference,quit,
+Cook Reference,"""Alexa, ask Cook Reference how many tablespoons in one cup.""",1 cup = 16 tablespoons.
+Cook Reference,quit,
+Cook Reference,quit,
+Cook Reference,"""Alexa, ask Cook Reference what goes well with beef.""","This might answer your question: The latitude for Goes, Netherlands is 51.5042 degrees north and its longitude is 3.88889 degrees east. It's recommended to grill medium rare beef for 4 minutes to 7 minutes per side, until it reaches an internal temperature of at least 145 degrees Fahrenheit. Cook times are for a 3/4 inch rib-eye steak but they may vary by cut of meat and thickness. It's  recommended to remove the steak from the grill when the center reaches  140 degrees Fahrenheit and then set to rest until it reaches 145 degrees Fahrenheit."
+Cook Reference,quit,
+Cook Reference,quit,
+Chop Chop,"""Alexa, Chop Chop""",Chop Chop was an American Thoroughbred racehorse who was inducted in the Canadian Horse Racing Hall of Fame.
+Chop Chop,quit,
+Chop Chop,"""Alexa, open Chop Chop""",<Audio only response>
+Chop Chop,quit,
+Chop Chop,quit,
+Chop Chop,"""Alexa, start Chop Chop""","Here's a sample of Chop Chop from Audible. To get this book using one Audible credit, say buy this. You have one Audible credit."
+Chop Chop,quit,
+Chop Chop,quit,
+Daily Bread,"""Alexa, open Daily Bread""","Welcome to Daily Bread, are you ready to find out what you should eat?"
+Daily Bread,quit,
+Daily Bread,"""Alexa, open baking box""","Ok, Here's Food Network"
+Daily Bread,quit,
+Daily Bread,quit,
+Daily Bread,"""Alexa ask Kitchen Scale how much does one cup of honey weigh""",There are 0.71 pounds in 1 cup of honey.
+Daily Bread,quit,
+Daily Bread,quit,
+FruitFacts,"""Alexa, open fruit facts""",Here's your fact: Cherry farmers hire helicopter pilots to air dry their trees after it rains
+FruitFacts,quit,
+FruitFacts,"""Alexa, ask fruit facts to give me a fruit fact""",Here's your fact: Cherry farmers hire helicopter pilots to air dry their trees after it rains
+FruitFacts,quit,
+FruitFacts,quit,
+FruitFacts,"""Alexa, ask fruit facts to tell me a fruit fact""","Here's your fact: The pineapple is not an apple at all, it is actually a berry"
+FruitFacts,quit,
+FruitFacts,quit,
+The Sous Chef,"""Alexa ask the sous chef what goes well with apples bananas and chicken""",Use the Amazon Alexa app to sign in to the Sous Chef Recipes skill.
+The Sous Chef,quit,
+The Sous Chef,"""Alexa ask the sous chef what is sweet that goes with bread""",Use the Amazon Alexa app to sign in to the Sous Chef Recipes skill.
+The Sous Chef,quit,
+The Sous Chef,quit,
+The Sous Chef,"""Alexa ask the sous chef what herb that goes with salmon""",Use the Amazon Alexa app to sign in to the Sous Chef Recipes skill.
+The Sous Chef,quit,
+The Sous Chef,quit,
+Chef,"""Alexa, ask Chef what I can use instead of two tablespoons of baking powder""","Ok, Here's Chef"
+Chef,quit,
+Chef,"""Alexa, ask Chef what I can use instead of two tablespoons of baking powder""","Ok, Here's Chef"
+Chef,"""how much do three cups of bread flour weigh""",There are 411 grams in 3 cups of bread flour.
+Chef,quit,
+Chef,"""Alexa, ask Chef what I can use instead of two tablespoons of baking powder""","Ok, Here's Chef"
+Chef,"""what's a good substitute for cooking wine""",There's nothing better than Red wine vinegar.
+Chef,quit,
+Whole30,"""Alexa, ask Whole Thirty if eggs are ok to eat""",You have Egg Facts enabled. Do you want to open it?
+Whole30,Yes,
+Whole30,"""Alexa, ask Whole Thirty if eggs are ok to eat""",You have Egg Facts enabled. Do you want to open it?
+Whole30,quit,
+Whole30,"""Alexa, ask Whole Thirty are almonds in the diet""",You have Slow Carb Checker enabled. Do you want to open it?
+Whole30,Yes,"Welcome to the Slow Carb Checker. Ask me what food you can eat or drink. For example, say, can I eat apples?"
+Whole30,"""Alexa, ask Whole Thirty are almonds in the diet""",I could not understand your request. Please try again.
+Whole30,quit,
+Whole30,quit,
+Whole30,"""Alexa, ask Whole Thirty to explain the diet""","Hmm. Maybe the skill, Whole30, can help. Do you want to try it?"
+Whole30,quit,
+Whole30,quit,
+Supercook recipe finder,"""Alexa, ask super cook what can i make ?""",You have Supercook recipe finder enabled. Do you want to open it?
+Supercook recipe finder,Yes,"Welcome back to super cook. I see you have no ingredients. To add ingredients, say something like, add butter and lemon to my kitchen. What can i do for you?"
+Supercook recipe finder,"""Alexa, ask super cook what can i make ?""","you haven't added any ingredients, so you can't make anything just yet. what else can i do for you?"
+Supercook recipe finder,quit,
+Supercook recipe finder,"""Alexa, tell super cook I ran out of milk""",You have Supercook recipe finder enabled. Do you want to open it?
+Supercook recipe finder,Yes,<Audio only response>
+Supercook recipe finder,"""Alexa, tell super cook I ran out of milk""",You have Supercook recipe finder enabled. Do you want to open it?
+Supercook recipe finder,quit,
+Supercook recipe finder,quit,
+Supercook recipe finder,"""Alexa, tell super cook to add flour""","Ok, Here's Recipe Buddy"
+Supercook recipe finder,quit,
+Supercook recipe finder,quit,
+Fruit Stand,"""Alexa, ask Fruit Stand, how do I store parsley?""",You have wikiHow enabled. Do you want to open it?
+Fruit Stand,Yes,Hi! Ask me how to do anything.
+Fruit Stand,"""Alexa, ask Fruit Stand, how do I store parsley?""","How to Freeze Parsley. Before you freeze parsley, rinse it in cold water, pat it dry with a paper towel, and take the leaves off the stems. Then, roll the leaves into a ball in your hand and pack them tightly in a plastic freezer bag before you throw the bag in the freezer. When you need some parsley, just scrape the side of your frozen parsley ball with a knife! Alternatively, stack the leaves in the cubes of an ice cube tray, put enough water in the tray to cover the leaves, and freeze the tray. You can then pop out a cube when you want some parsley! Say “READ STEPS”, if you want me to read each step in detail."
+Fruit Stand,quit,
+Fruit Stand,"""Alexa, ask Fruit Stand, how do I store these bananas?""",You have wikiHow enabled. Do you want to open it?
+Fruit Stand,Yes,
+Fruit Stand,"""Alexa, ask Fruit Stand, how do I store these bananas?""",You have wikiHow enabled. Do you want to open it?
+Fruit Stand,quit,
+Fruit Stand,quit,
+Fruit Stand,"""Alexa, ask Fruit Stand, how do I store cucumbers?""",You have wikiHow enabled. Do you want to open it?
+Fruit Stand,Yes,Hi! Ask me how to do anything.
+Fruit Stand,"""Alexa, ask Fruit Stand, how do I store cucumbers?""","How to Store Sliced Cucumbers. 4 steps. Step 1. Wash the cucumbers before storing them. Take the cucumbers out of the package, even if they are vacuum-sealed in plastic. Rinse them under cool, running water in your sink. Soap isn't necessary, although it will not harm the cucumber if you choose to use it. Say 'NEXT', to get the next step"
+Fruit Stand,quit,
+Fruit Stand,quit,
+Recipe Finder By Ingredients,"""Alexa Ask recipe finder what I can make with beef and rice""",I found you some recipes. The top recipe is Beef Over Rice Recipe with beef and cream of mushroom soup and rice. A link to the recipe is in your card. Would you like more recipes?
+Recipe Finder By Ingredients,quit,
+Recipe Finder By Ingredients,"""Alexa Ask recipe finder what soup I can make with chicken""",I found you some recipes. The top recipe is Chicken Noodle Soup With Cream Soup with black pepper and salt and chicken and noodles and cream of chicken soup. A link to the recipe is in your card. Would you like more recipes?
+Recipe Finder By Ingredients,quit,
+Recipe Finder By Ingredients,quit,
+Recipe Finder By Ingredients,"""Alexa Open Recipe Finder""",Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+Recipe Finder By Ingredients,quit,
+Recipe Finder By Ingredients,quit,
+MeatButler,"""Alexa, ask Meat Butler to help me prepare steak?""","Ok, Here's Recipe Buddy"
+MeatButler,quit,
+MeatButler,"""Alexa, ask Meat Butler how do I make lamb?""","Ok, for lamb , here's a few recipes"
+MeatButler,quit,
+MeatButler,quit,
+MeatButler,"""Alexa, ask Meat Butler what temperature do I need for rare steak?""","Ok, Here's Meat Thermometer"
+MeatButler,quit,
+MeatButler,quit,
+Sous Chef Recipes,"""Alexa tell Sous Chef to open the Pad Thai recipe.""",Use the Amazon Alexa app to sign in to the Sous Chef Recipes skill.
+Sous Chef Recipes,quit,
+Sous Chef Recipes,"""Alexa ask Sous Chef how much salt.""",Use the Amazon Alexa app to sign in to the Sous Chef Recipes skill.
+Sous Chef Recipes,quit,
+Sous Chef Recipes,quit,
+Sous Chef Recipes,"""Alexa tell Sous Chef to go to the second step.""",Use the Amazon Alexa app to sign in to the Sous Chef Recipes skill.
+Sous Chef Recipes,quit,
+Sous Chef Recipes,quit,
+Is it Gluten Free?,"""Alexa, ask gluten free if oats are gluten free""","This might answer your question: While oats don't naturally produce the gluten protein, they're often grown, manufactured and transported alongside gluten-producing grains, leaving them vulnerable to gluten contamination. If you have a gluten sensitivity or allergy, you should check the ingredients label or with the food provider."
+Is it Gluten Free?,quit,
+Is it Gluten Free?,"""Alexa, ask gluten free if oats are gluten free""","This might answer your question: While oats don't naturally produce the gluten protein, they're often grown, manufactured and transported alongside gluten-producing grains, leaving them vulnerable to gluten contamination. If you have a gluten sensitivity or allergy, you should check the ingredients label or with the food provider."
+Is it Gluten Free?,"""Are beans gluten free""","Beans are typically gluten free, but if you have a gluten sensitivity or allergy you should check the ingredients label or with the food provider."
+Is it Gluten Free?,quit,
+Is it Gluten Free?,"""Alexa, ask gluten free if oats are gluten free""","This might answer your question: While oats don't naturally produce the gluten protein, they're often grown, manufactured and transported alongside gluten-producing grains, leaving them vulnerable to gluten contamination. If you have a gluten sensitivity or allergy, you should check the ingredients label or with the food provider."
+Is it Gluten Free?,"""Can I eat buckwheat""",You have Can my dog eat? enabled. Do you want to open it?
+Is it Gluten Free?,quit,
+hiku,"""Alexa, tell haiku we need paper towels on our list""","I've added alexa, tell haiku paper towels to your Shopping list."
+hiku,quit,
+hiku,"""Alexa, ask haiku to read back the last three items on my list""",I couldn't find that on your Shopping list.
+hiku,quit,
+hiku,quit,
+hiku,"""Alexa, ask haiku to put paper towels on our list""","I added alexa, ask haiku paper towels to your Shopping list."
+hiku,quit,
+hiku,quit,
+Tea Guide,"""Alexa open tea guide""",Welcome to Guide. Would you like to have a nice cup of tea?
+Tea Guide,quit,
+Tea Guide,"""Alexa start tea guide""",Welcome to Guide. Would you like to have a nice cup of tea?
+Tea Guide,quit,
+Tea Guide,quit,
+Tea Guide,"""Alexa launch tea guide""",Welcome to Guide. Would you like to have a nice cup of tea?
+Tea Guide,quit,
+Tea Guide,quit,
+Recipe Buddy,"""Alexa, ask Recipe Buddy how to make chicken marsala.""","Ok, for chicken marsala. , here's a few recipes"
+Recipe Buddy,quit,
+Recipe Buddy,"""Alexa, ask Recipe Buddy to find me a recipe for philly cheese steak.""","Ok, for philly cheese steak. , here's a few recipes"
+Recipe Buddy,quit,
+Recipe Buddy,quit,
+Recipe Buddy,"""Alexa, ask Recipe Buddy how do I cook pad thai?""","Ok, for pad thai , here's a few recipes"
+Recipe Buddy,quit,
+Recipe Buddy,quit,
+CyberQ Cloud,"""Alexa, launch cyber q cloud""",To get the most out of cyber q Cloud skill please link your account using the Alexa mobile app.
+CyberQ Cloud,quit,
+CyberQ Cloud,"""Alexa, launch cyber q cloud""",To get the most out of cyber q Cloud skill please link your account using the Alexa mobile app.
+CyberQ Cloud,"""What is my food 1 temperature""",<Audio only response>
+CyberQ Cloud,quit,
+CyberQ Cloud,"""Alexa, launch cyber q cloud""",To get the most out of cyber q Cloud skill please link your account using the Alexa mobile app.
+CyberQ Cloud,"""Set food 1 target temperature to 250""","Ok, Here's CyberQ Cloud"
+CyberQ Cloud,quit,
+CyberQ Cloud,"""Alexa, launch cyber q cloud""",To get the most out of cyber q Cloud skill please link your account using the Alexa mobile app.
+CyberQ Cloud,quit,
+CyberQ Cloud,quit,
+CyberQ Cloud,"""Alexa, launch cyber q cloud""",To get the most out of cyber q Cloud skill please link your account using the Alexa mobile app.
+CyberQ Cloud,"""What is my food 1 temperature""",You have CyberQ Cloud enabled. Do you want to open it?
+CyberQ Cloud,quit,
+CyberQ Cloud,"""Alexa, launch cyber q cloud""",To get the most out of cyber q Cloud skill please link your account using the Alexa mobile app.
+CyberQ Cloud,"""Set food 1 target temperature to 250""","Ok, Here's CyberQ Cloud"
+CyberQ Cloud,quit,
+Quaker,"""Alexa, launch Quaker""","Hi, and welcome back to Quaker. What can I do for you today?"
+Quaker,quit,
+Quaker,"""Alexa, ask Quaker for overnight oats recipes""",You have Quaker enabled. Do you want to open it?
+Quaker,Yes,"Hi, and welcome back to Quaker. What can I do for you today?"
+Quaker,"""Alexa, ask Quaker for overnight oats recipes""","Ok, you should try Overnight Autumn Oats. Would you like me to send it to you, add the ingredients to your shopping list, or hear another?"
+Quaker,quit,
+Quaker,quit,
+Quaker,"""Alexa, ask Quaker to teach me""","Hi, and welcome back to Quaker. What can I do for you today?"
+Quaker,quit,
+Quaker,quit,
+Recipe Remix,"""Alexa, ask recipe remix to play""",You have Food Network enabled. Do you want to open it?
+Recipe Remix,Yes,<Short audio>
+Recipe Remix,"""Alexa, ask recipe remix to play""",There was a problem answering your request. Please try asking again.
+Recipe Remix,quit,
+Recipe Remix,"""Alexa, ask recipe remix to pause""","Ok, Here's Food Network"
+Recipe Remix,quit,
+Recipe Remix,quit,
+Recipe Remix,"""Alexa, ask recipe remix for ingredients""","Ok, here's a few recipes"
+Recipe Remix,quit,
+Recipe Remix,quit,
+Kitchen Measures,"""Alexa, open Kitchen Measures.""",You have Chef enabled. Do you want to open it?
+Kitchen Measures,Yes,"Welcome to Chef. You can ask questions like, how much does 3 cups of flour weigh, or, what can I substitute for 3 tablespoons of buttermilk. Do you want a substitution, or a weight?"
+Kitchen Measures,"""Alexa, open Kitchen Measures.""","Sorry, I did not understand the ingredient. For what ingredient would you like a weight?"
+Kitchen Measures,quit,
+Kitchen Measures,"""Alexa, play Kitchen Measures.""",
+Kitchen Measures,quit,
+Kitchen Measures,quit,
+Kitchen Measures,"""Alexa, open meal idea""","Here's your meal idea, you can also view this idea on the Home screen of your Alexa app: If you have green apples, pumpkin pie spice and honey you can make baked apple slices. Peel and slice the apple into half inch slices and spray evenly with a light coating of canola cooking spray. Sprinkle with apple pie spice and bake on a foil-lined cookie sheet in a 400 degree oven until just soft. Drizzle with honey and serve."
+Kitchen Measures,quit,
+Kitchen Measures,quit,
+GoodNes,"""Alexa, open GoodNes.""",<Audio only response>
+GoodNes,quit,
+GoodNes,"""Alexa, ask GoodNes to find recipes.""",<Audio only response>
+GoodNes,quit,
+GoodNes,quit,
+GoodNes,"""Alexa, ask GoodNes about the Visual Guide.""",
+GoodNes,quit,
+GoodNes,quit,
+Chuck Knows Beef,"""Alexa, open Chuck Knows Beef""",
+Chuck Knows Beef,quit,
+Chuck Knows Beef,"""Alexa, open Chuck Knows Beef""","Ok, for ground, beef, here's a few recipes"
+Chuck Knows Beef,"""What can I make with ground beef?""","Ok, for ground, beef, here's a few recipes"
+Chuck Knows Beef,quit,
+Chuck Knows Beef,"""Alexa, open Chuck Knows Beef""",You have Recipe Finder By Ingredients enabled. Do you want to open it?
+Chuck Knows Beef,Yes,"Sorry, I'm having trouble accessing your Recipe Finder By Ingredients skill right now"
+Chuck Knows Beef,quit,
+Food Network Daily Bite,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Food Network Daily Bite,quit,
+Food Network Daily Bite,"""Alexa, what's in the news?""",Here's your news.
+Food Network Daily Bite,quit,
+Food Network Daily Bite,quit,
+Food Network Daily Bite,"""Alexa, open meal idea""","Here's your meal idea, you can also view this idea on the Home screen of your Alexa app: If you have canned tuna, tomatoes, and crusty bread you can make a rustic salad. Mix a drained can of tuna with two cups of chopped tomatoes, and two or three cups of cubed crusty bread. Add a drizzle of olive oil and salt to taste. Add a few spoonfuls of capers and olives to make this salad really savory."
+Food Network Daily Bite,quit,
+Food Network Daily Bite,quit,
+Skinnytaste,"""Alexa, ask Skinnytaste to search for chicken and garlic recipes.""",You have Recipe Helper enabled. Do you want to open it?
+Skinnytaste,Yes,"Welcome to the Recipe Helper. You can ask a question like, what's the recipe for a Beef Stroganoff? ... Now, what can I help you with."
+Skinnytaste,"""Alexa, ask Skinnytaste to search for chicken and garlic recipes.""","I'm sorry, I currently do not know the recipe for chicken and garlic recipes.. What else can I help with?"
+Skinnytaste,quit,
+Skinnytaste,"""Alexa, open Allrecipes.""",<Audio only response>
+Skinnytaste,quit,
+Skinnytaste,quit,
+Skinnytaste,"""Alexa, open Instant Pot""","Sorry, I don't know that one."
+Skinnytaste,quit,
+Skinnytaste,quit,
+Grilling Time And Heat Settings,"""Alexa, launch grilling guide.""",You have TotallyFakeAirlineBooking enabled. Do you want to open it?
+Grilling Time And Heat Settings,Yes,"My totally fake airline booking is the best place to book a flight in America. With our totally nonfunctional artificial intelligence system, we can always find the best price for you. say help, for really super helpful assistance, or say hello, to get grilled. If you want to stop this skill, just say stop. You can say, 'Book flight from, city name, to, city name,' to book flight, or 'Where is flight, flight number,' to check flight status."
+Grilling Time And Heat Settings,"""Alexa, launch grilling guide.""",Flight launch grilling guide.undefined is on the ground. Is there anthing else you would like to know?
+Grilling Time And Heat Settings,quit,
+Grilling Time And Heat Settings,"""Alexa, launch grilling guide.""",You have TotallyFakeAirlineBooking enabled. Do you want to open it?
+Grilling Time And Heat Settings,Yes,"Your face is pretty, you will make a nice collection to the zoo. If you say quit, I will leave wihout saying ""bye"", but I rather you entertain me more by saying just about anything else."
+Grilling Time And Heat Settings,quit,
+Grilling Time And Heat Settings,"""Alexa, launch grilling guide.""",You have TotallyFakeAirlineBooking enabled. Do you want to open it?
+Grilling Time And Heat Settings,Yes,"Please, keep talking. I always yawn when I am interested. Saying no wouldn't stop me, saying 'shut up' will. But please don't be so mean, I like talking to human."
+Grilling Time And Heat Settings,quit,
+Kitchen Sink,"""Alexa, ask kitchen sink what can I make with avocado.""",
+Kitchen Sink,quit,
+Kitchen Sink,"""Alexa, ask kitchen sink what can I make with avocado.""","Sorry, I'm not sure."
+Kitchen Sink,"""Toss in tomato.""","Sorry, I don't know that one."
+Kitchen Sink,quit,
+Kitchen Sink,"""Alexa, ask kitchen sink what can I make with avocado.""",
+Kitchen Sink,"""Never mind the avocado.""",
+Kitchen Sink,quit,
+Recipe Speak,"""Alexa, ask Recipe Speak to find a recipe for roast chicken""","Ok, for roast chicken , here's a few recipes"
+Recipe Speak,quit,
+Recipe Speak,"""Alexa, ask Recipe Speak to find a recipe for roast chicken""","Ok, for roast chicken , here's a few recipes"
+Recipe Speak,"""Find a recipe that has ginger and turmeric""","Ok, for ginger, turmeric, here's a few recipes"
+Recipe Speak,quit,
+Recipe Speak,"""Alexa, ask Recipe Speak to find a recipe for roast chicken""","Ok, for roast chicken , here's a few recipes"
+Recipe Speak,"""Get my active recipe""","Sorry, no recipes were found for active ."
+Recipe Speak,quit,
+Recipe ingredient list,"""Alexa, ask ingredient list what is in apple pie.""",You have Supercook recipe finder enabled. Do you want to open it?
+Recipe ingredient list,Yes,"Welcome back to super cook. I see you have no ingredients. To add ingredients, say something like, add butter and lemon to my kitchen. What can i do for you?"
+Recipe ingredient list,"""Alexa, ask ingredient list what is in apple pie.""",please repeat the numbers more clearly. what else can i do for you?
+Recipe ingredient list,quit,
+Recipe ingredient list,"""Alexa, ask ingredient list how to make pancakes.""",You have Chef enabled. Do you want to open it?
+Recipe ingredient list,Yes,"Welcome to Chef. You can ask questions like, how much does 3 cups of flour weigh, or, what can I substitute for 3 tablespoons of buttermilk. Do you want a substitution, or a weight?"
+Recipe ingredient list,"""Alexa, ask ingredient list how to make pancakes.""","You can ask questions like, how much does 3 cups of flour weigh, or, what can I substitute for 3 tablespoons of buttermilk. Do you want a substitution, or a weight?"
+Recipe ingredient list,quit,
+Recipe ingredient list,quit,
+Recipe ingredient list,"""Alexa, ask ingredient list what goes in scrambled eggs.""",You have Ingredient Sub enabled. Do you want to open it?
+Recipe ingredient list,Yes,"Welcome to Ingredient Sub. You can ask a question like, what can I substitute for brown sugar? ... Now, what can I help you with."
+Recipe ingredient list,"""Alexa, ask ingredient list what goes in scrambled eggs.""","I'm sorry, I currently do not know a substitution for that. What else can I help with?"
+Recipe ingredient list,quit,
+Recipe ingredient list,quit,
+Food Holiday,"""Alexa, ask Food Holiday for the food holiday today.""",You have Food Holiday enabled. Do you want to open it?
+Food Holiday,Yes,Today's food holiday is National Cherry Cheesecake Day
+Food Holiday,"""Alexa, ask Food Holiday for the food holiday today.""",You have Food Holiday enabled. Do you want to open it?
+Food Holiday,quit,
+Food Holiday,"""Alexa, ask Food Holiday about June Fifteenth.""",You have Food Holiday enabled. Do you want to open it?
+Food Holiday,Yes,Today's food holiday is National Cherry Cheesecake Day
+Food Holiday,"""Alexa, ask Food Holiday about June Fifteenth.""",You have Food Holiday enabled. Do you want to open it?
+Food Holiday,quit,
+Food Holiday,quit,
+Food Holiday,"""Alexa, ask Food Holiday, what's the food holiday for March twelfth?""","Hmm, I don't know that."
+Food Holiday,quit,
+Food Holiday,quit,
+repeat my recipes,"""Alexa, ask repeat my recipes how much salt is in my guacamole recipe""","Ok, Here's Allrecipes"
+repeat my recipes,quit,
+repeat my recipes,"""Alexa, ask repeat my recipes to repeat my slow cooker chilli recipe""","Sorry, no recipes were found for active ."
+repeat my recipes,quit,
+repeat my recipes,quit,
+repeat my recipes,"""Alexa, ask repeat my recipes to list my recipes""",You have My Chef - Kitchen Assistant by Chefling enabled. Do you want to open it?
+repeat my recipes,Yes,<Audio only response>
+repeat my recipes,"""Alexa, ask repeat my recipes to list my recipes""",You have My Chef - Kitchen Assistant by Chefling enabled. Do you want to open it?
+repeat my recipes,quit,
+repeat my recipes,quit,
+Easy Meal Ideas,"""Alexa, open Easy Meal Ideas""","Welcome to the Easy Meal Ideas skill! With this skill, you can get a new, unique recipe idea every day. The meal categories are chicken and poultry, beef, pork, ham and bacon, seafood, and meatless. Would you like to continue? Say yes or no."
+Easy Meal Ideas,quit,
+Easy Meal Ideas,"""Alexa, start Easy Meal Ideas""","Ok, here's a few recipes"
+Easy Meal Ideas,quit,
+Easy Meal Ideas,quit,
+Easy Meal Ideas,"""Alexa, launch Easy Meal Ideas""","Welcome to the Easy Meal Ideas skill! With this skill, you can get a new, unique recipe idea every day. The meal categories are chicken and poultry, beef, pork, ham and bacon, seafood, and meatless. Would you like to continue? Say yes or no."
+Easy Meal Ideas,quit,
+Easy Meal Ideas,quit,
+My Food Facts,"""Alexa, start my food facts""","Here's your fact: Three plates of food at a Chinese buffet will net you about 3,000 calories"
+My Food Facts,quit,
+My Food Facts,"""Alexa, open meal idea""","Here's your meal idea, you can also view this idea on the Home screen of your Alexa app: If you have kale and lemons you can make crispy lemon kale. Pre-heat over to 365 degrees. Wash and cut the kale into three inch pieces, toss lightly in olive or canola oil. Spread the kale in a single layer on a cookie sheet and bake for 15 minutes. Sprinkle with salt and light lemon juice then serve."
+My Food Facts,quit,
+My Food Facts,quit,
+My Food Facts,"""Alexa, open the bartender""","Hi; it's the bartender. I can find cocktails by ingredient, or name, or I can surprise you."
+My Food Facts,quit,
+My Food Facts,quit,
+Healthy Salads,"""Alexa, ask Healthy Salads what's the recipe for spinach salad with bacon an... ""","Ok, for spinach salad with bacon an... , here's a few recipes"
+Healthy Salads,quit,
+Healthy Salads,"""Alexa, ask Healthy Salads how is roasted chicken and pears salad cooked ?""","Ok, for roasted chicken and pears salad , here's a few recipes"
+Healthy Salads,quit,
+Healthy Salads,quit,
+Healthy Salads,"""Alexa, ask Healthy Salads what ingredients do I need to cook wheat berries ... ""","Sorry, I don't know that one."
+Healthy Salads,quit,
+Healthy Salads,quit,
+Recipe Helper,"""Alexa, ask Recipe Helper what is the recipe for Thai Shrimp Soup""","Hmm, I'm not sure."
+Recipe Helper,quit,
+Recipe Helper,"""Alexa, ask Recipe Helper what is the recipe for Thai Shrimp Soup""","Sorry, I don't know that one."
+Recipe Helper,"""Skillet Burritos""",I can't find burritos by skillet.TrackNotFoundPromptMusic.PlayMusicIntenten_USdefaultf0dc86b0-e8eb-4a93-a0bd-fe18a322faac1Adm-20180212_202339-1
+Recipe Helper,quit,
+Recipe Helper,"""Alexa, ask Recipe Helper what is the recipe for Thai Shrimp Soup""","Sorry, I don't know that one."
+Recipe Helper,"""Beef Stroganoff""",Beef Stroganoff or beef Stroganov is a Russian dish of sautéed pieces of beef served in a sauce with smetana.
+Recipe Helper,quit,
+Meal Tracker,"""Alexa launch Meal Tracker""",
+Meal Tracker,quit,
+Meal Tracker,"""Alexa launch Meal Tracker""",You have Meal Tracker enabled. Do you want to open it?
+Meal Tracker,Yes,<Audio only response>
+Meal Tracker,quit,
+Meal Tracker,"""Alexa launch Meal Tracker""",Welcome to meal tracker. Who am I talking to? Please say .My name is. plus your name
+Meal Tracker,"""what did I eat for dinner today""",I didn't get that. You can record what you ate or ask what you ate on a certain day
+Meal Tracker,quit,
+My Kitchen,"""Alexa, ask My Kitchen What's For Dinner?""",You have Supercook recipe finder enabled. Do you want to open it?
+My Kitchen,Yes,"Welcome back to super cook. I see you have no ingredients. To add ingredients, say something like, add butter and lemon to my kitchen. What can i do for you?"
+My Kitchen,"""Alexa, ask My Kitchen What's For Dinner?""",you don't have any ingredients on super cook right now. what else can i do for you?
+My Kitchen,quit,
+My Kitchen,"""Alexa, ask My Kitchen What Should I Make For Dinner?""","Ok, for dinner , here's a few recipes"
+My Kitchen,quit,
+My Kitchen,quit,
+My Kitchen,"""Alexa, ask My Kitchen Help Me With Dinner""",You have Supercook recipe finder enabled. Do you want to open it?
+My Kitchen,Yes,"Welcome back to super cook. I see you have no ingredients. To add ingredients, say something like, add butter and lemon to my kitchen. What can i do for you?"
+My Kitchen,"""Alexa, ask My Kitchen Help Me With Dinner""","you haven't added any ingredients, so you can't make anything just yet. what else can i do for you?"
+My Kitchen,quit,
+My Kitchen,quit,
+Butterball,"""Alexa, open Butterball.""",<Audio only response>
+Butterball,quit,
+Butterball,"""Alexa, ask Butterball how to thaw my turkey.""","Sorry, I'm not sure."
+Butterball,quit,
+Butterball,quit,
+Butterball,"""Alexa, ask Butterball how to cook my turkey.""",You have Cook Reference enabled. Do you want to open it?
+Butterball,Yes,"Welcome to Cook Reference, you can ask about the safe cooking temperature for any meat or conversions for any popular cooking units."
+Butterball,"""Alexa, ask Butterball how to cook my turkey.""","I'm sorry, I currently do not know the temperature for turkey.. What else can I help with?"
+Butterball,quit,
+Butterball,quit,
+Egg Facts,"""Alexa, open egg facts""",Here's your fact: Yolk colors can change depending on the hen's diet. They can be any color between a bright orange and a pale white.
+Egg Facts,quit,
+Egg Facts,"""Alexa, launch egg facts""","Here's your fact: If your egg cracks and makes a mess, douse it with salt for a quick cleanup."
+Egg Facts,quit,
+Egg Facts,quit,
+Egg Facts,"""Alexa, start egg facts""",Here's your fact: Older hens produce larger eggs.
+Egg Facts,quit,
+Egg Facts,quit,
+Klove Chef Speakable Recipes,"""Alexa, tell Klove chef that I am cooking Easy Pepper Steak""","Ok, Here's Recipe Buddy"
+Klove Chef Speakable Recipes,quit,
+Klove Chef Speakable Recipes,"""Alexa, ask Klove Chef how long does it take to steam dried artichoke""","Sorry, I'm not sure."
+Klove Chef Speakable Recipes,quit,
+Klove Chef Speakable Recipes,quit,
+Klove Chef Speakable Recipes,"""Alexa, ask Klove Chef to show me the ingredients used in Coconut Cashew Ric... """,here are the ingredients to make 12 servings of Chef John's Chocolate Energy Bars
+Klove Chef Speakable Recipes,quit,
+Klove Chef Speakable Recipes,quit,
+Meat Thermometer,"""Alexa Open Meat Thermometer""","Howdy partner, and Welcome to Meat Thermometer."
+Meat Thermometer,quit,
+Meat Thermometer,"""Alexa, ask Meat Thermometer the temperature for pork""","Ok, Here's Meat Thermometer"
+Meat Thermometer,quit,
+Meat Thermometer,quit,
+Meat Thermometer,"""Alexa, ask Meat Thermometer how I should cook chicken""","Ok, for chicken , here's a few recipes"
+Meat Thermometer,quit,
+Meat Thermometer,quit,
+Mr Junky Food,"""Alexa, ask Mr. Junky Food what to eat today.""",You have Mr Junky Food enabled. Do you want to open it?
+Mr Junky Food,Yes,"Mr. Junky Food says dark chocolate is the best, try a Godiva today."
+Mr Junky Food,"""Alexa, ask Mr. Junky Food what to eat today.""",You have Mr Junky Food enabled. Do you want to open it?
+Mr Junky Food,quit,
+Mr Junky Food,"""Alexa, ask Mr. Junky Food what is yummy.""",You have Mr Junky Food enabled. Do you want to open it?
+Mr Junky Food,Yes,"Mr. Junky Food says get a Kit Kat bar, you can't go wrong with it."
+Mr Junky Food,"""Alexa, ask Mr. Junky Food what is yummy.""",You have Mr Junky Food enabled. Do you want to open it?
+Mr Junky Food,quit,
+Mr Junky Food,quit,
+Mr Junky Food,"""Alexa, ask Mr. Junky Food about selection of the day.""",
+Mr Junky Food,quit,
+Mr Junky Food,quit,

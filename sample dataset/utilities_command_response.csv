@@ -1,0 +1,263 @@
+name,question,response
+Counter Girl,"""Alexa ask Counter Girl to count to 100.""",
+Counter Girl,quit,
+Counter Girl,"""Alexa ask Counter Girl to count to 200 Mississippi.""",You have Lie Detector enabled. Do you want to open it?
+Counter Girl,Yes,Welcome to Lie Detector! This game requires Alexa buttons. Each player should have their own button. How many players will there be?
+Counter Girl,"""Alexa ask Counter Girl to count to 200 Mississippi.""",Sorry. This game requires at least two buttons and two players. How many players would you like to play with?
+Counter Girl,quit,
+Counter Girl,quit,
+Counter Girl,"""Alexa ask Counter Girl to count to 300 by 10.""",You have Sheep Count enabled. Do you want to open it?
+Counter Girl,Yes,Welcome to the sheep count. How many sheep would you like to count?
+Counter Girl,"""Alexa ask Counter Girl to count to 300 by 10.""",Please tell me how many sheep you would like to count.
+Counter Girl,quit,
+Counter Girl,quit,
+stopwatch,"""Alexa, open stopwatch""",You have Fast Watch (StopWatch) enabled. Do you want to open it?
+stopwatch,Yes,"Your Fast Watch timer has been Started. Say Alexa Time, or Alexa End to get your time"
+stopwatch,"""Alexa, open stopwatch""",4 seconds and counting
+stopwatch,quit,
+stopwatch,"""Alexa, ask stopwatch to pause""","Hmm, I don’t know that one."
+stopwatch,quit,
+stopwatch,quit,
+stopwatch,"""Alexa, ask stopwatch to resume""","Hmm, I don’t know that one."
+stopwatch,quit,
+stopwatch,quit,
+Poop detective,"""Alexa, open poop detective""","Pooping must be great! I'm a robot, so I don't know what it's like. What color was your poop?"
+Poop detective,quit,
+Poop detective,"""Alexa, begin poop detective""","Ok, Here's Hatch Baby"
+Poop detective,quit,
+Poop detective,quit,
+Poop detective,"""Alexa, launch poop detective""",Let's talk about my favorite topic. Your poop. What color was your poop?
+Poop detective,quit,
+Poop detective,quit,
+Whisper Guy,"""Alexa, ask Whisper Guy the current time""",<Audio only response>
+Whisper Guy,quit,
+Whisper Guy,"""Alexa, ask Whisper Guy the time""",<Audio only response>
+Whisper Guy,quit,
+Whisper Guy,quit,
+Whisper Guy,"""Alexa, ask Whisper Guy to set offset minus four""",You have Whisper Guy enabled. Do you want to open it?
+Whisper Guy,Yes,"You can ask Whisper Guy the time, and he will whisper the time to you. If the time is not in your local timezone you can adjust it by saying offset plus or minus hour."
+Whisper Guy,"""Alexa, ask Whisper Guy to set offset minus four""",offset set to UTC -4
+Whisper Guy,quit,
+Whisper Guy,quit,
+Presidential Countdown,"""Alexa start presidential countdown""","Here's your Trump Tweet: .@katyperry I watched Russell Brand and I think his mind is fried - he looks really bad. Russell is a total joke, a dummy who is lost!"
+Presidential Countdown,quit,
+Presidential Countdown,"""Alexa, open Morning Rooster""",
+Presidential Countdown,quit,
+Presidential Countdown,quit,
+Presidential Countdown,"""Alexa, open birthday countdown for Maria""","Hmm. Maybe the skill, Birthday Countdown, can help. Do you want to try it?"
+Presidential Countdown,quit,
+Presidential Countdown,quit,
+Morning Rooster,"""Alexa, open Morning Rooster""",
+Morning Rooster,quit,
+Morning Rooster,"""Alexa, start Morning Rooster""",
+Morning Rooster,quit,
+Morning Rooster,quit,
+Morning Rooster,"""Alexa, play Morning Rooster""","Good Morning, Mr. Rooster is available with Amazon Music Unlimited which lets you play over 50 million songs. It's free for 30 days and then you'll be automatically charged $9.99 a month. Cancel anytime. Terms in the Alexa app. Should I start your free trial and play Good Morning, Mr. Rooster?"
+Morning Rooster,quit,
+Morning Rooster,quit,
+Interval Notice,"""Alexa tell Interval Notice to set a one minute interval five times.""",
+Interval Notice,quit,
+Interval Notice,"""Alexa tell Interval Notice to set a two minute notice for six minutes.""",notice settimetimetime
+Interval Notice,quit,
+Interval Notice,quit,
+Interval Notice,"""Alexa tell Interval Notice one minute for twenty minutes.""",notice settimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetimetime
+Interval Notice,quit,
+Interval Notice,quit,
+Stopwatch,"""Alexa, start stopwatch""",Timers and alarms are not currently supported on this device.
+Stopwatch,quit,
+Stopwatch,"""Alexa, open stopwatch""",You have Fast Watch (StopWatch) enabled. Do you want to open it?
+Stopwatch,Yes,"Your Fast Watch timer has been Started. Say Alexa Time, or Alexa End to get your time"
+Stopwatch,"""Alexa, open stopwatch""",4 seconds and counting
+Stopwatch,quit,
+Stopwatch,quit,
+Stopwatch,"""Alexa, ask stopwatch""","Your Fast Watch timer has been Started. Say Alexa Time, or Alexa End to get your time"
+Stopwatch,quit,
+Stopwatch,quit,
+Relaxing Piano Music,"""Alexa, open relaxing piano music""",I couldn't find any relaxing piano songs.GenreNotFoundPromptMusic.PlayMusicIntenten_USdefault863f35ed-09a8-4571-9a04-5fb6b94b9a7a1Adm-20180212_202339-1
+Relaxing Piano Music,quit,
+Relaxing Piano Music,"""Alexa, start relaxing piano music""",I couldn't find any relaxing piano songs.GenreNotFoundPromptMusic.PlayMusicIntenten_USdefault863f35ed-09a8-4571-9a04-5fb6b94b9a7a1Adm-20180212_202339-1
+Relaxing Piano Music,quit,
+Relaxing Piano Music,quit,
+Relaxing Piano Music,"""Alexa, launch relaxing piano music""",I couldn't find any relaxing piano tracks in your library .
+Relaxing Piano Music,quit,
+Relaxing Piano Music,quit,
+HOWL Alert,"""Alexa, Alert Pack.""","Ok, Here's Ask My Buddy"
+HOWL Alert,quit,
+HOWL Alert,"""Alexa, Ask Alert Pack For Help.""",You have Ask My Buddy enabled. Do you want to open it?
+HOWL Alert,Yes,"Welcome to Ask My Buddy, Who would you like to alert ?"
+HOWL Alert,"""Alexa, Ask Alert Pack For Help.""","Sorry, it doesn't appear that you have linked your account yet!You must have an Ask My Buddy account to use this skill. Please use the Alexa app to link your Amazon account with your Ask My Buddy Account."
+HOWL Alert,quit,
+HOWL Alert,quit,
+HOWL Alert,"""Alexa, Open Alert Pack.""","Ok, Here's Ask My Buddy"
+HOWL Alert,quit,
+HOWL Alert,quit,
+New Year Countdown,"""Alexa open new year countdown""","Welcome to New Years Countdown. Ask me to countdown, or tell me to quit."
+New Year Countdown,quit,
+New Year Countdown,"""Alexa open new year countdown""","Welcome to New Years Countdown. Ask me to countdown, or tell me to quit."
+New Year Countdown,"""please countdown""",Here we go.
+New Year Countdown,quit,
+New Year Countdown,"""Alexa open new year countdown""","Welcome to New Years Countdown. Ask me to countdown, or tell me to quit."
+New Year Countdown,"""countdown""",Here we go.
+New Year Countdown,quit,
+Blaze Bot,"""Alexa ask BlazeBot if it's time to blaze.""",<Audio only response>
+Blaze Bot,quit,
+Blaze Bot,"""Alexa ask BlazeBot if it's four twenty.""",<Audio only response>
+Blaze Bot,quit,
+Blaze Bot,quit,
+Blaze Bot,"""Alexa ask BlazeBot what time is it.""",<Audio only response>
+Blaze Bot,quit,
+Blaze Bot,quit,
+Delay Say,"""Alexa, open Delay Say""","Sorry, I don't know that one."
+Delay Say,quit,
+Delay Say,"""Alexa, start Delay Say""","Sorry, I don't know that one."
+Delay Say,quit,
+Delay Say,quit,
+Delay Say,"""Alexa, launch Delay Say""","Hmm, I don't know that."
+Delay Say,quit,
+Delay Say,quit,
+"Countdown Clock - Christmas, New Year, and more","""Alexa, open Countdown Clock""",Please enable Location permissions in the Amazon Alexa app.
+"Countdown Clock - Christmas, New Year, and more",quit,
+"Countdown Clock - Christmas, New Year, and more","""Alexa, start Countdown Clock""",You have Cuckoo Clock enabled. Do you want to open it?
+"Countdown Clock - Christmas, New Year, and more",Yes,Please enable Location permissions in the Amazon Alexa app.
+"Countdown Clock - Christmas, New Year, and more","""Alexa, start Countdown Clock""",You have Cuckoo Clock enabled. Do you want to open it?
+"Countdown Clock - Christmas, New Year, and more",quit,
+"Countdown Clock - Christmas, New Year, and more",quit,
+"Countdown Clock - Christmas, New Year, and more","""Alexa, launch Countdown Clock""",Please enable Location permissions in the Amazon Alexa app.
+"Countdown Clock - Christmas, New Year, and more",quit,
+"Countdown Clock - Christmas, New Year, and more",quit,
+Russian Bells,"""Alexa, Open Russian bells""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Russian Bells,Yes,What stock price would you like me to look up?
+Russian Bells,"""Alexa, Open Russian bells""","Sorry, I can't find information about alexa, open Russian bells."
+Russian Bells,quit,
+Russian Bells,"""Alexa, Play Russian bells""","Here's a sample of Russian Bells, by Vladimir Master, on Amazon Music."
+Russian Bells,quit,
+Russian Bells,quit,
+Russian Bells,"""Alexa, Start Russian bells""","Ok, Here's The Art of Living"
+Russian Bells,quit,
+Russian Bells,quit,
+MyStopwatch,"""Alexa, tell my stopwatch to start.""",You have Fast Watch (StopWatch) enabled. Do you want to open it?
+MyStopwatch,Yes,"Your Fast Watch timer has been Started. Say Alexa Time, or Alexa End to get your time"
+MyStopwatch,"""Alexa, tell my stopwatch to start.""",5 seconds and counting
+MyStopwatch,quit,
+MyStopwatch,"""Alexa, tell my stopwatch to pause.""",You have Fast Watch (StopWatch) enabled. Do you want to open it?
+MyStopwatch,Yes,"Your Fast Watch timer has been Started. Say Alexa Time, or Alexa End to get your time"
+MyStopwatch,"""Alexa, tell my stopwatch to pause.""",4 seconds and counting
+MyStopwatch,quit,
+MyStopwatch,quit,
+MyStopwatch,"""Alexa, ask my stopwatch for the current time.""",You have Fast Watch (StopWatch) enabled. Do you want to open it?
+MyStopwatch,Yes,"Your Fast Watch timer has been Started. Say Alexa Time, or Alexa End to get your time"
+MyStopwatch,"""Alexa, ask my stopwatch for the current time.""",4 seconds and counting
+MyStopwatch,quit,
+MyStopwatch,quit,
+Never have I ever,"""Alexa, open never have i ever""",Never Have I Ever contains mature content that may not be suitable for all ages
+Never have I ever,quit,
+Never have I ever,"""Alexa, start never have i ever""",Never Have I Ever contains mature content that may not be suitable for all ages
+Never have I ever,quit,
+Never have I ever,quit,
+Never have I ever,"""Alexa, launch never have i ever""",Never Have I Ever contains mature content that may not be suitable for all ages
+Never have I ever,quit,
+Never have I ever,quit,
+How Many Days,"""Alexa, open How Many Days""","This might answer your question: ""Open"" by Com Truise is 0.0029 days long."
+How Many Days,quit,
+How Many Days,"""Alexa, start How Many Days""",There are 366 days.
+How Many Days,quit,
+How Many Days,quit,
+How Many Days,"""Alexa, open How Many Days""","This might answer your question: ""Open"" by Com Truise is 0.0029 days long."
+How Many Days,quit,
+How Many Days,quit,
+Thunderstorm Sounds,"""Alexa, open Best Thunderstorm Sounds""",<Short audio>
+Thunderstorm Sounds,quit,
+Thunderstorm Sounds,"""Alexa, start Best Thunderstorm Sounds"""
+Thunderstorm Sounds,quit,
+Thunderstorm Sounds,quit,
+Thunderstorm Sounds,"""Alexa, launch Best Thunderstorm Sounds""",<Short audio>
+Thunderstorm Sounds,quit,
+Thunderstorm Sounds,quit,
+Binary Clock,"""Alexa, ask Binary Clock what time it is""",You have Cuckoo Clock enabled. Do you want to open it?
+Binary Clock,Yes,Please enable Location permissions in the Amazon Alexa app.
+Binary Clock,"""Alexa, ask Binary Clock what time it is""",You have Cuckoo Clock enabled. Do you want to open it?
+Binary Clock,quit,
+Binary Clock,"""Alexa, open Morning Rooster""",
+Binary Clock,quit,
+Binary Clock,quit,
+Binary Clock,"""Alexa, open my calculator""","Hello, I am going to begin by asking you a few questions about yourself, to calculate how many years you have left to live. Please try to answer your questions with numbers, to help with my calculation. Tell me to begin when you are ready."
+Binary Clock,quit,
+Binary Clock,quit,
+Fan noises,"""Alexa, open Fan noises""",Welcome to Fan noises!
+Fan noises,quit,
+Fan noises,"""Alexa, start Fan noises""",Welcome to Fan noises!
+Fan noises,quit,
+Fan noises,quit,
+Fan noises,"""Alexa, launch Fan noises""",Welcome to Fan noises!
+Fan noises,quit,
+Fan noises,quit,
+Deep Sleep Sounds,"""Alexa open Deep Sleep Sounds""",You were listening to fire Would you like to resume?
+Deep Sleep Sounds,quit,
+Deep Sleep Sounds,"""Alexa, open relaxing piano music""",I couldn't find any relaxing piano songs.GenreNotFoundPromptMusic.PlayMusicIntenten_USdefault863f35ed-09a8-4571-9a04-5fb6b94b9a7a1Adm-20180212_202339-1
+Deep Sleep Sounds,quit,
+Deep Sleep Sounds,quit,
+Deep Sleep Sounds,"""Alexa, open Bedtime Sounds""","hey there, what animal sound would you like to hear?"
+Deep Sleep Sounds,quit,
+Deep Sleep Sounds,quit,
+Watch Dog,"""Alexa, tell watch dog Spencer is leaving for work""",
+Watch Dog,quit,
+Watch Dog,"""Alexa, ask watch dog how long Spencer has been gone""",
+Watch Dog,quit,
+Watch Dog,quit,
+Watch Dog,"""Alexa, tell watch dog Spencer is back""",<Audio only response>
+Watch Dog,quit,
+Watch Dog,quit,
+Time Tone,"""Alexa open time tone""",Starting timer
+Time Tone,quit,
+Time Tone,"""Alexa ask time tone to start timer""",Starting timer
+Time Tone,quit,
+Time Tone,quit,
+Time Tone,"""Alexa ask time tone for second timer""",Starting timer
+Time Tone,quit,
+Time Tone,quit,
+Relaxing Cat purring Sounds,"""Alexa open relaxing cat purring sounds""",Would You Like To hear some relaxing cat purring? just say yes to start
+Relaxing Cat purring Sounds,quit,
+Relaxing Cat purring Sounds,"""Alexa, open Morning Rooster""",
+Relaxing Cat purring Sounds,quit,
+Relaxing Cat purring Sounds,quit,
+Relaxing Cat purring Sounds,"""Alexa, open relaxing piano music""",I couldn't find any relaxing piano songs.GenreNotFoundPromptMusic.PlayMusicIntenten_USdefault863f35ed-09a8-4571-9a04-5fb6b94b9a7a1Adm-20180212_202339-1
+Relaxing Cat purring Sounds,quit,
+Relaxing Cat purring Sounds,quit,
+Rain sounds,"""Alexa, open Rain sounds"""
+Rain sounds,quit,
+Rain sounds,"""Alexa, start Rain sounds""",<Short audio>
+Rain sounds,quit,
+Rain sounds,quit,
+Rain sounds,"""Alexa, launch Rain sounds"""
+Rain sounds,quit,
+Rain sounds,quit,
+Alarm Clock,"""Alexa, open alarm clock""","Hmm, I found a few skills that might help."
+Alarm Clock,quit,
+Alarm Clock,"""Alexa, start alarm clock""",You have Cuckoo Clock enabled. Do you want to open it?
+Alarm Clock,Yes,Please enable Location permissions in the Amazon Alexa app.
+Alarm Clock,"""Alexa, start alarm clock""",You have Cuckoo Clock enabled. Do you want to open it?
+Alarm Clock,quit,
+Alarm Clock,quit,
+Alarm Clock,"""Alexa, launch alarm clock""","Hmm, I found a few skills that might help."
+Alarm Clock,quit,
+Alarm Clock,quit,
+Toggl Timer,"""Alexa, ask toggle timer to start timer on project A""",Timers and alarms are not currently supported on this device.
+Toggl Timer,quit,
+Toggl Timer,"""Alexa, ask toggle timer how I spent yesterday""",You have wikiHow enabled. Do you want to open it?
+Toggl Timer,Yes,<Audio only response>
+Toggl Timer,"""Alexa, ask toggle timer how I spent yesterday""",You have wikiHow enabled. Do you want to open it?
+Toggl Timer,quit,
+Toggl Timer,quit,
+Toggl Timer,"""Alexa, open toggle timer""","You have Meditation Timer: Relax, Focus & Sleep enabled. Do you want to open it?"
+Toggl Timer,Yes,You were listening to 10 minutes of Silence. Would you like to resume?
+Toggl Timer,"""Alexa, open toggle timer""","Here is the list of sounds I can play: forest, surf, rain, silence. Say the name of the sound you want and I will play it."
+Toggl Timer,quit,
+Toggl Timer,quit,
+Celebrity Coffee Quotes,"""Alexa, open Celebrity Coffee Quotes""","Welcome to celebrity coffee quotes. Would you like to hear something that a famous person once said about coffee? Just say ""yes"" or ""no""."
+Celebrity Coffee Quotes,quit,
+Celebrity Coffee Quotes,"""Alexa, start Celebrity Coffee Quotes""","Welcome to celebrity coffee quotes. Would you like to hear something that a famous person once said about coffee? Just say ""yes"" or ""no""."
+Celebrity Coffee Quotes,quit,
+Celebrity Coffee Quotes,quit,
+Celebrity Coffee Quotes,"""Alexa, launch Celebrity Coffee Quotes""","Welcome to celebrity coffee quotes. Would you like to hear something that a famous person once said about coffee? Just say ""yes"" or ""no""."
+Celebrity Coffee Quotes,quit,
+Celebrity Coffee Quotes,quit,

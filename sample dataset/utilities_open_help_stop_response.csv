@@ -1,0 +1,123 @@
+name,question,response
+Counter Girl,"Alexa, open Counter Girl",You have Lie Detector enabled. Do you want to open it?
+Counter Girl,Yes,Welcome to Lie Detector! This game requires Alexa buttons. Each player should have their own button. How many players will there be?
+Counter Girl,help,"Lie Detector is a simple game you play with your friends and Alexa Buttons. Each round, one player will be picked to be the counter. All other players will close their eyes. The alexa will then flash the counter's button yellow a random number of times and ask them to say the number they counted. The counter can choose to say the real number, the truth, or they can choose to say a different number, a lie. We'll then ask all players to open their eyes and each give a guess to if the counter was telling the thruth or lying. Correct guesses will earn the guesser one point. Each incorrect guess will earn the counter a point. How many players do you want to play with?"
+Counter Girl,stop,"Thanks for playing, lie detector! If you liked this game, please consider rating it in your alexa app."
+Counter Girl,quit,
+stopwatch,"Alexa, open stopwatch",You have Fast Watch (StopWatch) enabled. Do you want to open it?
+stopwatch,Yes,"Your Fast Watch timer has been Started. Say Alexa Time, or Alexa End to get your time"
+stopwatch,help,"Your Fast Watch timer has been Started. Say Alexa Time, or Alexa End to get your time"
+stopwatch,stop,4 seconds. Thank you for using Start Watch.
+stopwatch,quit,
+Poop detective,"Alexa, open Poop detective","You know, I'm jealous that you can poop. Tell me about it. What color was your poop?"
+Poop detective,help,All you need to do is poop and then describe your poop. I ask you the color and the texture. Just look at it and tell me what you see. Do you want to continue?
+Poop detective,stop,Thanks for talking about your poop with me. See you next time!
+Poop detective,quit,
+Whisper Guy,"Alexa, open Whisper Guy","You can ask Whisper Guy the time, and he will whisper the time to you. If the time is not in your local timezone you can adjust it by saying offset plus or minus hour."
+Whisper Guy,help,"You can ask ""what time is it?"" Or say set offset minus four to set the offset to U T C minus four. What would you like to do?"
+Whisper Guy,stop,
+Whisper Guy,quit,
+Presidential Countdown,"Alexa, open Presidential Countdown",Here's your Trump Tweet: @cher I don’t wear a “rug”—it’s mine. And I promise not to talk about your massive plastic surgeries that didn’t work.
+Presidential Countdown,help,"For Help, please visit the help pages on the Amazon web site."
+Presidential Countdown,stop,
+Presidential Countdown,quit,
+Morning Rooster,"Alexa, open Morning Rooster",
+Morning Rooster,help,"For Help, please visit the help pages on the Amazon web site."
+Morning Rooster,stop,
+Morning Rooster,quit,
+Interval Notice,"Alexa, open Interval Notice","Welcome to Interval notice. Please give me the length of time of an interval and how many times you would like me to notify you that the interval is over. For instance, you could say, Set interval notice for one minute 3 times"
+Interval Notice,help,"Please give me the length of time of an interval and how many times you would like me to notify you that the interval is over. For instance, you could say, tell interval notice one minute for 3 times"
+Interval Notice,stop,Goodbye
+Interval Notice,quit,
+Stopwatch,"Alexa, open Stopwatch",You have Fast Watch (StopWatch) enabled. Do you want to open it?
+Stopwatch,Yes,"Your Fast Watch timer has been Started. Say Alexa Time, or Alexa End to get your time"
+Stopwatch,help,"Your Fast Watch timer has been Started. Say Alexa Time, or Alexa End to get your time"
+Stopwatch,stop,4 seconds. Thank you for using Start Watch.
+Stopwatch,quit,
+Relaxing Piano Music,"Alexa, open Relaxing Piano Music",I couldn't find any relaxing piano songs.GenreNotFoundPromptMusic.PlayMusicIntenten_USdefault863f35ed-09a8-4571-9a04-5fb6b94b9a7a1Adm-20180212_202339-1
+Relaxing Piano Music,help,"For Help, please visit the help pages on the Amazon web site."
+Relaxing Piano Music,stop,
+Relaxing Piano Music,quit,
+HOWL Alert,"Alexa, open HOWL Alert",
+HOWL Alert,help,"For Help, please visit the help pages on the Amazon web site."
+HOWL Alert,stop,
+HOWL Alert,quit,
+New Year Countdown,"Alexa, open New Year Countdown","Ask me on New Year's Eve, and I'll give you a ten-second countdown."
+New Year Countdown,help,"For Help, please visit the help pages on the Amazon web site."
+New Year Countdown,stop,
+New Year Countdown,quit,
+Blaze Bot,"Alexa, open Blaze Bot",Blaze Bot contains mature content that may not be suitable for all ages
+Blaze Bot,help,"For Help, please visit the help pages on the Amazon web site."
+Blaze Bot,stop,
+Blaze Bot,quit,
+Delay Say,"Alexa, open Delay Say","Sorry, I'm not sure."
+Delay Say,help,"For Help, please visit the help pages on the Amazon web site."
+Delay Say,stop,
+Delay Say,quit,
+"Countdown Clock - Christmas, New Year, and more","Alexa, open Countdown Clock - Christmas, New Year, and more",
+"Countdown Clock - Christmas, New Year, and more",help,"For Help, please visit the help pages on the Amazon web site."
+"Countdown Clock - Christmas, New Year, and more",stop,
+"Countdown Clock - Christmas, New Year, and more",quit,
+Russian Bells,"Alexa, open Russian Bells",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Russian Bells,Yes,What stock price would you like me to look up?
+Russian Bells,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Russian Bells,stop,O.K.
+Russian Bells,quit,
+MyStopwatch,"Alexa, open MyStopwatch",<Audio only response>
+MyStopwatch,help,"For Help, please visit the help pages on the Amazon web site."
+MyStopwatch,stop,
+MyStopwatch,quit,
+Never have I ever,"Alexa, open Never have I ever",Never Have I Ever contains mature content that may not be suitable for all ages
+Never have I ever,help,"For Help, please visit the help pages on the Amazon web site."
+Never have I ever,stop,
+Never have I ever,quit,
+How Many Days,"Alexa, open How Many Days","This might answer your question: ""Open"" by Com Truise is 0.0029 days long."
+How Many Days,help,"For Help, please visit the help pages on the Amazon web site."
+How Many Days,stop,
+How Many Days,quit,
+Thunderstorm Sounds,"Alexa, open Thunderstorm Sounds","Back again to Thunderstorm and Relaxation Sounds! Would you like a quote, breathing exercise or some background sounds to get you to bed?"
+Thunderstorm Sounds,help,"well ""With this skill, I can pick you a motivational quote, breathing exercise or some amazing soundscapes. Do you want to continue? Or, stop?"
+Thunderstorm Sounds,stop,"""Come back later and we'll see if I can find you something. Just say, ""Alexa, open Thunderstorm Sounds"" to open the skill again."" Have a great day!"
+Thunderstorm Sounds,quit,
+Binary Clock,"Alexa, open Binary Clock",<Audio only response>
+Binary Clock,help,"For Help, please visit the help pages on the Amazon web site."
+Binary Clock,stop,
+Binary Clock,quit,
+Fan noises,"Alexa, open Fan noises"
+Fan noises,help,"For Help, please visit the help pages on the Amazon web site."
+Fan noises,stop,
+Fan noises,quit,
+Deep Sleep Sounds,"Alexa, open Deep Sleep Sounds",You were listening to fire Would you like to resume?
+Deep Sleep Sounds,help,You were listening to fire Would you like to resume?
+Deep Sleep Sounds,stop,Good bye.
+Deep Sleep Sounds,quit,
+Watch Dog,"Alexa, open Watch Dog",You have Movie Picker enabled. Do you want to open it?
+Watch Dog,Yes,Here's a good movie to watch: Friend Request
+Watch Dog,help,"For Help, please visit the help pages on the Amazon web site."
+Watch Dog,stop,
+Watch Dog,quit,
+Time Tone,"Alexa, open Time Tone",
+Time Tone,help,"For Help, please visit the help pages on the Amazon web site."
+Time Tone,stop,
+Time Tone,quit,
+Relaxing Cat purring Sounds,"Alexa, open Relaxing Cat purring Sounds",Would You Like To hear some relaxing cat purring? just say yes to start
+Relaxing Cat purring Sounds,help,"With this skill, you can listen to Healing cat purring sounds every day. If you would like to hear the relaxing sounds just say yes, if not say no"
+Relaxing Cat purring Sounds,stop,"Come back tomorrow to play this peaceful sound again. Just say, ""Alexa, open relaxing cat purring sounds"" to open the skill again."
+Relaxing Cat purring Sounds,quit,
+Rain sounds,"Alexa, open Rain sounds","Thanks for enjoying Rain Sounds! If you haven't already, please show your support by leaving a 5-star review in the Alexa app for Rain Sounds, by Invoked Apps. Now back to playing Rain Sounds."
+Rain sounds,help,"For Help, please visit the help pages on the Amazon web site."
+Rain sounds,stop,
+Rain sounds,quit,
+Alarm Clock,"Alexa, open Alarm Clock",I found a few matches for that.
+Alarm Clock,help,"For Help, please visit the help pages on the Amazon web site."
+Alarm Clock,stop,
+Alarm Clock,quit,
+Toggl Timer,"Alexa, open Toggl Timer","You have Meditation Timer: Relax, Focus & Sleep enabled. Do you want to open it?"
+Toggl Timer,Yes,You were listening to 10 minutes of Silence. Would you like to resume?
+Toggl Timer,help,Say yes to resume or no to start a new meditation.
+Toggl Timer,stop,Good bye!
+Toggl Timer,quit,
+Celebrity Coffee Quotes,"Alexa, open Celebrity Coffee Quotes","Welcome to celebrity coffee quotes. Would you like to hear something that a famous person once said about coffee? Just say ""yes"" or ""no""."
+Celebrity Coffee Quotes,help,"With this skill, you can hear what a famous person once said about coffee. So would you like to hear one now? You can say ""yes"" or ""no."""
+Celebrity Coffee Quotes,stop,"""OK. Come back tomorrow to hear what another famous person once said about coffee. Just say, ""Alexa, open Celebrity Coffee Quotes"" to open the skill again."""
+Celebrity Coffee Quotes,quit,

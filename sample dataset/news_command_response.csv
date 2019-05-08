@@ -1,0 +1,854 @@
+name,question,response
+NPR,"""Alexa, play NPR""",KUVO from TuneIn.
+NPR,quit,
+NPR,"""Alexa, ask NPR to play KUOW""",I cannot play by song on TuneIn.EntityNotSupportedOnServiceMusic.PlayStationIntenten_USdefaultc2c8d6e7-b6c6-4ff7-8d89-a0bce85603fa1Adm-20180212_202339-1
+NPR,quit,
+NPR,quit,
+NPR,"""Alexa, ask NPR what's playing""",You have NPR enabled. Do you want to open it?
+NPR,Yes,"Welcome to NPR. Tell me the name of the station you want to hear, or say ""browse by location""."
+NPR,"""Alexa, ask NPR what's playing""","I'm sorry, I can't seem to find the stream you were playing."
+NPR,quit,
+NPR,quit,
+NPR One,"""Alexa, open NPR One""",You have NPR One enabled. Do you want to open it?
+NPR One,Yes,
+NPR One,"""Alexa, open NPR One""",You have NPR One enabled. Do you want to open it?
+NPR One,quit,
+NPR One,"""Alexa, ask NPR One to play the latest news""",You have NPR One enabled. Do you want to open it?
+NPR One,Yes,
+NPR One,"""Alexa, ask NPR One to play the latest news""",You have NPR One enabled. Do you want to open it?
+NPR One,quit,
+NPR One,quit,
+NPR One,"""Alexa, ask NPR One to recommend a podcast""",Should I play the station npr one?
+NPR One,quit,
+NPR One,quit,
+CNN,"""Alexa, open CNN""",You have CNN enabled. Do you want to open it?
+CNN,Yes,<Short audio>
+CNN,"""Alexa, open CNN""",<Audio only response>
+CNN,quit,
+CNN,"""Alexa, ask CNN for a binge""",You have CNN enabled. Do you want to open it?
+CNN,Yes,<Short audio>
+CNN,"""Alexa, ask CNN for a binge""",<Audio only response>
+CNN,quit,
+CNN,quit,
+CNN,"""Alexa, ask CNN for the latest news""",You have CNN enabled. Do you want to open it?
+CNN,Yes,<Short audio>
+CNN,"""Alexa, ask CNN for the latest news""",<Audio only response>
+CNN,quit,
+CNN,quit,
+The Washington Post,"""Alexa, open Washington Post""","Welcome to The Washington Post. We have three daily shows. Just ask me for news, politics, or a story from history. What would you like to do?"
+The Washington Post,quit,
+The Washington Post,"""Alexa, ask Washington Post for politics""","Welcome to The Washington Post. We have three daily shows. Just ask me for news, politics, or a story from history. What would you like to do?"
+The Washington Post,quit,
+The Washington Post,quit,
+The Washington Post,"""Alexa, ask Washington Post for Post Reports""","Welcome to The Washington Post. We have three daily shows. Just ask me for news, politics, or a story from history. What would you like to do?"
+The Washington Post,quit,
+The Washington Post,quit,
+ESPN,"""Alexa, open ESPN.""",You have ESPN enabled. Do you want to open it?
+ESPN,Yes,"Welcome to ESPN, you can ask me to play recent news, or ESPN Radio. What would you like to do?"
+ESPN,"""Alexa, open ESPN.""",Now playing ESPN radio.
+ESPN,quit,
+ESPN,"""Alexa, open ESPN.""",You have ESPN enabled. Do you want to open it?
+ESPN,Yes,Now playing ESPN radio.
+ESPN,quit,
+ESPN,"""Alexa, open ESPN.""",You have ESPN enabled. Do you want to open it?
+ESPN,Yes,Now playing ESPN radio.
+ESPN,quit,
+The Daily Show,"""Alexa, ask The Daily Show for news""",<Short audio>
+The Daily Show,quit,
+The Daily Show,"""Alexa, ask The Daily Show for the latest interview""",You have The Daily Show enabled. The Daily Show contains mature content and may not be suitable for all ages. Do you want to open it?
+The Daily Show,Yes,<Short audio>
+The Daily Show,"""Alexa, ask The Daily Show for the latest interview""","April 16, 2019"
+The Daily Show,quit,
+The Daily Show,quit,
+The Daily Show,"""Alexa, ask The Daily Show for the upcoming guests""",You have The Daily Show enabled. The Daily Show contains mature content and may not be suitable for all ages. Do you want to open it?
+The Daily Show,Yes,<Short audio>
+The Daily Show,"""Alexa, ask The Daily Show for the upcoming guests""",We’re working on scheduling our upcoming guests right now. Check back soon for an update.
+The Daily Show,quit,
+The Daily Show,quit,
+NBC News,"""Alexa, ask NBC News what's trending""",Here's your news.
+NBC News,quit,
+NBC News,"""Alexa, ask NBC News for breaking news""",You have NBC News enabled. Do you want to open it?
+NBC News,Yes,"Welcome to nbc news,you can ask what's trending get the top topics or ask for breaking news. Which would you like to hear?"
+NBC News,"""Alexa, ask NBC News for breaking news""","here is the latest breaking news from nbc news:White House officials are worried Mueller report will expose them as source of damaging information“They got asked questions and told the truth, and now they’re worried the wrath will follow,” one former White House official said.we have sent the breaking news link to your alexa companion app.You can hear about other news topics like politics, business or health. Which would you like?"
+NBC News,quit,
+NBC News,quit,
+NBC News,"""Alexa, Open NBC News""","Welcome to nbc news,you can ask what's trending get the top topics or ask for breaking news. Which would you like to hear?"
+NBC News,quit,
+NBC News,quit,
+Dallas Cowboys (Official),"""Alexa, play Dallas Cowboys""",Schedule information for the next Cowboys game is not yet available.
+Dallas Cowboys (Official),quit,
+Dallas Cowboys (Official),"""Alexa, open ESPN.""",You have ESPN enabled. Do you want to open it?
+Dallas Cowboys (Official),Yes,"Welcome to ESPN, What would you like to do?"
+Dallas Cowboys (Official),"""Alexa, open ESPN.""",Now playing ESPN radio.
+Dallas Cowboys (Official),quit,
+Dallas Cowboys (Official),quit,
+College Football Rankings,"""Alexa ask college football rankings what are the top teams""","The top 25 teams are: # 1 Alabama, # 2 Clemson , # 3 Notre Dame , # 4 Michigan , # 5 Georgia , # 6 Oklahoma , # 7 West Virginia , # 8 Washington State , # 9 Ohio State , # 10 LSU , # 11 UCF , # 12 Syracuse , # 13 Texas , # 14 Utah State , # 15 Florida , # 16 Penn State , # 17 Washington , # 18 Iowa State , # 19 Cincinnati , # 20 Kentucky , # 21 Utah , # 22 Boston College , # 23 Boise State , # 24 Northwestern , # 25 Mississippi State"
+College Football Rankings,quit,
+College Football Rankings,"""Alexa ask college football rankings who are the top seven teams""","The top 7 teams are: # 1 Alabama, # 2 Clemson , # 3 Notre Dame , # 4 Michigan , # 5 Georgia , # 6 Oklahoma , # 7 West Virginia"
+College Football Rankings,quit,
+College Football Rankings,quit,
+College Football Rankings,"""Alexa ask college football rankings what are the top ten teams""","The top 10 teams are: # 1 Alabama, # 2 Clemson , # 3 Notre Dame , # 4 Michigan , # 5 Georgia , # 6 Oklahoma , # 7 West Virginia , # 8 Washington State , # 9 Ohio State , # 10 LSU"
+College Football Rankings,quit,
+College Football Rankings,quit,
+StatMuse,"""Alexa, ask Statmuse, how many touchdowns did Peyton Manning have in 2007?""","In his NFL career, Peyton Manning had 557 total touchdowns. He's ranked 1st all-time."
+StatMuse,quit,
+StatMuse,"""Alexa, ask Statmuse, how many touchdowns did Peyton Manning have in 2007?""","In his NFL career, Peyton Manning had 557 total touchdowns. He's ranked 1st all-time."
+StatMuse,"""What about passing yards?""",Yards a sports statistic.
+StatMuse,quit,
+StatMuse,"""Alexa, ask Statmuse, how many touchdowns did Peyton Manning have in 2007?""","In his NFL career, Peyton Manning had 557 total touchdowns. He's ranked 1st all-time."
+StatMuse,"""Who has hit the most homers this season?""","In the 2018 season, Khris Davis had the most home runs in Major League Baseball with 48."
+StatMuse,quit,
+Trump Impeachment Clock,"""Alexa, ask Trump Impeachment Clock whether Trump will be impeached.""","Sorry, I can’t find the answer to the question I heard."
+Trump Impeachment Clock,quit,
+Trump Impeachment Clock,"""Alexa, ask Trump Impeachment Clock for Trump's latest tweet.""","Sorry, I can’t find the answer to the question I heard."
+Trump Impeachment Clock,quit,
+Trump Impeachment Clock,quit,
+Trump Impeachment Clock,"""Alexa, ask Trump Impeachment Clock if Trump is still president.""","Sorry, I can’t find the answer to the question I heard."
+Trump Impeachment Clock,quit,
+Trump Impeachment Clock,quit,
+New Jersey 101.5,"""Alexa, play New Jersey 101 5""",The Nets will play on Thursday at 6:00 p.m. at home against the 76ers.
+New Jersey 101.5,quit,
+NCAA March Madness,"""Alexa open march madness""","Welcome to March Madness! Your go to place to find March Madness tournament live broadcasts and game coverage. I can give you scores, schedules, live radio, or information about your bracket picks. What would you like?"
+NCAA March Madness,quit,
+NCAA March Madness,"""Alexa, ask March Madness for today's scores""","This might answer your question: Last Monday, April 8 in the National Championship of the 2019 Men's NCAA Basketball Tournament, the Virginia men's basketball team beat Texas Tech 85 - 77."
+NCAA March Madness,quit,
+NCAA March Madness,quit,
+NCAA March Madness,"""Alexa, ask March Madness for info on my bracket.""",This might answer your question: The Virginia men's basketball team beat Texas Tech 85 - 77 to win the 2019 Men's NCAA Basketball Tournament.
+NCAA March Madness,quit,
+NCAA March Madness,quit,
+Daily Horoscope,"""Alexa, ask Daily Horoscope what are the zodiac signs""","This might answer your question: I found today's horoscopes for all 12 zodiac signs. You can pick one by asking me questions like ""what's the horoscope for Aquarius"" or ""Aquarius's horoscope for tomorrow""."
+Daily Horoscope,quit,
+Daily Horoscope,"""Alexa, ask Daily Horoscope to tell me about Leo horoscope for today""","This might answer your question: Here's the horoscope for Leo today: Combative Mars and nebulous Neptune are challenged by the emotional Moon, making today potentially intense and stressful. If you can't stay in bed and hide under the covers today, you will need to face the world with your head held high! No matter what sort of jam you find yourself in, remember that in the end, it's what you learn on the journey that's important."
+Daily Horoscope,quit,
+Daily Horoscope,quit,
+Daily Horoscope,"""Alexa, ask Daily Horoscope tell me about Taurus horoscope for tomorrow""","The skill, ELLE Horoscopes by The Astro Twins can help you with that. Did you want to enable it?"
+Daily Horoscope,quit,
+Daily Horoscope,quit,
+NBA,"""Alexa, open NBA""","Sorry, I don't know that one."
+NBA,quit,
+NBA,"""Alexa, ask NBA what is the score of the Lakers game""","On April 9th the Lakers lost to the Trail Blazers, 104 to 101."
+NBA,quit,
+NBA,quit,
+NBA,"""Alexa, tell NBA to play the Warriors vs. Cavaliers game""",You have Game Lines enabled. Do you want to open it?
+NBA,Yes,"Welcome to Game Lines, find the line for an upcoming sport event. For example, you can ask for 'the steelers,' or 'the Pittsburgh basketball game.'"
+NBA,"""Alexa, tell NBA to play the Warriors vs. Cavaliers game""","Sorry, I couldn't find odds for the alexa, tell nba to play game."
+NBA,quit,
+NBA,quit,
+PGA TOUR,"""Alexa, ask PGA TOUR for the leaderboard.""","This might answer your question: Tiger Woods won the 2019 Masters with a score of 13 under par. Dustin Johnson, Brooks Koepka, and Xander Schauffele finished tied for second place at 12 under par. Jason Day, Tony Finau, Francesco Molinari, and Webb Simpson tied for fifth at 11 under par."
+PGA TOUR,quit,
+PGA TOUR,"""Alexa, ask PGA TOUR how Jason Day is doing.""","This might answer your question: Jason Day finished the 2019 Masters in 5th place at 11 under, 2 strokes back from the leader."
+PGA TOUR,quit,
+PGA TOUR,quit,
+PGA TOUR,"""Alexa, ask PGA TOUR for the FedExCup Standings.""","This might answer your question: Tiger Woods won the 2019 Masters with a score of 13 under par. Dustin Johnson, Brooks Koepka, and Xander Schauffele finished tied for second place at 12 under par. Jason Day, Tony Finau, Francesco Molinari, and Webb Simpson tied for fifth at 11 under par."
+PGA TOUR,quit,
+PGA TOUR,quit,
+ESPN Radio (via TuneIn),"""Alexa, open ESPN.""",You have ESPN enabled. Do you want to open it?
+ESPN Radio (via TuneIn),Yes,"Welcome to ESPN, What would you like to do?"
+ESPN Radio (via TuneIn),"""Alexa, open ESPN.""",Now playing ESPN radio.
+ESPN Radio (via TuneIn),quit,
+ESPN Flash Briefing,"""Alexa, open ESPN.""",You have ESPN enabled. Do you want to open it?
+ESPN Flash Briefing,Yes,"Welcome to ESPN, What would you like to do?"
+ESPN Flash Briefing,"""Alexa, open ESPN.""",Now playing ESPN radio.
+ESPN Flash Briefing,quit,
+CBC,"""Alexa, ask CBC to play Radio One Sudbury""","Hmm, I'm not sure."
+CBC,quit,
+CBC,"""Alexa, ask CBC for today's news.""","Sorry, I’m not sure about that."
+CBC,quit,
+CBC,quit,
+CBC,"""Alexa, ask CBC to play CBC Music""",You have Music Bop Adventures enabled. Do you want to open it?
+CBC,Yes,<Audio only response>
+CBC,"""Alexa, ask CBC to play CBC Music""",You have Music Bop Adventures enabled. Do you want to open it?
+CBC,quit,
+CBC,quit,
+Golf Channel,"""Alexa, ask Golf Channel for the PGA Tour leaderboard.""",You have PGA TOUR enabled. Do you want to open it?
+Golf Channel,Yes,
+Golf Channel,"""Alexa, ask Golf Channel for the PGA Tour leaderboard.""",You have PGA TOUR enabled. Do you want to open it?
+Golf Channel,quit,
+Golf Channel,"""Alexa, ask Golf Channel who is winning the European Tour.""",You have PGA TOUR enabled. Do you want to open it?
+Golf Channel,Yes,<Audio only response>
+Golf Channel,"""Alexa, ask Golf Channel who is winning the European Tour.""",You have PGA TOUR enabled. Do you want to open it?
+Golf Channel,quit,
+Golf Channel,quit,
+Golf Channel,"""Alexa, ask Golf Channel who is on the LPGA Tour leaderboard.""","Hmm, I don't know that one."
+Golf Channel,quit,
+Golf Channel,quit,
+The Economist Espresso,"""Alexa, open Espresso.""",You have The Economist Espresso enabled. Do you want to open it?
+The Economist Espresso,Yes,"Welcome to The Economist Espresso. I can tell you Today’s agenda, the World in Brief or Quote of the Day. How can I help you?"
+The Economist Espresso,"""Alexa, open Espresso.""","Okay! This is Today’s agenda: Mueller time: the report is overdue. On April 9th William Barr, America's attorney-general, vowed to release a redacted version of Robert Mueller's report into links between Russia and Donald Trump's campaign within a week. That deadline expired today, with Mr Barr now saying he needs until Thursday. In the interim, the two parties are spinning feverishly. Chuck Schumer, the Democrats' leader in the Senate, said he doubts Mr Barr will be fair and dispassionate in his redactions; the House Judiciary Committee authorised its chairman to subpoena the complete report. Mr Trump, who previously supported the release of the entire report, has more recently called Mr Mueller's investigation a treasonous hoax and groused that the Radical Left Democrats will never be satisfied with anything. Washington's attention will focus most on what the report says about obstruction of justice. Mr Barr's summary said the report gave no grounds to pursue charges against Mr Trump, but it could still contain enough to embarrass him. You can hear the next article or the available sections. How can I help you?"
+The Economist Espresso,quit,
+The Economist Espresso,"""Alexa, ask Espresso for Today's Agenda.""",You have The Economist Espresso enabled. Do you want to open it?
+The Economist Espresso,Yes,"Welcome to The Economist Espresso. I can tell you Today’s agenda, the World in Brief or Quote of the Day. How can I help you?"
+The Economist Espresso,"""Alexa, ask Espresso for Today's Agenda.""","Okay! This is Today’s agenda: Mueller time: the report is overdue. On April 9th William Barr, America's attorney-general, vowed to release a redacted version of Robert Mueller's report into links between Russia and Donald Trump's campaign within a week. That deadline expired today, with Mr Barr now saying he needs until Thursday. In the interim, the two parties are spinning feverishly. Chuck Schumer, the Democrats' leader in the Senate, said he doubts Mr Barr will be fair and dispassionate in his redactions; the House Judiciary Committee authorised its chairman to subpoena the complete report. Mr Trump, who previously supported the release of the entire report, has more recently called Mr Mueller's investigation a treasonous hoax and groused that the Radical Left Democrats will never be satisfied with anything. Washington's attention will focus most on what the report says about obstruction of justice. Mr Barr's summary said the report gave no grounds to pursue charges against Mr Trump, but it could still contain enough to embarrass him. You can hear the next article or the available sections. How can I help you?"
+The Economist Espresso,quit,
+The Economist Espresso,quit,
+The Economist Espresso,"""Alexa, ask Espresso for the World in Brief.""","Here's what I found on Amplitude-shift keying's Wikipedia page: Amplitude-shift keying is a form of amplitude modulation that represents digital data as variations in the amplitude of a carrier wave. In an ASK system, the binary symbol 1 is represented by transmitting a fixed-amplitude carrier wave and fixed frequency for a bit duration of T seconds. Espresso is from Italy. The world is the planet Earth and all life upon it, including human civilization. In a philosophical context, the ""world"" is the whole of the physical Universe, or an ontological world. In a theological context, the world is the material or the profane sphere, as opposed to the celestial, spiritual, transcendent or sacred spheres."
+The Economist Espresso,quit,
+The Economist Espresso,quit,
+New England Patriots,"""Alexa, open Patriots.""","Hmm, I don't know that one."
+New England Patriots,quit,
+New England Patriots,"""Alexa, start Patriots.""",The New England Patriots are a professional American football team based in the Greater Boston area.
+New England Patriots,quit,
+New England Patriots,quit,
+New England Patriots,"""Alexa, open ESPN.""",You have ESPN enabled. Do you want to open it?
+New England Patriots,Yes,"Welcome to ESPN, What would you like to do?"
+New England Patriots,"""Alexa, open ESPN.""",Now playing ESPN radio.
+New England Patriots,quit,
+New England Patriots,quit,
+CBS Radio News Hourly News Cast,"""Alexa, what's my Flash Briefing?""",Here's your news.
+CBS Radio News Hourly News Cast,quit,
+CBS Radio News Hourly News Cast,"""Alexa, what's in the news?""",Here's your news.
+CBS Radio News Hourly News Cast,quit,
+CBS Radio News Hourly News Cast,quit,
+CBS Radio News Hourly News Cast,"""Alexa, play C. B. S. News""","Sorry, I'm having trouble accessing your CBS News: Live Breaking News skill right now"
+CBS Radio News Hourly News Cast,quit,
+CBS Radio News Hourly News Cast,quit,
+WTF Just Happened Today,"""Alexa, W.T.F. Just Happened?""","Sorry, I don't know that one."
+WTF Just Happened Today,quit,
+WTF Just Happened Today,"""Alexa, ask W.T.F. Just Happened Today""",You have This Day in History enabled. Do you want to open it?
+WTF Just Happened Today,Yes,Welcome back to this day in History. From history.com. What month and day would you like to hear about?
+WTF Just Happened Today,"""Alexa, ask W.T.F. Just Happened Today""",<Short audio>
+WTF Just Happened Today,quit,
+WTF Just Happened Today,quit,
+WTF Just Happened Today,"""Alexa, open W.T.F. Just Happened.""","Hmm, I don't know that one."
+WTF Just Happened Today,quit,
+WTF Just Happened Today,quit,
+One America News Live,"""Alexa, ask One America News to play""",You have NPR One enabled. Do you want to open it?
+One America News Live,Yes,
+One America News Live,"""Alexa, ask One America News to play""",You have NPR One enabled. Do you want to open it?
+One America News Live,quit,
+One America News Live,"""Alexa, play One America News""",You have The Great Courses Plus enabled. Do you want to open it?
+One America News Live,Yes,"Sorry, I could not find your account details. Please make sure you have linked your account to this skill in the Alexa app. Check your Alexa app for more information!"
+One America News Live,"""Alexa, play One America News""",You have The Great Courses Plus enabled. Do you want to open it?
+One America News Live,quit,
+One America News Live,quit,
+One America News Live,"""Alexa, open One America News""","Hmm, I don't know that."
+One America News Live,quit,
+One America News Live,quit,
+The Daily,"""Alexa, open The Daily""","Sorry, I'm not sure."
+The Daily,quit,
+The Daily,"""Alexa, play The Daily""","Here's The Daily, from TuneIn."
+The Daily,quit,
+The Daily,quit,
+The Daily,"""Alexa, open Washington Post""","Welcome to The Washington Post. We have three daily shows. Just ask me for news, politics, or a story from history. What would you like to do?"
+The Daily,quit,
+The Daily,quit,
+U.S. Election,"""Alexa Ask US Election who will win""",I don't have an opinion on that.
+U.S. Election,quit,
+U.S. Election,"""Alexa Ask US Election who will win Florida""",I don't have an opinion on that.
+U.S. Election,quit,
+U.S. Election,quit,
+U.S. Election,"""Alexa Ask US Election who is going to win""",I don't have an opinion on that.
+U.S. Election,quit,
+U.S. Election,quit,
+Downdetector,"""Alexa, ask Down Detector if Facebook is down""","Hmm. Maybe the skill, Downdetector, can help. Do you want to try it?"
+Downdetector,quit,
+Downdetector,"""Alexa, open Down Detector and check Comcast""",You have Comcast Business ActiveCore℠ enabled. Do you want to open it?
+Downdetector,Yes,It appears that your account is not currently linked. Go to your Alexa app and link your active core Alexa Skill.
+Downdetector,"""Alexa, open Down Detector and check Comcast""",You have Comcast Business ActiveCore℠ enabled. Do you want to open it?
+Downdetector,quit,
+Downdetector,quit,
+Downdetector,"""Alexa, Open Cortana"" then ""What new emails do I have?""",<Audio only response>
+Downdetector,quit,
+Downdetector,quit,
+The Briefing Flash News,"""Alexa, play Renewing Your Mind""","Welcome back to Renewing Your Mind. Previously you were listening to the edition from April 16, 2019 titled The Drama of Redemption. Would you like to resume that edition?"
+The Briefing Flash News,quit,
+CBC News,"""Alexa, ask CBC to play Radio One Sudbury""","Hmm, I'm not sure."
+CBC News,quit,
+ABC News Update,"""Alexa, play C. B. S. News""","Sorry, I'm having trouble accessing your CBS News: Live Breaking News skill right now"
+ABC News Update,quit,
+'We Are' Cheer,"""Alexa, open ESPN.""",You have ESPN enabled. Do you want to open it?
+'We Are' Cheer,Yes,"Welcome to ESPN, What would you like to do?"
+'We Are' Cheer,"""Alexa, open ESPN.""",Now playing ESPN radio.
+'We Are' Cheer,quit,
+'We Are' Cheer,"""Alexa, open Nittany Lions fight song.""","I'm still learning about lion questions. Try asking ""tell me a lion fact"" to learn more about them."
+'We Are' Cheer,quit,
+'We Are' Cheer,quit,
+1010 WINS,"""Alexa, open Radio dot com""","Sorry, I’m not sure about that."
+1010 WINS,quit,
+The Capitals,"""Alexa, ask The Capitals how Ovechkin is doing.""",You have wikiHow enabled. Do you want to open it?
+The Capitals,Yes,Hi! Ask me how to do anything.
+The Capitals,"""Alexa, ask The Capitals how Ovechkin is doing.""",Hi! Ask me how to do anything.
+The Capitals,quit,
+The Capitals,"""Alexa, ask The Capitals what the score is.""","This might answer your question: Yesterday, the Carolina Hurricanes beat the Washington Capitals 5 0 in the First Round of the NHL Playoffs. The Capitals are up 2 games to 0."
+The Capitals,quit,
+The Capitals,quit,
+The Capitals,"""Alexa, ask The Capitals about the next game.""","The Carolina Hurricanes will play the Washington Capitals on Thursday, April 18 at 5:00pm in the First Round of the NHL Playoffs. The Capitals are up 2 games to 0."
+The Capitals,quit,
+The Capitals,quit,
+AL.com's Down in Alabama with Ike Morgan,"""Alexa, roll tide""",You have TideGuide enabled. Do you want to open it?
+AL.com's Down in Alabama with Ike Morgan,Yes,"Welcome to tide guide. I can give you the high and low tide times for many coastal locations. Supported phrases include: What are the high tides for Santa Barbara? What are the tides for Los Angeles on Tuesday? What is the next low tide in Boston? and set my default city and state to Miami, Florida. If you set a default city and state you simply have to say, What are the tides today. Which city or location would you like the tide report for?"
+AL.com's Down in Alabama with Ike Morgan,"""Alexa, roll tide""",You have TideGuide enabled. Do you want to open it?
+AL.com's Down in Alabama with Ike Morgan,quit,
+Steelers Fan,"""Alexa, open Steelers fan.""","Sorry, I don't know that one."
+Steelers Fan,quit,
+Steelers Fan,"""Alexa, ask Steelers fan for a flash briefing on the Steelers.""",<Audio only response>
+Steelers Fan,quit,
+Steelers Fan,quit,
+Steelers Fan,"""Alexa, ask Steelers fan about the previous game score.""",You have Redskins Fan enabled. Do you want to open it?
+Steelers Fan,Yes,<Audio only response>
+Steelers Fan,"""Alexa, ask Steelers fan about the previous game score.""",You have Redskins Fan enabled. Do you want to open it?
+Steelers Fan,quit,
+Steelers Fan,quit,
+News Feed,"""Alexa Ask News Feed What's New?""","I'm not sure exactly what you meant, try rephrasing your question."
+News Feed,quit,
+News Feed,"""Alexa Ask News Feed What's New?""",Here's your news.
+News Feed,"""Any news on Elon Musk""",Here's your news.
+News Feed,quit,
+News Feed,"""Alexa Ask News Feed What's New?""","Sorry, what was that?"
+News Feed,"""Play my sports playlist""","This is beyond me, please try again."
+News Feed,quit,
+Seahawks Fan,"""Alexa, open Seahawks fan.""",<Audio only response>
+Seahawks Fan,quit,
+Seahawks Fan,"""Alexa, ask Seahawks fan for a flash briefing on the Seahawks.""","Sorry, I don't know that one."
+Seahawks Fan,quit,
+Seahawks Fan,quit,
+Seahawks Fan,"""Alexa, ask Seahawks fan about the previous game score.""",<Audio only response>
+Seahawks Fan,quit,
+Seahawks Fan,quit,
+theScore Sports,"""Alexa, what's my Flash Briefing?""",Here's your news.
+theScore Sports,quit,
+theScore Sports,"""Alexa, what's in the news?""",Here's your news.
+theScore Sports,quit,
+theScore Sports,quit,
+theScore Sports,"""Alexa, open ESPN.""",You have ESPN enabled. Do you want to open it?
+theScore Sports,Yes,"Welcome to ESPN, What would you like to do?"
+theScore Sports,"""Alexa, open ESPN.""",Now playing ESPN radio.
+theScore Sports,quit,
+theScore Sports,quit,
+Gun Violence Facts,"""Alexa, ask gun violence facts to give me a fact""",You have Gun Violence Facts enabled. Do you want to open it?
+Gun Violence Facts,Yes,"On average there nearly 12,000 gun homicides a year in the United States."
+Gun Violence Facts,"""Alexa, ask gun violence facts to give me a fact""",You have Gun Violence Facts enabled. Do you want to open it?
+Gun Violence Facts,quit,
+Gun Violence Facts,"""Alexa, open sloth facts""",Here's your fact: Sloths have four inch long claws that allow them to climb and hold onto branches.
+Gun Violence Facts,quit,
+Gun Violence Facts,quit,
+Gun Violence Facts,"""Alexa, open Wild Animal Facts""","Hi there! Wild Animal Facts has interesting facts about the animal kingdom. Say ""shoot"" to get a fact now."
+Gun Violence Facts,quit,
+Gun Violence Facts,quit,
+Patriots Fan,"""Alexa, open Patriots fan.""",
+Patriots Fan,quit,
+Patriots Fan,"""Alexa, ask Patriots fan for a flash briefing on the Patriots.""","Hmm, I don't know that."
+Patriots Fan,quit,
+Patriots Fan,quit,
+Patriots Fan,"""Alexa, ask Patriots fan about the previous game score.""",You have Redskins Fan enabled. Do you want to open it?
+Patriots Fan,Yes,"Welcome to Redskins Fan. You can start by saying, Give me a flash briefing on the Redskins to get team's ranking, previous game result and next game schedule."
+Patriots Fan,"""Alexa, ask Patriots fan about the previous game score.""","The season just started. To continue, you can ask about Redskins next match up, or previous game score, or some fun facts about Redskins, or get some Redskins players bio, or you can say help. If you did not hear clearly, say repeat."
+Patriots Fan,quit,
+Patriots Fan,quit,
+SpotCrime,"""Alexa ask spot crime about recent crime in two zero zero zero one""","Sorry, You can't send announcements from this device yet."
+SpotCrime,quit,
+SpotCrime,"""Alexa ask spot crime for crime in two zero zero zero one""","Sorry, You can't send announcements from this device yet."
+SpotCrime,quit,
+SpotCrime,quit,
+SpotCrime,"""Alexa ask spot crime to report on recent crime in two zero zero zero one""","Sorry, You can't send announcements from this device yet."
+SpotCrime,quit,
+SpotCrime,quit,
+The Rookie's Guide to the NFL,"""Alexa, open NFL""","Hmm, I don't know that."
+The Rookie's Guide to the NFL,quit,
+The Rookie's Guide to the NFL,"""Alexa, launch NFL""",hit me
+The Rookie's Guide to the NFL,quit,
+The Rookie's Guide to the NFL,quit,
+The Rookie's Guide to the NFL,"""Alexa, start NFL""","This might answer your question: The NFL regular season will start on Thursday, September 5, 2019."
+The Rookie's Guide to the NFL,quit,
+The Rookie's Guide to the NFL,quit,
+NBC4 Washington,"""Alexa, open Washington Post""","Welcome to The Washington Post. We have three daily shows. Just ask me for news, politics, or a story from history. What would you like to do?"
+NBC4 Washington,quit,
+Consumer Reports,"""Alexa, ask Consumer Reports for the top rated washing machine""",<Audio only response>
+Consumer Reports,quit,
+Consumer Reports,"""Alexa, ask Consumer Reports about current recalls""","Hmm, I don't know that."
+Consumer Reports,quit,
+Consumer Reports,quit,
+Consumer Reports,"""Alexa, ask Consumer Reports for the latest news""",Here's your news.
+Consumer Reports,quit,
+Consumer Reports,quit,
+Malayala Manorama,"""Alexa, ask manorama for kerala news""",You have Malayala Manorama enabled. Do you want to open it?
+Malayala Manorama,Yes,<Audio only response>
+Malayala Manorama,"""Alexa, ask manorama for kerala news""",You have Malayala Manorama enabled. Do you want to open it?
+Malayala Manorama,quit,
+Malayala Manorama,"""Alexa, ask manorama to read national news""",You have Malayala Manorama enabled. Do you want to open it?
+Malayala Manorama,Yes,<Audio only response>
+Malayala Manorama,"""Alexa, ask manorama to read national news""",You have Malayala Manorama enabled. Do you want to open it?
+Malayala Manorama,quit,
+Malayala Manorama,quit,
+Malayala Manorama,"""Alexa, ask manorama for entertainment news""",Here's your news.
+Malayala Manorama,quit,
+Malayala Manorama,quit,
+SYFY WIRE,"""Alexa, Start Syfy Wire.""",Syfy was created in 1992 and Wire formed in October 1976.
+SYFY WIRE,quit,
+SYFY WIRE,"""Alexa, ask Syfy Wire for best of syfy wire""","Sorry, I don't know that."
+SYFY WIRE,quit,
+SYFY WIRE,quit,
+SYFY WIRE,"""Alexa, ask Syfy Wire to play exclusives""","Sorry, I don't know that one."
+SYFY WIRE,quit,
+SYFY WIRE,quit,
+KYW Newsradio 3 Things To Know,"""Alexa, open c. b. s. three philly""",You have BCCS Law enabled. Do you want to open it?
+KYW Newsradio 3 Things To Know,Yes,"We will attend the MARQUES meeting in Paris in September. We hope to see you there. The following information might interest you: Generally, the Philippine Data Privacy Law applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing including those personal information controllers and processors who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office, branch or agency in the Philippines."
+KYW Newsradio 3 Things To Know,"""Alexa, open c. b. s. three philly""",You have BCCS Law enabled. Do you want to open it?
+KYW Newsradio 3 Things To Know,quit,
+n. t. v.,"""alexa ask n. t. v.""","Hi,Welcome to NTV News. Developed by SANGAM Artificial Intelligence Company. I can help you to know more about Business News, Sports News, Technology News and Entertainment News. Today's Breaking News"
+n. t. v.,quit,"Sorry, I'm having trouble accessing your n. t. v. skill right now"
+n. t. v.,"""alexa ask n. t. v.""","Hi,Welcome to NTV News. Developed by SANGAM Artificial Intelligence Company. I can help you to know more about Business News, Sports News, Technology News and Entertainment News. Today's Breaking News"
+n. t. v.,"""business news""",<Short audio>
+n. t. v.,quit,"Sorry, I'm having trouble accessing your n. t. v. skill right now"
+n. t. v.,"""alexa ask n. t. v.""","Hi,Welcome to NTV News. Developed by SANGAM Artificial Intelligence Company. I can help you to know more about Business News, Sports News, Technology News and Entertainment News. Today's Breaking News"
+n. t. v.,"""sports news""","1 LIVE Cricket Score, India vs South Africa 2018, 3rd Test, Day 2 in Johannesburg: India Look for Quick Wickets, 2 Australian Open 2018: Caroline Wozniacki overcomes late wobble to defeat Elise Mertens and reach final, 3 Virat Kohli's Show of Intent Reminiscent of Sourav Ganguly's Gritty Wanderers Comeback."
+n. t. v.,quit,"Sorry, I'm having trouble accessing your n. t. v. skill right now"
+Biden's Briefing,"""Alexa, open Biden's Briefing""",<Short audio>
+Biden's Briefing,quit,
+Biden's Briefing,"""Alexa, ask Biden's Briefing to play technology""",You have Biden's Briefing enabled. Do you want to open it?
+Biden's Briefing,Yes,<Short audio>
+Biden's Briefing,"""Alexa, ask Biden's Briefing to play technology""","Joe Biden has selected 35 articles about technology. I'll now play all of them starting with the most recent. At anytime you can say Alexa pause, play, resume, stop, next or previous."
+Biden's Briefing,quit,
+Biden's Briefing,quit,
+Biden's Briefing,"""Alexa, ask Biden's Briefing to play science""",You have Biden's Briefing enabled. Do you want to open it?
+Biden's Briefing,Yes
+Biden's Briefing,"""Alexa, ask Biden's Briefing to play science""",You have Biden's Briefing enabled. Do you want to open it?
+Biden's Briefing,quit,
+Biden's Briefing,quit,
+The San Diego Union-Tribune,"""Alexa, ask Voice of San Diego to read me the morning report.""","Sorry, I'm not sure."
+The San Diego Union-Tribune,quit,
+Cowboys Fan,"""Alexa, open Cowboys fan.""","Ok, Here's Cowboys Fan"
+Cowboys Fan,quit,
+Cowboys Fan,"""Alexa, ask Cowboys fan for a flash briefing on the Cowboys.""","Ok, Here's Cowboys Fan"
+Cowboys Fan,quit,
+Cowboys Fan,quit,
+Cowboys Fan,"""Alexa, ask Cowboys fan about the previous game score.""","Ok, Here's Cowboys Fan"
+Cowboys Fan,quit,
+Cowboys Fan,quit,
+WHNT Flash Briefing,"""Alexa, roll tide""",You have TideGuide enabled. Do you want to open it?
+WHNT Flash Briefing,Yes,"Welcome to tide guide. I can give you the high and low tide times for many coastal locations. Supported phrases include: What are the high tides for Santa Barbara? What are the tides for Los Angeles on Tuesday? What is the next low tide in Boston? and set my default city and state to Miami, Florida. If you set a default city and state you simply have to say, What are the tides today. Which city or location would you like the tide report for?"
+WHNT Flash Briefing,"""Alexa, roll tide""",You have TideGuide enabled. Do you want to open it?
+WHNT Flash Briefing,quit,
+Time Machine,"""Alexa, open Time Machine""","Sorry, I’m not sure about that."
+Time Machine,quit,
+Time Machine,"""Alexa, start Time Machine""","Sorry, I’m not sure about that."
+Time Machine,quit,
+Time Machine,quit,
+Time Machine,"""Alexa, talk to Time Machine""","Hmm, I'm not sure."
+Time Machine,quit,
+Time Machine,quit,
+8 News Now CBS Las Vegas,"""Alexa, launch las vegas facts""",Here's your fact: In nineteen thirty one Gambling was legalized in Nevada.
+8 News Now CBS Las Vegas,quit,
+College Football Roster Info,"""Alexa, ask College Football Info who wears number Two for Alabama.""","Sorry, I’m not sure about that."
+College Football Roster Info,quit,
+College Football Roster Info,"""Alexa, ask College Football Info who is Watson for Clemson.""",You have College Football Rankings enabled. Do you want to open it?
+College Football Roster Info,Yes,"Welcome to College Football Rankings! You can ask to hear any number of the top one to twenty five teams. If you need help, say Help!"
+College Football Roster Info,"""Alexa, ask College Football Info who is Watson for Clemson.""","The top 25 teams are: # 1 Alabama, # 2 Clemson , # 3 Notre Dame , # 4 Michigan , # 5 Georgia , # 6 Oklahoma , # 7 West Virginia , # 8 Washington State , # 9 Ohio State , # 10 LSU , # 11 UCF , # 12 Syracuse , # 13 Texas , # 14 Utah State , # 15 Florida , # 16 Penn State , # 17 Washington , # 18 Iowa State , # 19 Cincinnati , # 20 Kentucky , # 21 Utah , # 22 Boston College , # 23 Boise State , # 24 Northwestern , # 25 Mississippi State"
+College Football Roster Info,quit,
+College Football Roster Info,quit,
+College Football Roster Info,"""Alexa, ask College Football Info about Daniel Jones for Duke.""",You have College Football Rankings enabled. Do you want to open it?
+College Football Roster Info,Yes,"Welcome to College Football Rankings! You can ask to hear any number of the top one to twenty five teams. If you need help, say Help!"
+College Football Roster Info,"""Alexa, ask College Football Info about Daniel Jones for Duke.""","The top 25 teams are: # 1 Alabama, # 2 Clemson , # 3 Notre Dame , # 4 Michigan , # 5 Georgia , # 6 Oklahoma , # 7 West Virginia , # 8 Washington State , # 9 Ohio State , # 10 LSU , # 11 UCF , # 12 Syracuse , # 13 Texas , # 14 Utah State , # 15 Florida , # 16 Penn State , # 17 Washington , # 18 Iowa State , # 19 Cincinnati , # 20 Kentucky , # 21 Utah , # 22 Boston College , # 23 Boise State , # 24 Northwestern , # 25 Mississippi State"
+College Football Roster Info,quit,
+College Football Roster Info,quit,
+World Radio,"""Alexa, ask World Radio play World and Everything""","Hmm. Maybe the skill, World Radio, can help. Do you want to try it?"
+World Radio,quit,
+World Radio,"""Alexa, ask world radio play yesterday's episode""",Getting KCRW World News station from iHeart Radio
+World Radio,quit,
+World Radio,quit,
+World Radio,"""Alexa, ask world radio play Listening In""",You have NPR enabled. Do you want to open it?
+World Radio,Yes,"Welcome to NPR. Tell me the name of the station you want to hear, or say ""browse by location""."
+World Radio,"""Alexa, ask world radio play Listening In""","I'm sorry, I can't seem to find the stream you were playing."
+World Radio,quit,
+World Radio,quit,
+92.3 The Fan,"""Alexa, open Cleveland Browns.""","Hmm, I don't know that."
+92.3 The Fan,quit,
+NoAgenda,"""Alexa, ask No Agenda to play the latest episode.""","Hmm. Maybe the skill, No Agenda, can help. Do you want to try it?"
+NoAgenda,quit,
+Radio Free Cybertron Daily News,"""Alexa, open give me transformers quotes""","You gotta have faith Prime, Maybe not in who we are, but who we can be."
+Radio Free Cybertron Daily News,quit,
+Swedish Radio Flash Briefing,"""Alexa, open Swedish Radio.""","Sorry, I’m not sure about that."
+Swedish Radio Flash Briefing,quit,
+News 5 Cleveland,"""Alexa, open Cleveland Browns.""","Sorry, I’m not sure about that."
+News 5 Cleveland,quit,
+The Dallas Morning News,"""Alexa, play Dallas Cowboys""",Schedule information for the next Cowboys game is not yet available.
+The Dallas Morning News,quit,
+vrt,"""Alexa, open Studio Brussel""",You have Yoga Studio enabled. Do you want to open it?
+vrt,Yes,"Welcome to the Yoga Studio. You can say start yoga for 10 minutes, start for 30 minutes, etc and I will try to find a session close to that length."
+vrt,"""Alexa, open Studio Brussel""","You can say start yoga for 10 minutes, start for 30 minutes, etc."
+vrt,quit,
+Phase of the moon,"""Alexa open phase of moon""",I will ask you 1 question. Let's begin. Question 1. What is the current Phase of the Moon? 1. Wanning Cresent. 2. Third Quarter. 3. Full. 4. Waxing Cresent. 5. Wanning Gibbous. 6. First Quarter. 7. Waxing Gibbous. 8. New.
+Phase of the moon,quit,
+Phase of the moon,"""Alexa start phase of moon""",I will ask you 1 question. Let's begin. Question 1. What is the current Phase of the Moon? 1. Waxing Gibbous. 2. Third Quarter. 3. New. 4. Waxing Cresent. 5. First Quarter. 6. Full. 7. Wanning Cresent. 8. Wanning Gibbous.
+Phase of the moon,quit,
+Phase of the moon,quit,
+Phase of the moon,"""Alexa open phase of moon""",I will ask you 1 question. Let's begin. Question 1. What was the last Phase of the Moon? 1. Wanning Cresent. 2. Wanning Gibbous. 3. Full. 4. Waxing Cresent. 5. New. 6. First Quarter. 7. Waxing Gibbous. 8. Third Quarter.
+Phase of the moon,"""start new game""",I will ask you 1 question. Let's begin. Question 1. What is the current Phase of the Moon? 1. Wanning Gibbous. 2. First Quarter. 3. Wanning Cresent. 4. New. 5. Full. 6. Waxing Gibbous. 7. Waxing Cresent. 8. Third Quarter.
+Phase of the moon,quit,
+Market News,"""Alexa, ask Market for news""",You have CNBC enabled. Do you want to open it?
+Market News,Yes,"Welcome back to CNBC. You can ask for things like quotes, business news, market updates or listen to the CNBC live audio stream. What can I help you with?"
+Market News,"""Alexa, ask Market for news""",Here's your CNBC news update.
+Market News,quit,
+Market News,"""Alexa, ask Market for anything new""",You have CNBC enabled. Do you want to open it?
+Market News,Yes,"Welcome back to CNBC. As of 1:24 pm EST, the markets are up. What can I help you with?"
+Market News,"""Alexa, ask Market for anything new""","I'm sorry, the CNBC skill doesn't support that. I can help with things like quotes, business news, market updates, or CNBC podcasts. What would you like?"
+Market News,quit,
+Market News,quit,
+Market News,"""Alexa, ask Market what's going on""","Hmm, I don't know that."
+Market News,quit,
+Market News,quit,
+Live News,"""Alexa, open Live News""","Hmm, I don't know that."
+Live News,quit,
+Live News,"""Alexa, open Live News and show me Bloomberg""",You have Bloomberg enabled. Do you want to open it?
+Live News,Yes,"Welcome to Bloomberg. You can hear Bloomberg Market Minute, or ask what can I say for more options."
+Live News,"""Alexa, open Live News and show me Bloomberg""","Sorry, I'm having trouble accessing your Bloomberg skill right now"
+Live News,quit,
+Live News,quit,
+Live News,"""Alexa, open Live News and launch Aljazeera""","Hmm, I'm not sure."
+Live News,quit,
+Live News,quit,
+NBC Sports Update,"""Alexa, what's my Flash Briefing?""",Here's your news.
+NBC Sports Update,quit,
+NBC Sports Update,"""Alexa, what's in the news?""",Here's your news.
+NBC Sports Update,quit,
+NBC Sports Update,quit,
+NBC Sports Update,"""Alexa, open ESPN.""",You have ESPN enabled. Do you want to open it?
+NBC Sports Update,Yes,<Audio only response>
+NBC Sports Update,"""Alexa, open ESPN.""",You have ESPN enabled. Do you want to open it?
+NBC Sports Update,quit,
+NBC Sports Update,quit,
+News 95.5 AM 750 WSB Radio Station,"""Alexa, play w. s. b.""",Getting your News 95.5 & AM 750 WSB station from iHeart Radio
+News 95.5 AM 750 WSB Radio Station,quit,
+News 95.5 AM 750 WSB Radio Station,"""Alexa, ask iHeart for Z100""","Ok, Here's Call Sign"
+News 95.5 AM 750 WSB Radio Station,quit,
+News 95.5 AM 750 WSB Radio Station,quit,
+"WRAL News - Raleigh, Durham, Fayetteville","""Alexa ask WRAL to give me the news""",Here's your news.
+"WRAL News - Raleigh, Durham, Fayetteville",quit,
+"WRAL News - Raleigh, Durham, Fayetteville","""Alexa ask WRAL for the forecast""","In Boulder, it's 59 degrees Fahrenheit with mostly cloudy skies. Today, you can look for intermittent clouds, with a high of 65 degrees and a low of 42 degrees."
+"WRAL News - Raleigh, Durham, Fayetteville",quit,
+"WRAL News - Raleigh, Durham, Fayetteville",quit,
+"WRAL News - Raleigh, Durham, Fayetteville","""Alexa open WRAL""","Sorry, I don't know that one."
+"WRAL News - Raleigh, Durham, Fayetteville",quit,
+"WRAL News - Raleigh, Durham, Fayetteville",quit,
+NBC Connecticut,"""Alexa, ask NBC News what's trending""",Here's your news.
+NBC Connecticut,quit,
+Dinamalar Latest News,"""""Alexa open tamil radio""""",Welcome to the Tamil Radio. you can ask to play the audio to begin the podcast.
+Dinamalar Latest News,quit,
+WTOC News,"""Alexa, open Georgia News""",Here's your news.
+WTOC News,quit,
+Trump Golf,"""Alexa ask Trump Golf for an update""","Our genius president has golfed 149 times, costing taxpayers more than 79 million dollars"
+Trump Golf,quit,
+Trump Golf,"""Alexa, ask Trump Golf how many times he's gone golfing""",You have Trump Golf enabled. Do you want to open it?
+Trump Golf,Yes,"Our genius president has golfed 149 times, costing taxpayers more than 79 million dollars"
+Trump Golf,"""Alexa, ask Trump Golf how many times he's gone golfing""",You have Trump Golf enabled. Do you want to open it?
+Trump Golf,quit,
+Trump Golf,quit,
+Trump Golf,"""Alexa, ask PGA TOUR for the leaderboard.""","This might answer your question: Tiger Woods won the 2019 Masters with a score of 13 under par. Dustin Johnson, Brooks Koepka, and Xander Schauffele finished tied for second place at 12 under par. Jason Day, Tony Finau, Francesco Molinari, and Webb Simpson tied for fifth at 11 under par."
+Trump Golf,quit,
+Trump Golf,quit,
+Share The Facts,"""Alexa, ask the fact-checkers if Donald Trump opposed the war in Iraq?""","Sorry, I'm not sure."
+Share The Facts,quit,
+Share The Facts,"""Alexa, ask the fact-checkers if Hillary Clinton viciously attacked women ab... ""","Sorry, I'm not sure."
+Share The Facts,quit,
+Share The Facts,quit,
+Share The Facts,"""Alexa, ask the fact-checkers if marijuana use among Colorado high school st... """,
+Share The Facts,quit,
+Share The Facts,quit,
+KIRO Radio 97.3 FM Latest News,"""Alexa, open seattle's morning news""","Sorry, I don't know that one."
+KIRO Radio 97.3 FM Latest News,quit,
+News4Jax News - WJXT Jacksonville (Flash Briefing),"""Alexa, open News 4 Jax""","Sorry, I don't know that."
+News4Jax News - WJXT Jacksonville (Flash Briefing),quit,
+Pocket,"""Alexa, tell Pocket to get articles.""","Hmm. Maybe the skill, Pocket, can help. Do you want to try it?"
+Pocket,quit,
+Pocket,"""Alexa, tell Pocket to play the first article.""","Hmm. Maybe the skill, Pocket, can help. Do you want to try it?"
+Pocket,quit,
+Pocket,quit,
+Pocket,"""Alexa, tell Pocket to play the article about 'Polar Bears.'""","Hmm. Maybe the skill, Pocket, can help. Do you want to try it?"
+Pocket,quit,
+Pocket,quit,
+WFSB-TV Channel 3,"""Alexa, ask Boston Baseball if Boston is in first place.""","Hmm. Maybe the skill, Boston Red Sox Unofficial, can help. Do you want to try it?"
+WFSB-TV Channel 3,quit,
+RotoWire,"""Alexa, what's the latest baseball news from RotoWire?""","Here's an update on Major League Baseball: On Tuesday, April 16, the New York Yankees placed first baseman Greg Bird on the 10-day injured list with a torn left plantar fascia. The Los Angeles Angels announced Shohei Ohtani was cleared to face live pitching in one week."
+RotoWire,quit,
+RotoWire,"""Alexa, ask Rotowire for the latest fantasy basketball news.""","Sorry, I don't know that one."
+RotoWire,quit,
+RotoWire,quit,
+RotoWire,"""Alexa, read me recent NHL headlines from RotoWire.""","Sorry, I'm not sure."
+RotoWire,quit,
+RotoWire,quit,
+India News,"""Alexa Open India News""",India News contains mature content that may not be suitable for all ages
+India News,quit,
+India News,"""Alexa Open India News""",India News contains mature content that may not be suitable for all ages
+India News,"""What is news at Mumbai""",Would you like to continue?
+India News,quit,
+India News,"""Alexa Open India News""",India News contains mature content that may not be suitable for all ages
+India News,"""Help""","For Help, please visit the help pages on the Amazon web site."
+India News,quit,
+Unofficial Ynet News,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Unofficial Ynet News,quit,
+Unofficial Ynet News,"""Alexa, what's in the news?""",Here's your news.
+Unofficial Ynet News,quit,
+Unofficial Ynet News,quit,
+Unofficial Ynet News,"""Alexa, ask Israeli Radio to play Galgalatz""",I could not find a station named galgalatzCannotFindStationPromptMusic.PlayStationIntenten_USdefault3fdf983c-c996-4146-a09d-365e983065151Adm-20180212_202339-1
+Unofficial Ynet News,quit,
+Unofficial Ynet News,quit,
+Soccer Nerd,"""Alexa, ask Soccer Nerd who does Chelsea play next""",You have Soccer Nerd enabled. Do you want to open it?
+Soccer Nerd,Yes,<Audio only response>
+Soccer Nerd,"""Alexa, ask Soccer Nerd who does Chelsea play next""",You have Soccer Nerd enabled. Do you want to open it?
+Soccer Nerd,quit,
+Soccer Nerd,"""Alexa, ask Soccer Nerd who did Barcelona play last""",You have Soccer Nerd enabled. Do you want to open it?
+Soccer Nerd,Yes,<Audio only response>
+Soccer Nerd,"""Alexa, ask Soccer Nerd who did Barcelona play last""",You have Soccer Nerd enabled. Do you want to open it?
+Soccer Nerd,quit,
+Soccer Nerd,quit,
+Soccer Nerd,"""Alexa open soccer updates""","Welcome to Soccer Nerd. You can ask me questions about soccer games. Try, who did Barcelona play last?"
+Soccer Nerd,quit,
+Soccer Nerd,quit,
+49ers Update - Powered by 30sec,"""Alexa, Give me forty niners update in thirty sec""",You have 5-Minute Plank Workout enabled. Do you want to open it?
+49ers Update - Powered by 30sec,Yes,"Welcome to 5-minute plank workout. You can see how to perform exercises at your Alexa app. Take a push up position and say ""ready"" to start"
+49ers Update - Powered by 30sec,"""Alexa, Give me forty niners update in thirty sec""",You have 5-Minute Plank Workout enabled. Do you want to open it?
+49ers Update - Powered by 30sec,quit,
+49ers Update - Powered by 30sec,"""Alexa, what's my Flash Briefing?""",Here's your news.
+49ers Update - Powered by 30sec,quit,
+49ers Update - Powered by 30sec,quit,
+49ers Update - Powered by 30sec,"""Alexa, open 49ers Fan.""","Sorry, I don't know that one."
+49ers Update - Powered by 30sec,quit,
+49ers Update - Powered by 30sec,quit,
+Hacker News,"""Alexa, open Hacker News,""","Hmm, I don't know that."
+Hacker News,quit,
+Hacker News,"""Alexa, ask Hacker News for top stories.""","Hmm. Maybe the skill, Hacker News, can help. Do you want to try it?"
+Hacker News,quit,
+Hacker News,quit,
+Hacker News,"""Alexa, tell Hacker News to read new headlines.""","Sorry, I don't know that one."
+Hacker News,quit,
+Hacker News,quit,
+Powerball Numbers,"""Alexa, open power ball numbers""","Hmm, I found a few skills that might help."
+Powerball Numbers,quit,
+Powerball Numbers,"""Alexa, open mega millions""","Sorry, I don't know that one."
+Powerball Numbers,quit,
+Powerball Numbers,quit,
+Powerball Numbers,"""Alexa, open Powerball numbers""",Powerball Numbers contains mature content that may not be suitable for all ages
+Powerball Numbers,quit,
+Powerball Numbers,quit,
+Game Lines,"""Alexa, ask game lines for Steelers""",You have Game Lines enabled. Do you want to open it?
+Game Lines,Yes,"Welcome to Game Lines, find the line for an upcoming sport event. For example, you can ask for 'the steelers,' or 'the Pittsburgh basketball game.'"
+Game Lines,"""Alexa, ask game lines for Steelers""",You have Game Lines enabled. Do you want to open it?
+Game Lines,quit,
+Game Lines,"""Alexa, ask game lines for West Virginia basketball team""",You have Game Lines enabled. Do you want to open it?
+Game Lines,Yes,"Welcome to Game Lines, find the line for an upcoming sport event. For example, you can ask for 'the steelers,' or 'the Pittsburgh basketball game.'"
+Game Lines,"""Alexa, ask game lines for West Virginia basketball team""",You have Game Lines enabled. Do you want to open it?
+Game Lines,quit,
+Game Lines,quit,
+Game Lines,"""Alexa, ask game lines for Milwaukee NBA game""",You have Game Lines enabled. Do you want to open it?
+Game Lines,Yes,"Welcome to Game Lines, find the line for an upcoming sport event. For example, you can ask for 'the steelers,' or 'the Pittsburgh basketball game.'"
+Game Lines,"""Alexa, ask game lines for Milwaukee NBA game""","Sorry, I couldn't find odds for the alexa, ask game."
+Game Lines,quit,
+Game Lines,quit,
+Baltimore Sun,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Baltimore Sun,quit,
+Baltimore Sun,"""Alexa, what's in the news?""",Here's your news.
+Baltimore Sun,quit,
+Baltimore Sun,quit,
+Baltimore Sun,"""Alexa, open w. b. a. l.""","Sorry, I don't know that one."
+Baltimore Sun,quit,
+Baltimore Sun,quit,
+San Antonio Express News,"""Alexa, open KSAT""","Sorry, I don't know that."
+San Antonio Express News,quit,
+Trump Bot,"""Alexa, ask Trump Bot what is Trump's latest tweet.""","This might answer your question: This morning at 8:11am, @realDonaldTrump tweeted: ""So weird to watch Crazy Bernie on @FoxNews. Not surprisingly, @BretBaier and the 'audience' was so smiley and nice. Very strange, and now we have @donnabrazile?""."
+Trump Bot,quit,
+Trump Bot,"""Alexa, ask Trump Bot for latest tweet.""","Welcome to Trump Bot. Trump Bot inform you of the latest Trump's tweet. Try saying, what is latest tweet."
+Trump Bot,quit,
+Trump Bot,quit,
+Trump Bot,"""Alexa, open Trump Bot.""",You have Trump Bot enabled. Do you want to open it?
+Trump Bot,Yes,"Welcome to Trump Bot. Trump Bot inform you of the latest Trump's tweet. Try saying, what is latest tweet."
+Trump Bot,"""Alexa, open Trump Bot.""",You have Trump Bot enabled. Do you want to open it?
+Trump Bot,quit,
+Trump Bot,quit,
+Maryland Fishing Report,"""Alexa, open Maryland Fishing Report.""","Hmm, I don't know that."
+Maryland Fishing Report,quit,
+Maryland Fishing Report,"""Alexa, ask Maryland fishing report to read the overview.""",<Audio only response>
+Maryland Fishing Report,quit,
+Maryland Fishing Report,quit,
+Maryland Fishing Report,"""Alexa, tell me about the upper chesapeake bay from maryland fishing report""",
+Maryland Fishing Report,quit,
+Maryland Fishing Report,quit,
+What's Up With Trump,"""Alexa, ask What's Up Trump for recent tweets""",You have Trump Bot enabled. Do you want to open it?
+What's Up With Trump,Yes,"Welcome to Trump Bot. Trump Bot inform you of the latest Trump's tweet. Try saying, what is latest tweet."
+What's Up With Trump,"""Alexa, ask What's Up Trump for recent tweets""","President Trump's latest tweet is following. So weird to watch Crazy Bernie on Not surprisingly, and the “audience” was so smiley and nice. Very strange, and now we have"
+What's Up With Trump,quit,
+What's Up With Trump,"""Alexa, ask What's Up Trump for North Korea Related Tweets""",You have Trump Bot enabled. Do you want to open it?
+What's Up With Trump,Yes,"Welcome to Trump Bot. Trump Bot inform you of the latest Trump's tweet. Try saying, what is latest tweet."
+What's Up With Trump,"""Alexa, ask What's Up Trump for North Korea Related Tweets""","President Trump's latest tweet is following. So weird to watch Crazy Bernie on Not surprisingly, and the “audience” was so smiley and nice. Very strange, and now we have"
+What's Up With Trump,quit,
+What's Up With Trump,quit,
+What's Up With Trump,"""Alexa, ask What's Up Trump for recent Hillary Clinton Related Tweets""","Sorry, I don't know that."
+What's Up With Trump,quit,
+What's Up With Trump,quit,
+Fantasy Football ADP,"""Alexa, open fantasy football adp""","I'm sorry, but you have to have a head to head fantasy league connected to your Yahoo account to use this skill. Your league is not a head to head league.Users with points leagues and Pick ‘Em are currently not able to check their teams and games using this skill.In order to use this skill you'll need to join a head to head league and setup a team using the Yahoo Fantasy Football mobile app or website. Once you've done that, come back and I'll be happy to help."
+Fantasy Football ADP,quit,
+Fantasy Football ADP,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Fantasy Football ADP,quit,
+Fantasy Football ADP,quit,
+Fantasy Football ADP,"""Alexa, ask Fantasy Football Nerd for the latest news.""",You have Yahoo Fantasy Football enabled. Do you want to open it?
+Fantasy Football ADP,Yes,"I'm sorry, but you have to have a head to head fantasy league connected to your Yahoo account to use this skill. Your league is not a head to head league.Users with points leagues and Pick ‘Em are currently not able to check their teams and games using this skill.In order to use this skill you'll need to join a head to head league and setup a team using the Yahoo Fantasy Football mobile app or website. Once you've done that, come back and I'll be happy to help."
+Fantasy Football ADP,"""Alexa, ask Fantasy Football Nerd for the latest news.""",You have Yahoo Fantasy Football enabled. Do you want to open it?
+Fantasy Football ADP,quit,
+Fantasy Football ADP,quit,
+NBC 6 News - South Florida,"""Alexa, open Local 10""","Sorry, I’m not sure about that."
+NBC 6 News - South Florida,quit,
+Tide pooler,"""Alexa ask Tide Pooler when is the high tide in Seattle on Saturday""","Today, Seattle has high tide at 3:35 AM and high tide at 3:15 PM."
+Tide pooler,quit,
+Tide pooler,"""Alexa ask Tide Pooler when is the nexttide in Seattle on Saturday""","The local sunset time in Seattle for Saturday, April 13th was 7:57 p.m."
+Tide pooler,quit,
+Tide pooler,quit,
+Tide pooler,"""Alexa ask Tide Pooler tide information for Seattle on Saturday""",You have TideGuide enabled. Do you want to open it?
+Tide pooler,Yes,"Welcome to tide guide. I can give you the high and low tide times for many coastal locations. Supported phrases include: What are the high tides for Santa Barbara? What are the tides for Los Angeles on Tuesday? What is the next low tide in Boston? and set my default city and state to Miami, Florida. If you set a default city and state you simply have to say, What are the tides today. Which city or location would you like the tide report for?"
+Tide pooler,"""Alexa ask Tide Pooler tide information for Seattle on Saturday""","The high tides for Saturday in seattle Washington are 05:50 AM, and 07:05 PM, at elevations of 11.8, and 11.4 feet. The low tide is 12:26 PM, at an elevation of -0.9 feet.."
+Tide pooler,quit,
+Tide pooler,quit,
+Houston Texans Flash Briefing,"""Alexa, ask Houston Baseball if Houston is in first place.""","Hmm. Maybe the skill, Houston Baseball, can help. Do you want to try it?"
+Houston Texans Flash Briefing,quit,
+UGA Roster,"""Alexa, ask UGA Roster who is Jacob Eason?""","Sorry, I don't know that."
+UGA Roster,quit,
+UGA Roster,"""Alexa, ask UGA Roster who is Jacob Eason?""","Sorry, I don't know that."
+UGA Roster,"""What is Nick Chubb's height?""",Nick Chubb is 5 feet 11 inches tall and weighs 227 pounds.
+UGA Roster,quit,
+UGA Roster,"""Alexa, ask UGA Roster who is Jacob Eason?""","Sorry, I’m not sure about that."
+UGA Roster,"""Tell me more.""","As a noun, 'more' can mean English statesman who opposed Henry VIII's divorce from Catherine of Aragon and was imprisoned and beheaded; recalled for his concept of Utopia, the ideal state. As an adjective, 'more' can mean (comparative of `much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree."
+UGA Roster,quit,
+VOA News in Chinese,"""Alexa, ask Chinese Music Player to play""",You have Mantra Player - Mantras for all enabled. Do you want to open it?
+VOA News in Chinese,Yes,"Welcome to the Mantra Player. You can say, play mantra to begin the mantra player."
+VOA News in Chinese,"""Alexa, ask Chinese Music Player to play""",You have Mantra Player - Mantras for all enabled. Do you want to open it?
+VOA News in Chinese,quit,
+FOX6 WITI Milwaukee News,"""Alexa, ask culver's what is the flavor of the day?""","Hmm. Maybe the skill, Culver's, can help. Do you want to try it?"
+FOX6 WITI Milwaukee News,quit,
+Games Back,"""Alexa, open Games Back.""","Hmm, I'm not sure."
+Games Back,quit,
+Games Back,"""Alexa, ask Games Back for the Indians.""","This might answer your question: I know about over 1,400 Cleveland Indians baseball games including White Sox , Indians on August 12, 1901, Athletics , Indians on September 9, 1901, Athletics , Indians on September 12, 1901, and Browns , Indians on September 12, 1902."
+Games Back,quit,
+Games Back,quit,
+Games Back,"""Alexa, open Games Back for New York.""","Sorry, I don't know that one."
+Games Back,quit,
+Games Back,quit,
+Beat Navy,"""Alexa, ask beat navy when is army navy""","Hmm, I don't know that."
+Beat Navy,quit,
+Beat Navy,"""Alexa, ask beat navy when is the game""","Hmm, I don't know that one."
+Beat Navy,quit,
+Beat Navy,quit,
+Beat Navy,"""Alexa, ask beat navy how many days""","Hmm, I'm not sure."
+Beat Navy,quit,
+Beat Navy,quit,
+LinkedIn,"""Alexa, open LinkedIn""",
+LinkedIn,quit,
+LinkedIn,"""Alexa, what's the latest from LinkedIn""",
+LinkedIn,quit,
+LinkedIn,quit,
+LinkedIn,"""Alexa, launch LinkedIn""",
+LinkedIn,quit,
+LinkedIn,quit,
+World Cup Daily,"""Alexa, open World Cup Daily""","el balance de la selección de Colombia, impetu y coraje. Ganan en Florida"
+World Cup Daily,quit,
+World Cup Daily,"""Alexa, open World Cup Daily""","el balance de la selección de Colombia, impetu y coraje. Ganan en Florida"
+World Cup Daily,"""get me World Cup Daily""",You have World Cup Daily enabled. Do you want to open it?
+World Cup Daily,quit,
+World Cup Daily,"""Alexa, open World Cup Daily""","el balance de la selección de Colombia, impetu y coraje. Ganan en Florida"
+World Cup Daily,"""give me World Cup Daily""",You have World Cup Daily enabled. Do you want to open it?
+World Cup Daily,quit,
+KSL TV Flash Briefing,"""Alexa, play k. s. l. flash cast.""",KSL Newsradio from TuneIn.
+KSL TV Flash Briefing,quit,
+LastTrumpTweet,"""Alexa, ask LastTrumpTweet to read last Trumps tweet""",You have Trump Bot enabled. Do you want to open it?
+LastTrumpTweet,Yes,"Welcome to Trump Bot. Trump Bot inform you of the latest Trump's tweet. Try saying, what is latest tweet."
+LastTrumpTweet,"""Alexa, ask LastTrumpTweet to read last Trumps tweet""","President Trump's latest tweet is following. So weird to watch Crazy Bernie on Not surprisingly, and the “audience” was so smiley and nice. Very strange, and now we have"
+LastTrumpTweet,quit,
+LastTrumpTweet,"""Alexa, ask LastTrumpTweet for a new tweet""",You have Twitter Reader enabled. Do you want to open it?
+LastTrumpTweet,Yes,"Welcome to Twitter Reader! I can tell you what is happening, can read your latest mentions, the last tweets you liked, or were posted by you. I can also search for trends by city. When I am reading out a list of tweets or trends, you can ask me to tell you more about the tweet or trend by number. Now, how can I help you?"
+LastTrumpTweet,"""Alexa, ask LastTrumpTweet for a new tweet""","Sorry, I couldn't tell which tweet you wanted more details on. Please try something else, or ask for help to hear more things you can say. What would you like?"
+LastTrumpTweet,quit,
+LastTrumpTweet,quit,
+LastTrumpTweet,"""Alexa, ask LastTrumpTweet to read a tweet""",You have Twitter Reader enabled. Do you want to open it?
+LastTrumpTweet,Yes,"Welcome to Twitter Reader! I can tell you what is happening, can read your latest mentions, the last tweets you liked, or were posted by you. I can also search for trends by city. When I am reading out a list of tweets or trends, you can ask me to tell you more about the tweet or trend by number. Now, how can I help you?"
+LastTrumpTweet,"""Alexa, ask LastTrumpTweet to read a tweet""","Sorry, I couldn't tell which tweet you wanted more details on. Please try something else, or ask for help to hear more things you can say. What would you like?"
+LastTrumpTweet,quit,
+LastTrumpTweet,quit,
+News 6 WKMG-TV News and Weather - Orlando,"""Alexa, open News 6""","Sorry, I’m not sure about that."
+News 6 WKMG-TV News and Weather - Orlando,quit,
+News 6 WKMG-TV News and Weather - Orlando,"""Alexa, ask News 6 for the news""",Here's your news.
+News 6 WKMG-TV News and Weather - Orlando,quit,
+News 6 WKMG-TV News and Weather - Orlando,quit,
+News 6 WKMG-TV News and Weather - Orlando,"""Alexa, ask News 6 for the weather""",You have AccuWeather enabled. Do you want to open it?
+News 6 WKMG-TV News and Weather - Orlando,Yes,"Hello! Welcome to AccuWeather. In order to provide you the best forecast results I need to know your location. Please open the Alexa companion app on your mobile device and find the card I sent you to enable this permission. If you do not wish to do that. You can ask me about weather for any major location in the world. For instance, How is the weather like at London? What would you like to know?"
+News 6 WKMG-TV News and Weather - Orlando,"""Alexa, ask News 6 for the weather""","You should have a card from AccuWeather in your Alexa companion app. Please check the app and enable the permissions so that I can help with your request. If you do not wish to do that. You can ask me about weather for any major location in the world. For instance, How is the weather like at London? What would you like to know?"
+News 6 WKMG-TV News and Weather - Orlando,quit,
+News 6 WKMG-TV News and Weather - Orlando,quit,
+The Answer Chicago,"""Alexa, play The Answer Chicago""",The Answer Chicago from TuneIn.
+The Answer Chicago,quit,
+The Answer Chicago,"""Alexa, ask The Answer Chicago to play""","Hmm, I'm not sure."
+The Answer Chicago,quit,
+The Answer Chicago,quit,
+The Answer Chicago,"""Alexa, tell The Answer Chicago to play""","Sorry, I'm not sure."
+The Answer Chicago,quit,
+The Answer Chicago,quit,
+Hockey Updates,"""Alexa open Hockey Updates""",
+Hockey Updates,quit,
+Hockey Updates,"""Alexa ask Hockey Updates to get the Bruins game""","Sorry, I couldn't find a bruins game scheduled for today"
+Hockey Updates,quit,
+Hockey Updates,quit,
+Hockey Updates,"""Alexa ask Hockey Updates to start the New York Rangers game""","Sorry, I couldn't find a new york rangers game scheduled for today"
+Hockey Updates,quit,
+Hockey Updates,quit,
+Redskins Fan,"""Alexa, open Redskins fan.""",I'd rather not answer that.
+Redskins Fan,quit,
+Redskins Fan,"""Alexa, ask Redskins fan for a flash briefing on the Redskins.""",I'd rather not answer that.
+Redskins Fan,quit,
+Redskins Fan,quit,
+Redskins Fan,"""Alexa, ask Redskins fan about the previous game score.""",I'd rather not answer that.
+Redskins Fan,quit,
+Redskins Fan,quit,
+KSHB 41 Action News in Kansas City,"""Alexa, what's my Flash Briefing?""",Here's your news.
+KSHB 41 Action News in Kansas City,quit,
+KSHB 41 Action News in Kansas City,"""Alexa, what's in the news?""",Here's your news.
+KSHB 41 Action News in Kansas City,quit,
+KSHB 41 Action News in Kansas City,quit,
+KSHB 41 Action News in Kansas City,"""Alexa, open chiefs radio network""",Ogya fm from TuneIn.
+KSHB 41 Action News in Kansas City,quit,
+KSHB 41 Action News in Kansas City,quit,
+wtfJustHappenedToday.com,"""Alexa, ask 'What the F. just happened today?'""",You have This Day in History enabled. Do you want to open it?
+wtfJustHappenedToday.com,Yes,Welcome back to this day in History. From history.com. What month and day would you like to hear about?
+wtfJustHappenedToday.com,"""Alexa, ask 'What the F. just happened today?'""",<Short audio>
+wtfJustHappenedToday.com,quit,
+wtfJustHappenedToday.com,"""Alexa, open What the F. Just Happened""",Here's your news.
+wtfJustHappenedToday.com,quit,
+wtfJustHappenedToday.com,quit,
+wtfJustHappenedToday.com,"""Alexa, ask 'What the F. just happened in politics?'""",
+wtfJustHappenedToday.com,quit,
+wtfJustHappenedToday.com,quit,
+Daytona Beach News-Journal Online,"""Alexa, play the vibe one oh three three""",Getting 103.3 KLOU station from iHeart Radio
+Daytona Beach News-Journal Online,quit,
+Bitcoin Price Flash Briefing,"""Alexa, ask coin base how much is bitcoin?""","This might answer your question: 1 Bitcoin is worth $5,220, up 3% over the last 24 hours."
+Bitcoin Price Flash Briefing,quit,
+KBTX News,"""Alexa, ask aggie jokes to tell me a joke""",
+KBTX News,quit,
+KSL Newsradio Traffic Report,"""Alexa, what's my Flash Briefing?""",Here's your news.
+KSL Newsradio Traffic Report,quit,
+KSL Newsradio Traffic Report,"""Alexa, what's in the news?""",Here's your news.
+KSL Newsradio Traffic Report,quit,
+KSL Newsradio Traffic Report,quit,
+KSL Newsradio Traffic Report,"""Alexa, play k. s. l. flash cast.""",KSL Newsradio from TuneIn.
+KSL Newsradio Traffic Report,quit,
+KSL Newsradio Traffic Report,quit,
+Uplifting News,"""Alexa ask uplifting news to cheer me up""","Hmm, I don't know that."
+Uplifting News,quit,
+Uplifting News,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Uplifting News,quit,
+Uplifting News,quit,
+Uplifting News,"""Alexa, open A Cup Full of Happy""",
+Uplifting News,quit,
+Uplifting News,quit,
+Syfy Wire News,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Syfy Wire News,quit,
+Syfy Wire News,"""Alexa, what's in the news?""",Here's your news.
+Syfy Wire News,quit,
+Syfy Wire News,quit,
+Syfy Wire News,"""Alexa, Start Syfy Wire.""",Syfy was created in 1992 and Wire formed in October 1976.
+Syfy Wire News,quit,
+Syfy Wire News,quit,
+Executive Order Tracker,"""Alexa, ask mister president for how many executive orders Trump has signed.""","Hmm, I'm not sure."
+Executive Order Tracker,quit,
+Executive Order Tracker,"""Alexa, ask mister president for the most recent executive order.""",You have Domino’s enabled. Do you want to open it?
+Executive Order Tracker,Yes,"To take advantage of recent security upgrades you'll need to log in again. To relink your Domino's Pizza Profile, you'll need to disable and re-enable the skill in the Alexa app. To continue as a guest, open the Domino’s skill in your Alexa app and manage your permissions in the skill's settings. You'll need to grant us permission to access the email address you set up with Alexa."
+Executive Order Tracker,"""Alexa, ask mister president for the most recent executive order.""",You have Domino’s enabled. Do you want to open it?
+Executive Order Tracker,quit,
+Executive Order Tracker,quit,
+Executive Order Tracker,"""Alexa, ask mister president what is the most recent executive order?""",<Audio only response>
+Executive Order Tracker,quit,
+Executive Order Tracker,quit,

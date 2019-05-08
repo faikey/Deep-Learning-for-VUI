@@ -1,0 +1,1079 @@
+name,question,response
+Make Me Smart,"""Alexa, Make Me Smart""","Welcome back to Make Me Smart. You've heard our latest topic, but here's Kai Ryssdal explaining Rise of Breakfast."
+Make Me Smart,quit,
+Make Me Smart,"""Alexa, ask Make Me Smart what's new""",You have Make Me Smart enabled. Do you want to open it?
+Make Me Smart,Yes,
+Make Me Smart,"""Alexa, ask Make Me Smart what's new""","We've also been learning about 1) Opioid Impact, 2) Batman Numbers, and 3) Surveillance Capitalism. You can pick one, play them all, or browse all our explainers. Which would you like to hear?"
+Make Me Smart,quit,
+Make Me Smart,"""Alexa, tell Make Me Smart I have an idea""",You have Make Me Smart enabled. Do you want to open it?
+Make Me Smart,Yes,"Welcome back to Make Me Smart. You've heard our latest topic, but here's Molly Wood explaining Hundred Dollar Bills."
+Make Me Smart,"""Alexa, tell Make Me Smart I have an idea""",Some of our best ideas come from you - our Alexa users - so thanks! What topic do you think Kai and Molly should do an explainer on?
+Make Me Smart,quit,
+CNBC,"""Alexa, open CNBC.""",Welcome back to CNBC. Markets closed up today. What can I help you with?
+CNBC,quit,
+CNBC,"""Alexa, ask CNBC how are the markets doing.""","This might answer your question: When the market closed, the Dow Jones was up 1.03% at 26,412. The Nasdaq was up 0.46% at 7,984. The S & P 500 was up 0.66% at 2,907."
+CNBC,quit,
+CNBC,"""Alexa, ask CNBC for the price of Comcast.""",You have CNBC enabled. Do you want to open it?
+CNBC,Yes,Welcome back to CNBC. Markets closed up today. What can I help you with?
+CNBC,"""Alexa, ask CNBC for the price of Comcast.""","Comcast Corp closed up 26 Cents or point63% at 41 Dollars and 30 Cents. During extended hours trading, Comcast Corp is trading up 7 Cents or point17% at 41 Dollars and 37 Cents. What else can I help you with?"
+CNBC,quit,
+Capital One,"""Alexa, Open Capital One""",
+Capital One,quit,I was unable to process your request at this time. Please try again later.
+Capital One,"""Alexa, ask Capital One what's my account balance?""",
+Capital One,quit,I was unable to process your request at this time. Please try again later.
+Capital One,"""Alexa, ask Capital One to make a credit card payment.""","Only countries or certain regions within countries, such as states, have capitals."
+Capital One,quit,
+The Motley Fool,"""Alexa, ask The Fool for Apple.""",<Audio only response>
+The Motley Fool,quit,
+The Motley Fool,"""Alexa, ask The Fool how my watchlist is doing.""",You have The Motley Fool enabled. Do you want to open it?
+The Motley Fool,Yes,"The Motley Fool. Give me the name of a company, or ask me about how your watchlist is doing."
+The Motley Fool,"""Alexa, ask The Fool how my watchlist is doing.""",Stocks on your watchlist closed flat 0 percent on 2019-04-12. Anything else?
+The Motley Fool,quit,
+The Motley Fool,"""Alexa, ask The Fool for a market update.""",You have The Motley Fool enabled. Do you want to open it?
+The Motley Fool,Yes,"The Motley Fool. Give me the name of a company, or ask me about how your watchlist is doing."
+The Motley Fool,"""Alexa, ask The Fool for a market update.""","The Dow traded flat at 26412.3. S. and P. flat at 2907.41, and The NASDAQ up 0.46 percent at 7984.16. Anything else?"
+The Motley Fool,quit,
+Store Card,"""Alexa, open store card.""",You have Store Card enabled. Do you want to open it?
+Store Card,Yes,"Welcome to your Amazon.com Store Card. We have made some improvements, but you need to disable this skill and then enable it again. Please use the link we just sent to your Alexa App."
+Store Card,"""Alexa, open store card.""",You have Store Card enabled. Do you want to open it?
+Store Card,quit,
+Store Card,"""Alexa, ask store card what is my account balance?""",You have Store Card enabled. Do you want to open it?
+Store Card,Yes,"Welcome to your Amazon.com Store Card. We have made some improvements, but you need to disable this skill and then enable it again. Please use the link we just sent to your Alexa App."
+Store Card,"""Alexa, ask store card what is my account balance?""",You have Store Card enabled. Do you want to open it?
+Store Card,quit,
+Store Card,"""Alexa, ask store card to make a payment.""",You have Store Card enabled. Do you want to open it?
+Store Card,Yes,"Welcome to your Amazon.com Store Card. We have made some improvements, but you need to disable this skill and then enable it again. Please use the link we just sent to your Alexa App."
+Store Card,"""Alexa, ask store card to make a payment.""",
+Store Card,quit,
+Fidelity Investments,"""Alexa, ask Fidelity to get a quote for Amazon""",You have Fidelity Investments enabled. Do you want to open it?
+Fidelity Investments,Yes,"Welcome to Fidelity! I can give quotes, list the market movers, get tax information, or we can talk about how much others are saving in their 401(k). What would you like to do?"
+Fidelity Investments,"""Alexa, ask Fidelity to get a quote for Amazon""","As of 4:00 pm Eastern, the last price of AMAZON COM was $1,843.06, down -0.05%. What else can I help you with?"
+Fidelity Investments,quit,
+Fidelity Investments,"""Get a market update""","When the market closed, the Dow Jones was up 1.03% at 26,412. The Nasdaq was up 0.46% at 7,984. The S & P 500 was up 0.66% at 2,907."
+Fidelity Investments,quit,
+Fidelity Investments,"""What are today's top gainers?""",
+Fidelity Investments,quit,
+Thirty Second Money Tip with Nick True,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Thirty Second Money Tip with Nick True,quit,
+Thirty Second Money Tip with Nick True,"""Alexa, what's in the news?""",Here's your news.
+Thirty Second Money Tip with Nick True,quit,
+Thirty Second Money Tip with Nick True,"""Alexa, Make Me Smart""",
+Thirty Second Money Tip with Nick True,quit,
+Amex,"""Alexa, open Amex""","Sorry, but you don't have an american express online account linked to the skill. I've sent you a card to help get started. You can also link your account by opening the alexa companion app and searching for amex."
+Amex,quit,
+Amex,"""Alexa, ask Amex to make a payment""",You have Amex enabled. Do you want to open it?
+Amex,Yes,"Sorry, but you don't have an american express online account linked to the skill. I've sent you a card to help get started. You can also link your account by opening the alexa companion app and searching for amex."
+Amex,"""Alexa, ask Amex to make a payment""",You have Amex enabled. Do you want to open it?
+Amex,quit,
+Amex,"""Alexa, ask Amex for my Amex Offers""","Sorry, but you don't have an american express online account linked to the skill. I've sent you a card to help get started. You can also link your account by opening the alexa companion app and searching for amex."
+Amex,quit,
+The Pitch with Amy Summers,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Pitch with Amy Summers,quit,
+The Pitch with Amy Summers,"""Alexa, what's in the news?""",Here's your news.
+The Pitch with Amy Summers,quit,
+The Pitch with Amy Summers,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Pitch with Amy Summers,quit,
+TD Ameritrade,"""Alexa, ask TD Ameritrade for the Daily Briefing.""",You have TD Ameritrade enabled. Do you want to open it?
+TD Ameritrade,Yes,"Welcome back to TD Ameritrade. To get started, you can get a quote, listen to the daily briefing, get your account summary, or place a trade. Which would you like to do?"
+TD Ameritrade,"""Alexa, ask TD Ameritrade for the Daily Briefing.""",I‰Ûªm sorry. I did not understand your request. Please say it again.
+TD Ameritrade,quit,
+TD Ameritrade,"""Alexa, ask TD Ameritrade for my account summary.""",You have TD Ameritrade enabled. Do you want to open it?
+TD Ameritrade,Yes,
+TD Ameritrade,"""Alexa, ask TD Ameritrade for my account summary.""",
+TD Ameritrade,quit,
+TD Ameritrade,"""Alexa, ask TD Ameritrade to place a trade.""",You have TD Ameritrade enabled. Do you want to open it?
+TD Ameritrade,Yes,"Welcome back to TD Ameritrade. To get started, you can get a quote, listen to the daily briefing, get your account summary, or place a trade. Which would you like to do?"
+TD Ameritrade,"""Alexa, ask TD Ameritrade to place a trade.""",I‰Ûªm sorry. I did not understand your request. Please say it again.
+TD Ameritrade,quit,
+Front Row Entrepreneur,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Front Row Entrepreneur,quit,
+Front Row Entrepreneur,"""Alexa, what's in the news?""",Here's your news.
+Front Row Entrepreneur,quit,
+Front Row Entrepreneur,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Front Row Entrepreneur,quit,
+Front Row Entrepreneur,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Front Row Entrepreneur,quit,
+Front Row Entrepreneur,"""Alexa, what's in the news?""",Here's your news.
+Front Row Entrepreneur,quit,
+Front Row Entrepreneur,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Front Row Entrepreneur,quit,
+Experian,"""Alexa, ask Experian for my FICO Score.""",You have Experian enabled. Do you want to open it?
+Experian,Yes,You'll first need to link your Experian account to use this skill. I've sent some information to your Alexa app to help you get started. Talk to you soon.
+Experian,"""Alexa, ask Experian for my FICO Score.""",You have Experian enabled. Do you want to open it?
+Experian,quit,
+Experian,"""Alexa, ask Experian to lock my credit file.""",You have Experian enabled. Do you want to open it?
+Experian,Yes,You'll first need to link your Experian account to use this skill. I've sent some information to your Alexa app to help you get started. Talk to you soon.
+Experian,"""Alexa, ask Experian to lock my credit file.""",You have Experian enabled. Do you want to open it?
+Experian,quit,
+Experian,"""Alexa, ask Experian to read my alerts.""",You have Experian enabled. Do you want to open it?
+Experian,Yes,You'll first need to link your Experian account to use this skill. I've sent some information to your Alexa app to help you get started. Talk to you soon.
+Experian,"""Alexa, ask Experian to read my alerts.""",You have Experian enabled. Do you want to open it?
+Experian,quit,
+PayPal,"""Alexa, ask PayPal to check my balance""",You have PayPal enabled. Do you want to open it?
+PayPal,Yes,"Welcome to PayPal. To get the most out of your experience, you'll first need to link your PayPal account. I've sent some information to your Alexa app to help you get started"
+PayPal,"""Alexa, ask PayPal to check my balance""",You have PayPal enabled. Do you want to open it?
+PayPal,quit,
+PayPal,"""Alexa, ask PayPal to send 10 dollars to Sam""",You have PayPal enabled. Do you want to open it?
+PayPal,Yes,"Welcome to PayPal. To get the most out of your experience, you'll first need to link your PayPal account. I've sent some information to your Alexa app to help you get started"
+PayPal,"""Alexa, ask PayPal to send 10 dollars to Sam""",You have PayPal enabled. Do you want to open it?
+PayPal,quit,
+PayPal,"""request 50 dollars from Matt""",You have PayPal enabled. Do you want to open it?
+PayPal,Yes,"Welcome to PayPal. To get the most out of your experience, you'll first need to link your PayPal account. I've sent some information to your Alexa app to help you get started"
+PayPal,"""request 50 dollars from Matt""",You have PayPal enabled. Do you want to open it?
+PayPal,quit,
+Ally,"""Alexa, open Ally.""","Sorry, I don't know that."
+Ally,quit,
+Ally,"""Alexa, ask Ally to make a transfer.""",You have Short Bedtime Story enabled. Do you want to open it?
+Ally,Yes,What is your name?
+Ally,"""Alexa, ask Ally to make a transfer.""","Once upon a time, there was a little wizard named Make Transfer.. Also, there was a fire-breathing dragon that lived in a dark smelly cave. Wizard Make Transfer. found the dragon sleeping in the cave and using his smart brains, Make Transfer. captured the dragon and saved his kingdom. The end. Time to go to sleep now Make Transfer.. Climb into bed and kiss me good night. Alexa, turn off the bedroom light."
+Ally,quit,
+Ally,"""Alexa, open Ally and get my balance.""",You have Prudential Retirement enabled. Do you want to open it?
+Ally,Yes,To get started please complete linking your Prudential Retirement account in your Alexa app.
+Ally,"""Alexa, open Ally and get my balance.""",You have Prudential Retirement enabled. Do you want to open it?
+Ally,quit,
+Stock Prices by Opening Bell,"""Alexa, ask Opening Bell for the price of Amazon""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Stock Prices by Opening Bell,Yes,What stock price would you like me to look up?
+Stock Prices by Opening Bell,"""Alexa, ask Opening Bell for the price of Amazon""","Sorry, I can't find information about alexa, ask opening amazon."
+Stock Prices by Opening Bell,quit,
+Stock Prices by Opening Bell,"""Alexa, ask Opening Bell for Tesla""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Stock Prices by Opening Bell,Yes,What stock price would you like me to look up?
+Stock Prices by Opening Bell,"""Alexa, ask Opening Bell for Tesla""","Sorry, I can't find information about alexa, ask opening bell for Tesla."
+Stock Prices by Opening Bell,quit,
+Stock Prices by Opening Bell,"""Alexa, ask Opening Bell for the price of Apple stock""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Stock Prices by Opening Bell,Yes,What stock price would you like me to look up?
+Stock Prices by Opening Bell,"""Alexa, ask Opening Bell for the price of Apple stock""","Sorry, I can't find information about alexa, ask opening apple."
+Stock Prices by Opening Bell,quit,
+Facebook Behavioral Interview Questions,"""Alexa, ask Facebook behavioral interview questions for a question""",You have Facebook Behavioral Interview Questions enabled. Do you want to open it?
+Facebook Behavioral Interview Questions,Yes,Describe a time when you received negative feedback and turned it into something positive.
+Facebook Behavioral Interview Questions,"""Alexa, ask Facebook behavioral interview questions for a question""",You have Facebook Behavioral Interview Questions enabled. Do you want to open it?
+Facebook Behavioral Interview Questions,quit,
+Facebook Behavioral Interview Questions,"""Alexa, ask Facebook behavioral interview questions for an interview prompt""",You have Facebook Behavioral Interview Questions enabled. Do you want to open it?
+Facebook Behavioral Interview Questions,Yes,Tell me about a specific time when those with whom you were working could not agree upon the course of action. How did you approach the situation and what was the outcome?
+Facebook Behavioral Interview Questions,"""Alexa, ask Facebook behavioral interview questions for an interview prompt""",You have Facebook Behavioral Interview Questions enabled. Do you want to open it?
+Facebook Behavioral Interview Questions,quit,
+Facebook Behavioral Interview Questions,"""Alexa, open Facebook behavioral interview questions and get a question""",<Audio only response>
+Facebook Behavioral Interview Questions,quit,
+YNAB,"""Alexa, ask Why Nab for the balance of Groceries""",You have Prudential Retirement enabled. Do you want to open it?
+YNAB,Yes,To get started please complete linking your Prudential Retirement account in your Alexa app.
+YNAB,"""Alexa, ask Why Nab for the balance of Groceries""",You have Prudential Retirement enabled. Do you want to open it?
+YNAB,quit,
+YNAB,"""Alexa, tell Why Nab to record a new transaction for 9 dollars""","Sorry, I don't know that."
+YNAB,quit,
+YNAB,"""Alexa, launch Why Nab""","Hmm, I don't know that one."
+YNAB,quit,
+Prudential Retirement,"""Alexa, Open Prudential Retirement""",To get started please complete linking your Prudential Retirement account in your Alexa app.
+Prudential Retirement,quit,
+Prudential Retirement,"""Alexa, ask Prudential Retirement for my balance""",You have Prudential Retirement enabled. Do you want to open it?
+Prudential Retirement,Yes,To get started please complete linking your Prudential Retirement account in your Alexa app.
+Prudential Retirement,"""Alexa, ask Prudential Retirement for my balance""",You have Prudential Retirement enabled. Do you want to open it?
+Prudential Retirement,quit,
+Prudential Retirement,"""Alexa, ask Prudential Retirement how can you help""",You have Prudential Retirement enabled. Do you want to open it?
+Prudential Retirement,Yes,To get started please complete linking your Prudential Retirement account in your Alexa app.
+Prudential Retirement,"""Alexa, ask Prudential Retirement how can you help""",You have Prudential Retirement enabled. Do you want to open it?
+Prudential Retirement,quit,
+Run To Your Leadership Challenges!,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Run To Your Leadership Challenges!,quit,
+Run To Your Leadership Challenges!,"""Alexa, what's in the news?""",Here's your news.
+Run To Your Leadership Challenges!,quit,
+Run To Your Leadership Challenges!,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Run To Your Leadership Challenges!,quit,
+Atlanta Real Estate,"""Alexa, open Atlanta Real Estate""",<Audio only response>
+Atlanta Real Estate,quit,
+Atlanta Real Estate,"""Alexa, ask Atlanta Real Estate to help me buy a house""","Hmm, I don't know that."
+Atlanta Real Estate,quit,
+Atlanta Real Estate,"""Alexa, ask Atlanta Real Estate what is my house worth""",You have Akron Real Estate enabled. Do you want to open it?
+Atlanta Real Estate,Yes,
+Atlanta Real Estate,"""Alexa, ask Atlanta Real Estate what is my house worth""",What is your phone number?
+Atlanta Real Estate,quit,
+Morgan Stanley,"""Alexa, open Morgan Stanley.""",You have Morgan Stanley enabled. Do you want to open it?
+Morgan Stanley,Yes,"Sure. Opening Morgan Stanley. Would you like to hear the latest ideas or learn about the company? For a full list of capabilities, say help."
+Morgan Stanley,"""Alexa, open Morgan Stanley.""","Okay. To learn more about Morgan Stanley and its culture, say get to know Morgan Stanley, To play a finance vocabulary game, say Jargon Buster."
+Morgan Stanley,quit,
+Morgan Stanley,"""Alexa, ask Morgan Stanley to play the Ideas Podcast.""",You have Morgan Stanley enabled. Do you want to open it?
+Morgan Stanley,Yes,"Sure. Opening Morgan Stanley. Would you like to hear the latest ideas or learn about the company? For a full list of capabilities, say help."
+Morgan Stanley,"""Alexa, ask Morgan Stanley to play the Ideas Podcast.""","What would you like to hear? Say, Ideas Podcast, Ideas Briefing or Thoughts on the Market."
+Morgan Stanley,quit,
+Morgan Stanley,"""Alexa, ask Morgan Stanley to play Thoughts on the Market.""",This might answer your question: The next historical major soccer event will be 2022 FIFA World Cup and it will occur in 2022.
+Morgan Stanley,quit,
+Bloomberg,"""Alexa, open Bloomberg""","Welcome to Bloomberg. You can hear Bloomberg Market Minute, or ask what can I say for more options."
+Bloomberg,quit,
+Bloomberg,"""Alexa, ask Bloomberg to Play Live T.V.""",You have Bloomberg enabled. Do you want to open it?
+Bloomberg,Yes,"Welcome to Bloomberg. You can hear Bloomberg Market Minute, or ask what can I say for more options."
+Bloomberg,"""Alexa, ask Bloomberg to Play Live T.V.""","Sorry, I'm having trouble accessing your Bloomberg skill right now"
+Bloomberg,quit,
+Bloomberg,"""Alexa, ask Bloomberg how TESLA is doing today.""","This might answer your question: When the market closed, Tesla traded at $267.70 on the NASDAQ, down 0.27% since previous close."
+Bloomberg,quit,
+Pete's Points - Business and Leadership Strategies,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Pete's Points - Business and Leadership Strategies,quit,
+Pete's Points - Business and Leadership Strategies,"""Alexa, what's in the news?""",Here's your news.
+Pete's Points - Business and Leadership Strategies,quit,
+Pete's Points - Business and Leadership Strategies,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Pete's Points - Business and Leadership Strategies,quit,
+Pete's Points - Business and Leadership Strategies,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Pete's Points - Business and Leadership Strategies,quit,
+Pete's Points - Business and Leadership Strategies,"""Alexa, what's in the news?""",Here's your news.
+Pete's Points - Business and Leadership Strategies,quit,
+Pete's Points - Business and Leadership Strategies,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Pete's Points - Business and Leadership Strategies,quit,
+Ohio Real Estate,"""Alexa, open Ohio Real Estate""","You have Disher, Hamrick & Myers Residential Real Estate enabled. Do you want to open it?"
+Ohio Real Estate,Yes,"Welcome to Disher, Hamrick and Myers Residential Real Estate in beautiful Charleston, South Carolina. We look forward to helping you with all your home buying and selling needs in the greater Charleston, SC market. To learn more about our agency, say ""About Us"". You can also ask about our ""Location"", ""Get Directions"", ""Hours of Operation"", or ""Phone Number"". What can I help you with?"
+Ohio Real Estate,"""Alexa, open Ohio Real Estate""","I'm sorry, I didn't get that. Please try again."
+Ohio Real Estate,quit,
+Ohio Real Estate,"""Alexa, ask Ohio Real Estate to help me buy a house""","Sorry, I don't know that."
+Ohio Real Estate,quit,
+Ohio Real Estate,"""Alexa, ask Ohio Real Estate to find my home value""",<Audio only response>
+Ohio Real Estate,quit,
+Akron Real Estate,"""Alexa, open Akron Real Estate""",Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+Akron Real Estate,quit,
+Akron Real Estate,"""Alexa, ask Akron Real Estate to help me buy a house""","Sorry, I don't know that."
+Akron Real Estate,quit,
+Akron Real Estate,"""Alexa, ask Akron Real Estate to find my home value""",You have Akron Real Estate enabled. Do you want to open it?
+Akron Real Estate,Yes,Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+Akron Real Estate,"""Alexa, ask Akron Real Estate to find my home value""",What is your phone number?
+Akron Real Estate,quit,
+BCCS Law,"""Alexa, ask b. c. c. s. law what's new under Philippine trademark law?""",<Audio only response>
+BCCS Law,quit,
+BCCS Law,"""Alexa, ask b. c. c. s. law what's new under Philippine patent law?""",<Audio only response>
+BCCS Law,quit,
+BCCS Law,"""Alexa, ask b. c. c. s. law what's new under Philippine data privacy laws?""",
+BCCS Law,quit,
+Cincinnati Real Estate,"""Alexa, open Cincinnati Real Estate""",<Audio only response>
+Cincinnati Real Estate,quit,
+Cincinnati Real Estate,"""Alexa, ask Cincinnati Real Estate to help me buy a house""","Hmm, I don't know that."
+Cincinnati Real Estate,quit,
+Cincinnati Real Estate,"""Alexa, ask Cincinnati Real Estate to find my home value""",You have Akron Real Estate enabled. Do you want to open it?
+Cincinnati Real Estate,Yes,Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+Cincinnati Real Estate,"""Alexa, ask Cincinnati Real Estate to find my home value""",What is your phone number?
+Cincinnati Real Estate,quit,
+Cleveland Real Estate,"""Alexa, open Cleveland Real Estate""",<Audio only response>
+Cleveland Real Estate,quit,
+Cleveland Real Estate,"""Alexa, ask Cleveland Real Estate to help me buy a house""","Hmm, I don't know that one."
+Cleveland Real Estate,quit,
+Cleveland Real Estate,"""Alexa, ask Cleveland Real Estate to find my home value""",You have Akron Real Estate enabled. Do you want to open it?
+Cleveland Real Estate,Yes,Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+Cleveland Real Estate,"""Alexa, ask Cleveland Real Estate to find my home value""",What is your phone number?
+Cleveland Real Estate,quit,
+Dayton Real Estate,"""Alexa, open Dayton Real Estate""",<Audio only response>
+Dayton Real Estate,quit,
+Dayton Real Estate,"""Alexa, ask Dayton Real Estate to help me buy a house""","Hmm, I don't know that."
+Dayton Real Estate,quit,
+Dayton Real Estate,"""Alexa, ask Dayton Real Estate to find my home value""",You have Akron Real Estate enabled. Do you want to open it?
+Dayton Real Estate,Yes,Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+Dayton Real Estate,"""Alexa, ask Dayton Real Estate to find my home value""",What is your phone number?
+Dayton Real Estate,quit,
+Columbus Real Estate,"""Alexa, open Columbus Real Estate""",Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+Columbus Real Estate,quit,
+Columbus Real Estate,"""Alexa, ask Columbus Real Estate to help me buy a house""","Sorry, I'm not sure."
+Columbus Real Estate,quit,
+Columbus Real Estate,"""Alexa, ask Columbus Real Estate to find my home value""",You have Akron Real Estate enabled. Do you want to open it?
+Columbus Real Estate,Yes,Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+Columbus Real Estate,"""Alexa, ask Columbus Real Estate to find my home value""",What is your phone number?
+Columbus Real Estate,quit,
+My Home Agent - Find a Realtor & Sell My Home,"""Alexa, open My Home Agent.""","Sorry, I don't know that one."
+My Home Agent - Find a Realtor & Sell My Home,quit,
+My Home Agent - Find a Realtor & Sell My Home,"""Alexa, ask My Home Agent who is the best agent in my zipcode""","Sorry, I'm not sure."
+My Home Agent - Find a Realtor & Sell My Home,quit,
+My Home Agent - Find a Realtor & Sell My Home,"""Alexa, launch My Home Agent""","Hmm, I don't know that."
+My Home Agent - Find a Realtor & Sell My Home,quit,
+Sowing Seed Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Sowing Seed Flash Briefing,quit,
+Sowing Seed Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+Sowing Seed Flash Briefing,quit,
+Sowing Seed Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Sowing Seed Flash Briefing,quit,
+Motley Fool Stock Watch,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Motley Fool Stock Watch,quit,
+Motley Fool Stock Watch,"""Alexa, what's in the news?""",Here's your news.
+Motley Fool Stock Watch,quit,
+Motley Fool Stock Watch,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Motley Fool Stock Watch,quit,
+Fox Business,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Fox Business,quit,
+Fox Business,"""Alexa, what's in the news?""",Here's your news.
+Fox Business,quit,
+Fox Business,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Fox Business,quit,
+Harvard Business Review: Management Tip,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Harvard Business Review: Management Tip,quit,
+Harvard Business Review: Management Tip,"""Alexa, what's in the news?""",Here's your news.
+Harvard Business Review: Management Tip,quit,
+Harvard Business Review: Management Tip,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Harvard Business Review: Management Tip,quit,
+Mike Hrezo - Valencia Real Estate,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Mike Hrezo - Valencia Real Estate,quit,
+Mike Hrezo - Valencia Real Estate,"""Alexa, what's in the news?""",Here's your news.
+Mike Hrezo - Valencia Real Estate,quit,
+Real Estate,"""Alexa, open Real Estate.""",<Audio only response>
+Real Estate,quit,
+Real Estate,"""Alexa, ask Real Estate to find me a home.""",You have Akron Real Estate enabled. Do you want to open it?
+Real Estate,Yes,Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+Real Estate,"""Alexa, ask Real Estate to find me a home.""",
+Real Estate,quit,
+Real Estate,"""Alexa, tell Real Estate to help me rent an apartment""",You have Akron Real Estate enabled. Do you want to open it?
+Real Estate,Yes,
+Real Estate,"""Alexa, tell Real Estate to help me rent an apartment""",I did not hear your phone number correctly. Could you please repeat it?
+Real Estate,quit,
+Coinbase Bitcoin/Ethereum Price,"""Alexa, ask coin base how much is bitcoin?""","This might answer your question: 1 Bitcoin is worth $5,090, up 2.6% over the last 24 hours."
+Coinbase Bitcoin/Ethereum Price,quit,
+Coinbase Bitcoin/Ethereum Price,"""Alexa, give me realtime bitcoin price from coin base.""","This might answer your question: 1 Bitcoin is worth $5,090, up 2.6% over the last 24 hours."
+Coinbase Bitcoin/Ethereum Price,quit,
+Coinbase Bitcoin/Ethereum Price,"""Alexa, ask coin base how much is ethereum?""","This might answer your question: 1 Ethereum is worth $165, up 2.1% over the last 24 hours."
+Coinbase Bitcoin/Ethereum Price,quit,
+BrewResearch,"""Alexa, ask Keurig to turn the brewer power on""","I didn't find any Smart Home devices under Yichen's account. To get started, go to the Smart Home section of the Alexa App."
+BrewResearch,quit,
+BrewResearch,"""Alexa, tell Keurig to make its coffee temperature high""",<Audio only response>
+BrewResearch,quit,
+BrewResearch,"""Alexa, ask Keurig to change the brewer language to Spanish""","I didn't find any Smart Home devices under Yichen's account. To get started, go to the Smart Home section of the Alexa App."
+BrewResearch,quit,
+The Mastermind Blueprint: Building A Richer Life,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Mastermind Blueprint: Building A Richer Life,quit,
+The Mastermind Blueprint: Building A Richer Life,"""Alexa, what's in the news?""",Here's your news.
+The Mastermind Blueprint: Building A Richer Life,quit,
+The Mastermind Blueprint: Building A Richer Life,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Mastermind Blueprint: Building A Richer Life,quit,
+Business Leadership Series,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Business Leadership Series,quit,
+Business Leadership Series,"""Alexa, what's in the news?""",Here's your news.
+Business Leadership Series,quit,
+Business Leadership Series,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Business Leadership Series,quit,
+The Money Making Minute,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Money Making Minute,quit,
+The Money Making Minute,"""Alexa, what's in the news?""",Here's your news.
+The Money Making Minute,quit,
+The Money Making Minute,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Money Making Minute,quit,
+U.S. Bank,"""Alexa, ask U.S. Bank to get my checking account balance.""",You have Westpac Banking enabled. Do you want to open it?
+U.S. Bank,Yes,
+U.S. Bank,"""Alexa, ask U.S. Bank to get my checking account balance.""","To get started, you'll need to link me up to your Westpac accounts. You can do this by going into the skill settings in the Alexa app or website"
+U.S. Bank,quit,
+U.S. Bank,"""Alexa, ask U.S. Bank to get my credit card transactions.""",You have Westpac Banking enabled. Do you want to open it?
+U.S. Bank,Yes,Welcome! What can I do for you?
+U.S. Bank,"""Alexa, ask U.S. Bank to get my credit card transactions.""","To get started, you'll need to link me up to your Westpac accounts. You can do this by going into the skill settings in the Alexa app or website"
+U.S. Bank,quit,
+U.S. Bank,"""Alexa, ask U.S. Bank to make a payment.""",You have Amex enabled. Do you want to open it?
+U.S. Bank,Yes,"Sorry, but you don't have an american express online account linked to the skill. I've sent you a card to help get started. You can also link your account by opening the alexa companion app and searching for amex."
+U.S. Bank,"""Alexa, ask U.S. Bank to make a payment.""",You have Amex enabled. Do you want to open it?
+U.S. Bank,quit,
+My Home Value,"""Alexa, open My Home Value""",You have Akron Real Estate enabled. Do you want to open it?
+My Home Value,Yes,Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+My Home Value,"""Alexa, open My Home Value""",What is your phone number?
+My Home Value,quit,
+My Home Value,"""Alexa, ask My Home Value for the value of my home""","Sorry, I don't know how much My Home is worth."
+My Home Value,quit,
+My Home Value,"""Alexa, ask My Home Value to find the value of my house""","Sorry, I‰Ûªm not sure about that."
+My Home Value,quit,
+One Minute Retirement Tip with Ashley,"""Alexa, what's my Flash Briefing?""",Here's your news.
+One Minute Retirement Tip with Ashley,quit,
+One Minute Retirement Tip with Ashley,"""Alexa, what's in the news?""",Here's your news.
+One Minute Retirement Tip with Ashley,quit,
+One Minute Retirement Tip with Ashley,"""Alexa, what's my Flash Briefing?""",Here's your news.
+One Minute Retirement Tip with Ashley,quit,
+The Perfect Gentleman,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Perfect Gentleman,quit,
+The Perfect Gentleman,"""Alexa, what's in the news?""",Here's your news.
+The Perfect Gentleman,quit,
+The Perfect Gentleman,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Perfect Gentleman,quit,
+SilverBug,"""Alexa, ask silverbug what's the price of Silver?""","This might answer your question: As of April 12, 2019 at 2:59pm, silver traded at $14.95 per troy ounce on the Foreign Exchange, down 0.03% since previous close."
+SilverBug,quit,
+SilverBug,"""Alexa, ask silverbug what's the current price of Bitcoin?""","This might answer your question: 1 Bitcoin is worth $5,090, up 3% over the last 24 hours."
+SilverBug,quit,
+SilverBug,"""Alexa, ask silverbug what's the Gold price?""","This might answer your question: As of April 12, 2019 at 3:00pm, gold traded at $1,290.00 per troy ounce on the Foreign Exchange, down 0.18% since previous close."
+SilverBug,quit,
+Cheddar,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Cheddar,quit,
+Cheddar,"""Alexa, what's in the news?""",Here's your news.
+Cheddar,quit,
+Cheddar,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Cheddar,quit,
+StockTicker,"""Alexa, ask Stock Ticker for Tesla""",You have StockTicker enabled. Do you want to open it?
+StockTicker,Yes,Welcome to Stock Ticker. What company would you like to look up?
+StockTicker,"""Alexa, ask Stock Ticker for Tesla""","Sorry, I don't have data for that company."
+StockTicker,quit,
+StockTicker,"""Alexa, ask Stock Ticker the price of Amazon""","Earlier today at 2:00 p.m. Mountain Daylight Time, Amazon.com traded at $1,843.06 on NASDAQ Global Market, down 0.05% since previous close."
+StockTicker,quit,
+StockTicker,"""Alexa open Stock Ticker""","Sorry, I'm having trouble accessing your StockTicker skill right now"
+StockTicker,quit,
+StockTrigger,"""Alexa, ask Stock Trigger to notify me when Amazon reaches 3 percent higher""",<Audio only response>
+StockTrigger,quit,
+StockTrigger,"""quote Microsoft""","Earlier today at 2:00 p.m. Mountain Daylight Time, Microsoft traded at $120.95 on NASDAQ Global Market, up 0.52% since previous close."
+StockTrigger,quit,
+StockTrigger,"""Alexa, ask Stock Trigger to add Boeing to my favorites""","Hmm, I don't know that."
+StockTrigger,quit,
+Amazon Seller Central,"""Alexa, open Seller Central.""",<Audio only response>
+Amazon Seller Central,quit,
+Amazon Seller Central,"""Did I receive any orders?""",I didn't find any open orders for Yichen
+Amazon Seller Central,quit,
+Amazon Seller Central,"""Do I have any messages?""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Amazon Seller Central,quit,
+Rocket Mortgage,"""Alexa, ask rocket mortgage to make my mortgage payment.""",You have Rocket Mortgage enabled. Do you want to open it?
+Rocket Mortgage,Yes,"Welcome to Rocket Mortgage. To check out our new features, try saying whats new! How can I help you?"
+Rocket Mortgage,"""Alexa, ask rocket mortgage to make my mortgage payment.""","Ok, I can help you get in contact with a mortgage expert. I just need some information from you first. Please provide me a phone number, beginning with the area code."
+Rocket Mortgage,quit,
+Rocket Mortgage,"""Alexa, ask rocket mortgage what are today's rates?""","Sorry, I don't know ask rocket mortgage's definition."
+Rocket Mortgage,quit,
+Rocket Mortgage,"""Alexa, ask Rocket Mortgage to get me in touch with a home loan expert.""",
+Rocket Mortgage,quit,
+NPR Business Story of the Day,"""Alexa, what's my Flash Briefing?""",Here's your news.
+NPR Business Story of the Day,quit,
+NPR Business Story of the Day,"""Alexa, what's in the news?""",Here's your news.
+NPR Business Story of the Day,quit,
+NPR Business Story of the Day,"""Alexa, what's my Flash Briefing?""",Here's your news.
+NPR Business Story of the Day,quit,
+Charles Schwab,"""Alexa, ask Schwab for a quote""",You have Charles Schwab enabled. Do you want to open it?
+Charles Schwab,Yes,
+Charles Schwab,"""Alexa, ask Schwab for a quote""",For which security name or symbol?
+Charles Schwab,quit,
+Charles Schwab,"""Tell me about my favorites""","The Favorites are an indie pop band from Houston, Texas."
+Charles Schwab,quit,
+Charles Schwab,"""How is the market doing?""","When the market closed, the Dow Jones was up 1.03% at 26,412. The Nasdaq was up 0.46% at 7,984. The S & P 500 was up 0.66% at 2,907."
+Charles Schwab,quit,
+Allstate,"""Alexa, Start Allstate""",This might answer your question: Amazon Alexa started in 2014.
+Allstate,quit,
+Allstate,"""Alexa, Ask Allstate when is my bill due""",You have Capital One enabled. Do you want to open it?
+Allstate,Yes,
+Allstate,"""Alexa, Ask Allstate when is my bill due""",<Audio only response>
+Allstate,quit,
+Allstate,"""Alexa, Ask Allstate who is my agent""","Sorry, I don't know that one."
+Allstate,quit,
+Credit Card Helper,"""Alexa, open Credit Card Helper.""",You have Credit Card Helper enabled. Do you want to open it?
+Credit Card Helper,Yes,"Hey, I'm Caz. I'm an expert on credit cards. I analyze data on rewards, fees, and customer service to help you find the best card. Ask me to find a card, or ask me what I can do?"
+Credit Card Helper,"""Alexa, open Credit Card Helper.""","Ask me to find a card, or ask me what I can do?"
+Credit Card Helper,quit,
+Credit Card Helper,"""What's the best cash back card?""",
+Credit Card Helper,quit,
+Credit Card Helper,"""Find the best card for me.""",You have Credit Card Helper enabled. Do you want to open it?
+Credit Card Helper,Yes,"Hello. I'm an expert on credit cards. I analyze data on rewards, fees, and customer service to help you find the best card. Ask me to find a card, or ask me what I can do?"
+Credit Card Helper,"""Find the best card for me.""","Sure, let's find you the perfect card. What do you spend the most on, like groceries, gas, restaurants, shopping, or flights and hotels?"
+Credit Card Helper,quit,
+Volley FM - Personalized Morning News Radio Skill,"""Alexa open Volley FM""",
+Volley FM - Personalized Morning News Radio Skill,quit,
+Volley FM - Personalized Morning News Radio Skill,"""Alexa start Volley FM""",
+Volley FM - Personalized Morning News Radio Skill,quit,
+Volley FM - Personalized Morning News Radio Skill,"""Alexa play Volley FM""",Volley Sport Channel from TuneIn.
+Volley FM - Personalized Morning News Radio Skill,quit,
+Market Moment,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Market Moment,quit,
+Market Moment,"""Alexa, what's in the news?""",Here's your news.
+Market Moment,quit,
+Market Moment,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Market Moment,quit,
+Swenk Today,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Swenk Today,quit,
+Swenk Today,"""Alexa, what's in the news?""",Here's your news.
+Swenk Today,quit,
+Swenk Today,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Swenk Today,quit,
+Small Business Marketing Tips,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Small Business Marketing Tips,quit,
+Small Business Marketing Tips,"""Alexa, what's in the news?""",Here's your news.
+Small Business Marketing Tips,quit,
+Small Business Marketing Tips,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Small Business Marketing Tips,quit,
+Dave Sanderson: Declassified,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Dave Sanderson: Declassified,quit,
+Dave Sanderson: Declassified,"""Alexa, what's in the news?""",Here's your news.
+Dave Sanderson: Declassified,quit,
+Dave Sanderson: Declassified,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Dave Sanderson: Declassified,quit,
+4 Minute Crypto,"""Alexa, what's my Flash Briefing?""",Here's your news.
+4 Minute Crypto,quit,
+4 Minute Crypto,"""Alexa, what's in the news?""",Here's your news.
+4 Minute Crypto,quit,
+4 Minute Crypto,"""Alexa, what's my Flash Briefing?""",Here's your news.
+4 Minute Crypto,quit,
+BECU,"""Alexa, open BECU.""","Sorry, I'm not sure."
+BECU,quit,
+BECU,"""Alexa, ask BECU what is my account balance?""",You have Capital One enabled. Do you want to open it?
+BECU,Yes,
+BECU,"""Alexa, ask BECU what is my account balance?""",<Audio only response>
+BECU,quit,
+BECU,"""Alexa, ask BECU for my recent account activity.""",You have Store Card enabled. Do you want to open it?
+BECU,Yes,
+BECU,"""Alexa, ask BECU for my recent account activity.""",You have Store Card enabled. Do you want to open it?
+BECU,quit,
+Market Insights,"""Alexa, open Market Insights""",
+Market Insights,quit,
+Market Insights,"""Alexa, open Market Insights and play Notes on the Week Ahead""","Hmm, I don't know that."
+Market Insights,quit,
+Market Insights,"""Alexa, open Market Insights and play commentary""",
+Market Insights,quit,
+Millionaire Money Minute with Scott Alan Turner,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Millionaire Money Minute with Scott Alan Turner,quit,
+Millionaire Money Minute with Scott Alan Turner,"""Alexa, what's in the news?""",Here's your news.
+Millionaire Money Minute with Scott Alan Turner,quit,
+Millionaire Money Minute with Scott Alan Turner,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Millionaire Money Minute with Scott Alan Turner,quit,
+30-Second Blog and Business Tip ,"""Alexa, what's my Flash Briefing?""",Here's your news.
+30-Second Blog and Business Tip ,quit,
+30-Second Blog and Business Tip ,"""Alexa, what's in the news?""",Here's your news.
+30-Second Blog and Business Tip ,quit,
+30-Second Blog and Business Tip ,"""Alexa, what's my Flash Briefing?""",Here's your news.
+30-Second Blog and Business Tip ,quit,
+Business Freedom Daily Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Business Freedom Daily Briefing,quit,
+Business Freedom Daily Briefing,"""Alexa, what's in the news?""",Here's your news.
+Business Freedom Daily Briefing,quit,
+Business Freedom Daily Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Business Freedom Daily Briefing,quit,
+TradeIt,"""Alexa, ask Trade It what's the price of Amazon?""",You have StockTicker enabled. Do you want to open it?
+TradeIt,Yes,Welcome to Stock Ticker. What company would you like to look up?
+TradeIt,"""Alexa, ask Trade It what's the price of Amazon?""","Sorry, I don't have data for that company."
+TradeIt,quit,
+TradeIt,"""Who's releasing earnings today?""","Hmm, I don't know that."
+TradeIt,quit,
+TradeIt,"""What's most active in my watchlist?""",You have The Motley Fool enabled. Do you want to open it?
+TradeIt,Yes,"The Motley Fool. Give me the name of a company, or ask me about how your watchlist is doing."
+TradeIt,"""What's most active in my watchlist?""",Not sure I understood what you said. Can you say that again?
+TradeIt,quit,
+The Indicator from Planet Money,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Indicator from Planet Money,quit,
+The Indicator from Planet Money,"""Alexa, what's in the news?""",Here's your news.
+The Indicator from Planet Money,quit,
+The Indicator from Planet Money,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Indicator from Planet Money,quit,
+The MFCEO Kill Shots,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The MFCEO Kill Shots,quit,
+The MFCEO Kill Shots,"""Alexa, what's in the news?""",Here's your news.
+The MFCEO Kill Shots,quit,
+The MFCEO Kill Shots,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The MFCEO Kill Shots,quit,
+Money Master - Personal Finance Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Money Master - Personal Finance Flash Briefing,quit,
+Money Master - Personal Finance Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+Money Master - Personal Finance Flash Briefing,quit,
+Money Master - Personal Finance Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Money Master - Personal Finance Flash Briefing,quit,
+Sigrun Sparks,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Sigrun Sparks,quit,
+Sigrun Sparks,"""Alexa, what's in the news?""",Here's your news.
+Sigrun Sparks,quit,
+Sigrun Sparks,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Sigrun Sparks,quit,
+Farmers,"""Alexa, Ask Farmers what is the status of my claim""","Sorry, I don't know that one."
+Farmers,quit,
+Farmers,"""Alexa, Ask Farmers how to file a claim""","Sorry, I don't know that."
+Farmers,quit,
+Farmers,"""Alexa, Ask Farmers how do I pay my bill""",
+Farmers,quit,
+Vanessa McCaffrey - Van Nuys Real Estate,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Vanessa McCaffrey - Van Nuys Real Estate,quit,
+Vanessa McCaffrey - Van Nuys Real Estate,"""Alexa, what's in the news?""",Here's your news.
+Vanessa McCaffrey - Van Nuys Real Estate,quit,
+Stock Prices,"""Alexa, ask Stock Prices to get the quote for CEGX""",You have StockTicker enabled. Do you want to open it?
+Stock Prices,Yes,"Sorry, I'm having trouble accessing your StockTicker skill right now"
+Stock Prices,"""Alexa, ask Stock Prices to get the quote for CEGX""",You have StockTicker enabled. Do you want to open it?
+Stock Prices,quit,
+Stock Prices,"""Alexa, ask Stock Prices what is the price for AMZN""","This might answer your question: When the market closed, Amazon.com traded at $1,843.06 on the NASDAQ, down 0.05% since previous close."
+Stock Prices,quit,
+Stock Prices,"""Alexa, ask Stock Prices to get the price for MSFT""",You have Bitcoin Price enabled. Do you want to open it?
+Stock Prices,Yes,1 bit coin is currently worth 5071.73 US dollars
+Stock Prices,"""Alexa, ask Stock Prices to get the price for MSFT""",You have Bitcoin Price enabled. Do you want to open it?
+Stock Prices,quit,
+Daily Mortgage Rates - Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Daily Mortgage Rates - Flash Briefing,quit,
+Daily Mortgage Rates - Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+Daily Mortgage Rates - Flash Briefing,quit,
+Daily Mortgage Rates - Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Daily Mortgage Rates - Flash Briefing,quit,
+CenturyLink,"""Alexa, ask CenturyLink what is the vision?""","The noun 'vision' is usually defined as the act or power of sensing with the eyes; sight. The verb 'vision' is usually defined as to envision, or picture mentally."
+CenturyLink,quit,
+CenturyLink,"""Alexa, ask CenturyLink to tell me what you can do for my business.""",
+CenturyLink,quit,
+CenturyLink,"""Alexa, ask CenturyLink what is Digital Transformation?""","Sorry, I don't know that one."
+CenturyLink,quit,
+The Massive Agent Minute for Real Estate Agents,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Massive Agent Minute for Real Estate Agents,quit,
+The Massive Agent Minute for Real Estate Agents,"""Alexa, what's in the news?""",Here's your news.
+The Massive Agent Minute for Real Estate Agents,quit,
+The Massive Agent Minute for Real Estate Agents,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Massive Agent Minute for Real Estate Agents,quit,
+PSE and G ,"""Alexa, open p. s. e. and g.""","Sorry, I don't know alexa, open's definition."
+PSE and G ,quit,
+PSE and G ,"""Alexa, ask p. s. e. and g. for my balance""","Sorry, I'm not sure."
+PSE and G ,quit,
+PSE and G ,"""Alexa, ask p. s. e. and g. to get my electric usage""","Sorry, I don't know that."
+PSE and G ,quit,
+Bank Helper,"""Alexa Open Bank Helper""","Great to see you, I'm Sofia, your Bank Helper. What do you want to know about bank rates for CDs and savings accounts?"
+Bank Helper,quit,
+Bank Helper,"""Alexa, ask Bank Helper for today's C. D. rates""",You have Bank Helper enabled. Do you want to open it?
+Bank Helper,Yes,"Hello, I'm Sofia, your Bank Helper. What do you want to know about bank rates for CDs and savings accounts?"
+Bank Helper,"""Alexa, ask Bank Helper for today's C. D. rates""","I know CD rates for 1 year, 2 year, 3 year, and 5 year CDs. Tell me which term of CD you want!"
+Bank Helper,quit,
+Bank Helper,"""Alexa, ask Bank Helper for bank account savings rates""","Hello, I'm Sofia, your Bank Helper. What do you want to know about bank rates for CDs and savings accounts?"
+Bank Helper,quit,
+Leticia Sotomayor - Chino Real Estate,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Leticia Sotomayor - Chino Real Estate,quit,
+Leticia Sotomayor - Chino Real Estate,"""Alexa, what's in the news?""",Here's your news.
+Leticia Sotomayor - Chino Real Estate,quit,
+Leticia Sotomayor - Chino Real Estate,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Leticia Sotomayor - Chino Real Estate,quit,
+Leticia Sotomayor - Chino Real Estate,"""Alexa, what's in the news?""",Here's your news.
+Leticia Sotomayor - Chino Real Estate,quit,
+Live Love Lex Minute,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Live Love Lex Minute,quit,
+Live Love Lex Minute,"""Alexa, what's in the news?""",Here's your news.
+Live Love Lex Minute,quit,
+Live Love Lex Minute,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Live Love Lex Minute,quit,
+Agent Marketer Flash,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Agent Marketer Flash,quit,
+Agent Marketer Flash,"""Alexa, what's in the news?""",Here's your news.
+Agent Marketer Flash,quit,
+Agent Marketer Flash,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Agent Marketer Flash,quit,
+CryptoTracker,"""Alexa ask crypto tracker what's the market cap of LiteCoin""","This might answer your question: Litecoin's market cap is $4,880,860,000, up 3.1% over the last 24 hours. The average market cap of cryptocurrencies is $336,000,000."
+CryptoTracker,quit,
+CryptoTracker,"""Alexa ask crypto tracker what's the price of Bitcoin in Ether""","This might answer your question: 1 Bitcoin is worth $5,090, up 2% over the last 24 hours."
+CryptoTracker,quit,
+CryptoTracker,"""Alexa, ask crypto tracker what's new about Ether""","Hmm, I'm not sure."
+CryptoTracker,quit,
+Think Like a Millionaire - Finance Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Think Like a Millionaire - Finance Flash Briefing,quit,
+Think Like a Millionaire - Finance Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+Think Like a Millionaire - Finance Flash Briefing,quit,
+Think Like a Millionaire - Finance Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Think Like a Millionaire - Finance Flash Briefing,quit,
+Beetle Moment Marketing Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Beetle Moment Marketing Flash Briefing,quit,
+Beetle Moment Marketing Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+Beetle Moment Marketing Flash Briefing,quit,
+Beetle Moment Marketing Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Beetle Moment Marketing Flash Briefing,quit,
+Marketing School,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Marketing School,quit,
+Marketing School,"""Alexa, what's in the news?""",Here's your news.
+Marketing School,quit,
+Marketing School,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Marketing School,quit,
+The Soulpreneur Studio,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Soulpreneur Studio,quit,
+The Soulpreneur Studio,"""Alexa, what's in the news?""",Here's your news.
+The Soulpreneur Studio,quit,
+The Soulpreneur Studio,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Soulpreneur Studio,quit,
+Mortgage Helper,"""Alexa, Open Mortgage Helper""","Hi, I'm Morgan, your virtual assistant mortgage helper. I can calculate how much you can afford, estimate monthly payments, or you can ask for a list of all my calculators. Ask me for a calculator or ask for today‰Ûªs national average rate?"
+Mortgage Helper,quit,
+Mortgage Helper,"""Get today's interest rates.""","As of April 2019, the United States' central bank target interest rate was 2.5% with a 52 week change of +29%."
+Mortgage Helper,quit,
+Mortgage Helper,"""How much will I save if I refinance.""",<Audio only response>
+Mortgage Helper,quit,
+Morningstar,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Morningstar,quit,
+Morningstar,"""Alexa, what's in the news?""",Here's your news.
+Morningstar,quit,
+Morningstar,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Morningstar,quit,
+Digital Marketing Morsel,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Digital Marketing Morsel,quit,
+Digital Marketing Morsel,"""Alexa, what's in the news?""",Here's your news.
+Digital Marketing Morsel,quit,
+Digital Marketing Morsel,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Digital Marketing Morsel,quit,
+Bennie Chukwurah - 77407 Real Estate,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Bennie Chukwurah - 77407 Real Estate,quit,
+Bennie Chukwurah - 77407 Real Estate,"""Alexa, what's in the news?""",Here's your news.
+Bennie Chukwurah - 77407 Real Estate,quit,
+Albany Real Estate,"""Alexa, open Albany Real Estate""",
+Albany Real Estate,quit,
+Albany Real Estate,"""Alexa, ask Albany Real Estate to help me buy a house""","Hmm, I don't know that."
+Albany Real Estate,quit,
+Albany Real Estate,"""Alexa, ask Albany Real Estate what is my house worth""",You have Akron Real Estate enabled. Do you want to open it?
+Albany Real Estate,Yes,Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+Albany Real Estate,"""Alexa, ask Albany Real Estate what is my house worth""",What is your phone number?
+Albany Real Estate,quit,
+Abi - Gearco's Cloud Assistant for Management,"""Alexa, open Abi and tell me my current occupancy""",<Audio only response>
+Abi - Gearco's Cloud Assistant for Management,quit,
+Abi - Gearco's Cloud Assistant for Management,"""Alexa, open Abi and tell me my ADR""",You have Abi - Gearco's Cloud Assistant for Management enabled. Do you want to open it?
+Abi - Gearco's Cloud Assistant for Management,Yes,"Your Gearco Account is required, to be linked to the Abi Skill. Please use the Alexa app, to link your Gearco account to the Abi Skill."
+Abi - Gearco's Cloud Assistant for Management,"""Alexa, open Abi and tell me my ADR""",You have Abi - Gearco's Cloud Assistant for Management enabled. Do you want to open it?
+Abi - Gearco's Cloud Assistant for Management,quit,
+Abi - Gearco's Cloud Assistant for Management,"""Alexa, open Abi and tell me the total revenue""",<Audio only response>
+Abi - Gearco's Cloud Assistant for Management,quit,
+Daily Bitcoin Podcast,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Daily Bitcoin Podcast,quit,
+Daily Bitcoin Podcast,"""Alexa, what's in the news?""",Here's your news.
+Daily Bitcoin Podcast,quit,
+Daily Bitcoin Podcast,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Daily Bitcoin Podcast,quit,
+PullString,"""Alexa, open PullString""","Sorry, I'm not sure."
+PullString,quit,
+PullString,"""Alexa, ask PullString for best practices""",<Audio only response>
+PullString,quit,
+PullString,"""Alexa, ask PullString for example voice applications""",<Audio only response>
+PullString,quit,
+Travelers,"""Alexa, Open Travelers""","Hmm, I don't know that."
+Travelers,quit,
+Travelers,"""Alexa, Ask Travelers for my agent's phone number""",I can‰Ûªt look up your personal contact information yet.
+Travelers,quit,
+Travelers,"""Alexa, Ask Travelers when my bill is due""",I couldn't find memories about that.
+Travelers,quit,
+Rhino Fleet Tracking,"""Alexa, open Rhino""","Sorry, I‰Ûªm not sure about that."
+Rhino Fleet Tracking,quit,
+Rhino Fleet Tracking,"""Alexa, ask Rhino where are my vehicles?""",I did not find any matching items for vehicles since last week
+Rhino Fleet Tracking,quit,
+Rhino Fleet Tracking,"""Alexa, ask Rhino where my drivers are?""",You have Lyft enabled. Do you want to open it?
+Rhino Fleet Tracking,Yes,"Welcome to Lyft! The Lyft skill can help you get a ride from your home address, see if there is prime time, find how far away the nearest driver is from your home address, or tip your last driver. What would you like to do today?"
+Rhino Fleet Tracking,"""Alexa, ask Rhino where my drivers are?""","I moustache you a question, but I'll shave it for later."
+Rhino Fleet Tracking,quit,
+Insurance Advisor,"""Alexa, open Insurance Advisor.""",You have Car Insurance Finder enabled. Do you want to open it?
+Insurance Advisor,Yes,
+Insurance Advisor,"""Alexa, open Insurance Advisor.""","Ask me to get you a quick match for a quote, or ask what I can do?"
+Insurance Advisor,quit,
+Insurance Advisor,"""Alexa, ask Insurance Advisor what does liability mean?.""","Sorry, I don't know ask insurance advisor's definition."
+Insurance Advisor,quit,
+Insurance Advisor,"""Alexa, ask Insurance Advisor to help me find an insurance agent.""","Sorry, I‰Ûªm not sure about that."
+Insurance Advisor,quit,
+Billionaire Secrets - Quotes on Money and Business,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Billionaire Secrets - Quotes on Money and Business,quit,
+Billionaire Secrets - Quotes on Money and Business,"""Alexa, what's in the news?""",Here's your news.
+Billionaire Secrets - Quotes on Money and Business,quit,
+Billionaire Secrets - Quotes on Money and Business,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Billionaire Secrets - Quotes on Money and Business,quit,
+MyFortress,"""Alexa,ask my fortress to disarm""","Sorry, I didn't find a device named my"
+MyFortress,quit,
+MyFortress,"""Alexa,ask myfortress to arm""","Sorry, I‰Ûªm not sure about that."
+MyFortress,quit,
+MyFortress,"""Alexa,ask my fortress to arm home""","Sorry, I didn't find a device named my home"
+MyFortress,quit,
+Car Insurance Finder,"""Alexa, open car insurance finder""","I'm Carrie, an artificial intelligence car insurance finder. I compare hundreds of rates and policy options to determine the best company for you. Ask me to get you a quick match for a quote, or ask for my most frequent questions? By the way, I can give a lot of great info through email. Go to the Alexa app to connect your account. Otherwise, I'll still try and give you some good information."
+Car Insurance Finder,quit,
+Car Insurance Finder,"""Alexa, ask car insurance finder to compare car insurance quotes""",
+Car Insurance Finder,quit,
+Car Insurance Finder,"""Alexa, ask car insurance finder how do I lower my premium""","Sorry, I‰Ûªm not sure about that."
+Car Insurance Finder,quit,
+Waste Management,"""Alexa, ask Waste Management about my next pickup.""","Ok, Here's StockTicker"
+Waste Management,quit,
+Waste Management,"""Alexa, ask Waste Management about holiday schedule.""",You have Waste Management enabled. Do you want to open it?
+Waste Management,Yes,
+Waste Management,"""Alexa, ask Waste Management about holiday schedule.""",<Audio only response>
+Waste Management,quit,
+Waste Management,"""Alexa, ask Waste Management about my balance.""","Based in Houston, Texas, Waste Management is North America's largest environmental solutions company, providing trash and recycling collection to more than 20 million customers, as well as transfer, recycling, resource recovery and disposal services."
+Waste Management,quit,
+PSEG Long Island,"""Alexa, open p. s. e. g. long island""","Sorry, I‰Ûªm not sure about that."
+PSEG Long Island,quit,
+PSEG Long Island,"""Alexa, ask p. s. e. g. long island for my balance""","Hmm, I'm not sure."
+PSEG Long Island,quit,
+PSEG Long Island,"""Alexa, ask p. s. e. g. long island for my electric usage""","Sorry, I‰Ûªm not sure about that."
+PSEG Long Island,quit,
+Tour de Profit with Rich Allen,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Tour de Profit with Rich Allen,quit,
+Tour de Profit with Rich Allen,"""Alexa, what's in the news?""",Here's your news.
+Tour de Profit with Rich Allen,quit,
+Tour de Profit with Rich Allen,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Tour de Profit with Rich Allen,quit,
+BizMagic Minute,"""Alexa, what's my Flash Briefing?""",Here's your news.
+BizMagic Minute,quit,
+BizMagic Minute,"""Alexa, what's in the news?""",Here's your news.
+BizMagic Minute,quit,
+BizMagic Minute,"""Alexa, what's my Flash Briefing?""",Here's your news.
+BizMagic Minute,quit,
+CNN Business Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+CNN Business Flash Briefing,quit,
+CNN Business Flash Briefing,"""Alexa, what's in the news?""",
+CNN Business Flash Briefing,quit,
+CNN Business Flash Briefing,"""Alexa, what's my Flash Briefing?""",
+CNN Business Flash Briefing,quit,
+Coldwell Banker Home of the Week,"""Alexa, open Coldwell Banker.""","Ok, Here's StockTicker"
+Coldwell Banker Home of the Week,quit,
+Coldwell Banker Home of the Week,"""Alexa, ask Coldwell Banker what is the Home of the Week?""","Sorry, I'm not sure."
+Coldwell Banker Home of the Week,quit,
+Coldwell Banker Home of the Week,"""Alexa, Open Gen Blue News.""","Hmm, I don't know that one."
+Coldwell Banker Home of the Week,quit,
+My Realtor,"""Alexa, open My Realtor.""","Sorry, I'm not sure."
+My Realtor,quit,
+My Realtor,"""Alexa, ask My Realtor how many rental properties are in Dix Hills.""","Hmm, I don't know that one."
+My Realtor,quit,
+My Realtor,"""Alexa, ask My Realtor who is Anthony Robinson.""","Sorry, I‰Ûªm not sure about that."
+My Realtor,quit,
+California Association of Realtors,"""Alexa, talk to California Realtors""","Hmm. Maybe the skill, California Association of Realtors, can help. Do you want to try it?"
+California Association of Realtors,quit,
+California Association of Realtors,"""Alexa, ask California Realtors for a news update""","Hmm. Maybe the skill, California Association of Realtors, can help. Do you want to try it?"
+California Association of Realtors,quit,
+California Association of Realtors,"""Alexa, ask California Realtors about the market information""","Hmm. Maybe the skill, California Association of Realtors, can help. Do you want to try it?"
+California Association of Realtors,quit,
+Daily Shot of Social Media for Realtors,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Daily Shot of Social Media for Realtors,quit,
+Daily Shot of Social Media for Realtors,"""Alexa, what's in the news?""",Here's your news.
+Daily Shot of Social Media for Realtors,quit,
+Daily Shot of Social Media for Realtors,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Daily Shot of Social Media for Realtors,quit,
+iPay QuickPay,"""Alexa, open iPay QuickPay.""","Sorry, I don't know that one."
+iPay QuickPay,quit,
+iPay QuickPay,"""What is my next scheduled payment?""",I couldn't find that on your calendar.
+iPay QuickPay,quit,
+iPay QuickPay,"""Send twenty-five dollars on December fifth.""","Ok, Here's PayPal"
+iPay QuickPay,quit,
+Grange Insurance,"""Alexa ask Grange to locate my nearest agent.""",
+Grange Insurance,quit,
+Grange Insurance,"""Alexa ask Grange about business insurance.""",<Audio only response>
+Grange Insurance,quit,
+Grange Insurance,"""Alexa ask Grange to share a tip for auto insurance.""",You have Car Insurance Finder enabled. Do you want to open it?
+Grange Insurance,Yes,"I'm Carrie, an artificial intelligence car insurance finder. I compare hundreds of rates and policy options to determine the best company for you. Ask me to get you a quick match for a quote, or ask for my most frequent questions? By the way, I can give a lot of great info through email. Go to the Alexa app to connect your account. Otherwise, I'll still try and give you some good information."
+Grange Insurance,"""Alexa ask Grange to share a tip for auto insurance.""","Ask me to get you a quick match for a quote, or ask what I can do?"
+Grange Insurance,quit,
+Livestream Universe Update: Livestreaming News,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Livestream Universe Update: Livestreaming News,quit,
+Livestream Universe Update: Livestreaming News,"""Alexa, what's in the news?""",Here's your news.
+Livestream Universe Update: Livestreaming News,quit,
+Livestream Universe Update: Livestreaming News,"""Alexa, open Stream Player""",
+Livestream Universe Update: Livestreaming News,quit,
+First Hawaiian Bank,"""Alexa, ask First Hawaiian Bank what is my checking account balance?""","Sorry, I don't know that."
+First Hawaiian Bank,quit,
+First Hawaiian Bank,"""Alexa, ask First Hawaiian Bank what is my balance for account ending in 123... ""","Hmm, I'm not sure."
+First Hawaiian Bank,quit,
+First Hawaiian Bank,"""Alexa, ask First Hawaiian Bank what is my checking account activities for c... ""","Hmm, I don't know that one."
+First Hawaiian Bank,quit,
+Morgan J's SDR Chronicles,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Morgan J's SDR Chronicles,quit,
+Morgan J's SDR Chronicles,"""Alexa, what's in the news?""",Here's your news.
+Morgan J's SDR Chronicles,quit,
+Morgan J's SDR Chronicles,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Morgan J's SDR Chronicles,quit,
+She's Making an Impact with Rachel Ngom,"""Alexa, what's my Flash Briefing?""",Here's your news.
+She's Making an Impact with Rachel Ngom,quit,
+She's Making an Impact with Rachel Ngom,"""Alexa, what's in the news?""",Here's your news.
+She's Making an Impact with Rachel Ngom,quit,
+She's Making an Impact with Rachel Ngom,"""Alexa, what's my Flash Briefing?""",Here's your news.
+She's Making an Impact with Rachel Ngom,quit,
+Garlic Ticker,"""Alexa, ask garlic ticker what is the price of garlic coin?""","Hmm, I don't know that."
+Garlic Ticker,quit,
+Garlic Ticker,"""Alexa, ask garlic ticker to tell me the rank of garlic coin""","Hmm, I don't know that."
+Garlic Ticker,quit,
+Garlic Ticker,"""Alexa, tell garlic ticker to tell me how garlic coin is performing this wee... ""","Sorry, I‰Ûªm not sure about that."
+Garlic Ticker,quit,
+Westpac Banking,"""Alexa, ask Westpac what's the balance of my credit card?""",You have Westpac Banking enabled. Do you want to open it?
+Westpac Banking,Yes,Welcome! What can I do for you?
+Westpac Banking,"""Alexa, ask Westpac what's the balance of my credit card?""","To get started, you'll need to link me up to your Westpac accounts. You can do this by going into the skill settings in the Alexa app or website"
+Westpac Banking,quit,
+Westpac Banking,"""Alexa, ask Westpac what are my recent transactions?""",You have Westpac Banking enabled. Do you want to open it?
+Westpac Banking,Yes,Welcome! What can I do for you?
+Westpac Banking,"""Alexa, ask Westpac what are my recent transactions?""","To get started, you'll need to link me up to your Westpac accounts. You can do this by going into the skill settings in the Alexa app or website"
+Westpac Banking,quit,
+Westpac Banking,"""Alexa, ask Westpac how many reward points do I have?""",You have Westpac Banking enabled. Do you want to open it?
+Westpac Banking,Yes,Hey there! How can I help?
+Westpac Banking,"""Alexa, ask Westpac how many reward points do I have?""","To get started, you'll need to link me up to your Westpac accounts. You can do this by going into the skill settings in the Alexa app or website"
+Westpac Banking,quit,
+Optum Bank,"""Alexa open Optum Bank""",Hello. I am the Optum Bank FAQ skill. How can I assist you today?
+Optum Bank,quit,
+Optum Bank,"""Alexa ask Optum Bank are bandages a qualified medical expense""","Yes, you can include the cost of Bandages in qualified medical expenses. What other question can I help answer?"
+Optum Bank,quit,
+Optum Bank,"""Alexa ask Optum Bank for a random fact""","Check out all the great tools that Optum Bank provides such as HSA calculators, multiple investment options, and constant customer care. What else can i help you with?"
+Optum Bank,quit,
+Equities,"""Alexa, ask equities to give me the price for AMZN""","This might answer your question: When the market closed, Amazon.com traded at $1,843.06 on the NASDAQ, down 0.05% since previous close."
+Equities,quit,
+Equities,"""What is the information for TSLA""","Tesla is down over the last month, losing 7.4% in market value. As of Friday at 4:00pm Eastern, Tesla traded at $267.70 on the NASDAQ."
+Equities,quit,
+Equities,"""Alexa, ask equities let me hear the latest news""",Here's your news.
+Equities,quit,
+Mark Cuban Quotes,"""Alexa, Mark Cuban Quote""",Here is a quote by Mark Cuban : 'I think that any reporter or columnist will be a little more careful when doing interviews with me.'
+Mark Cuban Quotes,quit,
+Mark Cuban Quotes,"""Alexa, start warren buffett quotes""",
+Mark Cuban Quotes,quit,
+Mark Cuban Quotes,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Mark Cuban Quotes,quit,
+Currency Converter,"""Alexa, ask Currency Converter how much is one bitcoin in united states doll... ""","This might answer your question: 1 Bitcoin is worth $5,100, up 1.8% over the last 24 hours."
+Currency Converter,quit,
+Currency Converter,"""Alexa, ask Currency Converter what currencies do you know""",You have Currency Converter enabled. Do you want to open it?
+Currency Converter,Yes,Welcome to the Currency Converter Skill. I can tell you the current currency exchange or convert money. What can I help you with?
+Currency Converter,"""Alexa, ask Currency Converter what currencies do you know""","The currencies you can ask me for are: american dollar, nicaraguan cordoba, euro, british pound, canadian dollar, chinese renminbi, brazilian real, colombian peso, and venezuelan bolivar. Do you want to convert something or ask me for some exchange rates?"
+Currency Converter,quit,
+Currency Converter,"""Alexa, ask Currency Converter what is the exchange rate for euros""",1 Euro is worth 1.1 US Dollars.
+Currency Converter,quit,
+CryptoCurrency,"""Alexa, ask my crypto what is the price of bitcoin?""","This might answer your question: 1 Bitcoin is worth $5,100, up 1.8% over the last 24 hours."
+CryptoCurrency,quit,
+CryptoCurrency,"""Alexa, ask my crypto for the current price of bitcoin?""","This might answer your question: 1 Bitcoin is worth $5,100, up 1.8% over the last 24 hours."
+CryptoCurrency,quit,
+CryptoCurrency,"""Alexa, ask my crypto for the price of bitcoin""","This might answer your question: 1 Bitcoin is worth $5,100, up 1.9% over the last 24 hours."
+CryptoCurrency,quit,
+Marketplace,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Marketplace,quit,
+Marketplace,"""Alexa, what's in the news?""",Here's your news.
+Marketplace,quit,
+Marketplace,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Marketplace,quit,
+MAGA,"""Alexa, M. A. G. A.""","Sorry, I‰Ûªm not sure about that."
+MAGA,quit,
+MAGA,"""Alexa, what's my Flash Briefing?""",Here's your news.
+MAGA,quit,
+MAGA,"""Alexa, what's my Flash Briefing?""",Here's your news.
+MAGA,quit,
+Comcast Business ActiveCore,"""Alexa, Open Active Core""",You have Comcast Business ActiveCore‰ãÊ enabled. Do you want to open it?
+Comcast Business ActiveCore,Yes,It appears that your account is not currently linked. Go to your Alexa app and link your active core Alexa Skill.
+Comcast Business ActiveCore,"""Alexa, Open Active Core""",You have Comcast Business ActiveCore‰ãÊ enabled. Do you want to open it?
+Comcast Business ActiveCore,quit,
+Comcast Business ActiveCore,"""Alexa, tell Smart Remote to turn on my TV""","Sorry, I didn't find a device named smart remote my tv"
+Comcast Business ActiveCore,quit,
+Comcast Business ActiveCore,"""Alexa, ask AnyMote to play my Sonos""",You have Ask My Buddy enabled. Do you want to open it?
+Comcast Business ActiveCore,Yes,"Welcome to Ask My Buddy, Who would you like to alert ?"
+Comcast Business ActiveCore,"""Alexa, ask AnyMote to play my Sonos""","Sorry, it doesn't appear that you have linked your account yet!You must have an Ask My Buddy account to use this skill. Please use the Alexa app to link your Amazon account with your Ask My Buddy Account."
+Comcast Business ActiveCore,quit,
+Create My Voice,"""Alexa, Start Create My Voice""","Sorry, I don't know that one."
+Create My Voice,quit,
+Create My Voice,"""Read the latest blog post""",I couldn't find the latest blog post.
+Create My Voice,quit,
+Create My Voice,"""Tell me about Create My Voice""",<Audio only response>
+Create My Voice,quit,
+On The Dot Woman Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+On The Dot Woman Flash Briefing,quit,
+On The Dot Woman Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+On The Dot Woman Flash Briefing,quit,
+On The Dot Woman Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+On The Dot Woman Flash Briefing,quit,
+Budget Bot,"""Alexa, tell Budget Bot that I bought textbooks for 130 dollars.""",<Audio only response>
+Budget Bot,quit,
+Budget Bot,"""Alexa, ask Budget Bot how much have I spent on dining.""","Sorry, I don't know that."
+Budget Bot,quit,
+Budget Bot,"""Alexa, tell Budget Bot I spent 7 dollars 25 cents on a hamburger.""","Hmm, I don't know that one."
+Budget Bot,quit,
+Cryptocurrency Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Cryptocurrency Flash Briefing,quit,
+Cryptocurrency Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+Cryptocurrency Flash Briefing,quit,
+Cryptocurrency Flash Briefing,"""Alexa, ask coin base how much is bitcoin?""","This might answer your question: 1 Bitcoin is worth $5,110, up 1.8% over the last 24 hours."
+Cryptocurrency Flash Briefing,quit,
+Marketplace Morning Report,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Marketplace Morning Report,quit,
+Marketplace Morning Report,"""Alexa, what's in the news?""",Here's your news.
+Marketplace Morning Report,quit,
+Marketplace Morning Report,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Marketplace Morning Report,quit,
+David Killinger - Carbon Valley Real Estate,"""Alexa, what's my Flash Briefing?""",Here's your news.
+David Killinger - Carbon Valley Real Estate,quit,
+David Killinger - Carbon Valley Real Estate,"""Alexa, what's in the news?""",Here's your news.
+David Killinger - Carbon Valley Real Estate,quit,
+Understanding HR with Jay Sharp,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Understanding HR with Jay Sharp,quit,
+Understanding HR with Jay Sharp,"""Alexa, what's in the news?""",Here's your news.
+Understanding HR with Jay Sharp,quit,
+Understanding HR with Jay Sharp,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Understanding HR with Jay Sharp,quit,
+Dialpad,"""Alexa, ask Dialpad to call Brian""",Calling with Alexa is not supported on this device. You can use the Alexa App instead.
+Dialpad,quit,
+Dialpad,"""Alexa, ask Dialpad how many calls we got last week""","Hmm, I'm not sure."
+Dialpad,quit,
+Dialpad,"""Alexa, ask Dialpad if I have any new messages""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Dialpad,quit,
+Mortgage Rates,"""Alexa open mortgage rates""","Hi, I'm Morgan, your virtual assistant mortgage helper. I can calculate how much you can afford, estimate monthly payments, or you can ask for a list of all my calculators. Ask me for a calculator or ask for today‰Ûªs national average rate?"
+Mortgage Rates,quit,
+Mortgage Rates,"""Alexa ask mortgage rates what are the rates are today""","As of April 11, 2019, the average rate for a 30 year fixed rate mortgage in the United States was 4.12%, up 1% over the previous week. The average rate for a 15 year fixed rate mortgage was 3.6%, up 1.1% over the previous week."
+Mortgage Rates,quit,
+Mortgage Rates,"""Alexa ask mortgage rates about today's rate""",You have Rocket Mortgage enabled. Do you want to open it?
+Mortgage Rates,Yes,
+Mortgage Rates,"""Alexa ask mortgage rates about today's rate""",You have Rocket Mortgage enabled. Do you want to open it?
+Mortgage Rates,quit,
+"Disher, Hamrick & Myers Residential Real Estate","""Alexa, open charleston real estate""",You have Rocket Mortgage enabled. Do you want to open it?
+"Disher, Hamrick & Myers Residential Real Estate",Yes,"Welcome to Rocket Mortgage. To check out our new features, try saying whats new! How can I help you?"
+"Disher, Hamrick & Myers Residential Real Estate","""Alexa, open charleston real estate""",
+"Disher, Hamrick & Myers Residential Real Estate",quit,
+"Disher, Hamrick & Myers Residential Real Estate","""Alexa, start charleston real estate""","Welcome to Disher, Hamrick and Myers Residential Real Estate in beautiful Charleston, South Carolina. We look forward to helping you with all your home buying and selling needs in the greater Charleston, SC market. To learn more about our agency, say ""About Us"". You can also ask about our ""Location"", ""Get Directions"", ""Hours of Operation"", or ""Phone Number"". What can I help you with?"
+"Disher, Hamrick & Myers Residential Real Estate",quit,
+"Disher, Hamrick & Myers Residential Real Estate","""Alexa, launch charleston real estate""","Welcome to Disher, Hamrick and Myers Residential Real Estate in beautiful Charleston, South Carolina. We look forward to helping you with all your home buying and selling needs in the greater Charleston, SC market. To learn more about our agency, say ""About Us"". You can also ask about our ""Location"", ""Get Directions"", ""Hours of Operation"", or ""Phone Number"". What can I help you with?"
+"Disher, Hamrick & Myers Residential Real Estate",quit,
+Comcast Business,"""Alexa, ask Comcast Business to start a conference on my desk phone.""","Hmm, I'm not sure."
+Comcast Business,quit,
+Comcast Business,"""Alexa, ask Comcast Business to start a conference on my mobile.""",
+Comcast Business,quit,
+Comcast Business,"""Alexa, open Comcast Business.""",You have Comcast Business ActiveCore‰ãÊ enabled. Do you want to open it?
+Comcast Business,Yes,It appears that your account is not currently linked. Go to your Alexa app and link your active core Alexa Skill.
+Comcast Business,"""Alexa, open Comcast Business.""",You have Comcast Business ActiveCore‰ãÊ enabled. Do you want to open it?
+Comcast Business,quit,
+CEO Tip of the Day,"""Alexa, open CEO Tip of the Day.""",You have CEO Tip of the Day enabled. Do you want to open it?
+CEO Tip of the Day,Yes,Welcome to Renaissance Executive Forums CEO Tip of the Day. You can ask what's the CEO Tip of the Day. What would you like to do?
+CEO Tip of the Day,"""Alexa, open CEO Tip of the Day.""","There are two things you should not worry about; things you can control, and things you cannot control. If you can control something, fix it and stop worrying about it. If you cannot control something, leave it alone and focus on what you can control. The reality is that we really are not in control of anything but ourselves, so be realistic about the challenges you face and move ahead one step at a time. When things seem to be overtaking you, step back and get a reality check by asking your CEO peer group what they see. The fear is often clouding your reality and others can see past that. You can ask for another tip, or say I'm done to finish."
+CEO Tip of the Day,quit,
+CEO Tip of the Day,"""Alexa, what's my Flash Briefing?""",Here's your news.
+CEO Tip of the Day,quit,
+CEO Tip of the Day,"""Alexa, what's my Flash Briefing?""",Here's your news.
+CEO Tip of the Day,quit,
+"What's Next in Branding, Entrepreneurs & Startups","""Alexa, what's my Flash Briefing?""",Here's your news.
+"What's Next in Branding, Entrepreneurs & Startups",quit,
+"What's Next in Branding, Entrepreneurs & Startups","""Alexa, what's in the news?""",Here's your news.
+"What's Next in Branding, Entrepreneurs & Startups",quit,
+"What's Next in Branding, Entrepreneurs & Startups","""Alexa, what's my Flash Briefing?""",Here's your news.
+"What's Next in Branding, Entrepreneurs & Startups",quit,
+Jen's 5 am Jumpstart,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Jen's 5 am Jumpstart,quit,
+Jen's 5 am Jumpstart,"""Alexa, what's in the news?""",Here's your news.
+Jen's 5 am Jumpstart,quit,
+Jen's 5 am Jumpstart,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Jen's 5 am Jumpstart,quit,
+Morgan Stanley Ideas Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Morgan Stanley Ideas Briefing,quit,
+Morgan Stanley Ideas Briefing,"""Alexa, what's in the news?""",Here's your news.
+Morgan Stanley Ideas Briefing,quit,
+Morgan Stanley Ideas Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Morgan Stanley Ideas Briefing,quit,
+Cryptocurrency Prices,"""Alexa ask coin check for the current price of bitcoin.""",Are you looking for bitcoin.?
+Cryptocurrency Prices,quit,
+Cryptocurrency Prices,"""Alexa ask coin check for the price of litecoin.""",
+Cryptocurrency Prices,quit,
+Cryptocurrency Prices,"""Alexa ask coin check for the top ten coins.""","Ok, Here's Coinbase Bitcoin/Ethereum Price"
+Cryptocurrency Prices,quit,
+Crypto Agent,"""Alexa, ask Crypto Agent for prices""","Hmm, I don't know that."
+Crypto Agent,quit,
+Crypto Agent,"""Alexa, ask Crypto Agent to add ripple""","Sorry, I don't know that one."
+Crypto Agent,quit,
+Crypto Agent,"""Alexa, ask Crypto Agent to quote ripple""","Sorry, I'm not sure."
+Crypto Agent,quit,
+SentinelOne,"""Alexa, ask SentinelOne for summary report""","Hmm. Maybe the skill, SentinelOne, can help. Do you want to try it?"
+SentinelOne,quit,
+SentinelOne,"""Alexa, ask SentinelOne for daily report""",This might answer your question: Dailymotion's status is Active.
+SentinelOne,quit,
+SentinelOne,"""Alexa, ask SentinelOne for server version""","Hmm. Maybe the skill, SentinelOne, can help. Do you want to try it?"
+SentinelOne,quit,
+Enrichment Voice Teller,"""Alexa ask Enrichment what is my checking balance.""",
+Enrichment Voice Teller,quit,
+Enrichment Voice Teller,"""Alexa ask Enrichment what is the balance of my auto loan.""",You have not completed account linking for this skill. Please complete account linking with your Alexa App and then you can continue.
+Enrichment Voice Teller,quit,
+Enrichment Voice Teller,"""Alexa ask Enrichment who is the CEO.""",You have not completed account linking for this skill. Please complete account linking with your Alexa App and then you can continue.
+Enrichment Voice Teller,quit,
+CryptoPrice,"""Alexa open cryptoprice""","Hmm, I don't know that one."
+CryptoPrice,quit,
+CryptoPrice,"""tell me about bitcoin""","Bitcoin, the digital asset and a payment system invented by Satoshi Nakamoto."
+CryptoPrice,quit,
+CryptoPrice,"""What is price of ethereum""","1 Ethereum is worth $166, up 1.6% over the last 24 hours."
+CryptoPrice,quit,
+The Hustle,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Hustle,quit,
+The Hustle,"""Alexa, what's in the news?""",Here's your news.
+The Hustle,quit,
+The Hustle,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Hustle,quit,
+Exchange Rate,"""Alexa, open exchange rate and convert dollar to rupee""","To convert a value in US Dollars to Indian rupees, multiply by 69.16."
+Exchange Rate,quit,
+Exchange Rate,"""Alexa, ask exchange rate for Krona to Won""",
+Exchange Rate,quit,
+Exchange Rate,"""Alexa, open exchange rate and convert Rand to peso""","To convert a value in Rands to pesos, multiply by 1.35."
+Exchange Rate,quit,
+Web Analytics,"""Alexa, ask web analytics for the report""",You have Web Analytics enabled. Do you want to open it?
+Web Analytics,Yes,"Oops! It seems like you haven't linked your account yet. Please use the alexa mobile app or login to your alexa account from a web browser, and go to the skills section. Select webanalytics skill, and click on link account."
+Web Analytics,"""Alexa, ask web analytics for the report""",You have Web Analytics enabled. Do you want to open it?
+Web Analytics,quit,
+Web Analytics,"""Alexa, ask web analytics for the report for yesterday""",I only have weather information for the next 10 days.
+Web Analytics,quit,
+Web Analytics,"""Alexa, ask web analytics for the complete report""",You have Web Analytics enabled. Do you want to open it?
+Web Analytics,Yes,"Oops! It seems like you haven't linked your account yet. Please use the alexa mobile app or login to your alexa account from a web browser, and go to the skills section. Select webanalytics skill, and click on link account."
+Web Analytics,"""Alexa, ask web analytics for the complete report""",You have Web Analytics enabled. Do you want to open it?
+Web Analytics,quit,
+Stock Info,"""Alexa ask Stock Info AMZN""","Hmm, I have a few skills that can help."
+Stock Info,quit,
+Stock Info,"""Alexa ask Stock Info price of MSFT""","Earlier today at 2:00 p.m. Mountain Daylight Time, Microsoft traded at $120.95 on NASDAQ Global Market, up 0.52% since previous close."
+Stock Info,quit,
+Stock Info,"""Alexa ask Stock Info give me price of FB""",You have StockTicker enabled. Do you want to open it?
+Stock Info,Yes,"Sorry, I'm having trouble accessing your StockTicker skill right now"
+Stock Info,"""Alexa ask Stock Info give me price of FB""",You have StockTicker enabled. Do you want to open it?
+Stock Info,quit,
+Bitcoin Price,"""Alexa, ask Bitcoin Price for the current price""","This might answer your question: 1 Bitcoin is worth $5,110, up 2.1% over the last 24 hours."
+Bitcoin Price,quit,
+Bitcoin Price,"""Alexa, get the current price from Bitcoin Price""",1 bit coin is currently worth 5096.25 US dollars
+Bitcoin Price,quit,
+Bitcoin Price,"""Alexa, open Bitcoin price""",1 bit coin is currently worth 5097.02 US dollars
+Bitcoin Price,quit,
+Money Converter,"""Alexa ask money converter how much is 100 euros in dollars""","Ok, Here's XE Currency"
+Money Converter,quit,
+Money Converter,"""my currency is dollars""","The United States dollar is the official currency of the United States and its territories per the United States Constitution since 1792. In practice, the dollar is divided into 100 smaller cent units, but is occasionally divided into 1000 mills for accounting. The circulating paper money consists of Federal Reserve Notes that are denominated in United States dollars."
+Money Converter,quit,
+Money Converter,"""Alexa ask money converter what is the exchange rate for euros""",1 Euro is worth 1.1 US Dollars.
+Money Converter,quit,

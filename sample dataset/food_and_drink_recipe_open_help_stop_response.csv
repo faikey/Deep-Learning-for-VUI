@@ -1,0 +1,260 @@
+name,question,response
+Save The Food,"Alexa, open Save The Food","Welcome to Save The Food. Together, we can make your food last longer and fight food waste. Huzzah To learn what you can ask me, say Help."
+Save The Food,help,"To fight food waste, you can ask me questions about almost any food. For example: Alexa, ask Save The Food how to store bananas. Alexa, ask Save The Food if my apples are still good. Alexa, ask Save is wilted celery still good If you want to stop at any time say Stop."
+Save The Food,stop,Goodbye
+Save The Food,quit,
+OurGroceries,"Alexa, open OurGroceries","Welcome to Our Groceries, you can say, add milk to Shopping List."
+OurGroceries,help,"You can say things like: add milk to Shopping List, and what are my lists."
+OurGroceries,stop,Canceled
+OurGroceries,quit,
+Meal Idea,"Alexa, open Meal Idea","Here's your meal idea, you can also view this idea on the Home screen of your Alexa app: If you have parchment paper, vegetables and fish you can make easy baked fish. Slice a cup of the vegetables thinly and place on the parchment, lay the piece of fish on top of the vegetables, drizzle with a tablespoon of olive oil, a half-teaspoon of salt, a dash of pepper and a teaspoon of lemon juice if desired. Fold over the top of the parchment to form an envelope, roll the ends of the parchment tightly to seal the envelope. Bake at 385 for 15 minutes or until the fish is flaky."
+Meal Idea,help,"For Help, please visit the help pages on the Amazon web site."
+Meal Idea,stop,
+Meal Idea,quit,
+Allrecipes,"Alexa, open Allrecipes","Welcome to Allrecipes. You can search for a recipe in your favorites, get the recipe of the day, or search for a new recipe. What would you like to do?"
+Allrecipes,help,"The Allrecipes skill can help you find a recipe to make. You can search your favorites, hear the recipe of the day, or search for new recipes. Try saying things like 'I need a slow-cooker chicken recipe,' or 'What are my favorite chicken recipes?' What would you like to do?"
+Allrecipes,stop,Goodbye!
+Allrecipes,quit,
+The Bartender,"Alexa, open The Bartender","Hi; welcome to the bartender. Just ask for a drink, give me an ingredient, or try ""surprise me."""
+The Bartender,help,"You can ask me how to make a drink by saying, ""How do I make a White Russian?"", or find one that uses certain ingredients, like ""something with bourbon""."
+The Bartender,stop,OK; see you next time!
+The Bartender,quit,
+My Chef - Kitchen Assistant by Chefling,"Alexa, open My Chef - Kitchen Assistant by Chefling","Hi there. It seems you haven't downloaded our app. To get the best experience, please download the free Cheflilng app on your mobile phone. How can I help you today?"
+My Chef - Kitchen Assistant by Chefling,help,"A full list of functions has been sent via an Alexa card. Chefling works best with the mobile app Chefling on your phone. Okay, what can I do for you?"
+My Chef - Kitchen Assistant by Chefling,stop,Okay.
+My Chef - Kitchen Assistant by Chefling,quit,
+Instant Pot,"Alexa, open Instant Pot","Hmm, I don't know that one."
+Instant Pot,help,"For Help, please visit the help pages on the Amazon web site."
+Instant Pot,stop,
+Instant Pot,quit,
+Food Network,"Alexa, open Food Network",<Short audio>
+Food Network,help,"The Food Network skill helps you find recipes from your favorite Food Network chefs. You can say things like 'Can I get the recipe that’s on TV right now?', or 'Find me barbecue chicken recipes by Bobby Flay.' How can I help you?"
+Food Network,stop,"No problem. Before you go, Rachael has one more thing to say!"
+Food Network,quit,
+Ask Peapod,"Alexa, open Ask Peapod",
+Ask Peapod,help,"For Help, please visit the help pages on the Amazon web site."
+Ask Peapod,stop,
+Ask Peapod,quit,
+Behmor Brewer,"Alexa, open Behmor Brewer","Hmm, I'm not sure."
+Behmor Brewer,help,"For Help, please visit the help pages on the Amazon web site."
+Behmor Brewer,stop,
+Behmor Brewer,quit,
+Meat Thermometer,"Alexa, open Meat Thermometer","Howdy partner, and Welcome to Meat Thermometer."
+Meat Thermometer,help,"You can ask questions about internal temperature such as, what's the internal temperature for a medium well steak, or, you can say exit... Now, what can I help you with?"
+Meat Thermometer,stop,Y'all come back now!
+Meat Thermometer,quit,
+Cookie Monster,"Alexa, open Cookie Monster","Welcome to the Cookie Monster. You can ask a question like, what's the recipe for chocolate chip cookies? ... Now, what can I help you with?"
+Cookie Monster,help,"You can ask questions about cookie recipes such as, what's the recipe for sugar cookies, or, you can say exit... Now, what can I help you with?"
+Cookie Monster,stop,Goodbye
+Cookie Monster,quit,
+Good Housekeeping,"Alexa, open Good Housekeeping",<Short audio>
+Good Housekeeping,help,
+Good Housekeeping,stop,
+Good Housekeeping,quit,
+FridgeStorageTimesHelper,"Alexa, open FridgeStorageTimesHelper",<Audio only response>
+FridgeStorageTimesHelper,help,"For Help, please visit the help pages on the Amazon web site."
+FridgeStorageTimesHelper,stop,
+FridgeStorageTimesHelper,quit,
+Ingredient Sub,"Alexa, open Ingredient Sub","Welcome to Ingredient Sub. You can ask a question like, what can I substitute for brown sugar? ... Now, what can I help you with."
+Ingredient Sub,help,"You can ask questions such as, what can I substitute for an ingredient, or, I'm out of an ingredient, or you can say exit... Now, what can I help you with?"
+Ingredient Sub,stop,Goodbye
+Ingredient Sub,quit,
+America's Test Kitchen Daily Cooking Q&A,"Alexa, open America's Test Kitchen Daily Cooking Q&A",<Audio only response>
+America's Test Kitchen Daily Cooking Q&A,help,"For Help, please visit the help pages on the Amazon web site."
+America's Test Kitchen Daily Cooking Q&A,stop,
+America's Test Kitchen Daily Cooking Q&A,quit,
+Campbell's Kitchen,"Alexa, open Campbell's Kitchen","Sorry, the Campbell's Kitchen skill is no longer available. You can find more skills in the Alexa app."
+Campbell's Kitchen,help,"For Help, please visit the help pages on the Amazon web site."
+Campbell's Kitchen,stop,
+Campbell's Kitchen,quit,
+Best Recipes,"Alexa, open Best Recipes","Ok, Here's Food Network"
+Best Recipes,help,"There are few different ways you can search for recipes. You can search by chef name and course, such as breakfast or dinner. You can also include up to two ingredients or keywords such as 'chicken', 'easy' or 'salad'. Including the name of your favorite Food Network chef can help refine your search results. For example: 'I would like chicken and avocado dinner recipes by Bobby Flay'. Give it a try when you’re ready."
+Best Recipes,stop,"No problem. Before you go, Rachael has one more thing to say!"
+Best Recipes,quit,
+Sous Vide Temperature Guide,"Alexa, open Sous Vide Temperature Guide",You have Joule: Sous Vide by ChefSteps enabled. Do you want to open it?
+Sous Vide Temperature Guide,Yes,"Welcome to Joule! This requires the skill to be linked with a ChefSteps account. Open the Alexa App on your mobile device, find the Joule skill, and make sure it is linked to your ChefSteps account."
+Sous Vide Temperature Guide,help,"This requires the skill to be linked with a ChefSteps account. Open the Alexa App on your mobile device, find the Joule skill, and make sure it is linked to your ChefSteps account."
+Sous Vide Temperature Guide,stop,"This requires the skill to be linked with a ChefSteps account. Open the Alexa App on your mobile device, find the Joule skill, and make sure it is linked to your ChefSteps account."
+Sous Vide Temperature Guide,quit,
+MEATER,"Alexa, open MEATER",<Audio only response>
+MEATER,help,"For Help, please visit the help pages on the Amazon web site."
+MEATER,stop,
+MEATER,quit,
+Kitchen Scale,"Alexa, open Kitchen Scale","Sorry, I don't know that one."
+Kitchen Scale,help,"For Help, please visit the help pages on the Amazon web site."
+Kitchen Scale,stop,
+Kitchen Scale,quit,
+Meal Planner,"Alexa, open Meal Planner",Welcome to Meal Planner. Plan meal by saying add pizza for dinner or ask what's for dinner today
+Meal Planner,help,"Meal Planner allows you to plan meals for today, tomorrow or any day of the week. Meal Planner also answers what is for breakfast, lunch , dinner or snack for today, tommorrow or any day of the week. Plan meal by saying add pizza for dinner or asking what's for dinner today."
+Meal Planner,stop,Goodbye
+Meal Planner,quit,
+Flame Boss,"Alexa, open Flame Boss","Hmm, I don't know that one."
+Flame Boss,help,"For Help, please visit the help pages on the Amazon web site."
+Flame Boss,stop,
+Flame Boss,quit,
+Cook Reference,"Alexa, open Cook Reference","Welcome to Cook Reference, you can ask about the safe cooking temperature for any meat or conversions for any popular cooking units."
+Cook Reference,help,You can ask me for the safe cooking temperatures of meat or unit conversions.
+Cook Reference,stop,Goodbye
+Cook Reference,quit,
+Chop Chop,"Alexa, open Chop Chop",<Audio only response>
+Chop Chop,help,"For Help, please visit the help pages on the Amazon web site."
+Chop Chop,stop,
+Chop Chop,quit,
+Daily Bread,"Alexa, open Daily Bread"
+Daily Bread,help,I will ask you some questions that will help you decide what to eat. Want to start now?
+Daily Bread,stop,Enjoy your meal!
+Daily Bread,quit,
+FruitFacts,"Alexa, open FruitFacts",<Audio only response>
+FruitFacts,help,"For Help, please visit the help pages on the Amazon web site."
+FruitFacts,stop,
+FruitFacts,quit,
+The Sous Chef,"Alexa, open The Sous Chef"
+The Sous Chef,help,Use the Amazon Alexa app to sign in to the Sous Chef Recipes skill.
+The Sous Chef,stop,Done
+The Sous Chef,quit,
+Chef,"Alexa, open Chef","Hello. It seems you haven't downloaded our app. To get the best experience, please download the free Cheflilng app on your mobile phone. How can I help you today?"
+Chef,help,"A full list of functions has been sent via an Alexa card. Chefling works best with the mobile app Chefling on your phone. Okay, what can I do for you?"
+Chef,stop,"Okay. If you are finding Chefling useful, please don't forget to rate the skill on the alexa companion app."
+Chef,quit,
+Whole30,"Alexa, open Whole30",<Audio only response>
+Whole30,help,"For Help, please visit the help pages on the Amazon web site."
+Whole30,stop,
+Whole30,quit,
+Supercook recipe finder,"Alexa, open Supercook recipe finder","Welcome back to super cook. I see you have no ingredients. To add ingredients, say something like, add butter and lemon to my kitchen. What can i do for you?"
+Supercook recipe finder,help,"Welcome to the super cook kitchen assistant. I can help you find thousands of recipes you can make right now, using just the ingredients you have at home. Just like a human chef, I need to know what ingredients you have, before I can start suggesting ideas. The more I know about the ingredients in your kichen, the better I'll be at recommending dishes you can make. The only ingredients I assume you have, are, water, salt, and pepper. You'll need to let me know about all the rest. Adding ingredients is easy. For example, to add eggs,tomato and olive oil, just say, "" add eggs, tomato and olive oil to my kitchen"" To remove ingredients, just say something like, "" remove tomato and eggs from my kitchen"", or, "" i ran out of milk and butter"" You can also tell me to remove all of your ingredients, by saying, ""remove all of my ingredients"" Not sure if you've added certain ingredients? You can ask me by saying something like, "" do i have spinach and lemon in my kitchen?"". You can also ask me, ""what vegetables are in my kitchen?"", or, ""what dairy ingredients are in my kitchen?"", etc. Make sure to let me know about new ingredients you purchase, and ingredients you run out of. When you add ingredients, I'll find more dishes you can make, when you remove ingredients, there will be fewer recipes you can make. To find out what recipes you can make, just ask, ""what can i make?"" If you want to find dishes that use certain ingredients, you can ask me by saying something like, "" what can i make with my spinach and onion?"" If you want to make something for dinner, or breakfast, just say, "" what can i make for breakfast"", or, "" what can i make for dinner"". You can also ask more advanced questions like, ""what can i make for dinner using my chicken breast and lemon"", or, ""what breakfast recipes can i make with peanut butter"". I can also help you find recipes used in certain meal types and cuisines, simply ask me, """"what mexican recipes can i make"", or, ""what Mediterranean recipes can i make"", or, ""what dessert recipes can i make"". You can get more detailed by asking things like, ""what can i make for dessert using my apple and cinnamon"" If you have a certan dish in mind, and you're curious if you have everything you need to make it, you can ask me by saying something like, "" can I make fettucine alfredo?"", or, ""can i make sesame chicken?"". If you don't have all the ingredients needed to make the dish, I'll let you know exactly what you're missing. I know how to make over half a million dishes, so you can ask me about any dish imaginable. After you choose a recipe from one of the options I give you, I'll send detailed instructions about the recipe to your Alexa App. Are you curious what goes into certain dishes? I can help you with that too. You can ask me by saying something like, "" what goes into shrimp scampi?"", or, ""what goes into spicy recipes?"" Ready to get started? What can I do for you?"
+Supercook recipe finder,stop,bye
+Supercook recipe finder,quit,
+Fruit Stand,"Alexa, open Fruit Stand","Hmm, I'm not sure."
+Fruit Stand,help,"For Help, please visit the help pages on the Amazon web site."
+Fruit Stand,stop,
+Fruit Stand,quit,
+Recipe Finder By Ingredients,"Alexa, open Recipe Finder By Ingredients",Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+Recipe Finder By Ingredients,help,Here's some help. I can help you find you a recipe based on the ingredients in your fridge. All you need to do is list some ingredients and I will offer up some tasty recipes for you that use those ingredients. What ingredients would you like to use?
+Recipe Finder By Ingredients,stop,Good luck with dinner
+Recipe Finder By Ingredients,quit,
+MeatButler,"Alexa, open MeatButler",<Audio only response>
+MeatButler,help,"For Help, please visit the help pages on the Amazon web site."
+MeatButler,stop,
+MeatButler,quit,
+Sous Chef Recipes,"Alexa, open Sous Chef Recipes","Ok, here's a few recipes"
+Sous Chef Recipes,help,"For Help, please visit the help pages on the Amazon web site."
+Sous Chef Recipes,stop,
+Sous Chef Recipes,quit,
+Is it Gluten Free?,"Alexa, open Is it Gluten Free?","Hmm, I don't know that one."
+Is it Gluten Free?,help,"For Help, please visit the help pages on the Amazon web site."
+Is it Gluten Free?,stop,
+Is it Gluten Free?,quit,
+hiku,"Alexa, open hiku",<Audio only response>
+hiku,help,"For Help, please visit the help pages on the Amazon web site."
+hiku,stop,
+hiku,quit,
+Tea Guide,"Alexa, open Tea Guide",Welcome to Guide. Would you like to have a nice cup of tea?
+Tea Guide,help,I will help you to make a nice cup of tea. Want to start now?
+Tea Guide,stop,"Ok, see you next time!"
+Tea Guide,quit,
+Recipe Buddy,"Alexa, open Recipe Buddy","Welcome to Recipe Buddy. Please tell me what dish you want to cook. For example, you can say find me a recipe for chicken parmesan or how do I make apple pie?"
+Recipe Buddy,help,"To get started, ask me how to make something. For example, you can say how do you make chicken parmesan? In addition, you can always say Help for help or Stop to exit."
+Recipe Buddy,stop,Thank you for using Recipe Buddy. Your fully baked friend!
+Recipe Buddy,quit,
+CyberQ Cloud,"Alexa, open CyberQ Cloud",To get the most out of cyber q Cloud skill please link your account using the Alexa mobile app.
+CyberQ Cloud,help,"For Help, please visit the help pages on the Amazon web site."
+CyberQ Cloud,stop,
+CyberQ Cloud,quit,
+Quaker,"Alexa, open Quaker","Hi, and welcome back to Quaker. What can I do for you today?"
+Quaker,help,"Quaker is your one stop shop to everything oats. We can help you find a recipe based on ingredients, oat-type, or, cooking difficulty. Try saying ""overnight oats recipes"". I can also teach you the basics to oat making. What would you like to do?"
+Quaker,stop,"Have a great day! Check back often for new Quaker recipes, content, and lessons!"
+Quaker,quit,
+Recipe Remix,"Alexa, open Recipe Remix","Sorry, I don't know that one."
+Recipe Remix,help,"For Help, please visit the help pages on the Amazon web site."
+Recipe Remix,stop,
+Recipe Remix,quit,
+Kitchen Measures,"Alexa, open Kitchen Measures","Sorry, I didn't find a device named kitchen measures"
+Kitchen Measures,help,
+Kitchen Measures,stop,
+Kitchen Measures,quit,
+GoodNes,"Alexa, open GoodNes",<Audio only response>
+GoodNes,help,"For Help, please visit the help pages on the Amazon web site."
+GoodNes,stop,
+GoodNes,quit,
+Chuck Knows Beef,"Alexa, open Chuck Knows Beef",
+Chuck Knows Beef,help,"For Help, please visit the help pages on the Amazon web site."
+Chuck Knows Beef,stop,
+Chuck Knows Beef,quit,
+Food Network Daily Bite,"Alexa, open Food Network Daily Bite","I’ve added Food Network Daily Bite to your Flash Briefing; to hear it, just say, “What’s my Flash Briefing.” To manage your content, go to the Alexa App, tap on Settings, then select Flash Briefing."
+Food Network Daily Bite,help,"For Help, please visit the help pages on the Amazon web site."
+Food Network Daily Bite,stop,
+Food Network Daily Bite,quit,
+Skinnytaste,"Alexa, open Skinnytaste","Sorry, I don't know that."
+Skinnytaste,help,"For Help, please visit the help pages on the Amazon web site."
+Skinnytaste,stop,
+Skinnytaste,quit,
+Grilling Time And Heat Settings,"Alexa, open Grilling Time And Heat Settings",<Audio only response>
+Grilling Time And Heat Settings,help,"For Help, please visit the help pages on the Amazon web site."
+Grilling Time And Heat Settings,stop,
+Grilling Time And Heat Settings,quit,
+Kitchen Sink,"Alexa, open Kitchen Sink","Hmm, I don't know that."
+Kitchen Sink,help,"For Help, please visit the help pages on the Amazon web site."
+Kitchen Sink,stop,
+Kitchen Sink,quit,
+Recipe Speak,"Alexa, open Recipe Speak",You have Doge Speak enabled. Do you want to open it?
+Recipe Speak,Yes,such skill.
+Recipe Speak,help,"For Help, please visit the help pages on the Amazon web site."
+Recipe Speak,stop,
+Recipe Speak,quit,
+Recipe ingredient list,"Alexa, open Recipe ingredient list",
+Recipe ingredient list,help,"For Help, please visit the help pages on the Amazon web site."
+Recipe ingredient list,stop,
+Recipe ingredient list,quit,
+Food Holiday,"Alexa, open Food Holiday",Today's food holiday is National Pineapple Upside Down Cake Day
+Food Holiday,help,"For Help, please visit the help pages on the Amazon web site."
+Food Holiday,stop,
+Food Holiday,quit,
+repeat my recipes,"Alexa, open repeat my recipes","Ok, here's a few recipes"
+repeat my recipes,help,"For Help, please visit the help pages on the Amazon web site."
+repeat my recipes,stop,
+repeat my recipes,quit,
+Easy Meal Ideas,"Alexa, open Easy Meal Ideas","Welcome to the Easy Meal Ideas skill! With this skill, you can get a new, unique recipe idea every day. The meal categories are chicken and poultry, beef, pork, ham and bacon, seafood, and meatless. Would you like to continue? Say yes or no."
+Easy Meal Ideas,help,"The meal categories are chicken and poultry, beef, pork, ham and bacon, seafood, and meatless. Would you like to continue? Say yes or no."
+Easy Meal Ideas,stop,"Come back again to hear a new meal idea. Just say, ""Alexa, open Easy Meal Ideas"" Goodbye."
+Easy Meal Ideas,quit,
+My Food Facts,"Alexa, open My Food Facts","Here's your fact: Pound cake got its name from its original recipe, which called for a pound each of butter, eggs, sugar, and flour."
+My Food Facts,help,"For Help, please visit the help pages on the Amazon web site."
+My Food Facts,stop,
+My Food Facts,quit,
+Healthy Salads,"Alexa, open Healthy Salads","Hmm, I'm not sure."
+Healthy Salads,help,"For Help, please visit the help pages on the Amazon web site."
+Healthy Salads,stop,
+Healthy Salads,quit,
+Recipe Helper,"Alexa, open Recipe Helper","Welcome to the Recipe Helper. You can ask a question like, what's the recipe for a Beef Stroganoff? ... Now, what can I help you with."
+Recipe Helper,help,"You can ask questions such as, what's the recipe, or, you can say exit... Now, what can I help you with?"
+Recipe Helper,stop,Goodbye
+Recipe Helper,quit,
+Meal Tracker,"Alexa, open Meal Tracker",Welcome to meal tracker. Who am I talking to? Please say .My name is. plus your name
+Meal Tracker,help,"First state who you are by saying, My name is. plus. your name. Then you can track your meals or ask what you have eaten. You can track your meal 2 different ways. You can either say 'I had chicken for dinner today, 200 calories'. Or you can say 'meal wizard' to record step by step. You can record up to 6 meals a day. Breakfast, lunch, dinner, snack #1, #2, and #3. To ask what you ate, say 'What did I eat yesterday for dinner', or 'what did I eat today'. To track your calories, ask, 'how many calories did I have yesterday'. To shorten instructions, say 'turn instructions off'. Please refer to the description on the skills page for more options."
+Meal Tracker,stop,"Goodbye, thank you for using Meal Tracker!"
+Meal Tracker,quit,
+My Kitchen,"Alexa, open My Kitchen",You have Supercook recipe finder enabled. Do you want to open it?
+My Kitchen,Yes,"Welcome back to super cook. I see you have no ingredients. To add ingredients, say something like, add butter and lemon to my kitchen. What can i do for you?"
+My Kitchen,help,"Welcome to the super cook kitchen assistant. I can help you find thousands of recipes you can make right now, using just the ingredients you have at home. Just like a human chef, I need to know what ingredients you have, before I can start suggesting ideas. The more I know about the ingredients in your kichen, the better I'll be at recommending dishes you can make. The only ingredients I assume you have, are, water, salt, and pepper. You'll need to let me know about all the rest. Adding ingredients is easy. For example, to add eggs,tomato and olive oil, just say, "" add eggs, tomato and olive oil to my kitchen"" To remove ingredients, just say something like, "" remove tomato and eggs from my kitchen"", or, "" i ran out of milk and butter"" You can also tell me to remove all of your ingredients, by saying, ""remove all of my ingredients"" Not sure if you've added certain ingredients? You can ask me by saying something like, "" do i have spinach and lemon in my kitchen?"". You can also ask me, ""what vegetables are in my kitchen?"", or, ""what dairy ingredients are in my kitchen?"", etc. Make sure to let me know about new ingredients you purchase, and ingredients you run out of. When you add ingredients, I'll find more dishes you can make, when you remove ingredients, there will be fewer recipes you can make. To find out what recipes you can make, just ask, ""what can i make?"" If you want to find dishes that use certain ingredients, you can ask me by saying something like, "" what can i make with my spinach and onion?"" If you want to make something for dinner, or breakfast, just say, "" what can i make for breakfast"", or, "" what can i make for dinner"". You can also ask more advanced questions like, ""what can i make for dinner using my chicken breast and lemon"", or, ""what breakfast recipes can i make with peanut butter"". I can also help you find recipes used in certain meal types and cuisines, simply ask me, """"what mexican recipes can i make"", or, ""what Mediterranean recipes can i make"", or, ""what dessert recipes can i make"". You can get more detailed by asking things like, ""what can i make for dessert using my apple and cinnamon"" If you have a certan dish in mind, and you're curious if you have everything you need to make it, you can ask me by saying something like, "" can I make fettucine alfredo?"", or, ""can i make sesame chicken?"". If you don't have all the ingredients needed to make the dish, I'll let you know exactly what you're missing. I know how to make over half a million dishes, so you can ask me about any dish imaginable. After you choose a recipe from one of the options I give you, I'll send detailed instructions about the recipe to your Alexa App. Are you curious what goes into certain dishes? I can help you with that too. You can ask me by saying something like, "" what goes into shrimp scampi?"", or, ""what goes into spicy recipes?"" Ready to get started? What can I do for you?"
+My Kitchen,stop,bye
+My Kitchen,quit,
+Butterball,"Alexa, open Butterball","Hmm, I don't know that one."
+Butterball,help,"For Help, please visit the help pages on the Amazon web site."
+Butterball,stop,
+Butterball,quit,
+Egg Facts,"Alexa, open Egg Facts",Here's your fact: Older hens produce larger eggs.
+Egg Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Egg Facts,stop,
+Egg Facts,quit,
+Klove Chef Speakable Recipes,"Alexa, open Klove Chef Speakable Recipes","Ok, here's a few recipes"
+Klove Chef Speakable Recipes,help,"For Help, please visit the help pages on the Amazon web site."
+Klove Chef Speakable Recipes,stop,
+Klove Chef Speakable Recipes,quit,
+Meat Thermometer,"Alexa, open Meat Thermometer","Howdy partner, and Welcome to Meat Thermometer."
+Meat Thermometer,help,"You can ask questions about internal temperature such as, what's the internal temperature for a medium well steak, or, you can say exit... Now, what can I help you with?"
+Meat Thermometer,stop,Y'all come back now!
+Meat Thermometer,quit,
+Mr Junky Food,"Alexa, open Mr Junky Food","Mr. Junky Food says get a handful of Candy Corns, they are simply yummy."
+Mr Junky Food,help,"For Help, please visit the help pages on the Amazon web site."
+Mr Junky Food,stop,
+Mr Junky Food,quit,

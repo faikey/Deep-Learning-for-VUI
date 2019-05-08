@@ -1,0 +1,667 @@
+name,question,response
+Big Sky,"Alexa, open Big Sky",""" Welcome to big sky. I've sent a card to the home screen of the alexa app. Click on manage permissions to allow Big Sky access to your device address. For the most accurate hyperlocal forecasts, and to customize your report, you'll need to link your account. After saving permissions, click on settings, and then link account, to get the most out of Big Sky"""
+Big Sky,help,"For Help, please visit the help pages on the Amazon web site."
+Big Sky,stop,
+Big Sky,quit,
+Big Sky,"Alexa, open Big Sky",""" Welcome to big sky. I've sent a card to the home screen of the alexa app. Click on manage permissions to allow Big Sky access to your device address. For the most accurate hyperlocal forecasts, and to customize your report, you'll need to link your account. After saving permissions, click on settings, and then link account, to get the most out of Big Sky"""
+Big Sky,help,"For Help, please visit the help pages on the Amazon web site."
+Big Sky,stop,
+Big Sky,quit,
+Big Sky,"Alexa, open Big Sky",""" Welcome to big sky. I've sent a card to the home screen of the alexa app. Click on manage permissions to allow Big Sky access to your device address. For the most accurate hyperlocal forecasts, and to customize your report, you'll need to link your account. After saving permissions, click on settings, and then link account, to get the most out of Big Sky"""
+Big Sky,help,"For Help, please visit the help pages on the Amazon web site."
+Big Sky,stop,
+Big Sky,quit,
+Weather,"Alexa, open Weather",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+Weather,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+Weather,stop,Ok. Ask for help anytime.
+Weather,quit,
+Weather,"Alexa, open Weather",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+Weather,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+Weather,stop,"Ok. If you'd like to hear help again, just ask and I'll be happy to assist."
+Weather,quit,
+Weather,"Alexa, open Weather",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+Weather,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+Weather,stop,Ok. Ask for help anytime.
+Weather,quit,
+AccuWeather,"Alexa, open AccuWeather","Hello! Welcome to AccuWeather. In order to provide you the best forecast results I need to know your location. Please open the Alexa companion app on your mobile device and find the card I sent you to enable this permission. If you do not wish to do that. You can ask me about weather for any major location in the world. For instance, How is the weather like at London? What would you like to know?"
+AccuWeather,help,"Here are some things you can say, What is the weather like today? What is my location? When will the sun set? Or tell me my weather alerts. I can also send morning notifications, about rain or snow in the forecast, just say, enable notifications. So what can I help you with?"
+AccuWeather,stop,See you next time!
+AccuWeather,quit,
+AccuWeather,"Alexa, open AccuWeather","Hello! Welcome to AccuWeather. In order to provide you the best forecast results I need to know your location. Please open the Alexa companion app on your mobile device and find the card I sent you to enable this permission. If you do not wish to do that. You can ask me about weather for any major location in the world. For instance, How is the weather like at London? What would you like to know?"
+AccuWeather,help,"Here are some things you can say, What is the weather like today? What is my location? When will the sun set? Or tell me my weather alerts. I can also send morning notifications, about rain or snow in the forecast, just say, enable notifications. So what can I help you with?"
+AccuWeather,stop,See you next time!
+AccuWeather,quit,
+AccuWeather,"Alexa, open AccuWeather","Hello! Welcome to AccuWeather. In order to provide you the best forecast results I need to know your location. Please open the Alexa companion app on your mobile device and find the card I sent you to enable this permission. If you do not wish to do that. You can ask me about weather for any major location in the world. For instance, How is the weather like at London? What would you like to know?"
+AccuWeather,help,"Here are some things you can say, What is the weather like today? What is my location? When will the sun set? Or tell me my weather alerts. I can also send morning notifications, about rain or snow in the forecast, just say, enable notifications. So what can I help you with?"
+AccuWeather,stop,See you next time!
+AccuWeather,quit,
+Zyrtec,"Alexa, open Zyrtec","Welcome to Zyrtec. Today in Boulder, the pollen count is High, at 11.7 out of 12. the Allergy Impact is 9.12, which is lower than the pollen count, so Tissues away, it may not be so bad today. Would you like to hear today’s predominant pollens or more about Allergy Impact?"
+Zyrtec,help,"No problem! I’m here to help. I can help you plan for the day with your Allergycast® report and record how today’s pollen is making you feel so you can learn what’s making you sneeze. For your full Allergycast® report say Today’s Allergycast® report. To customize your AllergyCast® settings say Change my AllergyCast® settings. To record your allergies for today say I’m feeling Good or Bad. Or say Change my default location to City, State. What would you like to do?"
+Zyrtec,stop,"Ok. When you need allergen information, I am here 24 7 3 65. Remember, if you need to stock up on Zyrtec®, I can help. Just say my name, then order Zyrtec®"
+Zyrtec,quit,
+Zyrtec,"Alexa, open Zyrtec","Welcome to Zyrtec. Today in Boulder, the pollen count is High, at 11.7 out of 12. the Allergy Impact is 9.12, which is lower than the pollen count, so Tissues away, it may not be so bad today. Would you like to hear today’s predominant pollens or more about Allergy Impact?"
+Zyrtec,help,"No problem! I’m here to help. I can help you plan for the day with your Allergycast® report and record how today’s pollen is making you feel so you can learn what’s making you sneeze. For your full Allergycast® report say Today’s Allergycast® report. To customize your AllergyCast® settings say Change my AllergyCast® settings. To record your allergies for today say I’m feeling Good or Bad. Or say Change my default location to City, State. What would you like to do?"
+Zyrtec,stop,"Ok. When you need allergen information, I am here 24 7 3 65. Remember, if you need to stock up on Zyrtec®, I can help. Just say my name, then order Zyrtec®"
+Zyrtec,quit,
+Zyrtec,"Alexa, open Zyrtec","Welcome to Zyrtec. Today in Boulder, the pollen count is High, at 11.7 out of 12. the Allergy Impact is 9.12, which is lower than the pollen count, so Tissues away, it may not be so bad today. Would you like to hear today’s predominant pollens or more about Allergy Impact?"
+Zyrtec,help,"No problem! I’m here to help. I can help you plan for the day with your Allergycast® report and record how today’s pollen is making you feel so you can learn what’s making you sneeze. For your full Allergycast® report say Today’s Allergycast® report. To customize your AllergyCast® settings say Change my AllergyCast® settings. To record your allergies for today say I’m feeling Good or Bad. Or say Change my default location to City, State. What would you like to do?"
+Zyrtec,stop,"Ok. When you need allergen information, I am here 24 7 3 65. Remember, if you need to stock up on Zyrtec®, I can help. Just say my name, then order Zyrtec®"
+Zyrtec,quit,
+MyRadar NOAA Weather Radar,"Alexa, open MyRadar NOAA Weather Radar",Do you mean Aircraft Radar?
+MyRadar NOAA Weather Radar,help,"For Help, please visit the help pages on the Amazon web site."
+MyRadar NOAA Weather Radar,stop,
+MyRadar NOAA Weather Radar,quit,
+MyRadar NOAA Weather Radar,"Alexa, open MyRadar NOAA Weather Radar",Do you mean Aircraft Radar?
+MyRadar NOAA Weather Radar,help,"For Help, please visit the help pages on the Amazon web site."
+MyRadar NOAA Weather Radar,stop,
+MyRadar NOAA Weather Radar,quit,
+MyRadar NOAA Weather Radar,"Alexa, open MyRadar NOAA Weather Radar",Do you mean Aircraft Radar?
+MyRadar NOAA Weather Radar,help,"For Help, please visit the help pages on the Amazon web site."
+MyRadar NOAA Weather Radar,stop,
+MyRadar NOAA Weather Radar,quit,
+My AcuRite,"Alexa, open My AcuRite",Please use the Alexa app to link to your my accurite account.
+My AcuRite,help,"For Help, please visit the help pages on the Amazon web site."
+My AcuRite,stop,
+My AcuRite,quit,
+My AcuRite,"Alexa, open My AcuRite",Please use the Alexa app to link to your my accurite account.
+My AcuRite,help,"For Help, please visit the help pages on the Amazon web site."
+My AcuRite,stop,
+My AcuRite,quit,
+My AcuRite,"Alexa, open My AcuRite",Please use the Alexa app to link to your my accurite account.
+My AcuRite,help,"For Help, please visit the help pages on the Amazon web site."
+My AcuRite,stop,
+My AcuRite,quit,
+Weather Sky,"Alexa, open Weather Sky",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+Weather Sky,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+Weather Sky,stop,Ok. I'm ready to assist anytime.
+Weather Sky,quit,
+Weather Sky,"Alexa, open Weather Sky",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+Weather Sky,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+Weather Sky,stop,"Ok. If you'd like to hear help again, just ask and I'll be happy to assist."
+Weather Sky,quit,
+Weather Sky,"Alexa, open Weather Sky",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+Weather Sky,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+Weather Sky,stop,"Ok. If you have questions later, just ask for help and I'll be happy to assist you."
+Weather Sky,quit,
+Sweater Weather,"Alexa, open Sweater Weather",
+Sweater Weather,help,"For Help, please visit the help pages on the Amazon web site."
+Sweater Weather,stop,
+Sweater Weather,quit,
+Sweater Weather,"Alexa, open Sweater Weather",
+Sweater Weather,help,"For Help, please visit the help pages on the Amazon web site."
+Sweater Weather,stop,
+Sweater Weather,quit,
+Sweater Weather,"Alexa, open Sweater Weather",
+Sweater Weather,help,"For Help, please visit the help pages on the Amazon web site."
+Sweater Weather,stop,
+Sweater Weather,quit,
+WeatherBug,"Alexa, open WeatherBug"
+WeatherBug,help,"Here are some things you can say: Get current conditions in Chicago.Get current conditions in Chicago, Illinois. Get current conditions in zipcode 61529. If you ask for current conditions without saying a location, I'll use your default location. To set your default location, say something like, Set my default location to Chicago, or, Set my default location to zipcode 61529."
+WeatherBug,stop,Okey dokey! see you later.
+WeatherBug,quit,
+WeatherBug,"Alexa, open WeatherBug",Hey! What would you like to know now?
+WeatherBug,help,"Here are some things you can say: Get current conditions in Chicago.Get current conditions in Chicago, Illinois. Get current conditions in zipcode 61529. If you ask for current conditions without saying a location, I'll use your default location. To set your default location, say something like, Set my default location to Chicago, or, Set my default location to zipcode 61529."
+WeatherBug,stop,Okey dokey! see you later.
+WeatherBug,quit,
+WeatherBug,"Alexa, open WeatherBug",Hey! What would you like to know now?
+WeatherBug,help,"Here are some things you can say: Get current conditions in Chicago.Get current conditions in Chicago, Illinois. Get current conditions in zipcode 61529. If you ask for current conditions without saying a location, I'll use your default location. To set your default location, say something like, Set my default location to Chicago, or, Set my default location to zipcode 61529."
+WeatherBug,stop,Okey dokey! see you later.
+WeatherBug,quit,
+TideGuide,"Alexa, open TideGuide",<Audio only response>
+TideGuide,help,"For Help, please visit the help pages on the Amazon web site."
+TideGuide,stop,
+TideGuide,quit,
+TideGuide,"Alexa, open TideGuide",<Audio only response>
+TideGuide,help,"For Help, please visit the help pages on the Amazon web site."
+TideGuide,stop,
+TideGuide,quit,
+TideGuide,"Alexa, open TideGuide",<Audio only response>
+TideGuide,help,"For Help, please visit the help pages on the Amazon web site."
+TideGuide,stop,
+TideGuide,quit,
+Temperature Now,"Alexa, open Temperature Now","Right now, it's 59 degrees. Tonight, expect a low of 42 degrees."
+Temperature Now,help,"For Help, please visit the help pages on the Amazon web site."
+Temperature Now,stop,
+Temperature Now,quit,
+Temperature Now,"Alexa, open Temperature Now","Right now, it's 59 degrees. Tonight, expect a low of 42 degrees."
+Temperature Now,help,"For Help, please visit the help pages on the Amazon web site."
+Temperature Now,stop,
+Temperature Now,quit,
+Temperature Now,"Alexa, open Temperature Now","Right now, it's 59 degrees. Tonight, expect a low of 42 degrees."
+Temperature Now,help,"For Help, please visit the help pages on the Amazon web site."
+Temperature Now,stop,
+Temperature Now,quit,
+Weather,"Alexa, open Weather",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+Weather,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+Weather,stop,"Ok. If you have questions later, just ask for help and I'll be happy to assist you."
+Weather,quit,
+Weather,"Alexa, open Weather",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+Weather,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+Weather,stop,Ok. I'm ready to assist anytime.
+Weather,quit,
+Weather,"Alexa, open Weather",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+Weather,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+Weather,stop,"Ok. If you'd like to hear help again, just ask and I'll be happy to assist."
+Weather,quit,
+FishWise,"Alexa, open FishWise",<Audio only response>
+FishWise,help,"For Help, please visit the help pages on the Amazon web site."
+FishWise,stop,
+FishWise,quit,
+FishWise,"Alexa, open FishWise",<Audio only response>
+FishWise,help,"For Help, please visit the help pages on the Amazon web site."
+FishWise,stop,
+FishWise,quit,
+FishWise,"Alexa, open FishWise",<Audio only response>
+FishWise,help,"For Help, please visit the help pages on the Amazon web site."
+FishWise,stop,
+FishWise,quit,
+What should I wear today?,"Alexa, open What should I wear today?","Hmm. Maybe the skill, Able Style, can help. Do you want to try it?"
+What should I wear today?,help,"For Help, please visit the help pages on the Amazon web site."
+What should I wear today?,stop,
+What should I wear today?,quit,
+What should I wear today?,"Alexa, open What should I wear today?","Hmm. Maybe the skill, Able Style, can help. Do you want to try it?"
+What should I wear today?,help,"For Help, please visit the help pages on the Amazon web site."
+What should I wear today?,stop,
+What should I wear today?,quit,
+What should I wear today?,"Alexa, open What should I wear today?","Hmm. Maybe the skill, Able Style, can help. Do you want to try it?"
+What should I wear today?,help,"For Help, please visit the help pages on the Amazon web site."
+What should I wear today?,stop,
+What should I wear today?,quit,
+Feels Like,"Alexa, open Feels Like","Hmm, I'm not sure."
+Feels Like,help,"For Help, please visit the help pages on the Amazon web site."
+Feels Like,stop,
+Feels Like,quit,
+Feels Like,"Alexa, open Feels Like","Hmm, I don't know that one."
+Feels Like,help,"For Help, please visit the help pages on the Amazon web site."
+Feels Like,stop,
+Feels Like,quit,
+Feels Like,"Alexa, open Feels Like","Sorry, I don't know that one."
+Feels Like,help,"For Help, please visit the help pages on the Amazon web site."
+Feels Like,stop,
+Feels Like,quit,
+HuntWise,"Alexa, open HuntWise",
+HuntWise,help,
+HuntWise,stop,
+HuntWise,quit,
+HuntWise,"Alexa, open HuntWise",What species would you like a forecast for?
+HuntWise,help,"I can tell you the hunting and fishing forecast for a wide variety of species. Which would you like? For example, say 'deer in Grand Rapids, Michigan'"
+HuntWise,stop,O.K.
+HuntWise,quit,
+HuntWise,"Alexa, open HuntWise",What species would you like a forecast for?
+HuntWise,help,"I can tell you the hunting and fishing forecast for a wide variety of species. Which would you like? For example, say 'deer in Grand Rapids, Michigan'"
+HuntWise,stop,O.K.
+HuntWise,quit,
+Aviation Weather,"Alexa, open Aviation Weather","Welcome to Aviation Weather Brief. Get the me tar for an airport with the eye cow airport identifier. You can say things like, get Kilo Sierra Mike Oscar. What airport would you like to try?"
+Aviation Weather,help,"To hear the me tar for an airport with the eye cow airport identifier, you can say things like, get Kilo Sierra Mike Oscar. What airport would you like to try?"
+Aviation Weather,stop,Goodbye
+Aviation Weather,quit,
+Aviation Weather,"Alexa, open Aviation Weather","Welcome to Aviation Weather Brief. Get the me tar for an airport with the eye cow airport identifier. You can say things like, get Kilo Sierra Mike Oscar. What airport would you like to try?"
+Aviation Weather,help,"To hear the me tar for an airport with the eye cow airport identifier, you can say things like, get Kilo Sierra Mike Oscar. What airport would you like to try?"
+Aviation Weather,stop,Goodbye
+Aviation Weather,quit,
+Aviation Weather,"Alexa, open Aviation Weather","Welcome to Aviation Weather Brief. Get the me tar for an airport with the eye cow airport identifier. You can say things like, get Kilo Sierra Mike Oscar. What airport would you like to try?"
+Aviation Weather,help,"To hear the me tar for an airport with the eye cow airport identifier, you can say things like, get Kilo Sierra Mike Oscar. What airport would you like to try?"
+Aviation Weather,stop,Goodbye
+Aviation Weather,quit,
+Hurricane Center,"Alexa, open Hurricane Center","Welcome to the Hurricane Center, the best source for information related to tropical storms, past or present. There are no active tropical storms right now, but if you would like to learn more about storms, please say something like tell me a storm fact."
+Hurricane Center,help,"The Hurricane Center provides information about tropical storms. If you would like to hear about storms from this year, say What are storms from this year. For information related to storms from prior years, please say What is the storm history for a specific year. If you would like to hear a fact about tropical storms, please say tell me a storm fact."
+Hurricane Center,stop,"Okay, is there any other information I can provide you about tropical storms? For example, you can say, tell me a storm fact."
+Hurricane Center,quit,
+Hurricane Center,"Alexa, open Hurricane Center","Welcome to the Hurricane Center, the best source for information related to tropical storms, past or present. There are no active tropical storms right now, but if you would like to learn more about storms, please say something like tell me a storm fact."
+Hurricane Center,help,"The Hurricane Center provides information about tropical storms. If you would like to hear about storms from this year, say What are storms from this year. For information related to storms from prior years, please say What is the storm history for a specific year. If you would like to hear a fact about tropical storms, please say tell me a storm fact."
+Hurricane Center,stop,"Okay, is there any other information I can provide you about tropical storms? For example, you can say, tell me a storm fact."
+Hurricane Center,quit,
+Hurricane Center,"Alexa, open Hurricane Center","Welcome to the Hurricane Center, the best source for information related to tropical storms, past or present. There are no active tropical storms right now, but if you would like to learn more about storms, please say something like tell me a storm fact."
+Hurricane Center,help,"The Hurricane Center provides information about tropical storms. If you would like to hear about storms from this year, say What are storms from this year. For information related to storms from prior years, please say What is the storm history for a specific year. If you would like to hear a fact about tropical storms, please say tell me a storm fact."
+Hurricane Center,stop,"Okay, is there any other information I can provide you about tropical storms? For example, you can say, tell me a storm fact."
+Hurricane Center,quit,
+BloomSky,"Alexa, open BloomSky","Sorry, I don't know that one."
+BloomSky,help,"For Help, please visit the help pages on the Amazon web site."
+BloomSky,stop,
+BloomSky,quit,
+BloomSky,"Alexa, open BloomSky","Sorry, I'm not sure."
+BloomSky,help,"For Help, please visit the help pages on the Amazon web site."
+BloomSky,stop,
+BloomSky,quit,
+BloomSky,"Alexa, open BloomSky","Hmm, I don't know that."
+BloomSky,help,"For Help, please visit the help pages on the Amazon web site."
+BloomSky,stop,
+BloomSky,quit,
+WeatherFlow Smart Weather,"Alexa, open WeatherFlow Smart Weather",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+WeatherFlow Smart Weather,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+WeatherFlow Smart Weather,stop,Ok. Ask for help anytime.
+WeatherFlow Smart Weather,quit,
+WeatherFlow Smart Weather,"Alexa, open WeatherFlow Smart Weather",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+WeatherFlow Smart Weather,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+WeatherFlow Smart Weather,stop,"Ok. If you have questions later, just ask for help and I'll be happy to assist you."
+WeatherFlow Smart Weather,quit,
+WeatherFlow Smart Weather,"Alexa, open WeatherFlow Smart Weather",Welcome back to Weather Sky. It looks like you haven't finished the introduction and setup. Would you like to continue? It will take about 2 and a half minutes to finish.
+WeatherFlow Smart Weather,help,"I have three sections of help available. They are, how to ask for a weather forecast or a temperature report, how to use the interactive mode, and how to change the weather. Would you like to hear how to make requests for weather and temperature? Say no to continue to the next section, or cancel to exit."
+WeatherFlow Smart Weather,stop,Ok. Ask for help anytime.
+WeatherFlow Smart Weather,quit,
+Surfline,"Alexa, open Surfline","Welcome back to Surfline, what spot would you like to hear about?"
+Surfline,help,<Short audio>
+Surfline,stop,"Thank you for using Surfline on Alexa,"
+Surfline,quit,
+Surfline,"Alexa, open Surfline","Welcome back to Surfline, which surf report would you like?"
+Surfline,help,<Short audio>
+Surfline,stop,"Thank you for using Surfline on Alexa,"
+Surfline,quit,
+Surfline,"Alexa, open Surfline","Welcome back to Surfline, what spot would you like to hear about?"
+Surfline,help,<Short audio>
+Surfline,stop,"Thank you for using Surfline on Alexa,"
+Surfline,quit,
+EarthCam,"Alexa, open EarthCam","Sorry, but video is not supported on this device. Access your video on devices like the Echo Spot or Echo Show. You can also view live cameras on the EarthCam app or earthcam.com."
+EarthCam,help,"For Help, please visit the help pages on the Amazon web site."
+EarthCam,stop,
+EarthCam,quit,
+EarthCam,"Alexa, open EarthCam","Sorry, but video is not supported on this device. Access your video on devices like the Echo Spot or Echo Show. You can also view live cameras on the EarthCam app or earthcam.com."
+EarthCam,help,"For Help, please visit the help pages on the Amazon web site."
+EarthCam,stop,
+EarthCam,quit,
+EarthCam,"Alexa, open EarthCam","Sorry, but video is not supported on this device. Access your video on devices like the Echo Spot or Echo Show. You can also view live cameras on the EarthCam app or earthcam.com."
+EarthCam,help,"For Help, please visit the help pages on the Amazon web site."
+EarthCam,stop,
+EarthCam,quit,
+Windcast,"Alexa, open Windcast",Welcome to Windcast. Which city would you like wind information for?
+Windcast,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Windcast,stop,Goodbye
+Windcast,quit,
+Windcast,"Alexa, open Windcast",Welcome to Windcast. Which city would you like wind information for?
+Windcast,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Windcast,stop,Goodbye
+Windcast,quit,
+Windcast,"Alexa, open Windcast",Welcome to Windcast. Which city would you like wind information for?
+Windcast,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Windcast,stop,Goodbye
+Windcast,quit,
+Just The Temperature,"Alexa, open Just The Temperature","Right now, it's 59 degrees. Tonight, expect a low of 42 degrees."
+Just The Temperature,help,"For Help, please visit the help pages on the Amazon web site."
+Just The Temperature,stop,
+Just The Temperature,quit,
+Just The Temperature,"Alexa, open Just The Temperature","Right now, it's 59 degrees. Tonight, expect a low of 42 degrees."
+Just The Temperature,help,"For Help, please visit the help pages on the Amazon web site."
+Just The Temperature,stop,
+Just The Temperature,quit,
+Just The Temperature,"Alexa, open Just The Temperature","Right now, it's 59 degrees. Tonight, expect a low of 42 degrees."
+Just The Temperature,help,"For Help, please visit the help pages on the Amazon web site."
+Just The Temperature,stop,
+Just The Temperature,quit,
+Silver Linings,"Alexa, open Silver Linings",<Audio only response>
+Silver Linings,help,"For Help, please visit the help pages on the Amazon web site."
+Silver Linings,stop,
+Silver Linings,quit,
+Silver Linings,"Alexa, open Silver Linings",<Audio only response>
+Silver Linings,help,"For Help, please visit the help pages on the Amazon web site."
+Silver Linings,stop,
+Silver Linings,quit,
+Silver Linings,"Alexa, open Silver Linings",<Audio only response>
+Silver Linings,help,"For Help, please visit the help pages on the Amazon web site."
+Silver Linings,stop,
+Silver Linings,quit,
+Wind Speed Status,"Alexa, open Wind Speed Status",Welcome to Windcast. Which city would you like wind information for?
+Wind Speed Status,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Wind Speed Status,stop,Goodbye
+Wind Speed Status,quit,
+Wind Speed Status,"Alexa, open Wind Speed Status",Welcome to Windcast. Which city would you like wind information for?
+Wind Speed Status,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Wind Speed Status,stop,Goodbye
+Wind Speed Status,quit,
+Wind Speed Status,"Alexa, open Wind Speed Status",Welcome to Windcast. Which city would you like wind information for?
+Wind Speed Status,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Wind Speed Status,stop,Goodbye
+Wind Speed Status,quit,
+OPM Status,"Alexa, open OPM Status","Ok, Here's HAM Radio Propagation Forecast"
+OPM Status,help,"For Help, please visit the help pages on the Amazon web site."
+OPM Status,stop,
+OPM Status,quit,
+OPM Status,"Alexa, open OPM Status","Ok, Here's HAM Radio Propagation Forecast"
+OPM Status,help,"For Help, please visit the help pages on the Amazon web site."
+OPM Status,stop,
+OPM Status,quit,
+OPM Status,"Alexa, open OPM Status","Ok, Here's HAM Radio Propagation Forecast"
+OPM Status,help,"For Help, please visit the help pages on the Amazon web site."
+OPM Status,stop,
+OPM Status,quit,
+Moon Phases,"Alexa, open Moon Phases",<Audio only response>
+Moon Phases,help,"For Help, please visit the help pages on the Amazon web site."
+Moon Phases,stop,
+Moon Phases,quit,
+Moon Phases,"Alexa, open Moon Phases",<Audio only response>
+Moon Phases,help,"For Help, please visit the help pages on the Amazon web site."
+Moon Phases,stop,
+Moon Phases,quit,
+Moon Phases,"Alexa, open Moon Phases",<Audio only response>
+Moon Phases,help,"For Help, please visit the help pages on the Amazon web site."
+Moon Phases,stop,
+Moon Phases,quit,
+WNEP Weather,"Alexa, open WNEP Weather",
+WNEP Weather,help,"For Help, please visit the help pages on the Amazon web site."
+WNEP Weather,stop,
+WNEP Weather,quit,
+WNEP Weather,"Alexa, open WNEP Weather",
+WNEP Weather,help,"For Help, please visit the help pages on the Amazon web site."
+WNEP Weather,stop,
+WNEP Weather,quit,
+WNEP Weather,"Alexa, open WNEP Weather",
+WNEP Weather,help,"For Help, please visit the help pages on the Amazon web site."
+WNEP Weather,stop,
+WNEP Weather,quit,
+Humidity,"Alexa, open Humidity","Sorry, I’m not sure about that."
+Humidity,help,"For Help, please visit the help pages on the Amazon web site."
+Humidity,stop,
+Humidity,quit,
+Humidity,"Alexa, open Humidity","Hmm, I don't know that."
+Humidity,help,"For Help, please visit the help pages on the Amazon web site."
+Humidity,stop,
+Humidity,quit,
+Humidity,"Alexa, open Humidity","Sorry, I’m not sure about that."
+Humidity,help,"For Help, please visit the help pages on the Amazon web site."
+Humidity,stop,
+Humidity,quit,
+Wiregrass Alerts,"Alexa, open Wiregrass Alerts",Welcome to wiregrass alerts. Which city would you like alerts information for?
+Wiregrass Alerts,help,You can say which cities are supported or You can say exit...What can I help you with?
+Wiregrass Alerts,stop,Goodbye!
+Wiregrass Alerts,quit,
+Wiregrass Alerts,"Alexa, open Wiregrass Alerts",Welcome to wiregrass alerts. Which city would you like alerts information for?
+Wiregrass Alerts,help,You can say which cities are supported or You can say exit...What can I help you with?
+Wiregrass Alerts,stop,Goodbye!
+Wiregrass Alerts,quit,
+Wiregrass Alerts,"Alexa, open Wiregrass Alerts",Welcome to wiregrass alerts. Which city would you like alerts information for?
+Wiregrass Alerts,help,You can say which cities are supported or You can say exit...What can I help you with?
+Wiregrass Alerts,stop,Goodbye!
+Wiregrass Alerts,quit,
+Snow Report,"Alexa, open Snow Report",No snow is expected tonight.
+Snow Report,help,"For Help, please visit the help pages on the Amazon web site."
+Snow Report,stop,
+Snow Report,quit,
+Snow Report,"Alexa, open Snow Report",No snow is expected tonight.
+Snow Report,help,"For Help, please visit the help pages on the Amazon web site."
+Snow Report,stop,
+Snow Report,quit,
+Snow Report,"Alexa, open Snow Report",No snow is expected tonight.
+Snow Report,help,"For Help, please visit the help pages on the Amazon web site."
+Snow Report,stop,
+Snow Report,quit,
+Wind Report,"Alexa, open Wind Report",Welcome to Windcast. Which city would you like wind information for?
+Wind Report,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Wind Report,stop,Goodbye
+Wind Report,quit,
+Wind Report,"Alexa, open Wind Report",Welcome to Windcast. Which city would you like wind information for?
+Wind Report,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Wind Report,stop,Goodbye
+Wind Report,quit,
+Wind Report,"Alexa, open Wind Report",Welcome to Windcast. Which city would you like wind information for?
+Wind Report,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Wind Report,stop,Goodbye
+Wind Report,quit,
+My Weather,"Alexa, open My Weather",
+My Weather,help,"For Help, please visit the help pages on the Amazon web site."
+My Weather,stop,
+My Weather,quit,
+My Weather,"Alexa, open My Weather",
+My Weather,help,"For Help, please visit the help pages on the Amazon web site."
+My Weather,stop,
+My Weather,quit,
+My Weather,"Alexa, open My Weather",
+My Weather,help,"For Help, please visit the help pages on the Amazon web site."
+My Weather,stop,
+My Weather,quit,
+Hourly Weather,"Alexa, open Hourly Weather","In Boulder, at 9 PM, it'll be 58 degrees with intermittent clouds. At 10 PM, it'll be 55 degrees with intermittent clouds. At 11 PM, it'll be 54 degrees with partly cloudy skies. At 12 AM, it'll be 51 degrees with partly cloudy skies."
+Hourly Weather,help,"For Help, please visit the help pages on the Amazon web site."
+Hourly Weather,stop,
+Hourly Weather,quit,
+Hourly Weather,"Alexa, open Hourly Weather","In Boulder, at 9 PM, it'll be 58 degrees with intermittent clouds. At 10 PM, it'll be 55 degrees with intermittent clouds. At 11 PM, it'll be 54 degrees with partly cloudy skies. At 12 AM, it'll be 51 degrees with partly cloudy skies."
+Hourly Weather,help,"For Help, please visit the help pages on the Amazon web site."
+Hourly Weather,stop,
+Hourly Weather,quit,
+Hourly Weather,"Alexa, open Hourly Weather","In Boulder, at 9 PM, it'll be 58 degrees with intermittent clouds. At 10 PM, it'll be 55 degrees with intermittent clouds. At 11 PM, it'll be 54 degrees with partly cloudy skies. At 12 AM, it'll be 51 degrees with partly cloudy skies."
+Hourly Weather,help,"For Help, please visit the help pages on the Amazon web site."
+Hourly Weather,stop,
+Hourly Weather,quit,
+Storm Watch,"Alexa, open Storm Watch",
+Storm Watch,help,"For Help, please visit the help pages on the Amazon web site."
+Storm Watch,stop,
+Storm Watch,quit,
+Storm Watch,"Alexa, open Storm Watch",
+Storm Watch,help,"For Help, please visit the help pages on the Amazon web site."
+Storm Watch,stop,
+Storm Watch,quit,
+Storm Watch,"Alexa, open Storm Watch",
+Storm Watch,help,"For Help, please visit the help pages on the Amazon web site."
+Storm Watch,stop,
+Storm Watch,quit,
+Brella - Personal Weather,"Alexa, open Brella - Personal Weather","Sorry, I’m not sure about that."
+Brella - Personal Weather,help,"For Help, please visit the help pages on the Amazon web site."
+Brella - Personal Weather,stop,
+Brella - Personal Weather,quit,
+Brella - Personal Weather,"Alexa, open Brella - Personal Weather","Sorry, I don't know that one."
+Brella - Personal Weather,help,"For Help, please visit the help pages on the Amazon web site."
+Brella - Personal Weather,stop,
+Brella - Personal Weather,quit,
+Brella - Personal Weather,"Alexa, open Brella - Personal Weather","Hmm, I don't know that one."
+Brella - Personal Weather,help,"For Help, please visit the help pages on the Amazon web site."
+Brella - Personal Weather,stop,
+Brella - Personal Weather,quit,
+Severe Weather Safety Tips,"Alexa, open Severe Weather Safety Tips","Welcome to severe weather safety tips. To hear a tip, say, ""tell me a tip."""
+Severe Weather Safety Tips,help,"""This skill Will provide you with important severe weather safety tips. Would you like to hear a safety tip?"
+Severe Weather Safety Tips,stop,"""OK. Come back later to hear more safety tips. Just say, ""Alexa, open severe weather safety tips"" to open the skill again."""
+Severe Weather Safety Tips,quit,
+Severe Weather Safety Tips,"Alexa, open Severe Weather Safety Tips","Welcome to severe weather safety tips. To hear a tip, say, ""tell me a tip."""
+Severe Weather Safety Tips,help,"""This skill Will provide you with important severe weather safety tips. Would you like to hear a safety tip?"
+Severe Weather Safety Tips,stop,"""OK. Come back later to hear more safety tips. Just say, ""Alexa, open severe weather safety tips"" to open the skill again."""
+Severe Weather Safety Tips,quit,
+Severe Weather Safety Tips,"Alexa, open Severe Weather Safety Tips","Welcome to severe weather safety tips. To hear a tip, say, ""tell me a tip."""
+Severe Weather Safety Tips,help,"""This skill Will provide you with important severe weather safety tips. Would you like to hear a safety tip?"
+Severe Weather Safety Tips,stop,"""OK. Come back later to hear more safety tips. Just say, ""Alexa, open severe weather safety tips"" to open the skill again."""
+Severe Weather Safety Tips,quit,
+Style Check,"Alexa, open Style Check","Hmm, I don't know that one."
+Style Check,help,"For Help, please visit the help pages on the Amazon web site."
+Style Check,stop,
+Style Check,quit,
+Style Check,"Alexa, open Style Check","Hmm, I don't know that one."
+Style Check,help,"For Help, please visit the help pages on the Amazon web site."
+Style Check,stop,
+Style Check,quit,
+Style Check,"Alexa, open Style Check","Sorry, I don't know that."
+Style Check,help,"For Help, please visit the help pages on the Amazon web site."
+Style Check,stop,
+Style Check,quit,
+NBC4 Central Ohio Forecast,"Alexa, open NBC4 Central Ohio Forecast","Sorry, I didn’t get that location."
+NBC4 Central Ohio Forecast,help,"For Help, please visit the help pages on the Amazon web site."
+NBC4 Central Ohio Forecast,stop,
+NBC4 Central Ohio Forecast,quit,
+NBC4 Central Ohio Forecast,"Alexa, open NBC4 Central Ohio Forecast","Sorry, I don’t know that location."
+NBC4 Central Ohio Forecast,help,"For Help, please visit the help pages on the Amazon web site."
+NBC4 Central Ohio Forecast,stop,
+NBC4 Central Ohio Forecast,quit,
+NBC4 Central Ohio Forecast,"Alexa, open NBC4 Central Ohio Forecast","Sorry, I don’t know that location."
+NBC4 Central Ohio Forecast,help,"For Help, please visit the help pages on the Amazon web site."
+NBC4 Central Ohio Forecast,stop,
+NBC4 Central Ohio Forecast,quit,
+WeatherLink,"Alexa, open WeatherLink","Hmm, I don't know that one."
+WeatherLink,help,"For Help, please visit the help pages on the Amazon web site."
+WeatherLink,stop,
+WeatherLink,quit,
+WeatherLink,"Alexa, open WeatherLink","Hmm, I don't know that."
+WeatherLink,help,"For Help, please visit the help pages on the Amazon web site."
+WeatherLink,stop,
+WeatherLink,quit,
+WeatherLink,"Alexa, open WeatherLink","Hmm, I don't know that."
+WeatherLink,help,"For Help, please visit the help pages on the Amazon web site."
+WeatherLink,stop,
+WeatherLink,quit,
+Surf Now,"Alexa, open Surf Now",You have Surfline enabled. Do you want to open it?
+Surf Now,Yes,"Welcome back to Surfline, what spot would you like to hear about?"
+Surf Now,help,<Short audio>
+Surf Now,stop,"Thank you for using surfline on Alexa, if you're enjoying it, make sure to leave a review in the Alexa app!"
+Surf Now,quit,
+Surf Now,"Alexa, open Surf Now",You have Surfline enabled. Do you want to open it?
+Surf Now,Yes,"Welcome back to Surfline, which surf report would you like?"
+Surf Now,help,<Short audio>
+Surf Now,stop,"Thank you for using surfline on Alexa, if you're enjoying it, make sure to leave a review in the Alexa app!"
+Surf Now,quit,
+Surf Now,"Alexa, open Surf Now",You have Surfline enabled. Do you want to open it?
+Surf Now,Yes,"Welcome back to Surfline, what spot would you like to hear about?"
+Surf Now,help,<Short audio>
+Surf Now,stop,"Thank you for using surfline on Alexa, if you're enjoying it, make sure to leave a review in the Alexa app!"
+Surf Now,quit,
+KSL Newsradio Weather Report,"Alexa, open KSL Newsradio Weather Report","Sorry, I didn’t get that location."
+KSL Newsradio Weather Report,help,"For Help, please visit the help pages on the Amazon web site."
+KSL Newsradio Weather Report,stop,
+KSL Newsradio Weather Report,quit,
+KSL Newsradio Weather Report,"Alexa, open KSL Newsradio Weather Report","Sorry, I didn’t get that location."
+KSL Newsradio Weather Report,help,"For Help, please visit the help pages on the Amazon web site."
+KSL Newsradio Weather Report,stop,
+KSL Newsradio Weather Report,quit,
+KSL Newsradio Weather Report,"Alexa, open KSL Newsradio Weather Report","Sorry, I didn’t get that location."
+KSL Newsradio Weather Report,help,"For Help, please visit the help pages on the Amazon web site."
+KSL Newsradio Weather Report,stop,
+KSL Newsradio Weather Report,quit,
+Just Weather Alerts,"Alexa, open Just Weather Alerts",You have WeatherBug enabled. Do you want to open it?
+Just Weather Alerts,Yes,"Hello, welcome back!"
+Just Weather Alerts,help,"Here are some things you can say: Get current conditions in Chicago.Get current conditions in Chicago, Illinois. Get current conditions in zipcode 61529. If you ask for current conditions without saying a location, I'll use your default location. To set your default location, say something like, Set my default location to Chicago, or, Set my default location to zipcode 61529."
+Just Weather Alerts,stop,Okey dokey! see you later.
+Just Weather Alerts,quit,
+Just Weather Alerts,"Alexa, open Just Weather Alerts",You have WeatherBug enabled. Do you want to open it?
+Just Weather Alerts,Yes,Which skill do you want to enable?
+Just Weather Alerts,help,"For Help, please visit the help pages on the Amazon web site."
+Just Weather Alerts,stop,
+Just Weather Alerts,quit,
+Just Weather Alerts,"Alexa, open Just Weather Alerts",You have WeatherBug enabled. Do you want to open it?
+Just Weather Alerts,Yes,Hey! What can I do for you?
+Just Weather Alerts,help,"Here are some things you can say: Get current conditions in Chicago.Get current conditions in Chicago, Illinois. Get current conditions in zipcode 61529. If you ask for current conditions without saying a location, I'll use your default location. To set your default location, say something like, Set my default location to Chicago, or, Set my default location to zipcode 61529."
+Just Weather Alerts,stop,Okey dokey! see you later.
+Just Weather Alerts,quit,
+AccuWeather Daily Briefing,"Alexa, open AccuWeather Daily Briefing",Here's your news.
+AccuWeather Daily Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+AccuWeather Daily Briefing,stop,
+AccuWeather Daily Briefing,quit,
+AccuWeather Daily Briefing,"Alexa, open AccuWeather Daily Briefing",Here's your news.
+AccuWeather Daily Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+AccuWeather Daily Briefing,stop,
+AccuWeather Daily Briefing,quit,
+AccuWeather Daily Briefing,"Alexa, open AccuWeather Daily Briefing",Here's your news.
+AccuWeather Daily Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+AccuWeather Daily Briefing,stop,
+AccuWeather Daily Briefing,quit,
+KPRC 2 Weather - Houston (Flash Briefing),"Alexa, open KPRC 2 Weather - Houston (Flash Briefing)",You have Focus Word enabled. Do you want to open it?
+KPRC 2 Weather - Houston (Flash Briefing),Yes,"The Focus Word is Emotion. We wouldn't have feelings if we weren't meant to feel. Feel your feelings and learn from them. Today, focus on emotion."
+KPRC 2 Weather - Houston (Flash Briefing),help,"For Help, please visit the help pages on the Amazon web site."
+KPRC 2 Weather - Houston (Flash Briefing),stop,
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),"Alexa, open KPRC 2 Weather - Houston (Flash Briefing)",You have Focus Word enabled. Do you want to open it?
+KPRC 2 Weather - Houston (Flash Briefing),Yes,"The Focus Word is Legacy. Leave the world a better place than you found it, think on how you will be remembered. Today, focus on your legacy."
+KPRC 2 Weather - Houston (Flash Briefing),help,"For Help, please visit the help pages on the Amazon web site."
+KPRC 2 Weather - Houston (Flash Briefing),stop,
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),"Alexa, open KPRC 2 Weather - Houston (Flash Briefing)",You have Focus Word enabled. Do you want to open it?
+KPRC 2 Weather - Houston (Flash Briefing),Yes,"The Focus Word is Forgiveness. If you can't forgive and forget, pick one. Today, focus on forgiveness."
+KPRC 2 Weather - Houston (Flash Briefing),help,"For Help, please visit the help pages on the Amazon web site."
+KPRC 2 Weather - Houston (Flash Briefing),stop,
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),"Alexa, open KPRC 2 Weather - Houston (Flash Briefing)",You have Focus Word enabled. Do you want to open it?
+KPRC 2 Weather - Houston (Flash Briefing),Yes,"The Focus Word is Synchronicity. Synchronicity is the universe's way of telling you you're on the right path. Today, focus on signs of synchronicity."
+KPRC 2 Weather - Houston (Flash Briefing),help,"For Help, please visit the help pages on the Amazon web site."
+KPRC 2 Weather - Houston (Flash Briefing),stop,
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),"Alexa, open KPRC 2 Weather - Houston (Flash Briefing)",You have Focus Word enabled. Do you want to open it?
+KPRC 2 Weather - Houston (Flash Briefing),Yes,"The Focus Word is Surprise. Every surprise is a gift, even the ones you don't want. Open them slowly and be thankful for them. Today, focus on welcoming surprise."
+KPRC 2 Weather - Houston (Flash Briefing),help,"For Help, please visit the help pages on the Amazon web site."
+KPRC 2 Weather - Houston (Flash Briefing),stop,
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+KPRC 2 Weather - Houston (Flash Briefing),"Alexa, open KPRC 2 Weather - Houston (Flash Briefing)",You have Focus Word enabled. Do you want to open it?
+KPRC 2 Weather - Houston (Flash Briefing),Yes,"The Focus Word is Mistakes. Mistakes are guides along the road to realization and accomplishment. Today, focus on embracing your mistakes."
+KPRC 2 Weather - Houston (Flash Briefing),help,"For Help, please visit the help pages on the Amazon web site."
+KPRC 2 Weather - Houston (Flash Briefing),stop,
+KPRC 2 Weather - Houston (Flash Briefing),quit,
+Airport Weather Briefer,"Alexa, open Airport Weather Briefer","Sorry, I'm having trouble accessing your Airport Weather Briefer skill right now"
+Airport Weather Briefer,help,"For Help, please visit the help pages on the Amazon web site."
+Airport Weather Briefer,stop,
+Airport Weather Briefer,quit,
+Airport Weather Briefer,"Alexa, open Airport Weather Briefer","Sorry, I'm having trouble accessing your Airport Weather Briefer skill right now"
+Airport Weather Briefer,help,"For Help, please visit the help pages on the Amazon web site."
+Airport Weather Briefer,stop,
+Airport Weather Briefer,quit,
+Airport Weather Briefer,"Alexa, open Airport Weather Briefer","Sorry, I'm having trouble accessing your Airport Weather Briefer skill right now"
+Airport Weather Briefer,help,"For Help, please visit the help pages on the Amazon web site."
+Airport Weather Briefer,stop,
+Airport Weather Briefer,quit,
+Aurora Monkey,"Alexa, open Aurora Monkey","I'm still learning about monkey questions. Try asking ""tell me a monkey fact"" to learn more about them."
+Aurora Monkey,help,"For Help, please visit the help pages on the Amazon web site."
+Aurora Monkey,stop,
+Aurora Monkey,quit,
+Aurora Monkey,"Alexa, open Aurora Monkey","I'm still learning about monkey questions. Try asking ""tell me a monkey fact"" to learn more about them."
+Aurora Monkey,help,"For Help, please visit the help pages on the Amazon web site."
+Aurora Monkey,stop,
+Aurora Monkey,quit,
+Aurora Monkey,"Alexa, open Aurora Monkey","I'm still learning about monkey questions. Try asking ""tell me a monkey fact"" to learn more about them."
+Aurora Monkey,help,"For Help, please visit the help pages on the Amazon web site."
+Aurora Monkey,stop,
+Aurora Monkey,quit,
+Capital Weather Gang,"Alexa, open Capital Weather Gang","I’ve added Capital Weather Gang to your Flash Briefing; to hear it, just say, “What’s my Flash Briefing.” To manage your content, go to the Alexa App, tap on Settings, then select Flash Briefing."
+Capital Weather Gang,help,"For Help, please visit the help pages on the Amazon web site."
+Capital Weather Gang,stop,
+Capital Weather Gang,quit,
+Capital Weather Gang,"Alexa, open Capital Weather Gang","Capital Weather Gang is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Capital Weather Gang,help,"For Help, please visit the help pages on the Amazon web site."
+Capital Weather Gang,stop,
+Capital Weather Gang,quit,
+Capital Weather Gang,"Alexa, open Capital Weather Gang","Capital Weather Gang is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Capital Weather Gang,help,"For Help, please visit the help pages on the Amazon web site."
+Capital Weather Gang,stop,
+Capital Weather Gang,quit,
+ClimaCell,"Alexa, open ClimaCell","Sorry, I don't know that."
+ClimaCell,help,"For Help, please visit the help pages on the Amazon web site."
+ClimaCell,stop,
+ClimaCell,quit,
+ClimaCell,"Alexa, open ClimaCell","Hmm, I don't know that."
+ClimaCell,help,"For Help, please visit the help pages on the Amazon web site."
+ClimaCell,stop,
+ClimaCell,quit,
+ClimaCell,"Alexa, open ClimaCell","Hmm, I'm not sure."
+ClimaCell,help,"For Help, please visit the help pages on the Amazon web site."
+ClimaCell,stop,
+ClimaCell,quit,
+Wind Catcher,"Alexa, open Wind Catcher",You have Windcast enabled. Do you want to open it?
+Wind Catcher,Yes,Welcome to Windcast. Which city would you like wind information for?
+Wind Catcher,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Wind Catcher,stop,Goodbye
+Wind Catcher,quit,
+Wind Catcher,"Alexa, open Wind Catcher",You have Windcast enabled. Do you want to open it?
+Wind Catcher,Yes,Welcome to Windcast. Which city would you like wind information for?
+Wind Catcher,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Wind Catcher,stop,Goodbye
+Wind Catcher,quit,
+Wind Catcher,"Alexa, open Wind Catcher",You have Windcast enabled. Do you want to open it?
+Wind Catcher,Yes,Welcome to Windcast. Which city would you like wind information for?
+Wind Catcher,help,"I can lead you through providing a city and day of the week to get wind information, or you can simply open windcast and ask a question like, get wind information for Seattle on Saturday. Or you can say exit. Which city would you like wind information for?"
+Wind Catcher,stop,Goodbye
+Wind Catcher,quit,
+My Weather,"Alexa, open My Weather",
+My Weather,help,"For Help, please visit the help pages on the Amazon web site."
+My Weather,stop,
+My Weather,quit,
+My Weather,"Alexa, open My Weather",
+My Weather,help,"For Help, please visit the help pages on the Amazon web site."
+My Weather,stop,
+My Weather,quit,
+My Weather,"Alexa, open My Weather",
+My Weather,help,"For Help, please visit the help pages on the Amazon web site."
+My Weather,stop,
+My Weather,quit,
+Piedmont - Triad Weather from WGHP,"Alexa, open Piedmont - Triad Weather from WGHP",You have Ear Trainer enabled. Do you want to open it?
+Piedmont - Triad Weather from WGHP,Yes,"welcome to ear trainer, which test would you like to do? You have the choice of triad test, seventh chord test, or all chords."
+Piedmont - Triad Weather from WGHP,help,"welcome to ear trainer, which test would you like to do? You have the choice of triad test, seventh chord test, or all chords."
+Piedmont - Triad Weather from WGHP,stop,peace
+Piedmont - Triad Weather from WGHP,quit,
+Piedmont - Triad Weather from WGHP,"Alexa, open Piedmont - Triad Weather from WGHP",You have Ear Trainer enabled. Do you want to open it?
+Piedmont - Triad Weather from WGHP,Yes,"welcome to ear trainer, which test would you like to do? You have the choice of triad test, seventh chord test, or all chords."
+Piedmont - Triad Weather from WGHP,help,"welcome to ear trainer, which test would you like to do? You have the choice of triad test, seventh chord test, or all chords."
+Piedmont - Triad Weather from WGHP,stop,peace
+Piedmont - Triad Weather from WGHP,quit,
+Piedmont - Triad Weather from WGHP,"Alexa, open Piedmont - Triad Weather from WGHP",You have Ear Trainer enabled. Do you want to open it?
+Piedmont - Triad Weather from WGHP,Yes,"welcome to ear trainer, which test would you like to do? You have the choice of triad test, seventh chord test, or all chords."
+Piedmont - Triad Weather from WGHP,help,"welcome to ear trainer, which test would you like to do? You have the choice of triad test, seventh chord test, or all chords."
+Piedmont - Triad Weather from WGHP,stop,peace
+Piedmont - Triad Weather from WGHP,quit,

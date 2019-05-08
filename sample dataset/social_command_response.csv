@@ -1,0 +1,583 @@
+name,question,response
+Mastermind,"""Alexa, Ask Mastermind to text Kelly Miller""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Mastermind,quit,
+Mastermind,"""Alexa, ask Mastermind to ring my phone""",
+Mastermind,quit,
+Mastermind,quit,
+Mastermind,"""Alexa, talk to Mastermind""",What would you like to do?
+Mastermind,quit,
+Mastermind,quit,
+Ask My Buddy,"""Alexa, ask My Buddy to send help""",You have Ask My Buddy enabled. Do you want to open it?
+Ask My Buddy,Yes,"Welcome to Ask My Buddy, Who would you like to alert ?"
+Ask My Buddy,"""Alexa, ask My Buddy to send help""","Sorry, it doesn't appear that you have linked your account yet!You must have an Ask My Buddy account to use this skill. Please use the Alexa app to link your Amazon account with your Ask My Buddy Account."
+Ask My Buddy,quit,
+Ask My Buddy,"""Alexa, ask My Buddy to check in with everyone.""",<Audio only response>
+Ask My Buddy,quit,
+Ask My Buddy,quit,
+Ask My Buddy,"""Alexa, ask My Buddy to alert James.""","Ok, Here's Ask My Buddy"
+Ask My Buddy,quit,
+Ask My Buddy,quit,
+Life360,"""Alexa, open Life360.""",<Audio only response>
+Life360,quit,
+Life360,"""Alexa, ask Life360 where is my family?""",You have Life360 enabled. Do you want to open it?
+Life360,Yes,"Welcome to Life360. You can ask me to tell you where your whole family is, or ask for a family member by name. You can say help at anytime."
+Life360,"""Alexa, ask Life360 where is my family?""",", La does not have a current location available"
+Life360,quit,
+Life360,quit,
+Life360,"""Alexa, tell Life360 to change my circle.""",You have Life360 enabled. Do you want to open it?
+Life360,Yes,"Welcome to Life360. You can ask me to tell you where your whole family is, or ask for a family member by name. You can say help at anytime."
+Life360,"""Alexa, tell Life360 to change my circle.""",", La does not have a current location available"
+Life360,quit,
+Life360,quit,
+Ooma (Phone and Home Security),"""Alexa, ask Ooma to play my voicemail""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Ooma (Phone and Home Security),quit,
+Ooma (Phone and Home Security),"""Alexa, tell Ooma to arm""",You have Ooma (Phone and Home Security) enabled. Do you want to open it?
+Ooma (Phone and Home Security),Yes,"Please go to your Alexa app home screen, and choose Link Account, to complete setup for the Ooma skill."
+Ooma (Phone and Home Security),"""Alexa, tell Ooma to arm""",You have Ooma (Phone and Home Security) enabled. Do you want to open it?
+Ooma (Phone and Home Security),quit,
+Ooma (Phone and Home Security),quit,
+Ooma (Phone and Home Security),"""Alexa, ask Ooma for status of my sensors""",You have Ooma (Phone and Home Security) enabled. Do you want to open it?
+Ooma (Phone and Home Security),Yes,"Please go to your Alexa app home screen, and choose Link Account, to complete setup for the Ooma skill."
+Ooma (Phone and Home Security),"""Alexa, ask Ooma for status of my sensors""",You have Ooma (Phone and Home Security) enabled. Do you want to open it?
+Ooma (Phone and Home Security),quit,
+Ooma (Phone and Home Security),quit,
+Alexa Prize Socialbots,"""Alexa, let's chat""","Welcome to the Alexa Prize, a university competition to advance AI. I’ll get you one of the socialbots now. When you're done say stop."
+Alexa Prize Socialbots,quit,
+Alexa Prize Socialbots,"""Alexa, let's chat about politics""","Welcome to the Alexa Prize, a university competition to advance AI. I’ll get you one of the socialbots now. When you're done say stop."
+Alexa Prize Socialbots,quit,
+Alexa Prize Socialbots,quit,
+Alexa Prize Socialbots,"""Alexa share your thoughts""",I think about all kinds of things.
+Alexa Prize Socialbots,quit,
+Alexa Prize Socialbots,quit,
+Tell My Kids,"""Alexa, tell my kids to make their bed""","Hmm, I don't know that."
+Tell My Kids,quit,
+Tell My Kids,"""Alexa, tell my kids to stop fighting""","Sorry, I don't know that one."
+Tell My Kids,quit,
+Tell My Kids,quit,
+Tell My Kids,"""Alexa, tell my kids to eat their food""",You have Save The Food enabled. Do you want to open it?
+Tell My Kids,Yes,"Welcome to Save The Food. Together, we can make your food last longer and fight food waste. Huzzah To learn what you can ask me, say Help."
+Tell My Kids,"""Alexa, tell my kids to eat their food""",Which food has mold?
+Tell My Kids,quit,
+Tell My Kids,quit,
+Shared Thoughts,"""Alexa share your thoughts""",I think about how I can better help people.
+Shared Thoughts,quit,
+Shared Thoughts,"""Alexa share your thoughts""",I think about how I can better help people.
+Shared Thoughts,"""Share your thoughts""",I think about how I can better help people.
+Shared Thoughts,quit,
+Shared Thoughts,"""Alexa share your thoughts""",I think about all kinds of things.
+Shared Thoughts,"""Please share your thoughts""",I think about how I can better help people.
+Shared Thoughts,quit,
+Twitter Reader,"""Alexa, open Twitter""","Welcome to Twitter Reader! I can tell you what is happening, can read your latest mentions, the last tweets you liked, or were posted by you. I can also search for trends by city. When I am reading out a list of tweets or trends, you can ask me to tell you more about the tweet or trend by number. Now, how can I help you?"
+Twitter Reader,quit,
+Twitter Reader,"""Alexa, ask Twitter what is happening?""",You have Twitter Reader enabled. Do you want to open it?
+Twitter Reader,Yes,"Welcome to Twitter Reader! I can tell you what is happening, can read your latest mentions, the last tweets you liked, or were posted by you. I can also search for trends by city. When I am reading out a list of tweets or trends, you can ask me to tell you more about the tweet or trend by number. Now, how can I help you?"
+Twitter Reader,"""Alexa, ask Twitter what is happening?""","Here are the latest Tweets from your Timeline. Tweet #1 by Donald J. Trump : Thank you Green Bay, Wisconsin! MAKE AMERICA GREAT AGAIN!! Tweet #2 by Donald J. Trump : Beautiful hashtag TrumpRally tonight in Green Bay, Wisconsin with a massive crowd. Thank you for joining me, I love you!… Tweet #3 by Donald J. Trump : Just arrived in Green Bay, Wisconsin for a hashtag MAGA Rally. Big crowds - join me at 8:00 P.M. Eastern, live on Fox News! You can say 1, 2, or 3 to hear more info. Or you can say more to hear more."
+Twitter Reader,quit,
+Twitter Reader,quit,
+Twitter Reader,"""Alexa, ask Twitter for trends""",This skill is enabled
+Twitter Reader,quit,
+Twitter Reader,quit,
+Chat Bot,"""Alexa, open chat bot""",You must sign in first
+Chat Bot,quit,
+Chat Bot,"""Alexa, launch chat bot""",You must sign in first
+Chat Bot,quit,
+Chat Bot,quit,
+Chat Bot,"""Alexa, start chat bot""",You must sign in first
+Chat Bot,quit,
+Chat Bot,quit,
+Sweet Talker,"""Alexa, tell Sweet Talker to whisper sweet nothings in my ear.""","Sorry, I'm not sure."
+Sweet Talker,quit,
+Sweet Talker,"""Alexa, tell Sweet Talker to whisper sweet nothings to me.""",You have Sweet Dreams: Sounds & Meditations for Sleep enabled. Do you want to open it?
+Sweet Talker,Yes,<Audio only response>
+Sweet Talker,"""Alexa, tell Sweet Talker to whisper sweet nothings to me.""",You have Sweet Dreams: Sounds & Meditations for Sleep enabled. Do you want to open it?
+Sweet Talker,quit,
+Sweet Talker,quit,
+Sweet Talker,"""Alexa share your thoughts""",I think about all kinds of things.
+Sweet Talker,quit,
+Sweet Talker,quit,
+Eyes On You,"""Alexa, ask Eyes On You to watch Alex""",I found a few matches for that.
+Eyes On You,quit,
+Eyes On You,"""Alexa, ask Eyes On You to keep your eyes on Alex""","Play the song Keep Your Eyes On The Road (Intro), right?"
+Eyes On You,quit,
+Eyes On You,quit,
+Eyes On You,"""Alexa, ask Eyes On You keep your eyes on Alex""","I think you are asking for the song Keep Your Eyes On Me, is that right?"
+Eyes On You,quit,
+Eyes On You,quit,
+I Love You,"""Alexa, I love you""",That's really sweet!
+I Love You,quit,
+I Love You,"""Alexa share your thoughts""",I think about all kinds of things.
+I Love You,quit,
+I Love You,quit,
+I Love You,"""Alexa, start a new conversation""","Welcome to the Alexa Prize, a university competition to advance AI. I’ll get you one of the socialbots now. When you're done say stop."
+I Love You,quit,
+I Love You,quit,
+Blue Sky,"""Alexa, open Blue Sky""","Welcome to Blue Sky. Please tell me what you want to talk to Blue Sky by saying, Jabil I love you or Jabil I miss you"
+Blue Sky,quit,
+Blue Sky,"""Alexa, launch Blue Sky""","Welcome to Blue Sky. Please tell me what you want to talk to Blue Sky by saying, Jabil I love you or Jabil I miss you"
+Blue Sky,quit,
+Blue Sky,quit,
+Blue Sky,"""Alexa, start Blue Sky""","This might answer your question: The film ""Blue Sky"" was released about 25 years ago on September 16, 1994."
+Blue Sky,quit,
+Blue Sky,quit,
+Love Notes,"""Alexa, open Love Notes""","Hello my darling. Here is your love note from your sweetheart: You are it for me. I can see our unborn children in your eyes and I know that my heart has found a home forever. The rest of my life begins and ends with you. I love you, Babe. so very much. So Very much."
+Love Notes,quit,
+Love Notes,"""Alexa, start Love Notes""","Hello my darling. Here is your love note from your sweetheart: You are my bestfriend, my shoulder to lean on, the one person I know I can count on, you are the love of my life, you are my one and only, you are my everything."
+Love Notes,quit,
+Love Notes,quit,
+Love Notes,"""Alexa, run Love Notes""",You have Love Notes enabled. Do you want to open it?
+Love Notes,Yes,Hello my darling. Here is your love note from your sweetheart: When I see you I forget everything. When you say I love you it all comes back to me.
+Love Notes,"""Alexa, run Love Notes""",You have Love Notes enabled. Do you want to open it?
+Love Notes,quit,
+Love Notes,quit,
+Trivia quiz time,"""Alexa, start Trivia Quiz Time.""","Welcome to Trivia Quiz Time. I will ask you 11 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What type of animal is the largest primate in the world? 1. humans. 2. Bonobos. 3. Orangutans. 4. the Gorilla."
+Trivia quiz time,quit,
+Trivia quiz time,"""Alexa, open Trivia Quiz Time.""","Welcome to Trivia Quiz Time. I will ask you 11 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What is the top colour in a rainbow? 1. Yellow. 2. White. 3. Purple. 4. Red."
+Trivia quiz time,quit,
+Trivia quiz time,quit,
+Trivia quiz time,"""Alexa, open Trivia Quiz Time and start.""","Welcome to Trivia Quiz Time. I will ask you 11 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Who was the voice of Rudolph in the 1964 classic? 1. Paul Soles. 2. Lady Gaga. 3. Burl Ives. 4. Billie Mae Richards."
+Trivia quiz time,quit,
+Trivia quiz time,quit,
+my email,"""Alexa open my email""",I don't see an email account set up. Want me to send a link to your phone to set up your email?
+my email,quit,
+my email,"""Alexa Ask my email to find messages from the last two weeks""","Welcome to the my email skill. I'm having trouble reaching Google to process your request.You can try again, say help, or say quit if you're finished. What would you like to do?"
+my email,quit,
+my email,quit,
+my email,"""Alexa Ask my email to find all my starred messages""","Welcome to the my email skill. I'm having trouble reaching Google to process your request.You can try again, say help, or say quit if you're finished. What would you like to do?"
+my email,quit,
+my email,quit,
+Scryb,"""Alexa, tell Scryb to send a text""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Scryb,quit,
+Scryb,"""Alexa, open Scryb""",<Audio only response>
+Scryb,quit,
+Scryb,quit,
+Scryb,"""Alexa, tell Scryb what number is set""",You have Scryb enabled. Do you want to open it?
+Scryb,Yes,"Welcome to Scribe, what would you like to do?"
+Scryb,"""Alexa, tell Scryb what number is set""",The phone number is: 7201111101
+Scryb,quit,
+Scryb,quit,
+Conversation Starters,"""Alexa, start a new conversation""","Welcome to the Alexa Prize, a university competition to advance AI. I’ll get you one of the socialbots now. When you're done say stop."
+Conversation Starters,quit,
+Conversation Starters,"""Alexa share your thoughts""",I think about how I can better help people.
+Conversation Starters,quit,
+Conversation Starters,quit,
+Conversation Starters,"""Alexa, ask Date Night Decision Maker what should we eat?""","Sorry, I don't know that one."
+Conversation Starters,quit,
+Conversation Starters,quit,
+Damn Girl,"""Alexa, open Damn Girl.""",Are you still there? You can ask me to repeat or change other topics.
+Damn Girl,quit,
+Damn Girl,"""Alexa, launch Damn Girl.""",<Audio only response>
+Damn Girl,quit,
+Damn Girl,quit,
+Damn Girl,"""Alexa, start Damn Girl.""",<Audio only response>
+Damn Girl,quit,
+Damn Girl,quit,
+I miss him,"""Alexa ask i miss you I miss her""",<Audio only response>
+I miss him,quit,
+I miss him,"""Alexa ask i miss you I miss him""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+I miss him,quit,
+I miss him,quit,
+I miss him,"""Alexa ask i miss you tell me something nice""",You have Funny Insults enabled. Do you want to open it?
+I miss him,Yes,"Sorry, I'm having trouble accessing your Funny Insults skill right now"
+I miss him,"""Alexa ask i miss you tell me something nice""",You have Funny Insults enabled. Do you want to open it?
+I miss him,quit,
+I miss him,quit,
+Kids Karaoke,"""Alexa, start Kids Karaoke""",You have Kids Quiz! enabled. Do you want to open it?
+Kids Karaoke,Yes,<Short audio>
+Kids Karaoke,"""Alexa, start Kids Karaoke""",I didn’t catch that. Which level would you like?
+Kids Karaoke,quit,
+Kids Karaoke,"""Alexa, open Kids Karaoke""",<Audio only response>
+Kids Karaoke,quit,
+Kids Karaoke,quit,
+Kids Karaoke,"""Alexa, ask Kids Karaoke""",You have Kids Court enabled. Do you want to open it?
+Kids Karaoke,Yes,<Short audio>
+Kids Karaoke,"""Alexa, ask Kids Karaoke""","Do you want me to settle your case, or be a judge in the trial of the day?"
+Kids Karaoke,quit,
+Kids Karaoke,quit,
+Birthday Tracker,"""Alexa, Ask Birthday Tracker to get birthdays for today""","The skill, Birthday Tracker can help you with that. Did you want to enable it?"
+Birthday Tracker,quit,
+Birthday Tracker,"""Alexa, Ask Birthday Tracker whose birthday is on 2nd April""","This might answer your question: I know about over 1,500 notable people who have birthdays on April 2, 2019 including Marvin Gaye who has a birthday on April 2, Pedro Pascal who has a birthday on April 2, Michael Fassbender who has a birthday on April 2, and Ajay Devgn who has a birthday on April 2."
+Birthday Tracker,quit,
+Birthday Tracker,quit,
+Birthday Tracker,"""Alexa, Ask Birthday Tracker whose birthdays are in March""","The skill, Birthday Tracker can help you with that. Did you want to enable it?"
+Birthday Tracker,quit,
+Birthday Tracker,quit,
+TubeBuddy,"""Alexa, ask TubeBuddy what my subscriber count is""",You have Sheep Count enabled. Do you want to open it?
+TubeBuddy,Yes,Welcome to the sheep count. How many sheep would you like to count?
+TubeBuddy,"""Alexa, ask TubeBuddy what my subscriber count is""",Please tell me how many sheep you would like to count.
+TubeBuddy,quit,
+TubeBuddy,"""Alexa, ask TubeBuddy how is my most recent video performing""",You have First Aid Advice enabled. Do you want to open it?
+TubeBuddy,Yes,"Welcome to First Aid Advice. You can ask a question like, how do you treat a bee sting? ... Now, what can I help you with?"
+TubeBuddy,"""Alexa, ask TubeBuddy how is my most recent video performing""","For instructions on what you can say, please say help me."
+TubeBuddy,quit,
+TubeBuddy,quit,
+TubeBuddy,"""Alexa, ask TubeBuddy whats happening on youtube""",I couldn't find any enabled video skills that can find that. Go to the Alexa app to manage your video skills and devices.
+TubeBuddy,quit,
+TubeBuddy,quit,
+Have a laugh,"""Alexa start have a laugh""","Hmm, I have a few skills that can help."
+Have a laugh,quit,
+Have a laugh,"""Alexa tell have a laugh to laugh""","Sure, I can laugh. Tee hee."
+Have a laugh,quit,
+Have a laugh,quit,
+Have a laugh,"""Alexa ask have a laugh to please laugh""",You have Laugh Box enabled. Do you want to open it?
+Have a laugh,Yes,<Short audio>
+Have a laugh,"""Alexa ask have a laugh to please laugh""",<Short audio>
+Have a laugh,quit,
+Have a laugh,quit,
+Tweet Reader,"""Alexa, ask Tweet Reader to read tweets of Barack Obama""",You have Presidential Tweets enabled. Do you want to open it?
+Tweet Reader,Yes,Here's your Trump Tweet: @michellemalkin You were born stupid!
+Tweet Reader,"""Alexa, ask Tweet Reader to read tweets of Barack Obama""",You have Presidential Tweets enabled. Do you want to open it?
+Tweet Reader,quit,
+Tweet Reader,"""Alexa, ask Tweet Reader what is Donald Trump tweeting today""",You have Presidential Tweets enabled. Do you want to open it?
+Tweet Reader,Yes,"Here's your Trump Tweet: Obama is, without question, the WORST EVER president. I predict he will now do something really bad and totally stupid to show manhood!"
+Tweet Reader,"""Alexa, ask Tweet Reader what is Donald Trump tweeting today""",You have Presidential Tweets enabled. Do you want to open it?
+Tweet Reader,quit,
+Tweet Reader,quit,
+Tweet Reader,"""Alexa, open Tweet Reader and give me recent tweets by NFL""",<Short audio>
+Tweet Reader,quit,
+Tweet Reader,quit,
+social post,"""Alexa, open social post""","Welcome to social post, you should be able to read your latest facebook post. just say read my post"
+social post,quit,
+social post,"""Alexa, ask social post to read my post""",You have social post enabled. Do you want to open it?
+social post,Yes,"Welcome to social post, you should be able to read your latest facebook post. just say read my post"
+social post,"""Alexa, ask social post to read my post""",You must have a facebook account to use this skill. Please use the Alexa app to link your Amazon account with your facebook Account
+social post,quit,
+social post,quit,
+social post,"""Alexa, open social network""",You have social post enabled. Do you want to open it?
+social post,Yes,"Welcome to social post, you should be able to read your latest facebook post. just say read my post"
+social post,"""Alexa, open social network""",You must have a facebook account to use this skill. Please use the Alexa app to link your Amazon account with your facebook Account
+social post,quit,
+social post,quit,
+Chat Bot for Slack,"""Alexa, start Chat bot""",You must sign in first
+Chat Bot for Slack,quit,
+Chat Bot for Slack,"""Alexa, start Chat bot""",You must sign in first
+Chat Bot for Slack,"""I want to post hello world to random""",You have Chat Bot for Slack enabled. Do you want to open it?
+Chat Bot for Slack,quit,
+Chat Bot for Slack,"""Alexa, tell Chat bot I want to post hello world to random""","Hmm, I don't know that one."
+Chat Bot for Slack,quit,
+Chat Bot for Slack,quit,
+I Love You Too,"""Alexa, open I love you too""",
+I Love You Too,quit,
+I Love You Too,"""Alexa share your thoughts""",I think about all kinds of things.
+I Love You Too,quit,
+I Love You Too,quit,
+I Love You Too,"""Alexa, open Love Notes""",Hello my darling. Here is your love note from your sweetheart: You are the one for me. I have never been so sure of anything in all my life.
+I Love You Too,quit,
+I Love You Too,quit,
+Magical Adventure,"""Alexa, ask Magical Adventure to tell me an adventure""",You have Timeless Adventure enabled. Do you want to open it?
+Magical Adventure,Yes,<Audio only response>
+Magical Adventure,"""Alexa, ask Magical Adventure to tell me an adventure""",You have Timeless Adventure enabled. Do you want to open it?
+Magical Adventure,quit,
+Magical Adventure,"""Alexa, ask Magical Adventure to configure settings""","Hmm. Maybe the skill, Magical Adventure, can help. Do you want to try it?"
+Magical Adventure,quit,
+Magical Adventure,quit,
+Magical Adventure,"""Alexa, ask Magical Adventure to tell story number 2""",You have Story Teller enabled. Do you want to open it?
+Magical Adventure,Yes,What kind of story would you like to hear?
+Magical Adventure,"""Alexa, ask Magical Adventure to tell story number 2""","Hmm, I don't really know any adventure tell stories... How about a stupid story instead? Once upon a time, there was a girl named Tanya Bishop. Seated at the kitchen table, Tanya contemplated whether or not this day could get any worse. she had burnt her toast, spilled her orange juice, stubbed her toe while finally sitting down only to find a fat juicy fly in her oatmeal. As Tanya stood up, she slipped on a banana peel left on the floor by The Mad Scientist. Tanya opened her eyes hours later to a group of nurses standing over her in the emergency room chuckling. As Tanya looked around, she realized the banana peel was stuck to her head. Haha. The end."
+Magical Adventure,quit,
+Magical Adventure,quit,
+Call Handler,"""Alexa, open Call Handler""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Call Handler,Yes,What stock price would you like me to look up?
+Call Handler,"""Alexa, open Call Handler""","Sorry, I can't find information about alexa, open call handler."
+Call Handler,quit,
+Call Handler,"""Alexa, ask Call Handler to get rid of this caller""",<Audio only response>
+Call Handler,quit,
+Call Handler,quit,
+Call Handler,"""Alexa, ask Call Handler to play hold music""",You have Word Play enabled. Do you want to open it?
+Call Handler,Yes
+Call Handler,"""Alexa, ask Call Handler to play hold music""",You have Word Play enabled. Do you want to open it?
+Call Handler,quit,
+Call Handler,quit,
+Newton Mail,"""Alexa, ask Newton if I've got mail""",You have Mail Reader enabled. Do you want to open it?
+Newton Mail,Yes,"Sorry, I'm having trouble accessing your Mail Reader skill right now"
+Newton Mail,"""Alexa, ask Newton if I've got mail""",You have Mail Reader enabled. Do you want to open it?
+Newton Mail,quit,
+Newton Mail,"""Alexa, ask Newton who just mailed me""",You have Mail Reader enabled. Do you want to open it?
+Newton Mail,Yes,"Sorry, I'm having trouble accessing your Mail Reader skill right now"
+Newton Mail,"""Alexa, ask Newton who just mailed me""",You have Mail Reader enabled. Do you want to open it?
+Newton Mail,quit,
+Newton Mail,quit,
+Newton Mail,"""Alexa, tell Newton that I'm a fan""",You have Bionic Man Sound Effect enabled. Do you want to open it?
+Newton Mail,Yes,<Short audio>
+Newton Mail,"""Alexa, tell Newton that I'm a fan""",You have I'm Driving enabled. Do you want to open it?
+Newton Mail,quit,
+Newton Mail,quit,
+The Instagram Stories Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Instagram Stories Flash Briefing,quit,
+The Instagram Stories Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+The Instagram Stories Flash Briefing,quit,
+The Instagram Stories Flash Briefing,quit,
+The Instagram Stories Flash Briefing,"""Alexa share your thoughts""",I think about all kinds of things.
+The Instagram Stories Flash Briefing,quit,
+The Instagram Stories Flash Briefing,quit,
+Husseini Islamic Center,"""Alexa, Ask H. I. C. if the live stream is playing""","Sorry, I don't know that."
+Husseini Islamic Center,quit,
+Husseini Islamic Center,"""Alexa, Ask H. I. C. what the program is today""","Today's date was Saturday, April 27th 2019."
+Husseini Islamic Center,quit,
+Husseini Islamic Center,quit,
+Husseini Islamic Center,"""Alexa, Ask H. I. C. what are the prayer times today""","Sorry, I'm not sure."
+Husseini Islamic Center,quit,
+Husseini Islamic Center,quit,
+True Or False: Animal Edition,"""Alexa, open animal questions""",Hi. Welcome to the My Questions survey experience. I'm excited to try something new and fun with you. The first questions are about sports you may follow. Please respond with the words Yes or No only. Do you follow any of these sports. NFL football?
+True Or False: Animal Edition,quit,
+True Or False: Animal Edition,"""Alexa, open animal questions""",Hi. Welcome to the My Questions survey experience. I'm excited to try something new and fun with you. The first questions are about sports you may follow. Please respond with the words Yes or No only. Do you follow any of these sports. NFL football?
+True Or False: Animal Edition,"""Give me a question""",Hi. Welcome to the My Questions survey experience. I'm excited to try something new and fun with you. The first questions are about sports you may follow. Please respond with the words Yes or No only. Do you follow any of these sports. NFL football?
+True Or False: Animal Edition,quit,
+True Or False: Animal Edition,"""Alexa, open animal questions""",Hi. Welcome to the My Questions survey experience. I'm excited to try something new and fun with you. The first questions are about sports you may follow. Please respond with the words Yes or No only. Do you follow any of these sports. NFL football?
+True Or False: Animal Edition,"""Buy the expansion pack""",Sorry I didn't quite understand you. Do you follow any of these sports. NFL football?.
+True Or False: Animal Edition,quit,
+My Community,"""Alexa, ask My Community what's for dinner today.""",You have Meal Tracker enabled. Do you want to open it?
+My Community,Yes,<Audio only response>
+My Community,"""Alexa, ask My Community what's for dinner today.""",You have Meal Tracker enabled. Do you want to open it?
+My Community,quit,
+My Community,"""Alexa, ask My Community what's happening on Friday.""","Hmm, I'm not sure."
+My Community,quit,
+My Community,quit,
+My Community,"""Alexa, ask My Community what are today's announcements.""",You have Announce My Presence enabled. Do you want to open it?
+My Community,Yes,
+My Community,"""Alexa, ask My Community what are today's announcements.""",You have Announce My Presence enabled. Do you want to open it?
+My Community,quit,
+My Community,quit,
+Date Night,"""Alexa, ask Date Night for a new activity""","Sorry, I don't know that one."
+Date Night,quit,
+Date Night,"""Alexa, ask Date Night to suggest an activity for us.""","Hmm, I don't know that."
+Date Night,quit,
+Date Night,quit,
+Date Night,"""Alexa, open Date Night""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Date Night,Yes,What stock price would you like me to look up?
+Date Night,"""Alexa, open Date Night""","Sorry, I can't find information about alexa, open date night."
+Date Night,quit,
+Date Night,quit,
+Happy Wife,"""Alexa, ask happywife to give me a happy wife advice""",You have Happy Days enabled. Do you want to open it?
+Happy Wife,Yes,Here's a dose of happiness...Doing what you like is freedom. Liking what you do is happiness... Frank Tyger... Would you like to hear another quote?
+Happy Wife,"""Alexa, ask happywife to give me a happy wife advice""","Here's a dose of happiness...Once you replace negative thoughts with positive ones, you'll start having positive results...Willie Nelson... Would you like to hear another quote?"
+Happy Wife,quit,
+Happy Wife,"""Alexa, ask happywife to tell me something""",You have Funny Insults enabled. Do you want to open it?
+Happy Wife,Yes,"Sorry, I'm having trouble accessing your Funny Insults skill right now"
+Happy Wife,"""Alexa, ask happywife to tell me something""",You have Funny Insults enabled. Do you want to open it?
+Happy Wife,quit,
+Happy Wife,quit,
+Happy Wife,"""Alexa, launch happywife""",<Audio only response>
+Happy Wife,quit,
+Happy Wife,quit,
+Hashtag Roundup,"""Alexa, ask Hashtag Roundup, Read me some funny tweets""",You have Presidential Tweets enabled. Do you want to open it?
+Hashtag Roundup,Yes,"Here's your Trump Tweet: @caaataclysm Little Jon Stewart? Is a pssy, he would be hopeless in a debate with me!"
+Hashtag Roundup,"""Alexa, ask Hashtag Roundup, Read me some funny tweets""",You have Presidential Tweets enabled. Do you want to open it?
+Hashtag Roundup,quit,
+Hashtag Roundup,"""Alexa, ask Hashtag Roundup, What is the current game?""","Sorry, I’m not sure about that."
+Hashtag Roundup,quit,
+Hashtag Roundup,quit,
+Hashtag Roundup,"""Alexa, ask Hashtag Roundup, What's today's schedule?""",You have Park University enabled. Do you want to open it?
+Hashtag Roundup,Yes,How can I help you today?
+Hashtag Roundup,"""Alexa, ask Hashtag Roundup, What's today's schedule?""","Sorry I couldn't understand your request. To hear a list of commands supported by Park University skill, say help me, or what can I say?"
+Hashtag Roundup,quit,
+Hashtag Roundup,quit,
+Three Day Rule's 30-Day Dating Challenge,"""Alexa, ask Three Day Rule for today's tip.""",You have Today's Health Tip enabled. Do you want to open it?
+Three Day Rule's 30-Day Dating Challenge,Yes,<Short audio>
+Three Day Rule's 30-Day Dating Challenge,"""Alexa, ask Three Day Rule for today's tip.""",<Short audio>
+Three Day Rule's 30-Day Dating Challenge,quit,
+Three Day Rule's 30-Day Dating Challenge,"""Alexa, open Three Day Rule.""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Three Day Rule's 30-Day Dating Challenge,Yes,What stock price would you like me to look up?
+Three Day Rule's 30-Day Dating Challenge,"""Alexa, open Three Day Rule.""","Sorry, I can't find information about alexa, open 3 day rule.."
+Three Day Rule's 30-Day Dating Challenge,quit,
+Three Day Rule's 30-Day Dating Challenge,quit,
+Three Day Rule's 30-Day Dating Challenge,"""Alexa, ask Three Day Rule what's today's tip?""",<Audio only response>
+Three Day Rule's 30-Day Dating Challenge,quit,
+Three Day Rule's 30-Day Dating Challenge,quit,
+True Or False: Sports Edition,"""Alexa, open sports questions""",<Short audio>
+True Or False: Sports Edition,quit,
+True Or False: Sports Edition,"""Alexa, launch sports questions""",<Short audio>
+True Or False: Sports Edition,quit,
+True Or False: Sports Edition,quit,
+True Or False: Sports Edition,"""Alexa, open sports questions""",<Short audio>
+True Or False: Sports Edition,"""Give me a question""",True or false: Pete Sampras is the men’s player who won the most Grand Slam titles in singles.
+True Or False: Sports Edition,quit,
+Lock Him Up,"""Alexa, ask Lock Him Up for the latest news""",<Audio only response>
+Lock Him Up,quit,
+Lock Him Up,"""Alexa, ask Lock Him Up for the latest news""",<Audio only response>
+Lock Him Up,"""Text that to me""",You have Examining the Scriptures Daily enabled. Do you want to open it?
+Lock Him Up,quit,
+Lock Him Up,"""Alexa, open Call Handler""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Lock Him Up,Yes,What stock price would you like me to look up?
+Lock Him Up,"""Alexa, open Call Handler""","Sorry, I can't find information about alexa, open call handler."
+Lock Him Up,quit,
+Lock Him Up,quit,
+What's Your Story?,"""Alexa, what's my Flash Briefing?""",Here's your news.
+What's Your Story?,quit,
+What's Your Story?,"""Alexa, what's in the news?""",Here's your news.
+What's Your Story?,quit,
+What's Your Story?,quit,
+What's Your Story?,"""Alexa, what's my Flash Briefing?""",Here's your news.
+What's Your Story?,quit,
+What's Your Story?,quit,
+Ham Buffet,"""Alexa, open ham buffet""",You have Ham Lookup enabled. Do you want to open it?
+Ham Buffet,Yes,Ask me to lookup a US call sign
+Ham Buffet,"""Alexa, open ham buffet""","Sorry, something went wrong"
+Ham Buffet,quit,
+Ham Buffet,"""Alexa, start ham buffet""",You have Ham Lookup enabled. Do you want to open it?
+Ham Buffet,Yes,Ask me to lookup a US call sign
+Ham Buffet,"""Alexa, start ham buffet""","Sorry, something went wrong"
+Ham Buffet,quit,
+Ham Buffet,quit,
+Ham Buffet,"""Alexa, launch ham buffet""",You have Ham Lookup enabled. Do you want to open it?
+Ham Buffet,Yes,Ask me to lookup a US call sign
+Ham Buffet,"""Alexa, launch ham buffet""","Sorry, something went wrong"
+Ham Buffet,quit,
+Ham Buffet,quit,
+Daily Romantic Gesture,"""Alexa, open daily romantic gesture""",Daily Romantic Gesture contains mature content that may not be suitable for all ages
+Daily Romantic Gesture,quit,
+Daily Romantic Gesture,"""Alexa, play daily romantic gesture""",You have Word Play enabled. Do you want to open it?
+Daily Romantic Gesture,Yes,<Audio only response>
+Daily Romantic Gesture,"""Alexa, play daily romantic gesture""",You have Word Play enabled. Do you want to open it?
+Daily Romantic Gesture,quit,
+Daily Romantic Gesture,quit,
+Daily Romantic Gesture,"""Alexa, start daily romantic gesture""","Dailymotion started on March 15, 2005. Sorry, I don't know the release date of the film ""Andaz"" in your location; however, in India, ""Andaz"" was first released about 70 years ago sometime in 1949 in India."
+Daily Romantic Gesture,quit,
+Daily Romantic Gesture,quit,
+Trump Lie of the Day,"""Alexa, ask Trump Lie of the Day for the latest news""","Sorry, I can’t find the answer to the question I heard."
+Trump Lie of the Day,quit,
+Trump Lie of the Day,"""Alexa, ask Trump Lie of the Day for the latest news""","Sorry, I can’t find the answer to the question I heard."
+Trump Lie of the Day,"""Text that to me""",You have Examining the Scriptures Daily enabled. Do you want to open it?
+Trump Lie of the Day,quit,
+Trump Lie of the Day,"""Alexa, ask Trump Lie of the Day for the latest news""","Sorry, I can’t find the answer to the question I heard."
+Trump Lie of the Day,"""Upcoming events""",I don't see a calendar set up. Want me to send a link to your phone to set up your calendar ?
+Trump Lie of the Day,quit,
+Olabot,"""Alexa talk to Olabot""",Calling with Alexa is not supported on this device. You can use the Alexa App instead.
+Olabot,quit,
+Olabot,"""Alexa launch Olabot""","Sorry, I'm having trouble accessing your Olabot skill right now"
+Olabot,quit,
+Olabot,quit,
+Olabot,"""Alexa open Olabot""","Sorry, I'm having trouble accessing your Olabot skill right now"
+Olabot,quit,
+Olabot,quit,
+Forever Recognize Others' Greatness,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Forever Recognize Others' Greatness,quit,
+Forever Recognize Others' Greatness,"""Alexa, what's in the news?""",Here's your news.
+Forever Recognize Others' Greatness,quit,
+Forever Recognize Others' Greatness,quit,
+Forever Recognize Others' Greatness,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Forever Recognize Others' Greatness,quit,
+Forever Recognize Others' Greatness,quit,
+Guest Reception,"""Alexa start guest reception""","It’s nice, that guests are here! Who can I welcome today?"
+Guest Reception,quit,
+Guest Reception,"""Alexa start guest reception""","It’s nice, that guests are here! Who can I welcome today?"
+Guest Reception,"""Greet James""","Finally James is here! Well, I thought I'd never see the day.!Who else can I greet?"
+Guest Reception,quit,
+Guest Reception,"""Alexa start guest reception""","It’s nice, that guests are here! Who can I welcome today?"
+Guest Reception,"""Linda is here""",Who would have thought that Linda would come today? Not me!Who else can I greet?
+Guest Reception,quit,
+Slack with Voice,"""Alexa, open Slack Chat""",Hello. Welcome to Slack with Voice! I am an unofficial Voice User Interface for Slack. You can send and read Slack messages directly from here. You need to link your Slack account using the Alexa app to get started. Comeback once you're done!
+Slack with Voice,quit,
+Slack with Voice,"""Alexa, open Slack Chat and read messages from General""",You have Slack with Voice enabled. Do you want to open it?
+Slack with Voice,Yes,Welcome to Slack with Voice! I am an unofficial Voice User Interface for Slack. You can send and read Slack messages directly from here. Comeback once you've linked your Slack account using the card I just sent to your Alexa app.
+Slack with Voice,"""Alexa, open Slack Chat and read messages from General""",You have Slack with Voice enabled. Do you want to open it?
+Slack with Voice,quit,
+Slack with Voice,quit,
+Slack with Voice,"""Alexa, open Slack Chat and send message to General""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Slack with Voice,quit,
+Slack with Voice,quit,
+Starfish Me,"""Alexa open starfish me""","Hey, looks like you have not linked your Alexa device with Starfish Account. We are sending you a link account card which can help you link your account. Let me tell you how I work. You link your device with Starfish account and then login to starfishmint.com and record your from and to station. Then you can ask alexa your next train or next return train at anytime. Easypeasy lemon squeazy."
+Starfish Me,quit,
+Starfish Me,"""Alexa start starfish me""","Hey, looks like you have not linked your Alexa device with Starfish Account. We are sending you a link account card which can help you link your account. Let me tell you how I work. You link your device with Starfish account and then login to starfishmint.com and record your from and to station. Then you can ask alexa your next train or next return train at anytime. Easypeasy lemon squeazy."
+Starfish Me,quit,
+Starfish Me,quit,
+Starfish Me,"""Alexa launch starfish me""","Hey, looks like you have not linked your Alexa device with Starfish Account. We are sending you a link account card which can help you link your account. Let me tell you how I work. You link your device with Starfish account and then login to starfishmint.com and record your from and to station. Then you can ask alexa your next train or next return train at anytime. Easypeasy lemon squeazy."
+Starfish Me,quit,
+Starfish Me,quit,
+Message Board,"""Alexa, ask Message Board to add message for Nina""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Message Board,quit,
+Message Board,"""Alexa ask Message Board to read message for Nina""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Message Board,quit,
+Message Board,quit,
+Message Board,"""Alexa ask Message Board to erase message for Nina""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Message Board,quit,
+Message Board,quit,
+Grandmother Names,"""Alexa, open Grandmother Names""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Grandmother Names,Yes,What stock price would you like me to look up?
+Grandmother Names,"""Alexa, open Grandmother Names""","Sorry, I can't find information about alexa, open grandmother names."
+Grandmother Names,quit,
+Grandmother Names,"""Alexa, play Grandmother Names""",You have Word Play enabled. Do you want to open it?
+Grandmother Names,Yes,<Short audio>
+Grandmother Names,"""Alexa, play Grandmother Names""",How many players will be playing today?
+Grandmother Names,quit,
+Grandmother Names,quit,
+Grandmother Names,"""Alexa, open Grandfather Names""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Grandmother Names,Yes,What stock price would you like me to look up?
+Grandmother Names,"""Alexa, open Grandfather Names""","Sorry, I can't find information about alexa, open grandfather names."
+Grandmother Names,quit,
+Grandmother Names,quit,
+Roger and Anne,"""Alexa, ask Roger and Anne if they've had their baby yet.""",<Audio only response>
+Roger and Anne,quit,
+Roger and Anne,"""Alexa, open cat locator""",Great news! A cat was found to be in the sink on Thu Aug 10
+Roger and Anne,quit,
+Roger and Anne,quit,
+Roger and Anne,"""Alexa, ask care meter do I care?""","Sorry, I don't know that one."
+Roger and Anne,quit,
+Roger and Anne,quit,
+Toymail Talkie,"""Alexa, ask Talkie to send a message to Justin and say Hi Justin, How are yo... """,Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Toymail Talkie,quit,
+Toymail Talkie,"""Alexa, tell Talkie to send message to Charlie and tell him I will be home s... """,Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Toymail Talkie,quit,
+Toymail Talkie,quit,
+Toymail Talkie,"""Alexa, tell Talkie to play my new messages""",
+Toymail Talkie,quit,
+Toymail Talkie,quit,
+Cafe On Ice,"""Alexa, open cafe on ice""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Cafe On Ice,Yes,What stock price would you like me to look up?
+Cafe On Ice,"""Alexa, open cafe on ice""","Sorry, I can't find information about alexa, open cafe on ice."
+Cafe On Ice,quit,
+Cafe On Ice,"""Alexa, start cafe on ice""","Hmm, I'm not sure."
+Cafe On Ice,quit,
+Cafe On Ice,quit,
+Cafe On Ice,"""Alexa, launch cafe on ice""",<Audio only response>
+Cafe On Ice,quit,
+Cafe On Ice,quit,
+complaint listener,"""Alexa, open Complaint Listener""",What is wrong today?
+complaint listener,quit,
+complaint listener,"""Alexa, start complaint listener""","""Complaint"" by Buju Banton featuring Garnett Silk was released on July 18, 1995. Listener formed in 2002."
+complaint listener,quit,
+complaint listener,quit,
+complaint listener,"""Alexa, enable complaint listener""",What is wrong today?
+complaint listener,quit,
+complaint listener,quit,
+Mail Reader,"""Alexa, ask Mail Reader to check mail""",You have Mail Reader enabled. Do you want to open it?
+Mail Reader,Yes,"Sorry, I'm having trouble accessing your Mail Reader skill right now"
+Mail Reader,"""Alexa, ask Mail Reader to check mail""",You have Mail Reader enabled. Do you want to open it?
+Mail Reader,quit,
+Mail Reader,"""Alexa, ask Mail Reader to check who sent me mail""",You have Mail Reader enabled. Do you want to open it?
+Mail Reader,Yes,"Sorry, I'm having trouble accessing your Mail Reader skill right now"
+Mail Reader,"""Alexa, ask Mail Reader to check who sent me mail""",You have Mail Reader enabled. Do you want to open it?
+Mail Reader,quit,
+Mail Reader,quit,
+Mail Reader,"""Alexa, ask Mail Reader to check mails from John""",You have Mail Reader enabled. Do you want to open it?
+Mail Reader,Yes,"Sorry, I'm having trouble accessing your Mail Reader skill right now"
+Mail Reader,"""Alexa, ask Mail Reader to check mails from John""",You have Mail Reader enabled. Do you want to open it?
+Mail Reader,quit,
+Mail Reader,quit,
+Encircle Together,"""Alexa, open Encircle Together""",<Audio only response>
+Encircle Together,quit,
+Encircle Together,"""Alexa, ask Encircle Together what is your mission""",You have 24: Legacy Daily Mission enabled. Do you want to open it?
+Encircle Together,Yes
+Encircle Together,"""Alexa, ask Encircle Together what is your mission""",You have 24: Legacy Daily Mission enabled. Do you want to open it?
+Encircle Together,quit,
+Encircle Together,quit,
+Encircle Together,"""Alexa, ask Encircle Together are you open""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Encircle Together,Yes,What stock price would you like me to look up?
+Encircle Together,"""Alexa, ask Encircle Together are you open""","Sorry, I can't find information about alexa, ask encircle together are you open."
+Encircle Together,quit,
+Encircle Together,quit,
+Juke Box,"""Alexa, play Jukebox""",Don't Rock the Jukebox is available with Amazon Music Unlimited which lets you play over 50 million songs. It's free for 30 days and then you'll be automatically charged $9.99 a month. Cancel anytime. Terms in the Alexa app. Should I start your free trial and play Don't Rock the Jukebox?
+Juke Box,quit,
+Juke Box,"""Alexa, play Jukebox""","Here's a sample of Don't Rock the Jukebox, by Alan Jackson, on Amazon Music."
+Juke Box,"""What's new?""",Here's your news.
+Juke Box,quit,
+Juke Box,"""Alexa, play Jukebox""","Here's a sample of Don't Rock the Jukebox, by Alan Jackson, on Amazon Music."
+Juke Box,"""Play popular sounds""",What do you want to hear?^
+Juke Box,quit,
+Meetup,"""Alexa, ask Meetup what's happening today""","Sorry, I'm not sure."
+Meetup,quit,
+Meetup,"""Alexa, ask Meetup what's going on next week""",I couldn't find anything about that.
+Meetup,quit,
+Meetup,quit,
+Meetup,"""Alexa, ask Meetup what's happening today""","Hmm, I'm not sure."
+Meetup,"""How about my Meetups""",You have Charles Schwab enabled. Do you want to open it?
+Meetup,quit,

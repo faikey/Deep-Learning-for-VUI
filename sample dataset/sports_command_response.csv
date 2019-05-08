@@ -1,0 +1,947 @@
+name,question,response
+ESPN,"""Alexa, open ESPN.""",<Audio only response>
+ESPN,quit,
+ESPN,"""Alexa, open ESPN.""",<Audio only response>
+ESPN,"""Play ESPN Radio.""",ESPN Radio from TuneIn.
+ESPN,quit,
+ESPN,"""Alexa, open ESPN.""",<Audio only response>
+ESPN,"""Listen to ESPN Chicago.""",Getting your Hit Nation station from iHeart Radio
+ESPN,quit,
+Dallas Cowboys (Official),"""Alexa, play Dallas Cowboys""",Schedule information for the next Cowboys game is not yet available.
+Dallas Cowboys (Official),quit,
+Dallas Cowboys (Official),"""Alexa, open ESPN.""",<Audio only response>
+Dallas Cowboys (Official),quit,
+Dallas Cowboys (Official),quit,
+Dallas Cowboys (Official),"""Alexa, what's my Flash Briefing?""",Here's your news.
+Dallas Cowboys (Official),quit,
+Dallas Cowboys (Official),quit,
+Yahoo Fantasy Football,"""Alexa, ask Yahoo Fantasy Football for a score update""","I'm sorry, but you have to have a head to head fantasy league connected to your Yahoo account to use this skill. Your league is not a head to head league.Users with points leagues and Pick ‰Û÷Em are currently not able to check their teams and games using this skill.In order to use this skill you'll need to join a head to head league and setup a team using the Yahoo Fantasy Football mobile app or website. Once you've done that, come back and I'll be happy to help."
+Yahoo Fantasy Football,quit,
+Yahoo Fantasy Football,"""Alexa, ask Yahoo Fantasy Football about my matchup""",You have Yahoo Fantasy Football enabled. Do you want to open it?
+Yahoo Fantasy Football,Yes,"I'm sorry, but you have to have a head to head fantasy league connected to your Yahoo account to use this skill. Your league is not a head to head league.Users with points leagues and Pick ‰Û÷Em are currently not able to check their teams and games using this skill.In order to use this skill you'll need to join a head to head league and setup a team using the Yahoo Fantasy Football mobile app or website. Once you've done that, come back and I'll be happy to help."
+Yahoo Fantasy Football,"""Alexa, ask Yahoo Fantasy Football about my matchup""",You have Yahoo Fantasy Football enabled. Do you want to open it?
+Yahoo Fantasy Football,quit,
+Yahoo Fantasy Football,quit,
+Yahoo Fantasy Football,"""Alexa, ask Yahoo Fantasy Football if Cam Newton is playing this week""","This might answer your question: On Monday, December 17, Cam Newton had 4.7 fantasy points in the Panthers' loss to the Saints. He threw for 131 yards, and tallied 15 rushing yards."
+Yahoo Fantasy Football,quit,
+Yahoo Fantasy Football,quit,
+College Football Rankings,"""Alexa ask college football rankings what are the top teams""","The top 25 teams are: # 1 Alabama, # 2 Clemson , # 3 Notre Dame , # 4 Michigan , # 5 Georgia , # 6 Oklahoma , # 7 West Virginia , # 8 Washington State , # 9 Ohio State , # 10 LSU , # 11 UCF , # 12 Syracuse , # 13 Texas , # 14 Utah State , # 15 Florida , # 16 Penn State , # 17 Washington , # 18 Iowa State , # 19 Cincinnati , # 20 Kentucky , # 21 Utah , # 22 Boston College , # 23 Boise State , # 24 Northwestern , # 25 Mississippi State"
+College Football Rankings,quit,
+College Football Rankings,"""Alexa ask college football rankings who are the top seven teams""","The top 7 teams are: # 1 Alabama, # 2 Clemson , # 3 Notre Dame , # 4 Michigan , # 5 Georgia , # 6 Oklahoma , # 7 West Virginia"
+College Football Rankings,quit,
+College Football Rankings,quit,
+College Football Rankings,"""Alexa ask college football rankings what are the top ten teams""","The top 10 teams are: # 1 Alabama, # 2 Clemson , # 3 Notre Dame , # 4 Michigan , # 5 Georgia , # 6 Oklahoma , # 7 West Virginia , # 8 Washington State , # 9 Ohio State , # 10 LSU"
+College Football Rankings,quit,
+College Football Rankings,quit,
+StatMuse,"""Alexa, ask Statmuse, how many touchdowns did Peyton Manning have in 2007?""","In his NFL career, Peyton Manning had 557 total touchdowns. He's ranked 1st all-time."
+StatMuse,quit,
+StatMuse,"""Alexa, ask Statmuse, how many touchdowns did Peyton Manning have in 2007?""","In his NFL career, Peyton Manning had 557 total touchdowns. He's ranked 1st all-time."
+StatMuse,"""What about passing yards?""",Yards a sports statistic.
+StatMuse,quit,
+StatMuse,"""Alexa, ask Statmuse, how many touchdowns did Peyton Manning have in 2007?""","In his NFL career, Peyton Manning had 557 total touchdowns. He's ranked 1st all-time."
+StatMuse,"""Who has hit the most homers this season?""","In the 2018 season, Khris Davis had the most home runs in Major League Baseball with 48."
+StatMuse,quit,
+Baseball Reference,"""Alexa, ask Baseball Reference who led the league in doubles.""",You have Baseball Reference enabled. Do you want to open it?
+Baseball Reference,Yes,"Hey, welcome to Baseball Reference ask me something!"
+Baseball Reference,"""Alexa, ask Baseball Reference who led the league in doubles.""","I was unsure of what you asked, can you please ask it again?"
+Baseball Reference,quit,
+Baseball Reference,"""Alexa, ask Baseball Reference who led the league in doubles.""",You have Baseball Reference enabled. Do you want to open it?
+Baseball Reference,Yes,"I was unsure of what you asked, can you please ask it again?"
+Baseball Reference,quit,
+Baseball Reference,"""Alexa, ask Baseball Reference who lead the National League in home runs in ... ""","Hmm, I don't know that."
+Baseball Reference,quit,
+Baseball Reference,quit,
+Coach Harbaugh,"""Alexa, ask Coach Harbaugh for a quote""",You have The Body Coach enabled. Do you want to open it?
+Coach Harbaugh,Yes,<Short audio>
+Coach Harbaugh,"""Alexa, ask Coach Harbaugh for a quote""",<Short audio>
+Coach Harbaugh,quit,
+Coach Harbaugh,"""Alexa, ask Coach Harbaugh to play The Victors""","Here's a sample of The Victors, by The University of Michigan Marching Band, on Amazon Music."
+Coach Harbaugh,quit,
+Coach Harbaugh,quit,
+Coach Harbaugh,"""Alexa, ask Coach Harbaugh WHO'S GOT IT BETTER THAN US!?""",You have The Body Coach enabled. Do you want to open it?
+Coach Harbaugh,Yes,<Short audio>
+Coach Harbaugh,"""Alexa, ask Coach Harbaugh WHO'S GOT IT BETTER THAN US!?""",<Short audio>
+Coach Harbaugh,quit,
+Coach Harbaugh,quit,
+NCAA March Madness,"""Alexa open march madness""","Welcome to March Madness! Your go to place to find March Madness tournament live broadcasts and game coverage. I can give you scores, schedules, live radio, or information about your bracket picks. What would you like?"
+NCAA March Madness,quit,
+NCAA March Madness,"""Alexa, ask March Madness for today's scores""","This might answer your question: On Monday, April 8 in the National Championship of the 2019 Men's NCAA Basketball Tournament, the Virginia men's basketball team beat Texas Tech 85 - 77."
+NCAA March Madness,quit,
+NCAA March Madness,quit,
+NCAA March Madness,"""Alexa, ask March Madness for info on my bracket.""",You have NCAA March Madness enabled. Do you want to open it?
+NCAA March Madness,Yes,"Welcome to March Madness! Your go to place to find March Madness tournament live broadcasts and game coverage. I can give you scores, schedules, live radio, or information about your bracket picks. What would you like?"
+NCAA March Madness,"""Alexa, ask March Madness for info on my bracket.""","In order to use this feature, you need to log-in with your Capital One Bracket Challenge Game account in the Alexa application. Once you've linked your account, I can give you information on your favorite bracket and group."
+NCAA March Madness,quit,
+NCAA March Madness,quit,
+Fantasy Football,"""Alexa, ask Fantasy Football Nerd for the latest news.""",<Audio only response>
+Fantasy Football,quit,
+Fantasy Football,"""Alexa, ask Fantasy Football Nerd if I should start Eli Manning or Cam Newto... """,
+Fantasy Football,quit,
+Fantasy Football,quit,
+Fantasy Football,"""Alexa, ask Fantasy Football Nerd if I should trade Aaron Rodgers for Tom Br... ""","Hmm, I'm not sure."
+Fantasy Football,quit,
+Fantasy Football,quit,
+Dodgers Baseball Fan Trivia,"""Alexa Play Dodgers Fan Trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Which Dodger struck out Reggie Jackson on an unforgettable moment in Game 2 of the 1978 World Series?: 1. Don Sutton. 2. Ramon Martinez. 3. Bob Welch. 4. Orel Hershiser."
+Dodgers Baseball Fan Trivia,quit,
+Dodgers Baseball Fan Trivia,"""Alexa Open Dodgers Fan Trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. How many career wins did sandy koufax retire with?: 1. 195. 2. 165. 3. 225. 4. 205."
+Dodgers Baseball Fan Trivia,quit,
+Dodgers Baseball Fan Trivia,quit,
+Dodgers Baseball Fan Trivia,"""Alexa Start Dodgers Fan Trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What Los Angeles Dodger set a team record for highest batting average in a season hitting 362?: 1. Mike Piazza. 2. Steve Garvey. 3. Tommy Davis. 4. Willie Davis."
+Dodgers Baseball Fan Trivia,quit,
+Dodgers Baseball Fan Trivia,quit,
+NBA,"""Alexa, open NBA""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+NBA,Yes,What stock price would you like me to look up?
+NBA,"""Alexa, open NBA""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+NBA,quit,
+NBA,"""Alexa, ask NBA what is the score of the Lakers game""",
+NBA,quit,
+NBA,quit,
+NBA,"""Alexa, tell NBA to play the Warriors vs. Cavaliers game""",You have Word Play enabled. Do you want to open it?
+NBA,Yes,<Audio only response>
+NBA,"""Alexa, tell NBA to play the Warriors vs. Cavaliers game""",You have Word Play enabled. Do you want to open it?
+NBA,quit,
+NBA,quit,
+How many days since Michigan has beaten Ohio State,"""Alexa, ask ohio state buckeyes how long since michigan has beaten us""","Sorry, I don't know that."
+How many days since Michigan has beaten Ohio State,quit,
+How many days since Michigan has beaten Ohio State,"""Alexa, ask ohio state buckeyes how many days since michigan has beaten ohio... ""","Sorry, I'm not sure."
+How many days since Michigan has beaten Ohio State,quit,
+How many days since Michigan has beaten Ohio State,quit,
+How many days since Michigan has beaten Ohio State,"""Alexa, talk to ohio state buckeyes""","This might answer your question: I know about 167 Ohio State Ohio State college basketball games including Ohio State basketball at Houston on Mar 24, 2019, Ohio State basketball at Iowa State on Mar 22, 2019, Ohio State basketball at Michigan State on Mar 15, 2019, and Indiana basketball at Ohio State on Mar 14, 2019."
+How many days since Michigan has beaten Ohio State,quit,
+How many days since Michigan has beaten Ohio State,quit,
+New York Knicks,"""Alexa, open the Knicks""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+New York Knicks,Yes,What stock price would you like me to look up?
+New York Knicks,"""Alexa, open the Knicks""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+New York Knicks,quit,
+New York Knicks,"""Alexa, ask the Knicks who's winning tonight""","Hmm. Maybe the skill, Utah Jazz, can help. Do you want to try it?"
+New York Knicks,quit,
+New York Knicks,quit,
+New York Knicks,"""Alexa, ask the Knicks, when is the next game""",Schedule information for the next Knicks game is not yet available.
+New York Knicks,quit,
+New York Knicks,quit,
+Golden State Warriors,"""Alexa, open the Warriors""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Golden State Warriors,Yes,What stock price would you like me to look up?
+Golden State Warriors,"""Alexa, open the Warriors""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Golden State Warriors,quit,
+Golden State Warriors,"""Alexa, ask the Warriors who's winning tonight""","Hmm. Maybe the skill, Utah Jazz, can help. Do you want to try it?"
+Golden State Warriors,quit,
+Golden State Warriors,quit,
+Golden State Warriors,"""Alexa, ask the Warriors, when is the next game""",The Warriors will play tomorrow at 1:30 p.m. at home against the Clippers.
+Golden State Warriors,quit,
+Golden State Warriors,quit,
+Roll Tide Roll,"""Alexa, Roll Tide Roll.""",<Audio only response>
+Roll Tide Roll,quit,
+Roll Tide Roll,"""Alexa, ask Roll Tide Roll for help.""",You have RollTide enabled. Do you want to open it?
+Roll Tide Roll,Yes,Roll tide roll!
+Roll Tide Roll,"""Alexa, ask Roll Tide Roll for help.""",You have RollTide enabled. Do you want to open it?
+Roll Tide Roll,quit,
+Roll Tide Roll,quit,
+Roll Tide Roll,"""Alexa, roll tide""",You have RollTide enabled. Do you want to open it?
+Roll Tide Roll,Yes,
+Roll Tide Roll,"""Alexa, roll tide""",You have RollTide enabled. Do you want to open it?
+Roll Tide Roll,quit,
+Roll Tide Roll,quit,
+PGA TOUR,"""Alexa, ask PGA TOUR for the leaderboard.""","This might answer your question: The current leader of the the PGA Tour is Matt Kuchar with 2,030 FedEx points."
+PGA TOUR,quit,
+PGA TOUR,"""Alexa, ask PGA TOUR how Jason Day is doing.""",This might answer your question: Jason Day did not make the cut in the 2019 Zurich Classic of New Orleans.
+PGA TOUR,quit,
+PGA TOUR,quit,
+PGA TOUR,"""Alexa, ask PGA TOUR for the FedExCup Standings.""",You have PGA TOUR enabled. Do you want to open it?
+PGA TOUR,Yes,<Audio only response>
+PGA TOUR,"""Alexa, ask PGA TOUR for the FedExCup Standings.""",You have PGA TOUR enabled. Do you want to open it?
+PGA TOUR,quit,
+PGA TOUR,quit,
+ESPN Radio (via TuneIn),"""Alexa, what's my Flash Briefing?""",Here's your news.
+ESPN Radio (via TuneIn),quit,
+ESPN Radio (via TuneIn),"""Alexa, what's in the news?""",Here's your news.
+ESPN Radio (via TuneIn),quit,
+ESPN Radio (via TuneIn),quit,
+ESPN Radio (via TuneIn),"""Alexa, open ESPN.""","You can ask for the leaderboard, or ask about a specific player. Which will it be?"
+ESPN Radio (via TuneIn),quit,
+ESPN Radio (via TuneIn),quit,
+Basketball quiz,"""alexa ask basketball quiz to start game""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. How far is a half-court shot in feet? 1. 43. 2. 47. 3. 45. 4. 41."
+Basketball quiz,quit,
+Basketball quiz,"""alexa ask basketball quiz to start game""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What's the size of the basketball hoop in inches? 1. 17. 2. 16. 3. 19. 4. 18."
+Basketball quiz,"""alexa ask basketball quiz for new game""",The correct answer is 4: 18. Your score is 0. Question 2. How far is a half-court shot in feet? 1. 45. 2. 41. 3. 47. 4. 43.
+Basketball quiz,quit,
+Basketball quiz,"""alexa ask basketball quiz to start game""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What's the size of the basketball hoop in inches? 1. 17. 2. 18. 3. 16. 4. 19."
+Basketball quiz,"""alexa ask basketball quiz to start""",The correct answer is 2: 18. Your score is 0. Question 2. How far is a half-court shot in feet? 1. 43. 2. 45. 3. 47. 4. 41.
+Basketball quiz,quit,
+ESPN Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+ESPN Flash Briefing,quit,
+ESPN Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+ESPN Flash Briefing,quit,
+ESPN Flash Briefing,quit,
+ESPN Flash Briefing,"""Alexa, open ESPN.""",<Audio only response>
+ESPN Flash Briefing,quit,
+ESPN Flash Briefing,quit,
+Golf Channel,"""Alexa, ask Golf Channel for the PGA Tour leaderboard.""","This might answer your question: The current leader of the the PGA Tour is Matt Kuchar with 2,030 FedEx points."
+Golf Channel,quit,
+Golf Channel,"""Alexa, ask Golf Channel who is winning the European Tour.""",You have Trump Golf enabled. Do you want to open it?
+Golf Channel,Yes,"Our genius president has golfed 149 times, costing taxpayers more than 79 million dollars"
+Golf Channel,"""Alexa, ask Golf Channel who is winning the European Tour.""",You have Trump Golf enabled. Do you want to open it?
+Golf Channel,quit,
+Golf Channel,quit,
+Golf Channel,"""Alexa, ask Golf Channel who is on the LPGA Tour leaderboard.""","Hmm, I don't know that."
+Golf Channel,quit,
+Golf Channel,quit,
+New England Patriots,"""Alexa, open Patriots.""",<Audio only response>
+New England Patriots,quit,
+New England Patriots,"""Alexa, start Patriots.""",The New England Patriots are a professional American football team based in the Greater Boston area.
+New England Patriots,quit,
+New England Patriots,quit,
+New England Patriots,"""Alexa, open ESPN.""",<Audio only response>
+New England Patriots,quit,
+New England Patriots,quit,
+Boston Celtics,"""Alexa, open the Celtics""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Boston Celtics,Yes,What stock price would you like me to look up?
+Boston Celtics,"""Alexa, open the Celtics""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Boston Celtics,quit,
+Boston Celtics,"""Alexa, ask the Celtics who's winning tonight""","Hmm. Maybe the skill, Boston Celtics, can help. Do you want to try it?"
+Boston Celtics,quit,
+Boston Celtics,quit,
+Boston Celtics,"""Alexa, ask the Celtics, when is the next game""",The Celtics will play tomorrow at 11:00 a.m. against the Bucks.
+Boston Celtics,quit,
+Boston Celtics,quit,
+Racing Events by Neds,"""Alexa, ask Neds when is the next race?""","The 2020 U.S. presidential election will be held on November 3, 2020."
+Racing Events by Neds,quit,
+Racing Events by Neds,"""Alexa, ask Neds what's the favorite?""",You have Marshawn Lynch's BeastMode enabled. Do you want to open it?
+Racing Events by Neds,Yes,"Welcome to Marshawn Lynch's Beast Mode skill, you can ask things like where did you go to college, what's your favorite candy, or ask a press conference question. like how was that defense, or what's next for you. What would you like to ask?"
+Racing Events by Neds,"""Alexa, ask Neds what's the favorite?""","Sorry, I'm having trouble accessing your Marshawn Lynch's BeastMode skill right now"
+Racing Events by Neds,quit,
+Racing Events by Neds,quit,
+Racing Events by Neds,"""Alexa, ask Neds what is the track like?""",You have Feels Like enabled. Do you want to open it?
+Racing Events by Neds,Yes,"I need to have permission to use your zip code to report the temperature at your location. You can do this by selecting Your Skills from the Alexa app, choosing, Feels Like, and then select Settings. If you do not want to enable this permission, I can still report on select cities. Just say Alexa, ask Feels Like in Cumming Georgia."
+Racing Events by Neds,"""Alexa, ask Neds what is the track like?""",You have Feels Like enabled. Do you want to open it?
+Racing Events by Neds,quit,
+Racing Events by Neds,quit,
+The Great Odin,"""Alexa, tell The Great Odin to summon the horn""",You have AIRHORN enabled. Do you want to open it?
+The Great Odin,Yes,You wanted more airhorn? I got lots more airhorn! Let's start by picking a horn to blare. I'll go through the list and you say the number you want to use. Here we go!. horn 1
+The Great Odin,"""Alexa, tell The Great Odin to summon the horn""","Sorry, I'm having trouble accessing your AIRHORN skill right now"
+The Great Odin,quit,
+The Great Odin,"""Alexa, ask The Great Odin to play the horn""",You have Word Play enabled. Do you want to open it?
+The Great Odin,Yes,
+The Great Odin,"""Alexa, ask The Great Odin to play the horn""",You have Word Play enabled. Do you want to open it?
+The Great Odin,quit,
+The Great Odin,quit,
+The Great Odin,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Great Odin,quit,
+The Great Odin,quit,
+RollTide,"""Alexa, roll tide""",You have RollTide enabled. Do you want to open it?
+RollTide,Yes,Should we sing Rammer Jammer?
+RollTide,"""Alexa, roll tide""",You have RollTide enabled. Do you want to open it?
+RollTide,quit,
+RollTide,"""Alexa, ask roll tide to roll tide""",You have RollTide enabled. Do you want to open it?
+RollTide,Yes,Roll tide roll!
+RollTide,"""Alexa, ask roll tide to roll tide""",You have RollTide enabled. Do you want to open it?
+RollTide,quit,
+RollTide,quit,
+RollTide,"""Alexa open roll tide""",Roll tide roll!
+RollTide,quit,
+RollTide,quit,
+Milwaukee Bucks,"""Alexa, open the Bucks""",<Audio only response>
+Milwaukee Bucks,quit,
+Milwaukee Bucks,"""Alexa, ask the Bucks who's winning tonight""","Hmm. Maybe the skill, Milwaukee Bucks, can help. Do you want to try it?"
+Milwaukee Bucks,quit,
+Milwaukee Bucks,quit,
+Milwaukee Bucks,"""Alexa, ask the Bucks, when is the next game""","You have Arizona State University - Events, Hours & Info enabled. Do you want to open it?"
+Milwaukee Bucks,Yes,<Audio only response>
+Milwaukee Bucks,"""Alexa, ask the Bucks, when is the next game""",The Bucks will play tomorrow at 11:00 a.m. against the Celtics.
+Milwaukee Bucks,quit,
+Milwaukee Bucks,quit,
+'We Are' Cheer,"""Alexa, start the We Are cheer""","Okay, here we go. When I say 'We are' you say 'Penn State' We are!"
+'We Are' Cheer,quit,
+'We Are' Cheer,"""Alexa, open ESPN.""",<Audio only response>
+'We Are' Cheer,quit,
+'We Are' Cheer,quit,
+'We Are' Cheer,"""Alexa, open Nittany Lions fight song.""","I'm still learning about lion questions. Try asking ""tell me a lion fact"" to learn more about them."
+'We Are' Cheer,quit,
+'We Are' Cheer,quit,
+Calling the Hogs,"""Alexa START calling the hogs""",<Short audio>
+Calling the Hogs,quit,
+Calling the Hogs,"""Alexa BEGIN calling the hogs and let's beat the aggies""",<Audio only response>
+Calling the Hogs,quit,
+Calling the Hogs,quit,
+Calling the Hogs,"""Alexa START calling the hogs and let's beat TCU""",<Audio only response>
+Calling the Hogs,quit,
+Calling the Hogs,quit,
+Seventh Inning Stretch Baseball - Buttons Optional,"""Alexa, open Seventh Inning Stretch""",You have Daily Stretch enabled. Do you want to open it?
+Seventh Inning Stretch Baseball - Buttons Optional,Yes,<Audio only response>
+Seventh Inning Stretch Baseball - Buttons Optional,"""Alexa, open Seventh Inning Stretch""",You have Daily Stretch enabled. Do you want to open it?
+Seventh Inning Stretch Baseball - Buttons Optional,quit,
+Seventh Inning Stretch Baseball - Buttons Optional,"""Alexa, start Seventh Inning Stretch""",You have Daily Stretch enabled. Do you want to open it?
+Seventh Inning Stretch Baseball - Buttons Optional,Yes,<Audio only response>
+Seventh Inning Stretch Baseball - Buttons Optional,"""Alexa, start Seventh Inning Stretch""",You have Daily Stretch enabled. Do you want to open it?
+Seventh Inning Stretch Baseball - Buttons Optional,quit,
+Seventh Inning Stretch Baseball - Buttons Optional,quit,
+Seventh Inning Stretch Baseball - Buttons Optional,"""Alexa, launch Seventh Inning Stretch""",You have Daily Stretch enabled. Do you want to open it?
+Seventh Inning Stretch Baseball - Buttons Optional,Yes,Today's stretch is for your calf . Shall I play it?
+Seventh Inning Stretch Baseball - Buttons Optional,"""Alexa, launch Seventh Inning Stretch""",<Short audio>
+Seventh Inning Stretch Baseball - Buttons Optional,quit,
+Seventh Inning Stretch Baseball - Buttons Optional,quit,
+American Football Trivia,"""Alexa, play american football trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Which team scored the fewest points in a Super Bowl game? 1. Minnesota Vikings. 2. New York Giants. 3. Baltimore Colts. 4. Miami Dolphins."
+American Football Trivia,quit,
+American Football Trivia,"""Alexa, open american football trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Which quarterback holds the record for the most passing yards in a Super Bowl game? 1. Kurt Warner. 2. Joe Montana. 3. Tom Brady. 4. Terry Bradshaw."
+American Football Trivia,quit,
+American Football Trivia,quit,
+American Football Trivia,"""Alexa, american football trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Which team won the first ever Super Bowl? 1. Green Bay Packers. 2. Kansas City Chiefs. 3. New York Jets. 4. Oakland Raider."
+American Football Trivia,quit,
+American Football Trivia,quit,
+NASCAR,"""Alexa, open NASCAR""",NASCAR contains mature content that may not be suitable for all ages
+NASCAR,quit,
+NASCAR,"""Alexa, open NASCAR""",NASCAR contains mature content that may not be suitable for all ages
+NASCAR,"""Listen to Broadcast Radio""","Hmm, I found a few skills that might help."
+NASCAR,quit,
+NASCAR,"""Alexa, open NASCAR""",NASCAR contains mature content that may not be suitable for all ages
+NASCAR,"""Play Podcast""",Choosing a top podcast for you.
+NASCAR,quit,
+The Capitals,"""Alexa, ask The Capitals how Ovechkin is doing.""",You have First Aid Advice enabled. Do you want to open it?
+The Capitals,Yes,"Welcome to First Aid Advice. You can ask a question like, how do you treat a bee sting? ... Now, what can I help you with?"
+The Capitals,"""Alexa, ask The Capitals how Ovechkin is doing.""","For instructions on what you can say, please say help me."
+The Capitals,quit,
+The Capitals,"""Alexa, ask The Capitals what the score is.""","This might answer your question: This past Wednesday, the Washington Capitals lost to the Carolina Hurricanes 4 3 in overtime. The Capitals lost to the Carolina Hurricanes in 7 games in the in the 1st round of the Stanley Cup Playoffs."
+The Capitals,quit,
+The Capitals,quit,
+The Capitals,"""Alexa, ask The Capitals about the next game.""",You have State Capital Game enabled. Do you want to open it?
+The Capitals,Yes,"I will ask you 5 questions, try to get as many right as you can. Just say the answer. Let's begin. What is the capital of tennessee?"
+The Capitals,"""Alexa, ask The Capitals about the next game.""",That answer is wrong. The correct answer is nashville. Your score is 0. What is the capital of rhode island?
+The Capitals,quit,
+The Capitals,quit,
+Steelers Fan,"""Alexa, open Steelers fan.""",<Audio only response>
+Steelers Fan,quit,
+Steelers Fan,"""Alexa, ask Steelers fan for a flash briefing on the Steelers.""",
+Steelers Fan,quit,
+Steelers Fan,quit,
+Steelers Fan,"""Alexa, ask Steelers fan about the previous game score.""",
+Steelers Fan,quit,
+Steelers Fan,quit,
+NBA Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+NBA Flash Briefing,quit,
+NBA Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+NBA Flash Briefing,quit,
+NBA Flash Briefing,quit,
+NBA Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+NBA Flash Briefing,quit,
+NBA Flash Briefing,quit,
+Bleed Purple,"""""Alexa, Bleed Purple""""",You have Alexa Prize Socialbots enabled. Do you want to open it?
+Bleed Purple,Yes,Hmm. This socialbot is having trouble.
+Bleed Purple,"""""Alexa, Bleed Purple""""",You have Alexa Prize Socialbots enabled. Do you want to open it?
+Bleed Purple,quit,
+Bleed Purple,"""""Alexa, ask Bleed Purple to play the fight song""""","Here's a sample of Fight Song, by Rachel Platten, on Amazon Music."
+Bleed Purple,quit,
+Bleed Purple,quit,
+Bleed Purple,"""""Alexa, ask Bleed Purple to brighten the lights""""",I don‰Ûªt know how to set lights to that Setting.
+Bleed Purple,quit,
+Bleed Purple,quit,
+Marshawn Lynch's BeastMode,"""Alexa, Open BeastMode""","Welcome to Marshawn Lynch's Beast Mode skill, you can ask things like where did you go to college, what's your favorite candy, or ask a press conference question. like how was that defense, or what's next for you. What would you like to ask?"
+Marshawn Lynch's BeastMode,quit,
+Marshawn Lynch's BeastMode,"""Alexa, Ask BeastMode what is your favorite candy?""",You have Marshawn Lynch's BeastMode enabled. Do you want to open it?
+Marshawn Lynch's BeastMode,Yes,"Welcome to Marshawn Lynch's Beast Mode skill, you can ask things like where did you go to college, what's your favorite candy, or ask a press conference question. like how was that defense, or what's next for you. What would you like to ask?"
+Marshawn Lynch's BeastMode,"""Alexa, Ask BeastMode what is your favorite candy?""","Lynch frequently ate Skittles during games, a habit which started when he was in high school. After Lynch was shown eating the candy during a nationally-televised game on December 5, 2011, Mars offered him a two-year supply of Skittles and a custom dispenser for his locker."
+Marshawn Lynch's BeastMode,quit,
+Marshawn Lynch's BeastMode,quit,
+Marshawn Lynch's BeastMode,"""Alexa, Ask BeastMode how was the game?""",You have Marshawn Lynch's BeastMode enabled. Do you want to open it?
+Marshawn Lynch's BeastMode,Yes,"Welcome to Marshawn Lynch's Beast Mode skill, you can ask things like where did you go to college, what's your favorite candy, or ask a press conference question. like how was that defense, or what's next for you. What would you like to ask?"
+Marshawn Lynch's BeastMode,"""Alexa, Ask BeastMode how was the game?""","Sorry, I'm having trouble accessing your Marshawn Lynch's BeastMode skill right now"
+Marshawn Lynch's BeastMode,quit,
+Marshawn Lynch's BeastMode,quit,
+Surfable,"""Alexa, ask Surfable about Huntington Pier.""",You have Surfable enabled. Do you want to open it?
+Surfable,Yes,"wahoo! welcome to Surfable!. I can tell you surf reports of popular spots in California. To get started tell me the name of the surf spot you are intersted in. For instance you can say, Mavericks, and I will tell you the surf report at Mavericks. What spot are you interested in?"
+Surfable,"""Alexa, ask Surfable about Huntington Pier.""",Im not sure what surf spot you said. Can you try again?
+Surfable,quit,
+Surfable,"""Alexa, ask Surfable about the waves at Pipeline.""",You have Surfable enabled. Do you want to open it?
+Surfable,Yes,"wahoo! welcome to Surfable!. I can tell you surf reports of popular spots in California. To get started tell me the name of the surf spot you are intersted in. For instance you can say, Mavericks, and I will tell you the surf report at Mavericks. What spot are you interested in?"
+Surfable,"""Alexa, ask Surfable about the waves at Pipeline.""",Im not sure what surf spot you said. Can you try again?
+Surfable,quit,
+Surfable,quit,
+Surfable,"""Alexa, ask Surfable about the conditions at Malibu.""",You have Surfable enabled. Do you want to open it?
+Surfable,Yes,"all righty. welcome to Surfable!. I can tell you surf reports of popular spots in California. To get started tell me the name of the surf spot you are intersted in. For instance you can say, Mavericks, and I will tell you the surf report at Mavericks. What spot are you interested in?"
+Surfable,"""Alexa, ask Surfable about the conditions at Malibu.""",Uh oh... There was a problem. This is embarassing. Sorry.
+Surfable,quit,
+Surfable,quit,
+Seahawks Fan,"""Alexa, open Seahawks fan.""",<Audio only response>
+Seahawks Fan,quit,
+Seahawks Fan,"""Alexa, ask Seahawks fan for a flash briefing on the Seahawks.""","Hmm, I don't know that."
+Seahawks Fan,quit,
+Seahawks Fan,quit,
+Seahawks Fan,"""Alexa, ask Seahawks fan about the previous game score.""",You have Cowboys Fan enabled. Do you want to open it?
+Seahawks Fan,Yes,"Welcome to Cowboys Fan. You can start by saying, Give me a flash briefing on the Cowboys to get team's ranking, previous game result and next game schedule."
+Seahawks Fan,"""Alexa, ask Seahawks fan about the previous game score.""","The season just started. To continue, you can ask about Cowboys next match up, or previous game score, or some fun facts about Cowboys, or get some Cowboys players bio, or you can say help. If you did not hear clearly, say repeat."
+Seahawks Fan,quit,
+Seahawks Fan,quit,
+theScore Sports,"""Alexa, what's my Flash Briefing?""",Here's your news.
+theScore Sports,quit,
+theScore Sports,"""Alexa, what's in the news?""",Here's your news.
+theScore Sports,quit,
+theScore Sports,quit,
+theScore Sports,"""Alexa, open ESPN.""",<Audio only response>
+theScore Sports,quit,
+theScore Sports,quit,
+Patriots Fan,"""Alexa, open Patriots fan.""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Patriots Fan,Yes,What stock price would you like me to look up?
+Patriots Fan,"""Alexa, open Patriots fan.""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Patriots Fan,quit,
+Patriots Fan,"""Alexa, ask Patriots fan for a flash briefing on the Patriots.""",
+Patriots Fan,quit,
+Patriots Fan,quit,
+Patriots Fan,"""Alexa, ask Patriots fan about the previous game score.""",You have Cowboys Fan enabled. Do you want to open it?
+Patriots Fan,Yes,"Welcome to Cowboys Fan. You can start by saying, Give me a flash briefing on the Cowboys to get team's ranking, previous game result and next game schedule."
+Patriots Fan,"""Alexa, ask Patriots fan about the previous game score.""","The season just started. To continue, you can ask about Cowboys next match up, or previous game score, or some fun facts about Cowboys, or get some Cowboys players bio, or you can say help. If you did not hear clearly, say repeat."
+Patriots Fan,quit,
+Patriots Fan,quit,
+Cricket Info,"""Alexa, ask cricket info to get score update""",You have Hockey Updates enabled. Do you want to open it?
+Cricket Info,Yes,Which game should I fetch for you?
+Cricket Info,"""Alexa, ask cricket info to get score update""",You have Hockey Updates enabled. Do you want to open it?
+Cricket Info,quit,
+Cricket Info,"""Alexa, ask cricket info to get detailed score of team India""","This might answer your question: On Thursday, February 7, India beat New Zealand by 7 wickets in a T20 match."
+Cricket Info,quit,
+Cricket Info,quit,
+Cricket Info,"""Alexa, ask cricket info to get schedule""","Hmm. Maybe the skill, Cricket Info, can help. Do you want to try it?"
+Cricket Info,quit,
+Cricket Info,quit,
+Baseball Live,"""Alexa, ask Baseball Live who is pitching for the Phillies today?""","Seranthony Dominguez is currently pitching for the Phillies against the Marlins at the top of the 8th. If you would like to hear more, try asking for a Phillies pitching preview."
+Baseball Live,quit,
+Baseball Live,"""Alexa, ask Baseball Live what is the score of the Phillies game?""","On Friday, April 26, the Mariners beat the Rangers, 5-4; the Phillies beat the Marlins, 4-0; the Yankees beat the Giants, 7-3; and the Brewers beat the Mets, 10-2."
+Baseball Live,quit,
+Baseball Live,quit,
+Baseball Live,"""Alexa, ask Baseball Live what is happening in the Phillies game?""","Hmm, I don't know that."
+Baseball Live,quit,
+Baseball Live,quit,
+The Rookie's Guide to the NFL,"""Alexa, open NFL""",You have The Rookie's Guide to the NFL enabled. Do you want to open it?
+The Rookie's Guide to the NFL,Yes,<Audio only response>
+The Rookie's Guide to the NFL,"""Alexa, open NFL""",You have The Rookie's Guide to the NFL enabled. Do you want to open it?
+The Rookie's Guide to the NFL,quit,
+The Rookie's Guide to the NFL,"""Alexa, launch NFL""",<Short audio>
+The Rookie's Guide to the NFL,quit,
+The Rookie's Guide to the NFL,quit,
+The Rookie's Guide to the NFL,"""Alexa, start NFL""","This might answer your question: The NFL regular season will start on Thursday, September 5, 2019. The first game will be between the Bears and the Packers on Thursday, September 5 at 6:20pm."
+The Rookie's Guide to the NFL,quit,
+The Rookie's Guide to the NFL,quit,
+Overwatch League,"""Alexa, ask Overwatch League what games are today.""","Hmm. Maybe the skill, Overwatch League, can help. Do you want to try it?"
+Overwatch League,quit,
+Overwatch League,"""Alexa, ask Overwatch League when the London Spitfire play next.""",You have Word Play enabled. Do you want to open it?
+Overwatch League,Yes,<Audio only response>
+Overwatch League,"""Alexa, ask Overwatch League when the London Spitfire play next.""",You have Word Play enabled. Do you want to open it?
+Overwatch League,quit,
+Overwatch League,quit,
+Overwatch League,"""Alexa, ask Overwatch League who the top three teams are.""",You have College Football Rankings enabled. Do you want to open it?
+Overwatch League,Yes,"Welcome to College Football Rankings! You can ask to hear any number of the top one to twenty five teams. If you need help, say Help!"
+Overwatch League,"""Alexa, ask Overwatch League who the top three teams are.""","The top 3 teams are: # 1 Alabama, # 2 Clemson , # 3 Notre Dame"
+Overwatch League,quit,
+Overwatch League,quit,
+Cowboys Fan,"""Alexa, open Cowboys fan.""","Ok, Here's Cowboys Fan"
+Cowboys Fan,quit,
+Cowboys Fan,"""Alexa, ask Cowboys fan for a flash briefing on the Cowboys.""","Ok, Here's Cowboys Fan"
+Cowboys Fan,quit,
+Cowboys Fan,quit,
+Cowboys Fan,"""Alexa, ask Cowboys fan about the previous game score.""","Ok, Here's Cowboys Fan"
+Cowboys Fan,quit,
+Cowboys Fan,quit,
+CBS Sports Minute,"""Alexa, what's my Flash Briefing?""",Here's your news.
+CBS Sports Minute,quit,
+CBS Sports Minute,"""Alexa, what's in the news?""",Here's your news.
+CBS Sports Minute,quit,
+CBS Sports Minute,quit,
+CBS Sports Minute,"""Alexa, what's my Flash Briefing?""",Here's your news.
+CBS Sports Minute,quit,
+CBS Sports Minute,quit,
+College Football Roster Info,"""Alexa, ask College Football Info who wears number Two for Alabama.""",
+College Football Roster Info,quit,
+College Football Roster Info,"""Alexa, ask College Football Info who is Watson for Clemson.""",You have College Football Rankings enabled. Do you want to open it?
+College Football Roster Info,Yes,"Welcome to College Football Rankings! You can ask to hear any number of the top one to twenty five teams. If you need help, say Help!"
+College Football Roster Info,"""Alexa, ask College Football Info who is Watson for Clemson.""","The top 25 teams are: # 1 Alabama, # 2 Clemson , # 3 Notre Dame , # 4 Michigan , # 5 Georgia , # 6 Oklahoma , # 7 West Virginia , # 8 Washington State , # 9 Ohio State , # 10 LSU , # 11 UCF , # 12 Syracuse , # 13 Texas , # 14 Utah State , # 15 Florida , # 16 Penn State , # 17 Washington , # 18 Iowa State , # 19 Cincinnati , # 20 Kentucky , # 21 Utah , # 22 Boston College , # 23 Boise State , # 24 Northwestern , # 25 Mississippi State"
+College Football Roster Info,quit,
+College Football Roster Info,quit,
+College Football Roster Info,"""Alexa, ask College Football Info about Daniel Jones for Duke.""",You have College Football Rankings enabled. Do you want to open it?
+College Football Roster Info,Yes,"Welcome to College Football Rankings! You can ask to hear any number of the top one to twenty five teams. If you need help, say Help!"
+College Football Roster Info,"""Alexa, ask College Football Info about Daniel Jones for Duke.""","The top 25 teams are: # 1 Alabama, # 2 Clemson , # 3 Notre Dame , # 4 Michigan , # 5 Georgia , # 6 Oklahoma , # 7 West Virginia , # 8 Washington State , # 9 Ohio State , # 10 LSU , # 11 UCF , # 12 Syracuse , # 13 Texas , # 14 Utah State , # 15 Florida , # 16 Penn State , # 17 Washington , # 18 Iowa State , # 19 Cincinnati , # 20 Kentucky , # 21 Utah , # 22 Boston College , # 23 Boise State , # 24 Northwestern , # 25 Mississippi State"
+College Football Roster Info,quit,
+College Football Roster Info,quit,
+Cubs Baseball Unauthorized Trivia,"""Alexa Play Cubs Baseball Trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Which street is Wrigly Field on?: 1. West Addison Street. 2. East Addison Street. 3. Wilton Avenue. 4. North Broadway."
+Cubs Baseball Unauthorized Trivia,quit,
+Cubs Baseball Unauthorized Trivia,"""Alexa Open Cubs Baseball Trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. The Rookie of the Year award began in 1947, and Jackie Robinson of the Dodgers won the first award. Which Chicago Cub won the award for his team first?: 1. Mike Nagy. 2. Steve Garvey. 3. Nobody has won it yet. 4. Billy Williams."
+Cubs Baseball Unauthorized Trivia,quit,
+Cubs Baseball Unauthorized Trivia,quit,
+Cubs Baseball Unauthorized Trivia,"""Alexa Start Cubs Baseball Trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Which one of the following Hall of Famers played on the Cubs at one point in their career?: 1. Nolan Ryan. 2. Stan Musial. 3. Ted Williams. 4. Lou Brock."
+Cubs Baseball Unauthorized Trivia,quit,
+Cubs Baseball Unauthorized Trivia,quit,
+Who's on First?,"""Alexa, start Who's on First""","Sorry, I don't know that."
+Who's on First?,quit,
+Who's on First?,"""Alexa, run Who's on First""","Sorry, I‰Ûªm not sure about that."
+Who's on First?,quit,
+Who's on First?,quit,
+Who's on First?,"""Alexa, begin Who's on First""","Sorry, I'm not sure."
+Who's on First?,quit,
+Who's on First?,quit,
+OH - IO,"""""Alexa, open o.h.""""",<Audio only response>
+OH - IO,quit,
+OH - IO,"""Alexa, ask ohio state buckeyes how long since michigan has bea... """,<Audio only response>
+OH - IO,quit,
+OH - IO,quit,
+OH - IO,"""Alexa, launch Ohio State""",You have The Ohio State Skill enabled. Do you want to open it?
+OH - IO,Yes,"Welcome to The Ohio State University's Echo Skill. To learn what I can do, ask Ohio State what it can do. How can I help you?"
+OH - IO,"""Alexa, launch Ohio State""",Last day of regularly scheduled 4-week Session 1 classes on 20190603. Would you like to hear the next end date?
+OH - IO,quit,
+OH - IO,quit,
+92.3 The Fan,"""Alexa, what's my Flash Briefing?""",Here's your news.
+92.3 The Fan,quit,
+92.3 The Fan,"""Alexa, what's in the news?""",Here's your news.
+92.3 The Fan,quit,
+92.3 The Fan,quit,
+92.3 The Fan,"""Alexa, open Cleveland Browns.""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+92.3 The Fan,Yes,What stock price would you like me to look up?
+92.3 The Fan,"""Alexa, open Cleveland Browns.""","Sorry, I can't find information about alexa, open Cleveland browns.."
+92.3 The Fan,quit,
+92.3 The Fan,quit,
+Miami Heat,"""Alexa, open the Heat""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Miami Heat,Yes,What stock price would you like me to look up?
+Miami Heat,"""Alexa, open the Heat""","Sorry, I can't find information about alexa, open the heat."
+Miami Heat,quit,
+Miami Heat,"""Alexa, ask the Heat who's winning tonight""",
+Miami Heat,quit,
+Miami Heat,quit,
+Miami Heat,"""Alexa, ask the Heat, when is the next game""",Schedule information for the next Heat game is not yet available.
+Miami Heat,quit,
+Miami Heat,quit,
+War Eagle,"""Alexa, War Eagle!""","Sorry, I don't know that one."
+War Eagle,quit,
+War Eagle,"""Alexa, ask War Eagle for help.""","Hmm, I don't know that."
+War Eagle,quit,
+War Eagle,quit,
+War Eagle,"""Alexa, open Auburn Tigers fight song.""",<Audio only response>
+War Eagle,quit,
+War Eagle,quit,
+Let's Go!!!,"""Alexa, Lets Go""",
+Let's Go!!!,quit,
+Let's Go!!!,"""Alexa, Lets Go""","Sorry, I'm not sure."
+Let's Go!!!,"""How long has it been since UVA beat Virginia Tech""","Hmm, I'm not sure."
+Let's Go!!!,quit,
+Let's Go!!!,"""Alexa, open Hokies fight song.""",You have Philly Fight Song enabled. Do you want to open it?
+Let's Go!!!,Yes,yes!
+Let's Go!!!,"""Alexa, open Hokies fight song.""",You have Philly Fight Song enabled. Do you want to open it?
+Let's Go!!!,quit,
+Let's Go!!!,quit,
+Bing Sportscaster NFL Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Bing Sportscaster NFL Flash Briefing,quit,
+Bing Sportscaster NFL Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+Bing Sportscaster NFL Flash Briefing,quit,
+Bing Sportscaster NFL Flash Briefing,quit,
+Bing Sportscaster NFL Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Bing Sportscaster NFL Flash Briefing,quit,
+Bing Sportscaster NFL Flash Briefing,quit,
+106.7 The Fan Sports Flash,"""Alexa, what's my Flash Briefing?""",Here's your news.
+106.7 The Fan Sports Flash,quit,
+106.7 The Fan Sports Flash,"""Alexa, what's in the news?""",Here's your news.
+106.7 The Fan Sports Flash,quit,
+106.7 The Fan Sports Flash,quit,
+106.7 The Fan Sports Flash,"""Alexa, what's my Flash Briefing?""",Here's your news.
+106.7 The Fan Sports Flash,quit,
+106.7 The Fan Sports Flash,quit,
+NASCAR Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+NASCAR Flash Briefing,quit,
+NASCAR Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+NASCAR Flash Briefing,quit,
+NASCAR Flash Briefing,quit,
+NASCAR Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+NASCAR Flash Briefing,quit,
+NASCAR Flash Briefing,quit,
+Bears Trivia,"""Alexa, open Bears Trivia""","Welcome to Bears Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. How many hall of famers made their primary contribution with the Bears? 1. 28. 2. 33. 3. 34. 4. 27."
+Bears Trivia,quit,
+Bears Trivia,"""Alexa, open Bears Trivia""","Welcome to Bears Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What Illinois city was the team established in? 1. Bourbonnais. 2. Decatur. 3. Lake Forest. 4. Chicago."
+Bears Trivia,"""Yes""",Try saying a number between 1 and 4
+Bears Trivia,quit,
+Bears Trivia,"""Alexa, open Bears Trivia""","Welcome to Bears Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. As of the 2016 season, how many league championships have the Bears won? 1. 6. 2. 10. 3. 8. 4. 9."
+Bears Trivia,"""One""",That answer is wrong. The correct answer is 4: 9. Your score is 0. Question 2. What Super Bowl did the Bears lose? 1. Super Bowl 31. 2. Super Bowl 30. 3. Super Bowl 29. 4. Super Bowl 20.
+Bears Trivia,quit,
+NBC Sports Update,"""Alexa, what's my Flash Briefing?""",Here's your news.
+NBC Sports Update,quit,
+NBC Sports Update,"""Alexa, what's in the news?""",Here's your news.
+NBC Sports Update,quit,
+NBC Sports Update,quit,
+NBC Sports Update,"""Alexa, open ESPN.""",<Audio only response>
+NBC Sports Update,quit,
+NBC Sports Update,quit,
+Daily Golf Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Daily Golf Briefing,quit,
+Daily Golf Briefing,"""Alexa, what's in the news?""",Here's your news.
+Daily Golf Briefing,quit,
+Daily Golf Briefing,quit,
+Daily Golf Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Daily Golf Briefing,quit,
+Daily Golf Briefing,quit,
+numberFire News,"""Alexa, what's my Flash Briefing?""",Here's your news.
+numberFire News,quit,
+numberFire News,"""Alexa, what's in the news?""",Here's your news.
+numberFire News,quit,
+numberFire News,quit,
+numberFire News,"""Alexa, what's my Flash Briefing?""",Here's your news.
+numberFire News,quit,
+numberFire News,quit,
+Real Runs - Running Tips for Runners,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Real Runs - Running Tips for Runners,quit,
+Real Runs - Running Tips for Runners,"""Alexa, what's in the news?""",Here's your news.
+Real Runs - Running Tips for Runners,quit,
+Real Runs - Running Tips for Runners,quit,
+Real Runs - Running Tips for Runners,"""Alexa, launch Running Clothes""","Sorry, I don't know that one."
+Real Runs - Running Tips for Runners,quit,
+Real Runs - Running Tips for Runners,quit,
+Gridiron Trivia,"""Alexa, launch Gridiron Trivia""","Hello! You are playing Gridiron Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. Who won the Super Bowl in 2000? 1. Tenessee Titans. 2. St Louis Rams. 3. Green Bay Packers. 4. New England Patriots."
+Gridiron Trivia,quit,
+Gridiron Trivia,"""Alexa, launch Gridiron Trivia""","Hello! You are playing Gridiron Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. Who won the Super Bowl in 2013? 1. Green Bay Packers. 2. San Francisco 49ers. 3. Baltimore RavensNew. 4. San Diego Chargers."
+Gridiron Trivia,"""Repeat""",Question 1. Who won the Super Bowl in 2013? 1. Green Bay Packers. 2. San Francisco 49ers. 3. Baltimore RavensNew. 4. San Diego Chargers.
+Gridiron Trivia,quit,
+Gridiron Trivia,"""Alexa, launch Gridiron Trivia""","Hello! You are playing Gridiron Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. Who won the Super Bowl in 1998? 1. Denver Broncos. 2. Arizona Cardinals. 3. Green Bay Packers. 4. San Diego Chargers."
+Gridiron Trivia,"""Help""","I will ask you 5 multiple choice questions, try to get as many right as you can! To give an answer to a question, respond with the number of the answer by saying one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question asked, say, repeat."
+Gridiron Trivia,quit,
+97.1 The Ticket Sports Update,"""Alexa, what's my Flash Briefing?""",Here's your news.
+97.1 The Ticket Sports Update,quit,
+97.1 The Ticket Sports Update,"""Alexa, what's in the news?""",Here's your news.
+97.1 The Ticket Sports Update,quit,
+97.1 The Ticket Sports Update,quit,
+97.1 The Ticket Sports Update,"""Alexa, open ESPN.""",<Audio only response>
+97.1 The Ticket Sports Update,quit,
+97.1 The Ticket Sports Update,quit,
+Jammin' Jon's Wrestling News.,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Jammin' Jon's Wrestling News.,quit,
+Jammin' Jon's Wrestling News.,"""Alexa, what's in the news?""",Here's your news.
+Jammin' Jon's Wrestling News.,quit,
+Jammin' Jon's Wrestling News.,quit,
+Jammin' Jon's Wrestling News.,"""Alexa, open the jim ross report""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Jammin' Jon's Wrestling News.,Yes,What stock price would you like me to look up?
+Jammin' Jon's Wrestling News.,"""Alexa, open the jim ross report""","Sorry, I can't find information about alexa, open the Jim Ross report."
+Jammin' Jon's Wrestling News.,quit,
+Jammin' Jon's Wrestling News.,quit,
+90-Second Drill,"""Alexa, what's my Flash Briefing?""",Here's your news.
+90-Second Drill,quit,
+90-Second Drill,"""Alexa, what's in the news?""",Here's your news.
+90-Second Drill,quit,
+90-Second Drill,quit,
+90-Second Drill,"""Alexa, what's my Flash Briefing?""",Here's your news.
+90-Second Drill,quit,
+90-Second Drill,quit,
+Equestrian News,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Equestrian News,quit,
+Equestrian News,"""Alexa, what's in the news?""",Here's your news.
+Equestrian News,quit,
+Equestrian News,quit,
+Equestrian News,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Equestrian News,quit,
+Equestrian News,quit,
+RotoWire,"""Alexa, what's the latest baseball news from RotoWire?""","Here's an update on Major League Baseball: On Friday, April 26, Toronto Blue Jays third baseman Vladimir Guerrero Jr. made his major league debut, going 1-for-4 with a double in a 4-2 win over the Athletics. The Los Angeles Dodgers set a record by homering in their 33rd consecutive home game."
+RotoWire,quit,
+RotoWire,"""Alexa, ask Rotowire for the latest fantasy basketball news.""",You have Fantasy Football enabled. Do you want to open it?
+RotoWire,Yes,"Welcome to Fantasy Football Nerd. I can give you the news, or you can ask for updates about a specific player. How can I help you?"
+RotoWire,"""Alexa, ask Rotowire for the latest fantasy basketball news.""","Here is the latest news from Fantasy Football Nerd. Bucs selected Utah K Matt Gay with the No. 145 overall pick in the 2019 N F L Draft. Next, Steelers released LB Jon Bostic. Next, ESPN New York's Rich Cimini confirms the Jets are shopping LB Darron Lee. Next, Saints selected Notre Dame tight end Alize Mack with the No. 231 overall pick in the 2019 N F L Draft. Next, Cowboys selected Ohio State running back Mike Weber with the No. 218 overall pick in the 2019 N F L Draft. Be sure to check back later for more fantasy football news."
+RotoWire,quit,
+RotoWire,quit,
+RotoWire,"""Alexa, read me recent NHL headlines from RotoWire.""","Sorry, I don't know that."
+RotoWire,quit,
+RotoWire,quit,
+Soccer Nerd,"""Alexa, ask Soccer Nerd who does Chelsea play next""",You have Soccer Nerd enabled. Do you want to open it?
+Soccer Nerd,Yes,"Welcome to Soccer Nerd. You can ask me questions about soccer games. Try, who did Barcelona play last?"
+Soccer Nerd,"""Alexa, ask Soccer Nerd who does Chelsea play next""",I didn't understand your question. Please try something like: Who does Chelsea play next.
+Soccer Nerd,quit,
+Soccer Nerd,"""Alexa, ask Soccer Nerd who did Barcelona play last""",You have Soccer Nerd enabled. Do you want to open it?
+Soccer Nerd,Yes,"Welcome to Soccer Nerd. You can ask me questions about soccer games. Try, who did Barcelona play last?"
+Soccer Nerd,"""Alexa, ask Soccer Nerd who did Barcelona play last""",I didn't understand your question. Please try something like: Who does Chelsea play next.
+Soccer Nerd,quit,
+Soccer Nerd,quit,
+Soccer Nerd,"""Alexa open soccer updates""","Welcome to Soccer Nerd. You can ask me questions about soccer games. Try, who did Barcelona play last?"
+Soccer Nerd,quit,
+Soccer Nerd,quit,
+49ers Update - Powered by 30sec,"""Alexa, Give me forty niners update in thirty sec""",You have Transformers Quotes enabled. Do you want to open it?
+49ers Update - Powered by 30sec,Yes,"I vowed to never kill a human, but whoever is responsible for this is going to die."
+49ers Update - Powered by 30sec,"""Alexa, Give me forty niners update in thirty sec""",You have Transformers Quotes enabled. Do you want to open it?
+49ers Update - Powered by 30sec,quit,
+49ers Update - Powered by 30sec,"""Alexa, what's my Flash Briefing?""",Here's your news.
+49ers Update - Powered by 30sec,quit,
+49ers Update - Powered by 30sec,quit,
+49ers Update - Powered by 30sec,"""Alexa, open 49ers Fan.""",<Audio only response>
+49ers Update - Powered by 30sec,quit,
+49ers Update - Powered by 30sec,quit,
+Houston Rockets,"""Alexa, open the Rockets""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Houston Rockets,Yes,What stock price would you like me to look up?
+Houston Rockets,"""Alexa, open the Rockets""","Sorry, I can't find information about alexa, open the rockets."
+Houston Rockets,quit,
+Houston Rockets,"""Alexa, ask the Rockets who's winning tonight""","Hmm. Maybe the skill, Utah Jazz, can help. Do you want to try it?"
+Houston Rockets,quit,
+Houston Rockets,quit,
+Houston Rockets,"""Alexa, ask the Rockets, when is the next game""",The Rockets will play tomorrow at 1:30 p.m. away against the Warriors.
+Houston Rockets,quit,
+Houston Rockets,quit,
+Reiki Music,"""Alexa, open Reiki Music""",I couldn't find any reiki songs.GenreNotFoundPromptMusic.PlayMusicIntenten_USdefault863f35ed-09a8-4571-9a04-5fb6b94b9a7a1Adm-20180212_202339-1
+Reiki Music,quit,
+Reiki Music,"""Alexa, start Reiki Music""",I couldn't find any reiki songs.GenreNotFoundPromptMusic.PlayMusicIntenten_USdefault863f35ed-09a8-4571-9a04-5fb6b94b9a7a1Adm-20180212_202339-1
+Reiki Music,quit,
+Reiki Music,quit,
+Reiki Music,"""Alexa, launch Reiki Music""",I couldn't find any reiki songs.GenreNotFoundPromptMusic.PlayMusicIntenten_USdefault863f35ed-09a8-4571-9a04-5fb6b94b9a7a1Adm-20180212_202339-1
+Reiki Music,quit,
+Reiki Music,quit,
+Daily Alphabet Affirmation,"""Alexa, open Alphabet Affirmation""",Welcome to your feel-good alphabet affirmation skill! It is impossible not to feel good after you hear it. Ready to get started?
+Daily Alphabet Affirmation,quit,
+Daily Alphabet Affirmation,"""Alexa, start Alphabet Affirmation""",Welcome to your feel-good alphabet affirmation skill! It is impossible not to feel good after you hear it. Ready to get started?
+Daily Alphabet Affirmation,quit,
+Daily Alphabet Affirmation,quit,
+Daily Alphabet Affirmation,"""Alexa, launch Alphabet Affirmation""",Welcome to your feel-good alphabet affirmation skill! It is impossible not to feel good after you hear it. Ready to get started?
+Daily Alphabet Affirmation,quit,
+Daily Alphabet Affirmation,quit,
+DraftKings,"""Alexa, ask DraftKings about Antonio Brown""","Sorry, I‰Ûªm not sure about that."
+DraftKings,quit,
+DraftKings,"""Alexa, ask DraftKings about Antonio Brown""","Hmm, I don't know that one."
+DraftKings,"""How many points does Drew Brees have?""","In his NFL career, Drew Brees has scored 138 points."
+DraftKings,quit,
+DraftKings,"""Alexa, ask DraftKings about Antonio Brown""","Hmm, I'm not sure."
+DraftKings,"""How many DraftKings fantasy points did the Houston Texans have last week?""",<Audio only response>
+DraftKings,quit,
+Soccer Drills,"""Alexa, open Soccer Drills""",<Audio only response>
+Soccer Drills,quit,
+Soccer Drills,"""Alexa, open Soccer Drills""",<Audio only response>
+Soccer Drills,"""What are my drills?""",<Audio only response>
+Soccer Drills,quit,
+Soccer Drills,"""Alexa open five minute workout""",
+Soccer Drills,quit,
+Soccer Drills,quit,
+Surf Checker,"""Alexa, Ask Surf Checker what is the surf report for uppers""","Sorry, I don't know that one."
+Surf Checker,quit,
+Surf Checker,"""Alexa, Ask Surf Checker for salt creek on Tuesday""",<Audio only response>
+Surf Checker,quit,
+Surf Checker,quit,
+Surf Checker,"""Alexa, Ask Surf Checker what is the tide report for Salt Creek on Monday""","Ok, Here's Surfline"
+Surf Checker,quit,
+Surf Checker,quit,
+Boston Red Sox Baseball Trivia Unauthorized,"""Alexa, Play Red Sox Fan Trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. The most prestigous pitching honor in baseball is named after which Red Sox legend?: 1. Jim Londborg. 2. Roger Clemens. 3. Cy Young. 4. Pedro Martinez."
+Boston Red Sox Baseball Trivia Unauthorized,quit,
+Boston Red Sox Baseball Trivia Unauthorized,"""Alexa, Open Red Sox Fan Trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Which left-handed pitcher who finished his career playing for Boston, won 300 games in his career?: 1. Lefty Grove. 2. Babe Ruth. 3. Steve Carlton. 4. Lefty Gomez."
+Boston Red Sox Baseball Trivia Unauthorized,quit,
+Boston Red Sox Baseball Trivia Unauthorized,quit,
+Boston Red Sox Baseball Trivia Unauthorized,"""Alexa, open Patriots.""",<Audio only response>
+Boston Red Sox Baseball Trivia Unauthorized,quit,
+Boston Red Sox Baseball Trivia Unauthorized,quit,
+FanDuel: Pick 6,"""Alexa, Open FanDuel""",<Audio only response>
+FanDuel: Pick 6,quit,
+FanDuel: Pick 6,"""Alexa, Talk to Fanduel""",You have TED Talks enabled. Do you want to open it?
+FanDuel: Pick 6,Yes,"Welcome back to TED talks. You can say, play a talk, search for a talk given by Steven Levitt, play a Jaw-Dropping talk. What would you like to listen to?"
+FanDuel: Pick 6,"""Alexa, Talk to Fanduel""","Sorry, I couldn't find any talks about fanduel. Here are some suggestions. You can say, begin a talk, play a Funny talk, play a talk by Robert Fischell. What would you like to listen to?"
+FanDuel: Pick 6,quit,
+FanDuel: Pick 6,quit,
+FanDuel: Pick 6,"""Alexa, what's my Flash Briefing?""",Here's your news.
+FanDuel: Pick 6,quit,
+FanDuel: Pick 6,quit,
+Big Ten Network Football News,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Big Ten Network Football News,quit,
+Big Ten Network Football News,"""Alexa, what's in the news?""",Here's your news.
+Big Ten Network Football News,quit,
+Big Ten Network Football News,quit,
+Big Ten Network Football News,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Big Ten Network Football News,quit,
+Big Ten Network Football News,quit,
+Game Lines,"""Alexa, ask game lines for Steelers""",<Audio only response>
+Game Lines,quit,
+Game Lines,"""Alexa, ask game lines for West Virginia basketball team""",You have Game Lines enabled. Do you want to open it?
+Game Lines,Yes,"Welcome to Game Lines, find the line for an upcoming sport event. For example, you can ask for 'the steelers,' or 'the Pittsburgh basketball game.'"
+Game Lines,"""Alexa, ask game lines for West Virginia basketball team""",You have Game Lines enabled. Do you want to open it?
+Game Lines,quit,
+Game Lines,quit,
+Game Lines,"""Alexa, ask game lines for Milwaukee NBA game""",You have Game Lines enabled. Do you want to open it?
+Game Lines,Yes,"Welcome to Game Lines, find the line for an upcoming sport event. For example, you can ask for 'the steelers,' or 'the Pittsburgh basketball game.'"
+Game Lines,"""Alexa, ask game lines for Milwaukee NBA game""","Sorry, I couldn't find odds for the alexa, ask game."
+Game Lines,quit,
+Game Lines,quit,
+Fantasy Football ADP,"""Alexa, open fantasy football adp""","Welcome to Fantasy Football Nerd. I can give you the news, or you can ask for updates about a specific player. How can I help you?"
+Fantasy Football ADP,quit,
+Fantasy Football ADP,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Fantasy Football ADP,quit,
+Fantasy Football ADP,quit,
+Fantasy Football ADP,"""Alexa, ask Fantasy Football Nerd for the latest news.""",<Audio only response>
+Fantasy Football ADP,quit,
+Fantasy Football ADP,quit,
+93.7 The Fan Pittsburgh,"""Alexa, what's my Flash Briefing?""",Here's your news.
+93.7 The Fan Pittsburgh,quit,
+93.7 The Fan Pittsburgh,"""Alexa, what's in the news?""",Here's your news.
+93.7 The Fan Pittsburgh,quit,
+93.7 The Fan Pittsburgh,quit,
+93.7 The Fan Pittsburgh,"""Alexa, open ESPN.""",<Audio only response>
+93.7 The Fan Pittsburgh,quit,
+93.7 The Fan Pittsburgh,quit,
+Phoenix Suns,"""Alexa, open the Suns""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Phoenix Suns,Yes,What stock price would you like me to look up?
+Phoenix Suns,"""Alexa, open the Suns""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Phoenix Suns,quit,
+Phoenix Suns,"""Alexa, ask the Suns who's winning tonight""","Hmm. Maybe the skill, Utah Jazz, can help. Do you want to try it?"
+Phoenix Suns,quit,
+Phoenix Suns,quit,
+Phoenix Suns,"""Alexa, ask the Suns, when is the next game""",Schedule information for the next Suns game is not yet available.
+Phoenix Suns,quit,
+Phoenix Suns,quit,
+Utah Jazz,"""Alexa, open the Utah Jazz""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Utah Jazz,Yes,What stock price would you like me to look up?
+Utah Jazz,"""Alexa, open the Utah Jazz""","Sorry, I can't find information about alexa, open the Utah jazz."
+Utah Jazz,quit,
+Utah Jazz,"""Alexa, ask the Utah Jazz who's winning tonight""","Hmm. Maybe the skill, Utah Jazz, can help. Do you want to try it?"
+Utah Jazz,quit,
+Utah Jazz,quit,
+Utah Jazz,"""Alexa, ask the Utah Jazz, when is the next game""",Schedule information for the next Jazz game is not yet available.
+Utah Jazz,quit,
+Utah Jazz,quit,
+Washington Wizards,"""Alexa, open the Wizards""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Washington Wizards,Yes,What stock price would you like me to look up?
+Washington Wizards,"""Alexa, open the Wizards""","Sorry, I can't find information about alexa, open the wizards."
+Washington Wizards,quit,
+Washington Wizards,"""Alexa, ask the Wizards who's winning tonight""","Hmm. Maybe the skill, Utah Jazz, can help. Do you want to try it?"
+Washington Wizards,quit,
+Washington Wizards,quit,
+Washington Wizards,"""Alexa, ask the Wizards, when is the next game""",Schedule information for the next Wizards game is not yet available.
+Washington Wizards,quit,
+Washington Wizards,quit,
+Formula One Race Information - Unofficial,"""Alexa, ask Pole Position who won the last race""","Donald Trump won the 2016 U.S. presidential election with 77 more electoral votes than his opponent, Hillary Clinton."
+Formula One Race Information - Unofficial,quit,
+Formula One Race Information - Unofficial,"""Alexa, ask Pole Position who won the last race""","Donald Trump won the 2016 U.S. presidential election with 77 more electoral votes than his opponent, Hillary Clinton."
+Formula One Race Information - Unofficial,"""Ask Pole Position when is the next race""","The next race is the Azerbaijan Grand Prix, at the Baku City Circuit in Baku, Azerbaijan, on 20190428, at 5:10 AM, west coast time"
+Formula One Race Information - Unofficial,quit,
+Formula One Race Information - Unofficial,"""Alexa, ask Pole Position who won the last race""","Donald Trump won the 2016 U.S. presidential election with 77 more electoral votes than his opponent, Hillary Clinton."
+Formula One Race Information - Unofficial,"""ask Pole Position for team standings""",Here are the constructor Cup standings after 3 races this season. Mercedes leads this years championship with 130 points from 3 Grand Prix wins. second is Ferrari with 73 points. 57 points behind. third is Red Bull with 52 points. 21 points behind. fourth is Renault with 12 points. 40 points behind. fifth is Alfa Romeo with 12 points. 0 points behind. sixth is Haas F1 Team with 8 points. 4 points behind. seventh is McLaren with 8 points. 0 points behind. eighth is Racing Point with 7 points. 1 points behind. ninth is Toro Rosso with 4 points. 3 points behind. tenth is Williams with 0 points. 4 points behind.
+Formula One Race Information - Unofficial,quit,
+Running Clothes,"""Alexa, launch Running Clothes""","Hmm, I'm not sure."
+Running Clothes,quit,
+Running Clothes,"""Alexa, ask Running Clothes to start the advisor""","Sorry, I‰Ûªm not sure about that."
+Running Clothes,quit,
+Running Clothes,quit,
+Running Clothes,"""Alexa, ask Running Clothes to review my run""",
+Running Clothes,quit,
+Running Clothes,quit,
+Next Bowl Game,"""Alexa ask next game who plays next week?""","Hmm. Maybe the skill, Next Bowl Game, can help. Do you want to try it?"
+Next Bowl Game,quit,
+Next Bowl Game,"""Alexa ask next game for games on December twenty nineth?""","Sorry, I‰Ûªm not sure about that."
+Next Bowl Game,quit,
+Next Bowl Game,quit,
+Next Bowl Game,"""Alexa ask next game Who is playing on January first?""",You have Word Play enabled. Do you want to open it?
+Next Bowl Game,Yes,Which skill do you want to enable?
+Next Bowl Game,"""Alexa ask next game Who is playing on January first?""","I can‰Ûªt find that skill. To find skills, go to the Skills section of the Alexa App."
+Next Bowl Game,quit,
+Next Bowl Game,quit,
+O-H!,"""Alexa, open O. H.!""",You have OH - IO enabled. Do you want to open it?
+O-H!,Yes,I O
+O-H!,"""Alexa, open O. H.!""",You have OH - IO enabled. Do you want to open it?
+O-H!,quit,
+O-H!,"""Alexa, ask ohio state buckeyes how long since michigan has bea... """,<Audio only response>
+O-H!,quit,
+O-H!,quit,
+O-H!,"""Alexa, launch Ohio State""",You have The Ohio State Skill enabled. Do you want to open it?
+O-H!,Yes,"Welcome to The Ohio State University's Echo Skill. To learn what I can do, ask Ohio State what it can do. How can I help you?"
+O-H!,"""Alexa, launch Ohio State""",Last day of regularly scheduled 4-week Session 1 classes on 20190603. Would you like to hear the next end date?
+O-H!,quit,
+O-H!,quit,
+Houston Texans Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Houston Texans Flash Briefing,quit,
+Houston Texans Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+Houston Texans Flash Briefing,quit,
+Houston Texans Flash Briefing,quit,
+Houston Texans Flash Briefing,"""Alexa, ask Houston Baseball if Houston is in first place.""",<Audio only response>
+Houston Texans Flash Briefing,quit,
+Houston Texans Flash Briefing,quit,
+UGA Roster,"""Alexa, ask UGA Roster who is Jacob Eason?""",You have Guess Who Game (unofficial) enabled. Do you want to open it?
+UGA Roster,Yes,<Short audio>
+UGA Roster,"""Alexa, ask UGA Roster who is Jacob Eason?""",<Short audio>
+UGA Roster,quit,
+UGA Roster,"""Alexa, ask UGA Roster who is Jacob Eason?""","Hmm, I don't know that one."
+UGA Roster,"""What is Nick Chubb's height?""",Nick Chubb is 5 feet 11 inches tall and weighs 227 pounds.
+UGA Roster,quit,
+UGA Roster,"""Alexa, ask UGA Roster who is Jacob Eason?""","Hmm, I don't know that one."
+UGA Roster,"""Tell me more.""","As a noun, 'more' can mean English statesman who opposed Henry VIII's divorce from Catherine of Aragon and was imprisoned and beheaded; recalled for his concept of Utopia, the ideal state. As an adjective, 'more' can mean (comparative of `much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree."
+UGA Roster,quit,
+Maryland Fishing Report,"""Alexa, open Maryland Fishing Report.""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Maryland Fishing Report,Yes,What stock price would you like me to look up?
+Maryland Fishing Report,"""Alexa, open Maryland Fishing Report.""","Sorry, I can't find information about alexa, open Maryland fishing report.."
+Maryland Fishing Report,quit,
+Maryland Fishing Report,"""Alexa, ask Maryland fishing report to read the overview.""",You have AstrologyBear enabled. Do you want to open it?
+Maryland Fishing Report,Yes,"Try asking me for your zodiac sign. for example, ask astrology bear for a Taurus reading"
+Maryland Fishing Report,"""Alexa, ask Maryland fishing report to read the overview.""",here is your astrological overview for today. Mars in Gemini is exactly square to Neptune in Pisces on this day! Squares can be frustrating aspects that ask for some sort of action on your part. Ask me for your specific sign for more!
+Maryland Fishing Report,quit,
+Maryland Fishing Report,quit,
+Maryland Fishing Report,"""Alexa, tell me about the upper chesapeake bay from maryland fishing report""",I don't see any new stories about upper chesapeake bay from maryland fishing report right now.
+Maryland Fishing Report,quit,
+Maryland Fishing Report,quit,
+Beat Navy,"""Alexa, ask beat navy when is army navy""",You have Hip Hop Beats enabled. Do you want to open it?
+Beat Navy,Yes,"Welcome to Hip Hop Beats. Ask me to play a beat, for help, or to quit"
+Beat Navy,"""Alexa, ask beat navy when is army navy""",Laying down a beat.
+Beat Navy,quit,
+Beat Navy,"""Alexa, ask beat navy when is the game""",You have Hip Hop Beats enabled. Do you want to open it?
+Beat Navy,Yes,"Welcome to Hip Hop Beats. Ask me to play a beat, for help, or to quit"
+Beat Navy,"""Alexa, ask beat navy when is the game""",Laying down a beat.
+Beat Navy,quit,
+Beat Navy,quit,
+Beat Navy,"""Alexa, ask beat navy how many days""",You have Trumpdown unofficial enabled. Do you want to open it?
+Beat Navy,Yes,"Welcome to Trumpdown unofficial. I can answer how many years, months, weeks, days, hours, minutes, or seconds until Donald Trump is out of office."
+Beat Navy,"""Alexa, ask beat navy how many days""",You have Trumpdown unofficial enabled. Do you want to open it?
+Beat Navy,quit,
+Beat Navy,quit,
+World Cup Daily,"""Alexa, open World Cup Daily""","el balance de la selecciÌ_n de Colombia, impetu y coraje. Ganan en Florida"
+World Cup Daily,quit,
+World Cup Daily,"""Alexa, open World Cup Daily""","el balance de la selecciÌ_n de Colombia, impetu y coraje. Ganan en Florida"
+World Cup Daily,"""get me World Cup Daily""",You have World Cup Daily enabled. Do you want to open it?
+World Cup Daily,quit,
+World Cup Daily,"""Alexa, open World Cup Daily""","el balance de la selecciÌ_n de Colombia, impetu y coraje. Ganan en Florida"
+World Cup Daily,"""give me World Cup Daily""",You have World Cup Daily enabled. Do you want to open it?
+World Cup Daily,quit,
+Games Back,"""Alexa, open Games Back.""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Games Back,Yes,What stock price would you like me to look up?
+Games Back,"""Alexa, open Games Back.""","Sorry, I can't find information about alexa, open games back.."
+Games Back,quit,
+Games Back,"""Alexa, ask Games Back for the Indians.""","This might answer your question: I know about over 1,400 Cleveland Indians baseball games including White Sox , Indians on August 12, 1901, Athletics , Indians on September 9, 1901, Athletics , Indians on September 12, 1901, and Browns , Indians on September 12, 1902."
+Games Back,quit,
+Games Back,quit,
+Games Back,"""Alexa, open Games Back for New York.""",
+Games Back,quit,
+Games Back,quit,
+Hockey Updates,"""Alexa open Hockey Updates""",Which game should I fetch for you?
+Hockey Updates,quit,
+Hockey Updates,"""Alexa ask Hockey Updates to get the Bruins game""",Boston Bruins are playing Columbus Blue Jackets at TD GardenThe game has startedThe current score is Boston Bruins 2 Columbus Blue Jackets 2Would you like to listen to live audio updates from the game?
+Hockey Updates,quit,
+Hockey Updates,quit,
+Hockey Updates,"""Alexa ask Hockey Updates to start the New York Rangers game""","Sorry, I couldn't find a new york rangers game scheduled for today"
+Hockey Updates,quit,
+Hockey Updates,quit,
+Redskins Fan,"""Alexa, open Redskins fan.""",I'd rather not answer that.
+Redskins Fan,quit,
+Redskins Fan,"""Alexa, ask Redskins fan for a flash briefing on the Redskins.""",I'd rather not answer that.
+Redskins Fan,quit,
+Redskins Fan,quit,
+Redskins Fan,"""Alexa, ask Redskins fan about the previous game score.""",I'd rather not answer that.
+Redskins Fan,quit,
+Redskins Fan,quit,
+Arizona Sports 98.7 FM - Starting Five,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Arizona Sports 98.7 FM - Starting Five,quit,
+Arizona Sports 98.7 FM - Starting Five,"""Alexa, what's in the news?""",Here's your news.
+Arizona Sports 98.7 FM - Starting Five,quit,
+Arizona Sports 98.7 FM - Starting Five,quit,
+Arizona Sports 98.7 FM - Starting Five,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Arizona Sports 98.7 FM - Starting Five,quit,
+Arizona Sports 98.7 FM - Starting Five,quit,
+Golf Lifestyle,"""Alexa, open Golf Lifestyle""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Golf Lifestyle,Yes,What stock price would you like me to look up?
+Golf Lifestyle,"""Alexa, open Golf Lifestyle""",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Golf Lifestyle,quit,
+Golf Lifestyle,"""Alexa, start Golf Lifestyle""",You have Trump Golf enabled. Do you want to open it?
+Golf Lifestyle,Yes,"Our genius president has golfed 149 times, costing taxpayers more than 79 million dollars"
+Golf Lifestyle,"""Alexa, start Golf Lifestyle""",You have Trump Golf enabled. Do you want to open it?
+Golf Lifestyle,quit,
+Golf Lifestyle,quit,
+Golf Lifestyle,"""Alexa, launch Golf Lifestyle""","Hi there,are you ready to hear about Golf Lifestyle?"
+Golf Lifestyle,quit,
+Golf Lifestyle,quit,
+Baseball Scores in 30 seconds,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Baseball Scores in 30 seconds,quit,
+Baseball Scores in 30 seconds,"""Alexa, what's in the news?""",Here's your news.
+Baseball Scores in 30 seconds,quit,
+Baseball Scores in 30 seconds,quit,
+Baseball Scores in 30 seconds,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Baseball Scores in 30 seconds,quit,
+Baseball Scores in 30 seconds,quit,
+Champions League,"""Alexa open champions league""","Welcome to Champions League, say get Group and a group letter, or round of 16 draw"
+Champions League,quit,
+Champions League,"""Alexa open champions league""","Welcome to Champions League, say get Group and a group letter, or round of 16 draw"
+Champions League,"""get group A""","the table for this group is:, , Manchester United has a goal difference of 9 and 15 points ,, FC Basel has a goal difference of 6 and 12 points ,, CSKA Moscow has a goal difference of -2 and 9 points ,, Benfica has a goal difference of -14 and 0 points ,We can tell you about the table for a group or say get leaders"
+Champions League,quit,
+Champions League,"""Alexa open champions league""","Welcome to Champions League, say get Group and a group letter, or round of 16 draw"
+Champions League,"""who are the leaders""","the champions league leaders are:, , Man United leads group A ,, Paris leads group B ,, Roma leads group C ,, Barcelona leads group D ,, Liverpool leads group E ,, Man City leads group F ,, Beskitas leads group G ,, Tottenham leads group H ,Ask who are the leaders or ask about a group or the round of 16 draw"
+Champions League,quit,

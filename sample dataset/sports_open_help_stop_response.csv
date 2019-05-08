@@ -1,0 +1,449 @@
+name,question,response
+ESPN,"Alexa, open ESPN",You have ESPN enabled. Do you want to open it?
+ESPN,Yes,"Welcome to ESPN, What would you like to do?"
+ESPN,help,"you can ask me to play recent news, or ESPN Radio. What would you like to do?"
+ESPN,stop,Good bye.
+ESPN,quit,
+Dallas Cowboys (Official),"Alexa, open Dallas Cowboys (Official)","Ok, Here's Cowboys Fan"
+Dallas Cowboys (Official),help,"Say score to get last game score or live game score. Ask Cowboys next match up to get scheduled next game. Say rank to get Cowboys standing. You can also request super bowl wins to see how many times have the Cowboys won the super bowls. Or say fun facts to get more knowledge of Cowboys. If you do not hear clearly, say repeat."
+Dallas Cowboys (Official),stop,See you at the game!
+Dallas Cowboys (Official),quit,
+Yahoo Fantasy Football,"Alexa, open Yahoo Fantasy Football","I'm sorry, but you have to have a head to head fantasy league connected to your Yahoo account to use this skill. Your league is not a head to head league.Users with points leagues and Pick ‘Em are currently not able to check their teams and games using this skill.In order to use this skill you'll need to join a head to head league and setup a team using the Yahoo Fantasy Football mobile app or website. Once you've done that, come back and I'll be happy to help."
+Yahoo Fantasy Football,help,"For Help, please visit the help pages on the Amazon web site."
+Yahoo Fantasy Football,stop,
+Yahoo Fantasy Football,quit,
+College Football Rankings,"Alexa, open College Football Rankings","Welcome to College Football Rankings! You can ask to hear any number of the top one to twenty five teams. If you need help, say Help!"
+College Football Rankings,help,"You may ask what are the top 1 through 25 teams. You may also just say what are the rankings. Additionally, if you would like to close the application say close or stop! What would you like to do?"
+College Football Rankings,stop,"Thank you, and goodbye!"
+College Football Rankings,quit,
+StatMuse,"Alexa, open StatMuse",<Audio only response>
+StatMuse,help,"For Help, please visit the help pages on the Amazon web site."
+StatMuse,stop,
+StatMuse,quit,
+Baseball Reference,"Alexa, open Baseball Reference","Hey, welcome to Baseball Reference ask me something!"
+Baseball Reference,help,"Users are able to request a multitude of different statistics that can be further specified by rank from 1 to 10. By top amount, such as top two, top three, top four, etcetera. By year from 1871 to present day. And by either all of baseball, the national league, or, the american league. Also, after making an initial request you can easily sort through the ranking by asking who was next, previous, or requesting a specific rank."
+Baseball Reference,stop,Goodbye
+Baseball Reference,quit,
+Coach Harbaugh,"Alexa, open Coach Harbaugh",<Audio only response>
+Coach Harbaugh,help,"For Help, please visit the help pages on the Amazon web site."
+Coach Harbaugh,stop,
+Coach Harbaugh,quit,
+NCAA March Madness,"Alexa, open NCAA March Madness",You have NCAA March Madness enabled. Do you want to open it?
+NCAA March Madness,Yes,"Welcome to March Madness! Your go to place to find March Madness tournament live broadcasts and game coverage. I can give you scores, schedules, live radio, or information about your bracket picks. What would you like?"
+NCAA March Madness,help,"The March Madness skill is here to keep you up to date with the tournament. You can hear the schedule, find scores or listen to live games. Try saying things like: ""Listen to the Duke versus North Carolina game"", ""What games are live today"", or ""What is the score of the Villanova game?"" What can I help you with?"
+NCAA March Madness,stop,Okay.
+NCAA March Madness,quit,
+Fantasy Football,"Alexa, open Fantasy Football","I'm sorry, but you have to have a head to head fantasy league connected to your Yahoo account to use this skill. Your league is not a head to head league.Users with points leagues and Pick ‘Em are currently not able to check their teams and games using this skill.In order to use this skill you'll need to join a head to head league and setup a team using the Yahoo Fantasy Football mobile app or website. Once you've done that, come back and I'll be happy to help."
+Fantasy Football,help,"For Help, please visit the help pages on the Amazon web site."
+Fantasy Football,stop,
+Fantasy Football,quit,
+Dodgers Baseball Fan Trivia,"Alexa, open Dodgers Baseball Fan Trivia","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What did Babe Herman do for the first time on May 18, 1931?: 1. Hit 3 home runs. 2. Hit for the Cycle. 3. Steal 4 bases. 4. Walk at each at bat."
+Dodgers Baseball Fan Trivia,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Dodgers Baseball Fan Trivia,stop,Good bye!
+Dodgers Baseball Fan Trivia,quit,
+NBA,"Alexa, open NBA",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+NBA,Yes,What stock price would you like me to look up?
+NBA,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+NBA,stop,O.K.
+NBA,quit,
+How many days since Michigan has beaten Ohio State,"Alexa, open How many days since Michigan has beaten Ohio State","Hmm, I don't know that."
+How many days since Michigan has beaten Ohio State,help,"For Help, please visit the help pages on the Amazon web site."
+How many days since Michigan has beaten Ohio State,stop,
+How many days since Michigan has beaten Ohio State,quit,
+New York Knicks,"Alexa, open New York Knicks","Sorry, I don't know that one."
+New York Knicks,help,"For Help, please visit the help pages on the Amazon web site."
+New York Knicks,stop,
+New York Knicks,quit,
+Golden State Warriors,"Alexa, open Golden State Warriors",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Golden State Warriors,Yes,What stock price would you like me to look up?
+Golden State Warriors,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Golden State Warriors,stop,O.K.
+Golden State Warriors,quit,
+Roll Tide Roll,"Alexa, open Roll Tide Roll",You have RollTide enabled. Do you want to open it?
+Roll Tide Roll,Yes,Roll tide roll!
+Roll Tide Roll,help,"For Help, please visit the help pages on the Amazon web site."
+Roll Tide Roll,stop,
+Roll Tide Roll,quit,
+PGA TOUR,"Alexa, open PGA TOUR","PGA Tour. The Zurich Classic of New Orleans event is currently under way. You can ask for the leaderboard, or ask about a specific player. Which will it be?"
+PGA TOUR,help,"Here are some things you can say: Update me on the leaderboard, How is Jason Day doing, Listen to the latest podcast, or Listen to the livestream. So, how can I help?"
+PGA TOUR,stop,Thank you for using PGA tour.
+PGA TOUR,quit,
+ESPN Radio (via TuneIn),"Alexa, open ESPN Radio (via TuneIn)",ESPN Radio from TuneIn.
+ESPN Radio (via TuneIn),help,"For Help, please visit the help pages on the Amazon web site."
+ESPN Radio (via TuneIn),stop,
+ESPN Radio (via TuneIn),quit,
+Basketball quiz,"Alexa, open Basketball quiz","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. How wide is the free throw line in feet ? 1. 12. 2. 14. 3. 10. 4. 15."
+Basketball quiz,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Basketball quiz,stop,Good bye!
+Basketball quiz,quit,
+ESPN Flash Briefing,"Alexa, open ESPN Flash Briefing",You have ESPN enabled. Do you want to open it?
+ESPN Flash Briefing,Yes,"Welcome to ESPN, What would you like to do?"
+ESPN Flash Briefing,help,"you can ask me to play recent news, or ESPN Radio. What would you like to do?"
+ESPN Flash Briefing,stop,Good bye.
+ESPN Flash Briefing,quit,
+Golf Channel,"Alexa, open Golf Channel","Ok, Here's Watch TV with Stream Player"
+Golf Channel,help,"You can say „start“ followed by the channels name, for example say ""watch abc news"" or ""start channel one"". To see what channels are available please take a look at the skill description in your alexa app. What would you like to do?"
+Golf Channel,stop,Have a nice day. Please rate this skill in the Skill store if you want. I would appreciate it.
+Golf Channel,quit,
+New England Patriots,"Alexa, open New England Patriots",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+New England Patriots,Yes,What stock price would you like me to look up?
+New England Patriots,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+New England Patriots,stop,O.K.
+New England Patriots,quit,
+Boston Celtics,"Alexa, open Boston Celtics",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Boston Celtics,Yes,What stock price would you like me to look up?
+Boston Celtics,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Boston Celtics,stop,O.K.
+Boston Celtics,quit,
+Racing Events by Neds,"Alexa, open Racing Events by Neds",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Racing Events by Neds,Yes,What stock price would you like me to look up?
+Racing Events by Neds,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Racing Events by Neds,stop,O.K.
+Racing Events by Neds,quit,
+The Great Odin,"Alexa, open The Great Odin",
+The Great Odin,help,
+The Great Odin,stop,
+The Great Odin,quit,
+RollTide,"Alexa, open RollTide",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+RollTide,Yes,What stock price would you like me to look up?
+RollTide,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+RollTide,stop,O.K.
+RollTide,quit,
+Milwaukee Bucks,"Alexa, open Milwaukee Bucks",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Milwaukee Bucks,Yes,What stock price would you like me to look up?
+Milwaukee Bucks,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Milwaukee Bucks,stop,O.K.
+Milwaukee Bucks,quit,
+'We Are' Cheer,"Alexa, open 'We Are' Cheer",You have Christmas Cheer enabled. Do you want to open it?
+'We Are' Cheer,Yes,<Short audio>
+'We Are' Cheer,help,"For Help, please visit the help pages on the Amazon web site."
+'We Are' Cheer,stop,
+'We Are' Cheer,quit,
+Calling the Hogs,"Alexa, open Calling the Hogs","What US call sign would you like me to lookup? For example, say W A 1 W or Whiskey 1 Alpha Whiskey."
+Calling the Hogs,help,"This skill looks up information for US ham radio call signs only, and understands the regular and phonetic alphabets. To get basic name, class, and location information, just give me a call sign. For example you can say Alexa, ask call sign W 1 A W or, Alexa, ask call sign Whiskey 1 Alpha Whiskey. To get additional information such as latitude, longitude, and license expiration date, say Alexa, Ask Call sign tell me everything about W 1 A W. What US call sign should I look up?"
+Calling the Hogs,stop,"OK, goodbye."
+Calling the Hogs,quit,
+Seventh Inning Stretch Baseball - Buttons Optional,"Alexa, open Seventh Inning Stretch Baseball - Buttons Optional",<Audio only response>
+Seventh Inning Stretch Baseball - Buttons Optional,help,"For Help, please visit the help pages on the Amazon web site."
+Seventh Inning Stretch Baseball - Buttons Optional,stop,
+Seventh Inning Stretch Baseball - Buttons Optional,quit,
+American Football Trivia,"Alexa, open American Football Trivia","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Who was the first left-handed quarterback to win a Super Bowl? 1. Frankie Albert (49ers). 2. Steve Young (49ers). 3. Ken Stabler (Raiders). 4. Boomer Esaison (Bengals)."
+American Football Trivia,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+American Football Trivia,stop,Good bye!
+American Football Trivia,quit,
+NASCAR,"Alexa, open NASCAR",NASCAR contains mature content that may not be suitable for all ages
+NASCAR,help,"For Help, please visit the help pages on the Amazon web site."
+NASCAR,stop,
+NASCAR,quit,
+The Capitals,"Alexa, open The Capitals","First you need to finish linking your Capital One account in your Alexa app. You'll know you're done, when you see a screen that says, your Capital One skill is successfully linked."
+The Capitals,help,"For Help, please visit the help pages on the Amazon web site."
+The Capitals,stop,
+The Capitals,quit,
+Steelers Fan,"Alexa, open Steelers Fan",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Steelers Fan,Yes,What stock price would you like me to look up?
+Steelers Fan,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Steelers Fan,stop,O.K.
+Steelers Fan,quit,
+NBA Flash Briefing,"Alexa, open NBA Flash Briefing",Here's your news.
+NBA Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+NBA Flash Briefing,stop,
+NBA Flash Briefing,quit,
+Bleed Purple,"Alexa, open Bleed Purple",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Bleed Purple,Yes,What stock price would you like me to look up?
+Bleed Purple,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Bleed Purple,stop,O.K.
+Bleed Purple,quit,
+Marshawn Lynch's BeastMode,"Alexa, open Marshawn Lynch's BeastMode","Welcome to Marshawn Lynch's Beast Mode skill, you can ask things like where did you go to college, what's your favorite candy, or ask a press conference question. like how was that defense, or what's next for you. What would you like to ask?"
+Marshawn Lynch's BeastMode,help,"This skill allows you to have some fun asking Marshawn Lynch press conference questions, or you can ask about beast mode or facts about Marshawn. You can say things like Where were you born, or what's your favorite candy. What would you like to know about Marshawn?"
+Marshawn Lynch's BeastMode,stop,"Even if the odds are stacked against you, there is always a way out. Visit us anytime at beast mode online.com!"
+Marshawn Lynch's BeastMode,quit,
+Surfable,"Alexa, open Surfable","oh snap. welcome to Surfable!. I can tell you surf reports of popular spots in California. To get started tell me the name of the surf spot you are intersted in. For instance you can say, Mavericks, and I will tell you the surf report at Mavericks. What spot are you interested in?"
+Surfable,help,"Surfable can tell you the surf report at popular surf spots in California. To get started say your surf spots name. For instance you can say, seal beach pier, and you will get the surf report at seal beach pier. Which surf spot are you intersted in?"
+Surfable,stop,
+Surfable,quit,
+Seahawks Fan,"Alexa, open Seahawks Fan",<Audio only response>
+Seahawks Fan,help,"For Help, please visit the help pages on the Amazon web site."
+Seahawks Fan,stop,
+Seahawks Fan,quit,
+theScore Sports,"Alexa, open theScore Sports",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+theScore Sports,Yes,What stock price would you like me to look up?
+theScore Sports,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+theScore Sports,stop,O.K.
+theScore Sports,quit,
+Patriots Fan,"Alexa, open Patriots Fan",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Patriots Fan,Yes,What stock price would you like me to look up?
+Patriots Fan,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Patriots Fan,stop,O.K.
+Patriots Fan,quit,
+Cricket Info,"Alexa, open Cricket Info",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Cricket Info,Yes,What stock price would you like me to look up?
+Cricket Info,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Cricket Info,stop,O.K.
+Cricket Info,quit,
+Baseball Live,"Alexa, open Baseball Live",<Audio only response>
+Baseball Live,help,"For Help, please visit the help pages on the Amazon web site."
+Baseball Live,stop,
+Baseball Live,quit,
+The Rookie's Guide to the NFL,"Alexa, open The Rookie's Guide to the NFL",You have The Rookie's Guide to the NFL enabled. Do you want to open it?
+The Rookie's Guide to the NFL,Yes,<Audio only response>
+The Rookie's Guide to the NFL,help,"For Help, please visit the help pages on the Amazon web site."
+The Rookie's Guide to the NFL,stop,
+The Rookie's Guide to the NFL,quit,
+Overwatch League,"Alexa, open Overwatch League",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Overwatch League,Yes,What stock price would you like me to look up?
+Overwatch League,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Overwatch League,stop,O.K.
+Overwatch League,quit,
+Cowboys Fan,"Alexa, open Cowboys Fan","Welcome to Cowboys Fan. You can start by saying, Give me a flash briefing on the Cowboys to get team's ranking, previous game result and next game schedule."
+Cowboys Fan,help,"Say score to get last game score or live game score. Ask Cowboys next match up to get scheduled next game. Say rank to get Cowboys standing. You can also request super bowl wins to see how many times have the Cowboys won the super bowls. Or say fun facts to get more knowledge of Cowboys. If you do not hear clearly, say repeat."
+Cowboys Fan,stop,Lets go Cowboys!
+Cowboys Fan,quit,
+CBS Sports Minute,"Alexa, open CBS Sports Minute",You have CBS News: Live Breaking News enabled. Do you want to open it?
+CBS Sports Minute,Yes,"Sorry, I'm having trouble accessing your CBS News: Live Breaking News skill right now"
+CBS Sports Minute,help,"For Help, please visit the help pages on the Amazon web site."
+CBS Sports Minute,stop,
+CBS Sports Minute,quit,
+College Football Roster Info,"Alexa, open College Football Roster Info",<Audio only response>
+College Football Roster Info,help,"For Help, please visit the help pages on the Amazon web site."
+College Football Roster Info,stop,
+College Football Roster Info,quit,
+Cubs Baseball Unauthorized Trivia,"Alexa, open Cubs Baseball Unauthorized Trivia","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What famous Brooklyn Park was Ebbets field next to?: 1. Central Park. 2. Borough Park. 3. Prospect Park. 4. Van Cortland Park."
+Cubs Baseball Unauthorized Trivia,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Cubs Baseball Unauthorized Trivia,stop,Good bye!
+Cubs Baseball Unauthorized Trivia,quit,
+Who's on First?,"Alexa, open Who's on First?",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Who's on First?,Yes,What stock price would you like me to look up?
+Who's on First?,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Who's on First?,stop,O.K.
+Who's on First?,quit,
+OH - IO,"Alexa, open OH - IO",I O
+OH - IO,help,"For Help, please visit the help pages on the Amazon web site."
+OH - IO,stop,
+OH - IO,quit,
+92.3 The Fan,"Alexa, open 92.3 The Fan",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+92.3 The Fan,Yes,What stock price would you like me to look up?
+92.3 The Fan,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+92.3 The Fan,stop,O.K.
+92.3 The Fan,quit,
+Miami Heat,"Alexa, open Miami Heat",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Miami Heat,Yes,What stock price would you like me to look up?
+Miami Heat,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Miami Heat,stop,O.K.
+Miami Heat,quit,
+War Eagle,"Alexa, open War Eagle",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+War Eagle,Yes,What stock price would you like me to look up?
+War Eagle,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+War Eagle,stop,O.K.
+War Eagle,quit,
+Let's Go!!!,"Alexa, open Let's Go!!!",<Audio only response>
+Let's Go!!!,help,"For Help, please visit the help pages on the Amazon web site."
+Let's Go!!!,stop,
+Let's Go!!!,quit,
+Bing Sportscaster NFL Flash Briefing,"Alexa, open Bing Sportscaster NFL Flash Briefing",You have The Rookie's Guide to the NFL enabled. Do you want to open it?
+Bing Sportscaster NFL Flash Briefing,Yes,<Short audio>
+Bing Sportscaster NFL Flash Briefing,help,<Short audio>
+Bing Sportscaster NFL Flash Briefing,stop,<Short audio>
+Bing Sportscaster NFL Flash Briefing,quit,
+106.7 The Fan Sports Flash,"Alexa, open 106.7 The Fan Sports Flash",You have Cowboys Fan enabled. Do you want to open it?
+106.7 The Fan Sports Flash,Yes,"Welcome to Cowboys Fan. You can start by saying, Give me a flash briefing on the Cowboys to get team's ranking, previous game result and next game schedule."
+106.7 The Fan Sports Flash,help,"Say score to get last game score or live game score. Ask Cowboys next match up to get scheduled next game. Say rank to get Cowboys standing. You can also request super bowl wins to see how many times have the Cowboys won the super bowls. Or say fun facts to get more knowledge of Cowboys. If you do not hear clearly, say repeat."
+106.7 The Fan Sports Flash,stop,See you later. Go Cowboys!
+106.7 The Fan Sports Flash,quit,
+NASCAR Flash Briefing,"Alexa, open NASCAR Flash Briefing",Here's your news.
+NASCAR Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+NASCAR Flash Briefing,stop,
+NASCAR Flash Briefing,quit,
+Bears Trivia,"Alexa, open Bears Trivia","Welcome to Bears Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What Super Bowl did the Bears win? 1. Super Bowl 19. 2. Super Bowl 20. 3. Super Bowl 22. 4. Super Bowl 21."
+Bears Trivia,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Bears Trivia,stop,Would you like to keep playing?
+Bears Trivia,quit,
+NBC Sports Update,"Alexa, open NBC Sports Update",You have NBC News enabled. Do you want to open it?
+NBC Sports Update,Yes,"Welcome to nbc news,you can ask what's trending get the top topics or ask for breaking news. Which would you like to hear?"
+NBC Sports Update,help,"“Thanks for being patient. We are not as good as lester holt.The NBC news skill is your voice guide to the latest news stories on NBC news dot com.You can ask for what's trending or for breaking news,or for our top topics, like Politics, Business, and health.Don't forget to check NBC news dot com for more in-depth coverage.What would you like to listen to?"
+NBC Sports Update,stop,Good bye .
+NBC Sports Update,quit,
+Daily Golf Briefing,"Alexa, open Daily Golf Briefing"
+Daily Golf Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Daily Golf Briefing,stop,
+Daily Golf Briefing,quit,
+numberFire News,"Alexa, open numberFire News",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+numberFire News,Yes,What stock price would you like me to look up?
+numberFire News,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+numberFire News,stop,O.K.
+numberFire News,quit,
+Real Runs - Running Tips for Runners,"Alexa, open Real Runs - Running Tips for Runners",<Audio only response>
+Real Runs - Running Tips for Runners,help,"For Help, please visit the help pages on the Amazon web site."
+Real Runs - Running Tips for Runners,stop,
+Real Runs - Running Tips for Runners,quit,
+Gridiron Trivia,"Alexa, open Gridiron Trivia","Hello! You are playing Gridiron Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. Who won the Super Bowl in 1998? 1. San Diego Chargers. 2. Arizona Cardinals. 3. Green Bay Packers. 4. Denver Broncos."
+Gridiron Trivia,help,"I will ask you 5 multiple choice questions, try to get as many right as you can! To give an answer to a question, respond with the number of the answer by saying one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question asked, say, repeat."
+Gridiron Trivia,stop,Good bye!
+Gridiron Trivia,quit,
+97.1 The Ticket Sports Update,"Alexa, open 97.1 The Ticket Sports Update",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+97.1 The Ticket Sports Update,Yes,What stock price would you like me to look up?
+97.1 The Ticket Sports Update,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+97.1 The Ticket Sports Update,stop,O.K.
+97.1 The Ticket Sports Update,quit,
+Jammin' Jon's Wrestling News.,"Alexa, open Jammin' Jon's Wrestling News.",<Audio only response>
+Jammin' Jon's Wrestling News.,help,"For Help, please visit the help pages on the Amazon web site."
+Jammin' Jon's Wrestling News.,stop,
+Jammin' Jon's Wrestling News.,quit,
+90-Second Drill,"Alexa, open 90-Second Drill",<Audio only response>
+90-Second Drill,help,"For Help, please visit the help pages on the Amazon web site."
+90-Second Drill,stop,
+90-Second Drill,quit,
+Equestrian News,"Alexa, open Equestrian News",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Equestrian News,Yes,What stock price would you like me to look up?
+Equestrian News,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Equestrian News,stop,O.K.
+Equestrian News,quit,
+RotoWire,"Alexa, open RotoWire",<Audio only response>
+RotoWire,help,"For Help, please visit the help pages on the Amazon web site."
+RotoWire,stop,
+RotoWire,quit,
+Soccer Nerd,"Alexa, open Soccer Nerd","Welcome to Soccer Nerd. You can ask me questions about soccer games. Try, who did Barcelona play last?"
+Soccer Nerd,help,"You can ask me questions about upcoming and past soccer games. Soccer nerd knows about the teams in the English,Spanish and Portuguese Football Leagues. Try, who did Barcelona play last?"
+Soccer Nerd,stop,Thank you for talking to Soccer Nerd. Have a nice day!
+Soccer Nerd,quit,
+49ers Update - Powered by 30sec,"Alexa, open 49ers Update - Powered by 30sec",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+49ers Update - Powered by 30sec,Yes,What stock price would you like me to look up?
+49ers Update - Powered by 30sec,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+49ers Update - Powered by 30sec,stop,O.K.
+49ers Update - Powered by 30sec,quit,
+Houston Rockets,"Alexa, open Houston Rockets",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Houston Rockets,Yes,What stock price would you like me to look up?
+Houston Rockets,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Houston Rockets,stop,O.K.
+Houston Rockets,quit,
+Reiki Music,"Alexa, open Reiki Music",I couldn't find any reiki songs.GenreNotFoundPromptMusic.PlayMusicIntenten_USdefault863f35ed-09a8-4571-9a04-5fb6b94b9a7a1Adm-20180212_202339-1
+Reiki Music,help,"For Help, please visit the help pages on the Amazon web site."
+Reiki Music,stop,
+Reiki Music,quit,
+Daily Alphabet Affirmation,"Alexa, open Daily Alphabet Affirmation",Welcome to your feel-good alphabet affirmation skill! It is impossible not to feel good after you hear it. Ready to get started?
+Daily Alphabet Affirmation,help,"The alphabet affirmation skill is a feel good journaling technique by ""Jesse Elder"". With this skill, you can get a new feel-good alphabet affirmation anytime you want to distract yourself from life and get into a positive, happy and feel good place. When Alexa asks you if you want to get started, your main options are Yes or No. Additionally you can say the letter of the alphabet you want to start from. Let's start from the beginning. Welcome to your feel-good alphabet affirmation skill! It is impossible not to feel good after you hear it. Ready to get started?"
+Daily Alphabet Affirmation,stop,"""Come back anytime to hear a new feel-good alphabetical affirmation. Just say, ""Alexa, open alphabet affirmation"" to open the skill again."""
+Daily Alphabet Affirmation,quit,
+DraftKings,"Alexa, open DraftKings",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+DraftKings,Yes,What stock price would you like me to look up?
+DraftKings,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+DraftKings,stop,O.K.
+DraftKings,quit,
+Soccer Drills,"Alexa, open Soccer Drills",<Audio only response>
+Soccer Drills,help,"For Help, please visit the help pages on the Amazon web site."
+Soccer Drills,stop,
+Soccer Drills,quit,
+Surf Checker,"Alexa, open Surf Checker",Hi! I'm an automatic symptom checker. What concerns you most about your health? Please describe your symptoms.
+Surf Checker,help,"To start the symptom checker, say ""Alexa, open symptom checker"". When asked about symptoms, please use simple language. Use phrases such as ""lower back pain"", ""headache"" or ""dry cough"". To terminate the conversation immediately, say ""Stop"" at any time. You can resume such interrupted conversations by saying ""Alexa, ask Symptom checker to continue""."
+Surf Checker,stop,Bye!
+Surf Checker,quit,
+Boston Red Sox Baseball Trivia Unauthorized,"Alexa, open Boston Red Sox Baseball Trivia Unauthorized","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. In 1967, which future Hall of Fame great batted for the Triple Crown, the last time it would be achieved in the 20th Century?: 1. Jimmie Foxx. 2. Jim Rice. 3. Manny Ramirez. 4. Carl Yastrzemski."
+Boston Red Sox Baseball Trivia Unauthorized,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Boston Red Sox Baseball Trivia Unauthorized,stop,Good bye!
+Boston Red Sox Baseball Trivia Unauthorized,quit,
+FanDuel: Pick 6,"Alexa, open FanDuel: Pick 6",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+FanDuel: Pick 6,Yes,What stock price would you like me to look up?
+FanDuel: Pick 6,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+FanDuel: Pick 6,stop,O.K.
+FanDuel: Pick 6,quit,
+Big Ten Network Football News,"Alexa, open Big Ten Network Football News",
+Big Ten Network Football News,help,"For Help, please visit the help pages on the Amazon web site."
+Big Ten Network Football News,stop,
+Big Ten Network Football News,quit,
+Game Lines,"Alexa, open Game Lines","Welcome to Game Lines, find the line for an upcoming sport event. For example, you can ask for 'the steelers,' or 'the Pittsburgh basketball game.'"
+Game Lines,help,"I can help you find spreads for sports events. For example, you can ask for 'the steelers,' or 'the Pittsburgh basketball game.'"
+Game Lines,stop,Ok.
+Game Lines,quit,
+Fantasy Football ADP,"Alexa, open Fantasy Football ADP","Welcome to Fantasy Football Nerd. I can give you the news, or you can ask for updates about a specific player. How can I help you?"
+Fantasy Football ADP,help,"Here are some helpful tips. Fantasy Football nerd can get you the latest fantasy news. You can ask about specific players, like Aaron Rodgers or Andrew Luck. You can ask for sit start advice by asking if you should start one player over another. You can ask for trade advice by asking if you should start one player over another. How can I help you?"
+Fantasy Football ADP,stop,
+Fantasy Football ADP,quit,OK. Thank you. Be sure to visit fantasy football nerd dot com for more fantasy advice.
+93.7 The Fan Pittsburgh,"Alexa, open 93.7 The Fan Pittsburgh",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+93.7 The Fan Pittsburgh,Yes,
+93.7 The Fan Pittsburgh,help,
+93.7 The Fan Pittsburgh,stop,
+93.7 The Fan Pittsburgh,quit,
+Phoenix Suns,"Alexa, open Phoenix Suns",<Audio only response>
+Phoenix Suns,help,"For Help, please visit the help pages on the Amazon web site."
+Phoenix Suns,stop,
+Phoenix Suns,quit,
+Utah Jazz,"Alexa, open Utah Jazz",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Utah Jazz,Yes,
+Utah Jazz,help,
+Utah Jazz,stop,
+Utah Jazz,quit,
+Washington Wizards,"Alexa, open Washington Wizards",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Washington Wizards,Yes,What stock price would you like me to look up?
+Washington Wizards,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Washington Wizards,stop,O.K.
+Washington Wizards,quit,
+Formula One Race Information - Unofficial,"Alexa, open Formula One Race Information - Unofficial","Hi! I'm Pole position. I can give you information about Formula 1 races. Ask me things like, when is the next race , or, Who won the last race, or, what are the driver standings , or, When is the race in Spain. What would you like to know?"
+Formula One Race Information - Unofficial,help,"Pole Positionhelp. Ask me things like, when is the next race , or, Who won the last race, or, what are the driver standings , or, When is the race in Spain. What would you like to know?"
+Formula One Race Information - Unofficial,stop,Thanks. Goodbye!
+Formula One Race Information - Unofficial,quit,
+Running Clothes,"Alexa, open Running Clothes",<Audio only response>
+Running Clothes,help,"For Help, please visit the help pages on the Amazon web site."
+Running Clothes,stop,
+Running Clothes,quit,
+Next Bowl Game,"Alexa, open Next Bowl Game",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Next Bowl Game,Yes,What stock price would you like me to look up?
+Next Bowl Game,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Next Bowl Game,stop,O.K.
+Next Bowl Game,quit,
+O-H!,"Alexa, open O-H!",<Audio only response>
+O-H!,help,"For Help, please visit the help pages on the Amazon web site."
+O-H!,stop,
+O-H!,quit,
+Houston Texans Flash Briefing,"Alexa, open Houston Texans Flash Briefing",Here's your news.
+Houston Texans Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Houston Texans Flash Briefing,stop,
+Houston Texans Flash Briefing,quit,
+UGA Roster,"Alexa, open UGA Roster",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+UGA Roster,Yes,What stock price would you like me to look up?
+UGA Roster,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+UGA Roster,stop,O.K.
+UGA Roster,quit,
+Maryland Fishing Report,"Alexa, open Maryland Fishing Report","Right now in Maryland New York, it's 38 degrees Fahrenheit with cloudy skies. Tonight's forecast has cloudy skies moving in and out, with a low of 32 degrees."
+Maryland Fishing Report,help,"For Help, please visit the help pages on the Amazon web site."
+Maryland Fishing Report,stop,
+Maryland Fishing Report,quit,
+Beat Navy,"Alexa, open Beat Navy",You have Hip Hop Beats enabled. Do you want to open it?
+Beat Navy,Yes,"Welcome to Hip Hop Beats. Ask me to play a beat, for help, or to quit"
+Beat Navy,help,"You can ask me to play a hip hop beat, or ask me to quit."
+Beat Navy,stop,Thank you.
+Beat Navy,quit,
+World Cup Daily,"Alexa, open World Cup Daily","el balance de la selección de Colombia, impetu y coraje. Ganan en Florida"
+World Cup Daily,help,"For Help, please visit the help pages on the Amazon web site."
+World Cup Daily,stop,
+World Cup Daily,quit,
+Games Back,"Alexa, open Games Back",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Games Back,Yes,What stock price would you like me to look up?
+Games Back,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Games Back,stop,O.K.
+Games Back,quit,
+Hockey Updates,"Alexa, open Hockey Updates",You have Hockey Updates enabled. Do you want to open it?
+Hockey Updates,Yes,Which game should I fetch for you?
+Hockey Updates,help,Let me know your favourite NHL team and I'll fetch you the latest scores and live audio updates. Which game should I fetch for you?
+Hockey Updates,stop,
+Hockey Updates,quit,
+Redskins Fan,"Alexa, open Redskins Fan","Welcome to Redskins Fan. You can start by saying, Give me a flash briefing on the Redskins to get team's ranking, previous game result and next game schedule."
+Redskins Fan,help,"Say score to get last game score or live game score. Ask Redskins next match up to get scheduled next game. Say rank to get Redskins standing. You can also request super bowl wins to see how many times have the Redskins won the super bowls. Or say fun facts to get more knowledge of Redskins. If you do not hear clearly, say repeat."
+Redskins Fan,stop,Redskins fans unite! See you later.
+Redskins Fan,quit,
+Arizona Sports 98.7 FM - Starting Five,"Alexa, open Arizona Sports 98.7 FM - Starting Five",You have Volley FM - Personalized Morning News Radio Skill enabled. Do you want to open it?
+Arizona Sports 98.7 FM - Starting Five,Yes,<Audio only response>
+Arizona Sports 98.7 FM - Starting Five,help,"For Help, please visit the help pages on the Amazon web site."
+Arizona Sports 98.7 FM - Starting Five,stop,
+Arizona Sports 98.7 FM - Starting Five,quit,
+Golf Lifestyle,"Alexa, open Golf Lifestyle",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Golf Lifestyle,Yes,What stock price would you like me to look up?
+Golf Lifestyle,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Golf Lifestyle,stop,O.K.
+Golf Lifestyle,quit,
+Baseball Scores in 30 seconds,"Alexa, open Baseball Scores in 30 seconds","On Friday, April 26, the Mariners beat the Rangers, 5-4; the Phillies beat the Marlins, 4-0; the Yankees beat the Giants, 7-3; and the Brewers beat the Mets, 10-2."
+Baseball Scores in 30 seconds,help,"For Help, please visit the help pages on the Amazon web site."
+Baseball Scores in 30 seconds,stop,
+Baseball Scores in 30 seconds,quit,
+Champions League,"Alexa, open Champions League","Ok, Here's Soccer Nerd"
+Champions League,help,"You can ask me questions about upcoming and past soccer games. Soccer nerd knows about the teams in the English,Spanish and Portuguese Football Leagues. Try, who did Barcelona play last?"
+Champions League,stop,Thank you for talking to Soccer Nerd. Have a nice day!
+Champions League,quit,

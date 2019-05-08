@@ -1,0 +1,256 @@
+name,question,response
+Mastermind,"Alexa, open Mastermind",What would you like to do?
+Mastermind,help,"Mastermind is your cross platform Artificial Intelligence that works on all your voice-enabled devices. You can do things like send emails and text messages, find places, share your location and much more.I've sent a notification to your phone with all the things I can do for you.So, what would you like to do?"
+Mastermind,stop,Later
+Mastermind,quit,
+Ask My Buddy,"Alexa, open Ask My Buddy","Welcome to Ask My Buddy, Who would you like to alert ?"
+Ask My Buddy,help,"To send an alert just say alert and a name from your contact list or, just say alert and I will guide you, You can also just say, send help, To alert everyone in your list. Would you like to send an alert?"
+Ask My Buddy,stop,Goodbye
+Ask My Buddy,quit,
+Life360,"Alexa, open Life360",<Audio only response>
+Life360,help,"For Help, please visit the help pages on the Amazon web site."
+Life360,stop,
+Life360,quit,
+Ooma (Phone and Home Security),"Alexa, open Ooma (Phone and Home Security)",You have Ooma (Phone and Home Security) enabled. Do you want to open it?
+Ooma (Phone and Home Security),Yes,"Please go to your Alexa app home screen, and choose Link Account, to complete setup for the Ooma skill."
+Ooma (Phone and Home Security),help,"For Help, please visit the help pages on the Amazon web site."
+Ooma (Phone and Home Security),stop,
+Ooma (Phone and Home Security),quit,
+Alexa Prize Socialbots,"Alexa, open Alexa Prize Socialbots",Hmm. This socialbot is having trouble.
+Alexa Prize Socialbots,help,"For Help, please visit the help pages on the Amazon web site."
+Alexa Prize Socialbots,stop,
+Alexa Prize Socialbots,quit,
+Tell My Kids,"Alexa, open Tell My Kids",<Audio only response>
+Tell My Kids,help,"For Help, please visit the help pages on the Amazon web site."
+Tell My Kids,stop,
+Tell My Kids,quit,
+Shared Thoughts,"Alexa, open Shared Thoughts","Listen up Class. Here's your thought: Happiness can be found in even in the darkest of times, if one only remembers to turn on the light. -Dumbledore, Harry Potter and the Prisoner of Azkaban"
+Shared Thoughts,help,"For Help, please visit the help pages on the Amazon web site."
+Shared Thoughts,stop,
+Shared Thoughts,quit,
+Twitter Reader,"Alexa, open Twitter Reader","Welcome to Twitter Reader! I can tell you what is happening, can read your latest mentions, the last tweets you liked, or were posted by you. I can also search for trends by city. When I am reading out a list of tweets or trends, you can ask me to tell you more about the tweet or trend by number. Now, how can I help you?"
+Twitter Reader,help,"I can do several things for you! I can tell you the top tweets on your home timeline, the last tweets you liked, recent tweets that mention you, or were posted by you. I can also search for trends by city. When I am reading out a list of tweets or trends, you can ask me to tell you more about the tweet or trend by number. Now, how can I help you?"
+Twitter Reader,stop,Goodbye
+Twitter Reader,quit,
+Chat Bot,"Alexa, open Chat Bot","Welcome to Budget Bot. You can tell me when you make a purchase and I'll add it to your budget, or you can ask me about how much you've spent so far. What would you like to do?"
+Chat Bot,help,"Welcome to Budget Bot. You can tell me when you make a purchase and I'll add it to your budget, or you can ask me about how much you've spent so far. What would you like to do?"
+Chat Bot,stop,Goodbye!
+Chat Bot,quit,
+Sweet Talker,"Alexa, open Sweet Talker",
+Sweet Talker,help,"To list available sounds, say “list sounds”. To list available meditations, say “list meditations”. Or say “sound”, or “meditation”, and I will choose for you."
+Sweet Talker,stop,Good bye!
+Sweet Talker,quit,
+Eyes On You,"Alexa, open Eyes On You",<Audio only response>
+Eyes On You,help,"For Help, please visit the help pages on the Amazon web site."
+Eyes On You,stop,
+Eyes On You,quit,
+I Love You,"Alexa, open I Love You",You have I Choose You - An Unofficial Pokemon Guessing Game enabled. Do you want to open it?
+I Love You,Yes,"Welcome to I Choose You, an unofficial Pokemon guessing game! Say 'start' to start playing!"
+I Love You,help,I will ask you some questions that will identify what you Pokemon you are. Want to start now?
+I Love You,stop,"Ok, see you next time!"
+I Love You,quit,
+Blue Sky,"Alexa, open Blue Sky","Welcome to Blue Sky. Please tell me what you want to talk to Blue Sky by saying, Jabil I love you or Jabil I miss you"
+Blue Sky,help,"Welcome to Blue Sky. Please tell me what you want to talk to Blue Sky by saying, Jabil I love you or Jabil I miss you"
+Blue Sky,stop,Thank you for trying Blue Sky. Have a nice day!
+Blue Sky,quit,
+Love Notes,"Alexa, open Love Notes","Hello my darling. Here is your love note from your sweetheart: I was just going to say something, but I forgot when I heard your sweet voice."
+Love Notes,help,"For Help, please visit the help pages on the Amazon web site."
+Love Notes,stop,
+Love Notes,quit,
+Trivia quiz time,"Alexa, open Trivia quiz time","Welcome to Trivia Quiz Time. I will ask you 11 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What was Rudolph's father's name? 1. Donner. 2. Dasher. 3. Blixen. 4. Comet."
+Trivia quiz time,help,"I am going to ask you 11 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, please say, repeat. Would you like to keep playing?"
+Trivia quiz time,stop,Would you like to keep playing?
+Trivia quiz time,quit,
+my email,"Alexa, open my email",I don't see an email account set up. Want me to send a link to your phone to set up your email?
+my email,help,"For Help, please visit the help pages on the Amazon web site."
+my email,stop,
+my email,quit,
+Scryb,"Alexa, open Scryb",<Audio only response>
+Scryb,help,"For Help, please visit the help pages on the Amazon web site."
+Scryb,stop,
+Scryb,quit,
+Conversation Starters,"Alexa, open Conversation Starters",<Audio only response>
+Conversation Starters,help,"For Help, please visit the help pages on the Amazon web site."
+Conversation Starters,stop,
+Conversation Starters,quit,
+Damn Girl,"Alexa, open Damn Girl","Damn girl, You make me see the world in a way no one else ever has."
+Damn Girl,help,"For Help, please visit the help pages on the Amazon web site."
+Damn Girl,stop,
+Damn Girl,quit,
+I miss him,"Alexa, open I miss him",
+I miss him,help,"For Help, please visit the help pages on the Amazon web site."
+I miss him,stop,
+I miss him,quit,
+Kids Karaoke,"Alexa, open Kids Karaoke",<Audio only response>
+Kids Karaoke,help,"For Help, please visit the help pages on the Amazon web site."
+Kids Karaoke,stop,
+Kids Karaoke,quit,
+Birthday Tracker,"Alexa, open Birthday Tracker","Hello, welcome to birthday tracker. I can keep track of your friends and family's birthdays for you. Let's get started by adding your first birthday. Whose birthday would you like to add?"
+Birthday Tracker,help,"Birthday tracker keeps track of your friends and family's birthdays. To add a birthday, simply open 'birthday tracker' and say, 'add birthday', and you will be guided through adding a birthday. Once you have added a birthday, you can ask birthday tracker to recall it. For example, if you have added David's birthday, then you can say to Alexa, 'Alexa, ask birthday tracker when David's birthday is'. I can also tell you what day somebody's birthday falls on, how many days until a birthday, whose birthdays are in a given month and the age of the person whose birthday it is. You can check out this skill's description on the Alexa store for more information. Try asking me about a birthday now."
+Birthday Tracker,stop,Goodbye
+Birthday Tracker,quit,
+TubeBuddy,"Alexa, open TubeBuddy",<Audio only response>
+TubeBuddy,help,"For Help, please visit the help pages on the Amazon web site."
+TubeBuddy,stop,
+TubeBuddy,quit,
+Have a laugh,"Alexa, open Have a laugh",<Audio only response>
+Have a laugh,help,"For Help, please visit the help pages on the Amazon web site."
+Have a laugh,stop,
+Have a laugh,quit,
+Tweet Reader,"Alexa, open Tweet Reader","Welcome to Twitter Reader! I can tell you what is happening, can read your latest mentions, the last tweets you liked, or were posted by you. I can also search for trends by city. When I am reading out a list of tweets or trends, you can ask me to tell you more about the tweet or trend by number. Now, how can I help you?"
+Tweet Reader,help,"I can do several things for you! I can tell you the top tweets on your home timeline, the last tweets you liked, recent tweets that mention you, or were posted by you. I can also search for trends by city. When I am reading out a list of tweets or trends, you can ask me to tell you more about the tweet or trend by number. Now, how can I help you?"
+Tweet Reader,stop,Goodbye
+Tweet Reader,quit,
+social post,"Alexa, open social post","Welcome to social post, you should be able to read your latest facebook post. just say read my post"
+social post,help,You can say things like read my post or play
+social post,stop,"Ok, see you next time!"
+social post,quit,
+Chat Bot for Slack,"Alexa, open Chat Bot for Slack"
+Chat Bot for Slack,help,"For Help, please visit the help pages on the Amazon web site."
+Chat Bot for Slack,stop,
+Chat Bot for Slack,quit,
+I Love You Too,"Alexa, open I Love You Too",
+I Love You Too,help,"For Help, please visit the help pages on the Amazon web site."
+I Love You Too,stop,
+I Love You Too,quit,
+Magical Adventure,"Alexa, open Magical Adventure",<Short audio>
+Magical Adventure,help,"In timeless Adventure, you wander through the game choosing options prompted at each scene. But some actions are available without prompting. Try using action commands on things you find, like ""look at, take, move, open, or drink"". For example, you can say ""move rock"" or ""drink water"". At any time you can issue the following commands. To see what your carrying, say ""Inventory"". To hear your options again, say ""repeat options."" To hear the entire scene again, say ""repeat scene."" To hear more verbose descriptions say ""verbose descriptions. To hear briefer descriptions say ""brief descriptions"". To get hints say ""hint"". In order to revisit the previous scene, say ""go back."" To start the game over, say ""start again."" To hear these commands again, say ""help"", or go to Timeless Adventure on the Alexa store to see a full list.Now, what would you like to do?"
+Magical Adventure,stop,Thank you for playing Timeless Adventure.Goodbye.
+Magical Adventure,quit,
+Call Handler,"Alexa, open Call Handler",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Call Handler,Yes,What stock price would you like me to look up?
+Call Handler,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Call Handler,stop,O.K.
+Call Handler,quit,
+Newton Mail,"Alexa, open Newton Mail",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Newton Mail,Yes,What stock price would you like me to look up?
+Newton Mail,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Newton Mail,stop,O.K.
+Newton Mail,quit,
+The Instagram Stories Flash Briefing,"Alexa, open The Instagram Stories Flash Briefing",Here's your news.
+The Instagram Stories Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+The Instagram Stories Flash Briefing,stop,
+The Instagram Stories Flash Briefing,quit,
+Husseini Islamic Center,"Alexa, open Husseini Islamic Center",Welcome to the Husseini Islamic Center You can ask if the live stream is playing or what the program is today
+Husseini Islamic Center,help,"Please refer to the skill description for some examples of some things you can ask this skill. For example, what is the program today .. or .. is the live stream playing?"
+Husseini Islamic Center,stop,Thank You for using the H.I.C skill! .. Goodbye
+Husseini Islamic Center,quit,
+True Or False: Animal Edition,"Alexa, open True Or False: Animal Edition",<Short audio>
+True Or False: Animal Edition,help,"You are playing ‘True or False’, a fun game you can play alone or with friends. You can play from 1 up to 20 players. How many players would like to play this time?"
+True Or False: Animal Edition,stop,Thanks for playing True Or False.
+True Or False: Animal Edition,quit,
+My Community,"Alexa, open My Community",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+My Community,Yes,What stock price would you like me to look up?
+My Community,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+My Community,stop,O.K.
+My Community,quit,
+Date Night,"Alexa, open Date Night",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Date Night,Yes,What stock price would you like me to look up?
+Date Night,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Date Night,stop,O.K.
+Date Night,quit,
+Happy Wife,"Alexa, open Happy Wife",<Audio only response>
+Happy Wife,help,"For Help, please visit the help pages on the Amazon web site."
+Happy Wife,stop,
+Happy Wife,quit,
+Hashtag Roundup,"Alexa, open Hashtag Roundup",<Audio only response>
+Hashtag Roundup,help,"For Help, please visit the help pages on the Amazon web site."
+Hashtag Roundup,stop,
+Hashtag Roundup,quit,
+Three Day Rule's 30-Day Dating Challenge,"Alexa, open Three Day Rule's 30-Day Dating Challenge","Ok, Here's 30 Day Pushup Challenge"
+Three Day Rule's 30-Day Dating Challenge,help,"Welcome to 30 day pushup challenge. It doesn't look like you have any challenges currently running. Would you like to start a new challenge?. Each challenge lasts 30 days. By taking small incremental steps, you should be able to do 100 consecutive pushups at the end of the month. Say yes to begin a new challenge."
+Three Day Rule's 30-Day Dating Challenge,stop,
+Three Day Rule's 30-Day Dating Challenge,quit,
+True Or False: Sports Edition,"Alexa, open True Or False: Sports Edition",<Short audio>
+True Or False: Sports Edition,help,"You are playing ‘True or False’, a fun game you can play alone or with friends. You can play from 1 up to 20 players. How many players would like to play this time?"
+True Or False: Sports Edition,stop,Thanks for playing True Or False.
+True Or False: Sports Edition,quit,
+Lock Him Up,"Alexa, open Lock Him Up",<Audio only response>
+Lock Him Up,help,"For Help, please visit the help pages on the Amazon web site."
+Lock Him Up,stop,
+Lock Him Up,quit,
+What's Your Story?,"Alexa, open What's Your Story?",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+What's Your Story?,Yes,What stock price would you like me to look up?
+What's Your Story?,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+What's Your Story?,stop,O.K.
+What's Your Story?,quit,
+Ham Buffet,"Alexa, open Ham Buffet",You have Ham Lookup enabled. Do you want to open it?
+Ham Buffet,Yes,Ask me to lookup a US call sign
+Ham Buffet,help,Ask me to lookup a US call sign
+Ham Buffet,stop,Bye!
+Ham Buffet,quit,
+Daily Romantic Gesture,"Alexa, open Daily Romantic Gesture",Daily Romantic Gesture contains mature content that may not be suitable for all ages
+Daily Romantic Gesture,help,"For Help, please visit the help pages on the Amazon web site."
+Daily Romantic Gesture,stop,
+Daily Romantic Gesture,quit,
+Trump Lie of the Day,"Alexa, open Trump Lie of the Day","Welcome to Trumpdown unofficial. I can answer how many years, months, weeks, days, hours, minutes, or seconds until Donald Trump is out of office."
+Trump Lie of the Day,help,"I can answer how many years, months, weeks, days, hours, minutes, or seconds until Donald Trump is out of office."
+Trump Lie of the Day,stop,Sanity will be restored in 1 year 8 months 23 days 14 hours 24 minutes and 14 seconds
+Trump Lie of the Day,quit,
+Olabot,"Alexa, open Olabot",<Audio only response>
+Olabot,help,"For Help, please visit the help pages on the Amazon web site."
+Olabot,stop,
+Olabot,quit,
+Forever Recognize Others' Greatness,"Alexa, open Forever Recognize Others' Greatness",<Audio only response>
+Forever Recognize Others' Greatness,help,"For Help, please visit the help pages on the Amazon web site."
+Forever Recognize Others' Greatness,stop,
+Forever Recognize Others' Greatness,quit,
+Guest Reception,"Alexa, open Guest Reception",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Guest Reception,Yes,What stock price would you like me to look up?
+Guest Reception,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Guest Reception,stop,O.K.
+Guest Reception,quit,
+Slack with Voice,"Alexa, open Slack with Voice",Hello. Welcome to Slack with Voice! I am an unofficial Voice User Interface for Slack. You can send and read Slack messages directly from here. Comeback once you've linked your Slack account using the card I just sent to your Alexa app.
+Slack with Voice,help,"For Help, please visit the help pages on the Amazon web site."
+Slack with Voice,stop,
+Slack with Voice,quit,
+Starfish Me,"Alexa, open Starfish Me",<Audio only response>
+Starfish Me,help,"For Help, please visit the help pages on the Amazon web site."
+Starfish Me,stop,
+Starfish Me,quit,
+Message Board,"Alexa, open Message Board",You have Chessboard enabled. Do you want to open it?
+Message Board,Yes,Let's play Chess. Resuming an existing gameThe board is on your display
+Message Board,help,"This is a chess game. You make a move by saying, for example: Move Pawn to d 4 Need time to think? No problem. I remember your current game. You may also ask me to Restart game or undo last move You can watch the game board in the Alexa app or at alexa or on the display if your device has oneYou can say I want a tipTo start playing, please say your move. For example, say pawn to E4."
+Message Board,stop,au revoir
+Message Board,quit,
+Grandmother Names,"Alexa, open Grandmother Names",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Grandmother Names,Yes,What stock price would you like me to look up?
+Grandmother Names,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Grandmother Names,stop,O.K.
+Grandmother Names,quit,
+Roger and Anne,"Alexa, open Roger and Anne",<Audio only response>
+Roger and Anne,help,"For Help, please visit the help pages on the Amazon web site."
+Roger and Anne,stop,
+Roger and Anne,quit,
+Toymail Talkie,"Alexa, open Toymail Talkie",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Toymail Talkie,Yes,What stock price would you like me to look up?
+Toymail Talkie,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Toymail Talkie,stop,O.K.
+Toymail Talkie,quit,
+Cafe On Ice,"Alexa, open Cafe On Ice",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Cafe On Ice,Yes,What stock price would you like me to look up?
+Cafe On Ice,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Cafe On Ice,stop,O.K.
+Cafe On Ice,quit,
+complaint listener,"Alexa, open complaint listener",What is wrong today?
+complaint listener,help,"You can complain to me about your day, job, or life and I will listen to you. Or you can say exit... What can I help you with?"
+complaint listener,stop,Goodbye!
+complaint listener,quit,
+Mail Reader,"Alexa, open Mail Reader","Sorry, I'm having trouble accessing your Mail Reader skill right now"
+Mail Reader,help,"For Help, please visit the help pages on the Amazon web site."
+Mail Reader,stop,
+Mail Reader,quit,
+Encircle Together,"Alexa, open Encircle Together",<Audio only response>
+Encircle Together,help,"For Help, please visit the help pages on the Amazon web site."
+Encircle Together,stop,
+Encircle Together,quit,
+Juke Box,"Alexa, open Juke Box",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Juke Box,Yes,What stock price would you like me to look up?
+Juke Box,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Juke Box,stop,O.K.
+Juke Box,quit,
+Meetup,"Alexa, open Meetup",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Meetup,Yes,What stock price would you like me to look up?
+Meetup,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Meetup,stop,O.K.
+Meetup,quit,

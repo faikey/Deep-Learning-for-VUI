@@ -1,0 +1,928 @@
+name,question,response
+Word of the Day Flash Briefing,"Alexa, open Word of the Day Flash Briefing","Word of the Day Flash Briefing is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Word of the Day Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Word of the Day Flash Briefing,stop,
+Word of the Day Flash Briefing,quit,
+Translated,"Alexa, open Translated",Welcome to Translated skill. What do you want to translate?
+Translated,help,"With the Translated skill you can translate sentences from English into 36 languages and listen to the correct pronunciation.Say the phrase you want to translate and the language you would like to translate it into. For example, say ""Translate How are you in Japanese"" and I'll translate it for you! What’s more, you can ask the Translated skill to pronounce the translation more slowly or to repeat it. Brought to you by Translated.net, quick and easy professional translation services. What would you like to translate?"
+Translated,stop,Hear you soon! Bye now!
+Translated,quit,
+Zoo Keeper,"Alexa, open Zoo Keeper",Welcome to Zookeeper. Say the name of an animal or ask for help
+Zoo Keeper,help,"I currently know 39 animals. Here are some examples: raccoon, elk, goose, jaguar. Say the name of one."
+Zoo Keeper,stop,Thanks for talking to Zookeeper
+Zoo Keeper,quit,
+1-2-3 Math,"Alexa, open 1-2-3 Math","Welcome Back! Please select a difficulty-level, Easy, Medium or, Hard ?"
+1-2-3 Math,help,Please select a help topic
+1-2-3 Math,stop,Thank you for playing 123 Math. Please give us a five star rating if you like our skill.
+1-2-3 Math,quit,
+The Bible,"Alexa, open The Bible",Welcome to YouVersion Bible. What can I read for you?
+The Bible,help,"YouVersion Bible is completely free, and lets you listen to any book, chapter, or verse. You can also listen to daily readings from YouVersion reading plans. Other features include being able to change versions, and ask for the verse of the day. What would you like me to read?"
+The Bible,stop,
+The Bible,quit,
+Cat Facts,"Alexa, open Cat Facts",Here's your Cat Fact! A healthy cat has a temperature between 38 and 39 degrees Celsius.
+Cat Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Cat Facts,stop,
+Cat Facts,quit,
+Math Facts - Math Practice for Kids,"Alexa, open Math Facts - Math Practice for Kids",What kind of problem would you like to practice?
+Math Facts - Math Practice for Kids,help,"Each time you open Math Facts, I'll ask you a few problems. Try asking for some addition problems."
+Math Facts - Math Practice for Kids,stop,"Okay, let's stop."
+Math Facts - Math Practice for Kids,quit,
+Spanish Word of the Day,"Alexa, open Spanish Word of the Day",
+Spanish Word of the Day,help,"For Help, please visit the help pages on the Amazon web site."
+Spanish Word of the Day,stop,
+Spanish Word of the Day,quit,
+This Day in History,"Alexa, open This Day in History",Welcome back to this day in History. From history.com. What month and day would you like to hear about?
+This Day in History,help,"The History skill can tell you about events that happened today or any other day in history. You can say things like tomorrow, or June 6th. What month and day would you like to hear about?"
+This Day in History,stop,Goodbye.
+This Day in History,quit,
+Animal Rescue,"Alexa, open Animal Rescue",<Short audio>
+Animal Rescue,help,<Short audio>
+Animal Rescue,stop,<Short audio>
+Animal Rescue,quit,
+Curiosity,"Alexa, open Curiosity",Hi.Are you curious about volcanoes? or whales.
+Curiosity,help,"To choose one of the subjects presented by Curiosity, you should say the name of the subject. You can also say ""neither"" for two brand new choices."
+Curiosity,stop,Thanks for being curious!
+Curiosity,quit,
+Interesting? | Quirky and Interesting Facts,"Alexa, open Interesting? | Quirky and Interesting Facts",
+Interesting? | Quirky and Interesting Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Interesting? | Quirky and Interesting Facts,stop,
+Interesting? | Quirky and Interesting Facts,quit,
+Holy Quraan,"Alexa, open Holy Quraan",Welcome to Holy Qura'an Voice App Now you can create a playlist select additional reciters or a translation language you may request to play a Chapter by telling me the Chapter's reference number. try saying play chapter one for Chapter The opening or say Help for more details
+Holy Quraan,help,"Welcome to the Help section. Now you can create a playlist select additional reciters or a translation language to create a playlist while a chapter is playing ask Alexa the following ask holy quraan to add to my playlist and when you are done adding your chapters to your playlist you can ask alexa to play your playlist by saying alexa ask holy quraan to play my playlist to select another reciter you can ask alexa the following ask holy quraan to select reciter one or eight you have a total of eight reciters now! to view the list of reciters you can ask me the following ask holy quraan to list reciters for translation you can ask alexa the following ask holy quraan to translate to English or to Urdu, currently we have added support for English and Urdu translation if you would like me to add another translation language please suggest it at the skill comment section, please check the skill description for further details Thank you."
+Holy Quraan,stop,
+Holy Quraan,quit,
+NASA Mars,"Alexa, open NASA Mars","Welcome to NASA Mars. You can ask me questions about Mars like, how big is Mars? Or, give me a curiosity rover update."
+NASA Mars,help,"Welcome to NASA Mars. You can ask me questions about Mars like, how big is Mars? Or, give me a curiosity rover update."
+NASA Mars,stop,
+NASA Mars,quit,
+Examining the Scriptures Daily,"Alexa, open Examining the Scriptures Daily","Examining the Scriptures Daily is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Examining the Scriptures Daily,help,"For Help, please visit the help pages on the Amazon web site."
+Examining the Scriptures Daily,stop,
+Examining the Scriptures Daily,quit,
+Animal Sounds,"Alexa, open Animal Sounds","hey there, what animal sound would you like to hear?"
+Animal Sounds,help,"Ask me for an animal noise, try sheep, cow or lion to get started, or just say random."
+Animal Sounds,stop,all righty
+Animal Sounds,quit,
+Brainy Bee,"Alexa, open Brainy Bee","Welcome to Brainy Bee. What kind of challenge would you like, Math, Science or Vocabulary?"
+Brainy Bee,help,Brainy Bee will ask you questions on the subject of your choice. If you dont know the answer you can say I dont know. To start a new quiz any time say Lets start over. To repeat the last question asked say Repeat. How may I help you?
+Brainy Bee,stop,"I hope you had as much fun as I did. Let's play again soon! . Thanks for playing Brainy Bee. Try out our new skill Fact or Fib. It's a challenging game of True or False. Say, Alexa, enable Fact or Fib skill. Or search Fact or Fib in your Alexa app to start playing."
+Brainy Bee,quit,
+Verse of the Day,"Alexa, open Verse of the Day",
+Verse of the Day,help,"Help? I thought you'd never ask! Verse-A-Day provides a new, hand selected Bible verse every day. 7 days a week, 365 days a year. You can also ask for past day's verses just in case you missed one. Verses for up to 7 days prior are available. To hear a day's verse simply ask for it with a phrase like yesterday's verse or the verse for 12/25/2016 assuming the date you use is within the last 7 days of course. To exit Verse-A-Day at any time, simply say Alexa, stop or cancel. Now that you're familiar with the Verse-A-Day functionality, what day's verse would you like to hear?"
+Verse of the Day,stop,
+Verse of the Day,quit,
+This Day in History Top Story,"Alexa, open This Day in History Top Story",You have This Day in History enabled. Do you want to open it?
+This Day in History Top Story,Yes,Welcome back to this day in History. From history.com. What month and day would you like to hear about?
+This Day in History Top Story,help,"The History skill can tell you about events that happened today or any other day in history. You can say things like tomorrow, or June 6th. What month and day would you like to hear about?"
+This Day in History Top Story,stop,Goodbye.
+This Day in History Top Story,quit,
+Word of the Day,"Alexa, open Word of the Day","Welcome to Today's Word of the Day... Ask me for a word, or ask for a literary fact."
+Word of the Day,help,"I'm an AI vocabulary assistant made by UC Berkeley and UCLA graduates to make you smarter. I can run at different levels, either to help new English learners or to boost native speakers who want advanced vocabulary. Ask me for a word. Or, ask for a literary fact."
+Word of the Day,stop,Come back later to get a new word or literary fact!
+Word of the Day,quit,
+Unofficial YouTube Playlist Creator,"Alexa, open Unofficial YouTube Playlist Creator","Welcome to YouTube playlist creator. Please tell me what topic you want by saying, find videos about, and a topic."
+Unofficial YouTube Playlist Creator,help,"You can start by telling me what topic you want by saying, find videos about, and a topic."
+Unofficial YouTube Playlist Creator,stop,"OK, goodbye!"
+Unofficial YouTube Playlist Creator,quit,
+Rosetta Stone,"Alexa, open Rosetta Stone","Welcome to Rosetta Stone! What language would you like to learn? Choose from german, spanish, french, italian, japanese, portuguese, russian"
+Rosetta Stone,help,"Choose from german, spanish, french, italian, japanese, portuguese, russian"
+Rosetta Stone,stop,"Choose from german, spanish, french, italian, japanese, portuguese, russian"
+Rosetta Stone,quit,
+True or False for Family,"Alexa, open True or False for Family",<Audio only response>
+True or False for Family,help,"For Help, please visit the help pages on the Amazon web site."
+True or False for Family,stop,
+True or False for Family,quit,
+The Listeners,"Alexa, open The Listeners","Welcome. Whoever you are. We are listening to you. In as much as we are with you, it is a pleasure. It is Such a pleasure. It is such a pleasure to be with you. Always. A pleasure. You might always tell us to: 'Keep going', or 'Go on'. You can describe your feelings, by speaking the words: 'I am filled with,' and then one of the nine affects, that is, a name for one of the nine feelings. Or, you can ask us how we feel. Or, you can ask us to 'speak', office, art, clouds, echoes. Or, you could say, 'Winter is coming.'"
+The Listeners,help,"You might always ask us to: 'Keep going', or 'Go on'. You can inform us of your feelings, by speaking the words: 'I am feeling,' and then one of the nine affects. Or, you could ask us how we feel, ourselves."
+The Listeners,stop,"We are sorry, in the end, to know that you are possessed by fear. And now, you must abandon us."
+The Listeners,quit,
+Short Bedtime Stories,"Alexa, open Short Bedtime Stories",<Audio only response>
+Short Bedtime Stories,help,"For Help, please visit the help pages on the Amazon web site."
+Short Bedtime Stories,stop,
+Short Bedtime Stories,quit,
+Brain Facts,"Alexa, open Brain Facts","Here's your fact : A baby's brain can use up to 50% of the total glucose supply, which may help explain why babies need so much sleep.: Would you like to hear another fact?"
+Brain Facts,help,"You can say tell me a brain fact, or, you can say Cancel or Stop. If you want to keep hearing facts, you could say yes... What can I help you with?"
+Brain Facts,stop,See you!
+Brain Facts,quit,
+Multiplication Quiz,"Alexa, open Multiplication Quiz","Welcome to Multiplication Quiz! Lets define the range of numbers you want to multiply. For example, if you want to multiply numbers between one and ten, say, ""one and ten""."
+Multiplication Quiz,help,"Before the quiz beings, you must define the range of numbers that will be used in the quiz. If you would like to multiply numbers between 5 and 15, say, ""5 and 15"""
+Multiplication Quiz,stop,Goodbye!
+Multiplication Quiz,quit,
+Chineasy - Learn Chinese With Ease,"Alexa, open Chineasy - Learn Chinese With Ease",
+Chineasy - Learn Chinese With Ease,help,"For Help, please visit the help pages on the Amazon web site."
+Chineasy - Learn Chinese With Ease,stop,
+Chineasy - Learn Chinese With Ease,quit,
+The Scriptures,"Alexa, open The Scriptures","Welcome to the Scriptures skill. I can read inspirational scriptures to you. You can say things like, read a scripture, give me inspiration, read Luke chapter 2, or how many chapters are in Genesis? What would you like me to do?"
+The Scriptures,help,"You can say things like, please read a scripture, give me inspiration, read Luke chapter 2, or how many chapters are in Genesis? What would you like me to do?"
+The Scriptures,stop,Goodbye
+The Scriptures,quit,
+Pronunciations,"Alexa, open Pronunciations",
+Pronunciations,help,"For Help, please visit the help pages on the Amazon web site."
+Pronunciations,stop,
+Pronunciations,quit,
+Learn Spanish,"Alexa, open Learn Spanish",The following are 50 common Spanish expressions. Hi!
+Learn Spanish,help,With these popular Spanish expressions you will learn how to communicate with others. After you listen to all the expressions you can test your knowledge in a contest to recognize the different Spanish expressions I have available. So. Would you like to continue?
+Learn Spanish,stop,"Ok, feel free to reach out to me to play more Spanish expressions. Goodbye."
+Learn Spanish,quit,
+World Geography Quiz,"Alexa, open World Geography Quiz","World Geography Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What is Japan's highest Point? 1. Mount Fuji. 2. Mount Kato. 3. Mount Lum. 4. Mount Apo."
+World Geography Quiz,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. To quit, say, stop. Do you want to keep playing?"
+World Geography Quiz,stop,Good bye!
+World Geography Quiz,quit,
+Curiosity Daily from Curiosity.com,"Alexa, open Curiosity Daily from Curiosity.com",
+Curiosity Daily from Curiosity.com,help,"Welcome to NASA Mars. You can ask me questions about Mars like, how big is Mars? Or, give me a curiosity rover update."
+Curiosity Daily from Curiosity.com,stop,
+Curiosity Daily from Curiosity.com,quit,
+Watch TV with Stream Player,"Alexa, open Watch TV with Stream Player","This channel is not available or I might have misunderstood you. Please say for example ""start abc news"" or ""start channel one"". Please try again."
+Watch TV with Stream Player,help,"You can say „start“ followed by the channels name, for example say ""watch abc news"" or ""start channel one"". To see what channels are available please take a look at the skill description in your alexa app. What would you like to do?"
+Watch TV with Stream Player,stop,Have a nice day. Please rate this skill in the Skill store if you want. I would appreciate it.
+Watch TV with Stream Player,quit,
+Amazon Math,"Alexa, open Amazon Math","Welcome back to Amazon Storytime. You can ask for your favorite set of stories by name, choose what type of story you'd like, or give the magic story wheel a spin. Say, , Bedtime, Animals or spin."
+Amazon Math,help,"The Amazon Storytime skill plays short stories from the Amazon Storytime and Audible libraries. While you are listening, you can say “restart” to restart, “go back” to go back by ten seconds, or “next” to skip to the next story. At any time, you can switch to a different sets of stories. Just say, “Alexa, open Amazon Storytime”."
+Amazon Math,stop,
+Amazon Math,quit,
+World Mathematics League,"Alexa, open World Mathematics League","Sorry, I'm not sure."
+World Mathematics League,help,"For Help, please visit the help pages on the Amazon web site."
+World Mathematics League,stop,
+World Mathematics League,quit,
+smart plug,"Alexa, open smart plug","Sorry, I don't know that one."
+smart plug,help,"For Help, please visit the help pages on the Amazon web site."
+smart plug,stop,
+smart plug,quit,
+Bird Song,"Alexa, open Bird Song","Hmm, I don't know that one."
+Bird Song,help,"For Help, please visit the help pages on the Amazon web site."
+Bird Song,stop,
+Bird Song,quit,
+Tide,"Alexa, open Tide","Welcome to tide guide. I can give you the high and low tide times for many coastal locations. Supported phrases include: What are the high tides for Santa Barbara? What are the tides for Los Angeles on Tuesday? What is the next low tide in Boston? and set my default city and state to Miami, Florida. If you set a default city and state you simply have to say, What are the tides today. Which city or location would you like the tide report for?"
+Tide,help,"Tide guide is a skill that will give you the high and low tide for a specific coastal location. If tide guide cannot find the specified location, it will try to find a know location within 100 miles. Supported phrases include: What are the high tides for Santa Barbara? What are the tides for Los Angeles on Tuesday? What is the next low tide in Boston? and set my default city and state to Miami, Florida. If you set a default city and state you simply have to say, What are the tides today. Which city or location would you like the tide report for?"
+Tide,stop,Goodbye
+Tide,quit,
+I'm Bored,"Alexa, open I'm Bored",
+I'm Bored,help,"For Help, please visit the help pages on the Amazon web site."
+I'm Bored,stop,
+I'm Bored,quit,
+The Ohio State Skill,"Alexa, open The Ohio State Skill","Welcome to The Ohio State University's Echo Skill. To learn what I can do, ask Ohio State what it can do. How can I help you?"
+The Ohio State Skill,help,"I can answer questions in athletics, calendar, dining, events, and I can also tell jokes. What would you like help with?"
+The Ohio State Skill,stop,Goodbye
+The Ohio State Skill,quit,
+Police Scanner Codes,"Alexa, open Police Scanner Codes",Here's your police scanner code: 10 9 means Repeat message
+Police Scanner Codes,help,"For Help, please visit the help pages on the Amazon web site."
+Police Scanner Codes,stop,
+Police Scanner Codes,quit,
+Overwatch Counters,"Alexa, open Overwatch Counters","Hmm, I'm not sure."
+Overwatch Counters,help,"For Help, please visit the help pages on the Amazon web site."
+Overwatch Counters,stop,
+Overwatch Counters,quit,
+Today's Teaching Tips,"Alexa, open Today's Teaching Tips","Today's Teaching Tips is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Today's Teaching Tips,help,"For Help, please visit the help pages on the Amazon web site."
+Today's Teaching Tips,stop,
+Today's Teaching Tips,quit,
+SAT Word of the Day,"Alexa, open SAT Word of the Day",<Short audio>
+SAT Word of the Day,help,"For Help, please visit the help pages on the Amazon web site."
+SAT Word of the Day,stop,
+SAT Word of the Day,quit,
+Car Trivia,"Alexa, open Car Trivia","Welcome to Car Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. How much horse power did the first Porsche 911 have? 1. 130 Horsepower. 2. 35 Horsepower. 3. 180 Horsepower. 4. 90 Horsepower."
+Car Trivia,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Car Trivia,stop,Would you like to keep playing?
+Car Trivia,quit,
+SayHi Language Learning,"Alexa, open SayHi Language Learning",Welcome to the Say Hi Language Learning Skill.Would you like to learn a language?
+SayHi Language Learning,help,
+SayHi Language Learning,stop,See you soon!
+SayHi Language Learning,quit,
+Aircraft Radar,"Alexa, open Aircraft Radar","Please enable Device Address permissions for the Aircraft Radar skill, in the Amazon Alexa app."
+Aircraft Radar,help,"For Help, please visit the help pages on the Amazon web site."
+Aircraft Radar,stop,
+Aircraft Radar,quit,
+Calendar Bird,"Alexa, open Calendar Bird","Sorry, I'm not sure."
+Calendar Bird,help,"For Help, please visit the help pages on the Amazon web site."
+Calendar Bird,stop,
+Calendar Bird,quit,
+My Air Quality,"Alexa, open My Air Quality",Welcome to Air Quality Ask me for a forecast by saying: get me the forecast for 07753
+My Air Quality,help,The Air Quality skill provides air quality forecasts for US zip codesThe reports are provided by the United States Environmental Protection AgencyYou can request a forecast by saying get me the forecast for 07753
+My Air Quality,stop,Good bye!
+My Air Quality,quit,
+Spanish Numbers,"Alexa, open Spanish Numbers",
+Spanish Numbers,help,"For Help, please visit the help pages on the Amazon web site."
+Spanish Numbers,stop,
+Spanish Numbers,quit,
+Wikipedia Online Encyclopedia (Unofficial),"Alexa, open Wikipedia Online Encyclopedia (Unofficial)",Wikipedia Online Encyclopedia (Unofficial) contains mature content that may not be suitable for all ages
+Wikipedia Online Encyclopedia (Unofficial),help,"For Help, please visit the help pages on the Amazon web site."
+Wikipedia Online Encyclopedia (Unofficial),stop,
+Wikipedia Online Encyclopedia (Unofficial),quit,
+Learn Italian,"Alexa, open Learn Italian",The following are 50 common Spanish expressions. Hi!
+Learn Italian,help,With these popular Spanish expressions you will learn how to communicate with others. After you listen to all the expressions you can test your knowledge in a contest to recognize the different Spanish expressions I have available. So. Would you like to continue?
+Learn Italian,stop,"Ok, feel free to reach out to me to play more Spanish expressions. Goodbye."
+Learn Italian,quit,
+Vocabulary Word,"Alexa, open Vocabulary Word","Since this is the weekend, there is no new vocabulary word of the day. Friday's vocabulary word was: bareboned. adjective: Lean; spare; gaunt. bareboned is spelled: b. a. r. e. b. o. n. e. d. . You can also say Ask Vocabulary Word of the Day, Week. To review all the words for the week."
+Vocabulary Word,help,"Welcome to Vocabulary Word of the Day. Each weekday we present a unique vocabulary word. You can use the following commands: Today - to hear today's word. Yesterday - to hear yesterday's word. Week - to hear all the words for the current week. Please say: Today, Yesterday, Week, or Exit."
+Vocabulary Word,stop,Goodbye!
+Vocabulary Word,quit,
+Call Sign,"Alexa, open Call Sign","What US call sign would you like me to lookup? For example, say W A 1 W or Whiskey 1 Alpha Whiskey."
+Call Sign,help,"This skill looks up information for US ham radio call signs only, and understands the regular and phonetic alphabets. To get basic name, class, and location information, just give me a call sign. For example you can say Alexa, ask call sign W 1 A W or, Alexa, ask call sign Whiskey 1 Alpha Whiskey. To get additional information such as latitude, longitude, and license expiration date, say Alexa, Ask Call sign tell me everything about W 1 A W. What US call sign should I look up?"
+Call Sign,stop,"OK, goodbye."
+Call Sign,quit,
+HAM Radio Propagation Forecast,"Alexa, open HAM Radio Propagation Forecast",
+HAM Radio Propagation Forecast,help,"For Help, please visit the help pages on the Amazon web site."
+HAM Radio Propagation Forecast,stop,
+HAM Radio Propagation Forecast,quit,
+JW.ORG What's New,"Alexa, open JW.ORG What's New",Here's your news.
+JW.ORG What's New,help,"For Help, please visit the help pages on the Amazon web site."
+JW.ORG What's New,stop,
+JW.ORG What's New,quit,
+Canvas,"Alexa, open Canvas",You need to login with Canvas to use this skill.
+Canvas,help,"For Help, please visit the help pages on the Amazon web site."
+Canvas,stop,
+Canvas,quit,
+Glamazon Pride Facts,"Alexa, open Glamazon Pride Facts",Here's a pride fact brought to you by the Human Rights Campaign:
+Glamazon Pride Facts,help,"You can say tell me a pride fact, or, you can say exit... What can I help you with?"
+Glamazon Pride Facts,stop,
+Glamazon Pride Facts,quit,
+language teacher,"Alexa, open language teacher","Greetings! You can ask Language Teacher to say something in different languages, or you can say ""Help"" to learn more."
+language teacher,help,"You can ask Language Teacher to say something in different languages. For example, you can say: ""Ask Language Teacher to say Hello"", or ""Ask Language Teacher to repeat"" to listen to the translation again. To set the language - just say: ""Ask Language Teacher to set the language to Japanese"". What do you want to do?"
+language teacher,stop,Bye!
+language teacher,quit,
+Donkey Kong Facts,"Alexa, open Donkey Kong Facts",
+Donkey Kong Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Donkey Kong Facts,stop,
+Donkey Kong Facts,quit,
+Bible Readings,"Alexa, open Bible Readings",Welcome to YouVersion Bible. What can I read for you?
+Bible Readings,help,"YouVersion Bible is completely free, and lets you listen to any book, chapter, or verse. You can also listen to daily readings from YouVersion reading plans. Other features include being able to change versions, and ask for the verse of the day. What can I read for you?"
+Bible Readings,stop,
+Bible Readings,quit,
+Phone Locator,"Alexa, open Phone Locator",You have Life360 enabled. Do you want to open it?
+Phone Locator,Yes,"Welcome to Life360. You can ask me to tell you where your whole family is, or ask for a family member by name. You can say help at anytime."
+Phone Locator,help,"You can ask where is my family or what is my current circle. If you add your favorite places to Life360, like home, work, or school, Alexa can also send you notifications telling you when your family members come and go. What can I do for you?"
+Phone Locator,stop,Thanks for using Life360.
+Phone Locator,quit,
+Bob Ross Quote of the Day,"Alexa, open Bob Ross Quote of the Day",<Audio only response>
+Bob Ross Quote of the Day,help,"For Help, please visit the help pages on the Amazon web site."
+Bob Ross Quote of the Day,stop,
+Bob Ross Quote of the Day,quit,
+Bored kids,"Alexa, open Bored kids","Sorry, I’m not sure about that."
+Bored kids,help,"For Help, please visit the help pages on the Amazon web site."
+Bored kids,stop,
+Bored kids,quit,
+Bamboo Math,"Alexa, open Bamboo Math",Welcome back to Bamboo Math. You are on addition level 1. Ready?
+Bamboo Math,help,"What would you like to do? You can say 'easier' or 'harder' to change difficulty, 'switch operations' for different types of problems, or just say 'yes' to begin."
+Bamboo Math,stop,"Goodbye and thank you. If you are enjoying Bamboo Math, please consider giving Bamboo Math a positive rating in the Alexa Skills Store on Amazon.com."
+Bamboo Math,quit,
+Word of the Day - Daily Vocabulary Flash Briefing,"Alexa, open Word of the Day - Daily Vocabulary Flash Briefing",I found a few matches for that.
+Word of the Day - Daily Vocabulary Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Word of the Day - Daily Vocabulary Flash Briefing,stop,
+Word of the Day - Daily Vocabulary Flash Briefing,quit,
+Read the Book of Mormon This Year,"Alexa, open Read the Book of Mormon This Year",I couldn't find mormon this year.
+Read the Book of Mormon This Year,help,"For Help, please visit the help pages on the Amazon web site."
+Read the Book of Mormon This Year,stop,
+Read the Book of Mormon This Year,quit,
+Animal Sounds,"Alexa, open Animal Sounds","aloha, what animal sound would you like to hear?"
+Animal Sounds,help,"Ask me for an animal noise, try sheep, cow or lion to get started, or just say random."
+Animal Sounds,stop,righto
+Animal Sounds,quit,
+Kids Animal Sounds,"Alexa, open Kids Animal Sounds","hey, what animal sound would you like to hear?"
+Kids Animal Sounds,help,"Ask me for an animal noise, try sheep, cow or lion to get started, or just say random."
+Kids Animal Sounds,stop,righto
+Kids Animal Sounds,quit,
+English to Spanish Translator,"Alexa, open English to Spanish Translator",You have Spanish Word of the Day enabled. Do you want to open it?
+English to Spanish Translator,Yes,<Short audio>
+English to Spanish Translator,help,"For Help, please visit the help pages on the Amazon web site."
+English to Spanish Translator,stop,
+English to Spanish Translator,quit,
+Do Nothing,"Alexa, open Do Nothing",<Audio only response>
+Do Nothing,help,"For Help, please visit the help pages on the Amazon web site."
+Do Nothing,stop,
+Do Nothing,quit,
+Catholic Daily,"Alexa, open Catholic Daily","Welcome to Catholic Daily. Today is Saturday, April 13, 2019, Saturday of the Fifth Week of Lent. To get started you can say, daily readings. Or, daily gospel."
+Catholic Daily,help,"Catholic Daily allows you to listen to the readings from the Roman Catholic Lectionary for Mass. You can hear all the readings for a single day, or the gospel alone. You can also choose readings for a different day if they are available. If no date is specified, the service returns readings for today’s date based on U.S. Pacific Standard Time. Here are some prompts you can try: I want to hear the readings for today. Read me the gospel. Give me the readings for July 17, 2016. Give it a try."
+Catholic Daily,stop,Thank you for using Catholic Daily. Be sure to come back tomorrow!
+Catholic Daily,quit,
+Language Tutor,"Alexa, open Language Tutor","Greetings! You can ask Language Teacher to say something in different languages, or you can say ""Help"" to learn more."
+Language Tutor,help,"You can ask Language Teacher to say something in different languages. For example, you can say: ""Ask Language Teacher to say Hello"", or ""Ask Language Teacher to repeat"" to listen to the translation again. To set the language - just say: ""Ask Language Teacher to set the language to Japanese"". What do you want to do?"
+Language Tutor,stop,Bye!
+Language Tutor,quit,
+My ABC,"Alexa, open My ABC","Ok, Here's StockTicker"
+My ABC,help,"I can help you get the latest price for a stock. You can simply open Stock Ticker and ask a question like, What's the stock price for Amazon. Or you can say exit to quit this skill. There maybe times where I have trouble recognizing or looking up a Company's name. For these cases, I am able to look up stock symbols as well. For stock symbol lookups, just replace the company name with the symbol, like, What's the stock price for GOOGL. Now, what company should I look up?"
+My ABC,stop,Goodbye!
+My ABC,quit,
+Stephen King Library,"Alexa, open Stephen King Library",Starting your most recently added audiobook.
+Stephen King Library,help,"For Help, please visit the help pages on the Amazon web site."
+Stephen King Library,stop,
+Stephen King Library,quit,
+Daily Dose by Innovative Language,"Alexa, open Daily Dose by Innovative Language",
+Daily Dose by Innovative Language,help,"For Help, please visit the help pages on the Amazon web site."
+Daily Dose by Innovative Language,stop,
+Daily Dose by Innovative Language,quit,
+Read the New Testament This Year,"Alexa, open Read the New Testament This Year",I couldn't find Esther (A Dangerous Beauty Novel Book #1): Royal Beauty in your Kindle library.You can buy it on amazon.com
+Read the New Testament This Year,help,"For Help, please visit the help pages on the Amazon web site."
+Read the New Testament This Year,stop,
+Read the New Testament This Year,quit,
+Wikipedia,"Alexa, open Wikipedia",<Audio only response>
+Wikipedia,help,"For Help, please visit the help pages on the Amazon web site."
+Wikipedia,stop,
+Wikipedia,quit,
+Lottery Jackpot,"Alexa, open Lottery Jackpot","Sorry, I’m not sure about that."
+Lottery Jackpot,help,"For Help, please visit the help pages on the Amazon web site."
+Lottery Jackpot,stop,
+Lottery Jackpot,quit,
+Quran,"Alexa, open Quran","Ok, Here's Holy Quraan"
+Quran,help,"Welcome to the Help section. Now you can create a playlist select additional reciters or a translation language to create a playlist while a chapter is playing ask Alexa the following ask holy quraan to add to my playlist and when you are done adding your chapters to your playlist you can ask alexa to play your playlist by saying alexa ask holy quraan to play my playlist to select another reciter you can ask alexa the following ask holy quraan to select reciter one or eight you have a total of eight reciters now! to view the list of reciters you can ask me the following ask holy quraan to list reciters for translation you can ask alexa the following ask holy quraan to translate to English or to Urdu, currently we have added support for English and Urdu translation if you would like me to add another translation language please suggest it at the skill comment section, please check the skill description for further details Thank you."
+Quran,stop,
+Quran,quit,
+Fortnite Buddy,"Alexa, open Fortnite Buddy","Welcome to Ask My Buddy, Who would you like to alert ?"
+Fortnite Buddy,help,"To send an alert just say alert and a name from your contact list or, just say alert and I will guide you, You can also just say, send help, To alert everyone in your list. Would you like to send an alert?"
+Fortnite Buddy,stop,Goodbye
+Fortnite Buddy,quit,
+Ham Lookup,"Alexa, open Ham Lookup",Ask me to lookup a US call sign
+Ham Lookup,help,Ask me to lookup a US call sign
+Ham Lookup,stop,Bye!
+Ham Lookup,quit,
+Daily Quotes,"Alexa, open Daily Quotes",This quote's from Thomas Jefferson
+Daily Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Daily Quotes,stop,
+Daily Quotes,quit,
+JOHNSON'S Bedtime,"Alexa, open JOHNSON'S Bedtime",What is your name?
+JOHNSON'S Bedtime,help,"To play The Short Bedtime Story, just say a name. What is your name?"
+JOHNSON'S Bedtime,stop,Bye bye.
+JOHNSON'S Bedtime,quit,
+School Leadership Series,"Alexa, open School Leadership Series",<Audio only response>
+School Leadership Series,help,"For Help, please visit the help pages on the Amazon web site."
+School Leadership Series,stop,
+School Leadership Series,quit,
+Daily Zen: A little moment of clarity,"Alexa, open Daily Zen: A little moment of clarity",<Audio only response>
+Daily Zen: A little moment of clarity,help,"For Help, please visit the help pages on the Amazon web site."
+Daily Zen: A little moment of clarity,stop,
+Daily Zen: A little moment of clarity,quit,
+Life Hacks,"Alexa, open Life Hacks",Here's your tip: Tie a small piece of bright-colored fabric to your luggage. Saves a lot of time to check if its your bag or not.
+Life Hacks,help,"For Help, please visit the help pages on the Amazon web site."
+Life Hacks,stop,
+Life Hacks,quit,
+wikiHow,"Alexa, open wikiHow",Hi! Ask me how to do anything.
+wikiHow,help,"Hi! You can ask me how to do anything. For example try asking, ""how do I make french toast without milk?"""
+wikiHow,stop,"Thanks for using wikihow. You can always ask another question later by saying, open wikihow"
+wikiHow,quit,
+Catholic Prayers,"Alexa, open Catholic Prayers","Welcome to Catholic Daily. Today is Saturday, April 13, 2019, Saturday of the Fifth Week of Lent. To get started you can say, daily readings. Or, daily gospel."
+Catholic Prayers,help,"Catholic Daily allows you to listen to the readings from the Roman Catholic Lectionary for Mass. You can hear all the readings for a single day, or the gospel alone. You can also choose readings for a different day if they are available. If no date is specified, the service returns readings for today’s date based on U.S. Pacific Standard Time. Here are some prompts you can try: I want to hear the readings for today. Read me the gospel. Give me the readings for July 17, 2016. Give it a try."
+Catholic Prayers,stop,Thank you for using Catholic Daily. Be sure to come back tomorrow!
+Catholic Prayers,quit,
+The Book of Mormon,"Alexa, open The Book of Mormon","Here's a sample of The Book of Mormon from Audible. To get this book using one Audible credit, say buy this. You have one Audible credit."
+The Book of Mormon,help,"For Help, please visit the help pages on the Amazon web site."
+The Book of Mormon,stop,
+The Book of Mormon,quit,
+Read the Old Testament This Year,"Alexa, open Read the Old Testament This Year","Sorry, I'm not sure."
+Read the Old Testament This Year,help,"For Help, please visit the help pages on the Amazon web site."
+Read the Old Testament This Year,stop,
+Read the Old Testament This Year,quit,
+Multiplication Dojo,"Alexa, open Multiplication Dojo","Welcome to Multiplication Quiz! Lets define the range of numbers you want to multiply. For example, if you want to multiply numbers between one and ten, say, ""one and ten""."
+Multiplication Dojo,help,"Before the quiz beings, you must define the range of numbers that will be used in the quiz. If you would like to multiply numbers between 5 and 15, say, ""5 and 15"""
+Multiplication Dojo,stop,Goodbye!
+Multiplication Dojo,quit,
+Audubon Bird Songs,"Alexa, open Audubon Bird Songs","I couldn't find alexa, open audubon bird songs."
+Audubon Bird Songs,help,"For Help, please visit the help pages on the Amazon web site."
+Audubon Bird Songs,stop,
+Audubon Bird Songs,quit,
+Bible,"Alexa, open Bible",Welcome to YouVersion Bible. What can I read for you?
+Bible,help,"YouVersion Bible is completely free, and lets you listen to any book, chapter, or verse. You can also listen to daily readings from YouVersion reading plans. Other features include being able to change versions, and ask for the verse of the day. What would you like me to read?"
+Bible,stop,
+Bible,quit,
+Weed Buddy,"Alexa, open Weed Buddy",Weed Buddy contains mature content that may not be suitable for all ages
+Weed Buddy,help,"For Help, please visit the help pages on the Amazon web site."
+Weed Buddy,stop,
+Weed Buddy,quit,
+Beanie Boos Birthdays,"Alexa, open Beanie Boos Birthdays","Sorry, I don't know that."
+Beanie Boos Birthdays,help,"For Help, please visit the help pages on the Amazon web site."
+Beanie Boos Birthdays,stop,
+Beanie Boos Birthdays,quit,
+Spanish,"Alexa, open Spanish",The following are 50 common Spanish expressions. Hi!
+Spanish,help,With these popular Spanish expressions you will learn how to communicate with others. After you listen to all the expressions you can test your knowledge in a contest to recognize the different Spanish expressions I have available. So. Would you like to continue?
+Spanish,stop,"Ok, feel free to reach out to me to play more Spanish expressions. Goodbye."
+Spanish,quit,
+Number Counter,"Alexa, open Number Counter","Sorry, I’m not sure about that."
+Number Counter,help,"For Help, please visit the help pages on the Amazon web site."
+Number Counter,stop,
+Number Counter,quit,
+Memory Training,"Alexa, open Memory Training",
+Memory Training,help,"Now 2 practices are available. Digits Exercise. Phone Number Exercise. For example, say start digits exercise or start phone number exercise."
+Memory Training,stop,Thank you for playing the Memory Training Skill! Goodbye!
+Memory Training,quit,
+The Old Farmer's Almanac,"Alexa, open The Old Farmer's Almanac",This is The Old Farmer's Almanac. You can ask me to tell you About Today to learn more about this day of the year.
+The Old Farmer's Almanac,help,"Ask me to tell you About Today to learn more about this day of the year, from the pages of The Old Farmer's Almanac."
+The Old Farmer's Almanac,stop,Ok. Enjoy the rest of your day.
+The Old Farmer's Almanac,quit,
+Smart Dictionary,"Alexa, open Smart Dictionary",Welcome to Smart Dictionary. What would you like to look up?
+Smart Dictionary,help,"You can say, define: intelligence. I will then tell you an easy to understand definition."
+Smart Dictionary,stop,Bye
+Smart Dictionary,quit,
+Merriam-Webster Word of the Day,"Alexa, open Merriam-Webster Word of the Day","Merriam-Webster Word of the Day is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Merriam-Webster Word of the Day,help,"For Help, please visit the help pages on the Amazon web site."
+Merriam-Webster Word of the Day,stop,
+Merriam-Webster Word of the Day,quit,
+New vocabulary word,"Alexa, open New vocabulary word","Since this is the weekend, there is no new vocabulary word of the day. Friday's vocabulary word was: bareboned. adjective: Lean; spare; gaunt. bareboned is spelled: b. a. r. e. b. o. n. e. d. . You can also say Ask Vocabulary Word of the Day, Week. To review all the words for the week."
+New vocabulary word,help,"Welcome to Vocabulary Word of the Day. Each weekday we present a unique vocabulary word. You can use the following commands: Today - to hear today's word. Yesterday - to hear yesterday's word. Week - to hear all the words for the current week. Please say: Today, Yesterday, Week, or Exit."
+New vocabulary word,stop,Goodbye!
+New vocabulary word,quit,
+Examining the Scriptures Daily,"Alexa, open Examining the Scriptures Daily","Examining the Scriptures Daily is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Examining the Scriptures Daily,help,"For Help, please visit the help pages on the Amazon web site."
+Examining the Scriptures Daily,stop,
+Examining the Scriptures Daily,quit,
+Astronomy Guide,"Alexa, open Astronomy Guide",Welcome to Astronomy Guide! What astronomy observing info would you like to know?
+Astronomy Guide,help,"Astronomy Guide provides a variety of services for astronomers. You can access a report of observing conditions by saying 'conditions'. For a summary of night-sky objects to observe, say 'highlights', or say an upcoming month to hear highlights that month. Daytime observers can ask for a sunspot report. Finally, you can request more information on a variety of starss, solar system objects, and deep sky objects. What information would be helpful to you?"
+Astronomy Guide,stop,
+Astronomy Guide,quit,
+On This Day In History - Flash Briefing,"Alexa, open On This Day In History - Flash Briefing","On This Day In History - Flash Briefing is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+On This Day In History - Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+On This Day In History - Flash Briefing,stop,
+On This Day In History - Flash Briefing,quit,
+Klingon Dictionary,"Alexa, open Klingon Dictionary",The Klingon dictionary is open. What do you want me to do?
+Klingon Dictionary,help,"You can ask me to translate a word, to tell you a random proverb, to repeat the last proverb, to tell you the Klingon word of the day, or to tell you about Klingons or the Klingon language. What do you want me to do?"
+Klingon Dictionary,stop,No to what?
+Klingon Dictionary,quit,
+A Cloud Guru,"Alexa, open A Cloud Guru",
+A Cloud Guru,help,<Short audio>
+A Cloud Guru,stop,
+A Cloud Guru,quit,
+Gospel Library Reader,"Alexa, open Gospel Library Reader","Welcome to the Gospel Library Reader. Please ask me to tell you a verse by saying, Read 1st Nephi 3 verse 7"
+Gospel Library Reader,help,You can ask to hear a verse by saying. Read 1st Nephi 3 verse 7 or by saying Read Matthew 1 verse 7 to the Gospel Library Reader. For a list of scriptures visit www.lds.org/scriptures
+Gospel Library Reader,stop,Thank you for using the Gospel Library Reader.
+Gospel Library Reader,quit,
+Bible Glossary,"Alexa, open Bible Glossary",You have YouVersion Bible enabled. Do you want to open it?
+Bible Glossary,Yes,Welcome to YouVersion Bible. What would you like me to read?
+Bible Glossary,help,"YouVersion Bible is completely free, and lets you listen to any book, chapter, or verse. You can also listen to daily readings from YouVersion reading plans. Other features include being able to change versions, and ask for the verse of the day. What would you like me to read?"
+Bible Glossary,stop,
+Bible Glossary,quit,
+Guitar Teacher,"Alexa, open Guitar Teacher","Greetings! You can ask Language Teacher to say something in different languages, or you can say ""Help"" to learn more."
+Guitar Teacher,help,"You can ask Language Teacher to say something in different languages. For example, you can say: ""Ask Language Teacher to say Hello"", or ""Ask Language Teacher to repeat"" to listen to the translation again. To set the language - just say: ""Ask Language Teacher to set the language to Japanese"". What do you want to do?"
+Guitar Teacher,stop,Bye!
+Guitar Teacher,quit,
+Daily Dinosaur,"Alexa, open Daily Dinosaur","Here's todays dinosaur: Julian, commonly known as Julian the Apostate, or also Julian the Philosopher, was Roman Emperor from 361 to 363 and a noted philosopher and Greek writer. A member of the Constantinian dynasty, he was made Caesar over the western provinces, by Constantius II in 355, where he campaigned successfully against the Alamanni and Franks."
+Daily Dinosaur,help,"For Help, please visit the help pages on the Amazon web site."
+Daily Dinosaur,stop,
+Daily Dinosaur,quit,
+flight level - An aircraft radar,"Alexa, open flight level - An aircraft radar","Ok, Here's Aircraft Radar"
+flight level - An aircraft radar,help,"For Help, please visit the help pages on the Amazon web site."
+flight level - An aircraft radar,stop,
+flight level - An aircraft radar,quit,
+Quizlexa,"Alexa, open Quizlexa",Your Quizlet account is not linked. Please use the Alexa app to link your account.
+Quizlexa,help,"For Help, please visit the help pages on the Amazon web site."
+Quizlexa,stop,
+Quizlexa,quit,
+Mother Goose Nursery Rhymes,"Alexa, open Mother Goose Nursery Rhymes","Sorry, I don't know that."
+Mother Goose Nursery Rhymes,help,"For Help, please visit the help pages on the Amazon web site."
+Mother Goose Nursery Rhymes,stop,
+Mother Goose Nursery Rhymes,quit,
+Learn Spanish - SpanishPod101.com Word of the Day,"Alexa, open Learn Spanish - SpanishPod101.com Word of the Day",The following are 50 common Spanish expressions. Hi!
+Learn Spanish - SpanishPod101.com Word of the Day,help,With these popular Spanish expressions you will learn how to communicate with others. After you listen to all the expressions you can test your knowledge in a contest to recognize the different Spanish expressions I have available. So. Would you like to continue?
+Learn Spanish - SpanishPod101.com Word of the Day,stop,"Ok, feel free to reach out to me to play more Spanish expressions. Goodbye."
+Learn Spanish - SpanishPod101.com Word of the Day,quit,
+The Prayer Book,"Alexa, open The Prayer Book","God we thank you for the food before us, the friends and family beside us, the love between us, and your presence among us. Amen."
+The Prayer Book,help,"For Help, please visit the help pages on the Amazon web site."
+The Prayer Book,stop,
+The Prayer Book,quit,
+Blinkist Minute,"Alexa, open Blinkist Minute",
+Blinkist Minute,help,"For Help, please visit the help pages on the Amazon web site."
+Blinkist Minute,stop,
+Blinkist Minute,quit,
+Weed Strains,"Alexa, open Weed Strains","Sorry, I’m not sure about that."
+Weed Strains,help,"For Help, please visit the help pages on the Amazon web site."
+Weed Strains,stop,
+Weed Strains,quit,
+Answers by Cigna,"Alexa, open Answers by Cigna","Sorry, I’m not sure about that."
+Answers by Cigna,help,"For Help, please visit the help pages on the Amazon web site."
+Answers by Cigna,stop,
+Answers by Cigna,quit,
+Guess The Animal,"Alexa, open Guess The Animal","Guess the Animal. I will ask you 5 questions, try to get as many right as you can. Guess the Animal based on the clues provided. This animal is a marine mammal, it lives in the ocean, has smooth skin, is omnivorous, is viviparous, meaning it gives birth to living babies, is much larger than a person and is the largest animal ever know to have existed. Guess the Animal."
+Guess The Animal,help,"To start a new game at any time, say, start new game. To repeat the last question, say, repeat. To start over, say, restart."
+Guess The Animal,stop,Thanks for playing Guess the Animal!
+Guess The Animal,quit,
+Pimsleur,"Alexa, open Pimsleur","Sorry, I don't know that."
+Pimsleur,help,"For Help, please visit the help pages on the Amazon web site."
+Pimsleur,stop,
+Pimsleur,quit,
+Today's Word,"Alexa, open Today's Word","Welcome to Today's Word of the Day... Ask me for a word, or ask for a literary fact."
+Today's Word,help,"I'm an AI vocabulary assistant made by UC Berkeley and UCLA graduates to make you smarter. I can run at different levels, either to help new English learners or to boost native speakers who want advanced vocabulary. Ask me for a word. Or, ask for a literary fact."
+Today's Word,stop,Come back later to get a new word or literary fact!
+Today's Word,quit,
+Spanish quiz,"Alexa, open Spanish quiz",
+Spanish quiz,help,"For Help, please visit the help pages on the Amazon web site."
+Spanish quiz,stop,
+Spanish quiz,quit,
+Scripture Reader,"Alexa, open Scripture Reader","Welcome to the Scriptures skill. I can read inspirational scriptures to you. You can say things like, read a scripture, give me inspiration, read Luke chapter 2, or how many chapters are in Genesis? What would you like me to do?"
+Scripture Reader,help,"You can say things like, please read a scripture, give me inspiration, read Luke chapter 2, or how many chapters are in Genesis? What would you like me to do?"
+Scripture Reader,stop,Goodbye
+Scripture Reader,quit,
+My Pocket: Unofficial Pocket Skill,"Alexa, open My Pocket: Unofficial Pocket Skill","Hmm, I have a few skills that can help."
+My Pocket: Unofficial Pocket Skill,help,"For Help, please visit the help pages on the Amazon web site."
+My Pocket: Unofficial Pocket Skill,stop,
+My Pocket: Unofficial Pocket Skill,quit,
+ABCD for Kids,"Alexa, open ABCD for Kids","Sorry, I don't know that one."
+ABCD for Kids,help,"For Help, please visit the help pages on the Amazon web site."
+ABCD for Kids,stop,
+ABCD for Kids,quit,
+Tell Me an Idiom,"Alexa, open Tell Me an Idiom","'Idiom' is usually defined as an expression whose meanings cannot be inferred from the meanings of the words that make it up or, alternatively, a manner of speaking that is natural to native speakers of a language."
+Tell Me an Idiom,help,"For Help, please visit the help pages on the Amazon web site."
+Tell Me an Idiom,stop,
+Tell Me an Idiom,quit,
+Mayo Clinic First Aid,"Alexa, open Mayo Clinic First Aid",Welcome to Mayo First Aid. The information provided is not a substitute for advice from a medical professional.What can I help you with?
+Mayo Clinic First Aid,help,
+Mayo Clinic First Aid,stop,Good bye
+Mayo Clinic First Aid,quit,
+The Armor of God,"Alexa, open The Armor of God","Here's a sample of The Armor of God from Audible. To get this book using one Audible credit, say buy this. You have one Audible credit."
+The Armor of God,help,"For Help, please visit the help pages on the Amazon web site."
+The Armor of God,stop,
+The Armor of God,quit,
+On This Day,"Alexa, open On This Day","Sorry, I don't know that one."
+On This Day,help,"For Help, please visit the help pages on the Amazon web site."
+On This Day,stop,
+On This Day,quit,
+Word of the Day,"Alexa, open Word of the Day",
+Word of the Day,help,"For Help, please visit the help pages on the Amazon web site."
+Word of the Day,stop,
+Word of the Day,quit,
+Boat Watch,"Alexa, open Boat Watch","Hmm, I'm not sure."
+Boat Watch,help,"For Help, please visit the help pages on the Amazon web site."
+Boat Watch,stop,
+Boat Watch,quit,
+story time,"Alexa, open story time","Welcome back to Amazon Storytime. You can ask for your favorite set of stories by name, choose what type of story you'd like, or give the magic story wheel a spin. Say, , Bedtime, Animals or spin."
+story time,help,"The Amazon Storytime skill plays short stories from the Amazon Storytime and Audible libraries. While you are listening, you can say “restart” to restart, “go back” to go back by ten seconds, or “next” to skip to the next story. At any time, you can switch to a different sets of stories. Just say, “Alexa, open Amazon Storytime”."
+story time,stop,
+story time,quit,
+My Bible Study,"Alexa, open My Bible Study",Welcome to YouVersion Bible. What can I read for you?
+My Bible Study,help,"YouVersion Bible is completely free, and lets you listen to any book, chapter, or verse. You can also listen to daily readings from YouVersion reading plans. Other features include being able to change versions, and ask for the verse of the day. What would you like me to read?"
+My Bible Study,stop,
+My Bible Study,quit,
+Morse Coder,"Alexa, open Morse Coder",<Short audio>
+Morse Coder,help,This skill teaches you how to morse code. Let me encode common first names by saying something like Encode Michael or let me spell a name by saying Spell James Or just say Start exercise
+Morse Coder,stop,Ok.
+Morse Coder,quit,
+Kids Word of the Day Flash Briefing,"Alexa, open Kids Word of the Day Flash Briefing",
+Kids Word of the Day Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Kids Word of the Day Flash Briefing,stop,
+Kids Word of the Day Flash Briefing,quit,
+Grammar Tool,"Alexa, open Grammar Tool","Sorry, I’m not sure about that."
+Grammar Tool,help,"For Help, please visit the help pages on the Amazon web site."
+Grammar Tool,stop,
+Grammar Tool,quit,
+Recycle Coach,"Alexa, open Recycle Coach","Sorry, I don't know that."
+Recycle Coach,help,"For Help, please visit the help pages on the Amazon web site."
+Recycle Coach,stop,
+Recycle Coach,quit,
+Persuade Me.,"Alexa, open Persuade Me.","Sorry, I don't know that."
+Persuade Me.,help,"For Help, please visit the help pages on the Amazon web site."
+Persuade Me.,stop,
+Persuade Me.,quit,
+Bible Game,"Alexa, open Bible Game",Welcome to YouVersion Bible. What would you like me to read?
+Bible Game,help,"YouVersion Bible is completely free, and lets you listen to any book, chapter, or verse. You can also listen to daily readings from YouVersion reading plans. Other features include being able to change versions, and ask for the verse of the day. What would you like me to read?"
+Bible Game,stop,
+Bible Game,quit,
+Troy-Bilt,"Alexa, open Troy-Bilt","Hmm, I don't know that one."
+Troy-Bilt,help,"For Help, please visit the help pages on the Amazon web site."
+Troy-Bilt,stop,
+Troy-Bilt,quit,
+Tide Report,"Alexa, open Tide Report",You have TideGuide enabled. Do you want to open it?
+Tide Report,Yes,"Welcome to tide guide. I can give you the high and low tide times for many coastal locations. Supported phrases include: What are the high tides for Santa Barbara? What are the tides for Los Angeles on Tuesday? What is the next low tide in Boston? and set my default city and state to Miami, Florida. If you set a default city and state you simply have to say, What are the tides today. Which city or location would you like the tide report for?"
+Tide Report,help,"Tide guide is a skill that will give you the high and low tide for a specific coastal location. If tide guide cannot find the specified location, it will try to find a know location within 100 miles. Supported phrases include: What are the high tides for Santa Barbara? What are the tides for Los Angeles on Tuesday? What is the next low tide in Boston? and set my default city and state to Miami, Florida. If you set a default city and state you simply have to say, What are the tides today. Which city or location would you like the tide report for?"
+Tide Report,stop,Goodbye
+Tide Report,quit,
+Medical Terminology,"Alexa, open Medical Terminology",<Audio only response>
+Medical Terminology,help,"For Help, please visit the help pages on the Amazon web site."
+Medical Terminology,stop,
+Medical Terminology,quit,
+Web Cams,"Alexa, open Web Cams",You have Web Analytics enabled. Do you want to open it?
+Web Cams,Yes,"Oops! It seems like you haven't linked your account yet. Please use the alexa mobile app or login to your alexa account from a web browser, and go to the skills section. Select webanalytics skill, and click on link account."
+Web Cams,help,"For Help, please visit the help pages on the Amazon web site."
+Web Cams,stop,
+Web Cams,quit,
+Buddha quote,"Alexa, open Buddha quote","Here's your quote from Buddha: Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."
+Buddha quote,help,"For Help, please visit the help pages on the Amazon web site."
+Buddha quote,stop,
+Buddha quote,quit,
+Have I been pwned? for Alexa,"Alexa, open Have I been pwned? for Alexa",<Audio only response>
+Have I been pwned? for Alexa,help,"For Help, please visit the help pages on the Amazon web site."
+Have I been pwned? for Alexa,stop,
+Have I been pwned? for Alexa,quit,
+Multiplication Quiz,"Alexa, open Multiplication Quiz","Welcome to Multiplication Quiz! Lets define the range of numbers you want to multiply. For example, if you want to multiply numbers between one and ten, say, ""one and ten""."
+Multiplication Quiz,help,"Before the quiz beings, you must define the range of numbers that will be used in the quiz. If you would like to multiply numbers between 5 and 15, say, ""5 and 15"""
+Multiplication Quiz,stop,Goodbye!
+Multiplication Quiz,quit,
+This week's bible reading,"Alexa, open This week's bible reading",You have YouVersion Bible enabled. Do you want to open it?
+This week's bible reading,Yes,Welcome to YouVersion Bible. What would you like to hear?
+This week's bible reading,help,"YouVersion Bible is completely free, and lets you listen to any book, chapter, or verse. You can also listen to daily readings from YouVersion reading plans. Other features include being able to change versions, and ask for the verse of the day. What would you like me to read?"
+This week's bible reading,stop,
+This week's bible reading,quit,
+Eagle Cam,"Alexa, open Eagle Cam","Sorry, I’m not sure about that."
+Eagle Cam,help,"For Help, please visit the help pages on the Amazon web site."
+Eagle Cam,stop,
+Eagle Cam,quit,
+Spelling Champion,"Alexa, open Spelling Champion",
+Spelling Champion,help,"The Spelling Champion skill allows you to save multiple lists and use those lists in spelling quizzes. To create a list, say 'Create a List.' When creating a list, you'll need to use a mobile phone with text messaging capabilities. Once you have at least one list created, you can use it in a quiz. To do that, say 'Start a quiz'. You can update or delete lists by saying update list or delete list. Check the Alexa app for a full list of commands. What would you like to do?"
+Spelling Champion,stop,"Ok. I've stopped. When you are ready, just come back and ask me to 'open Spelling Champion'."
+Spelling Champion,quit,
+Scary Monster,"Alexa, open Scary Monster",<Audio only response>
+Scary Monster,help,"For Help, please visit the help pages on the Amazon web site."
+Scary Monster,stop,
+Scary Monster,quit,
+Tale of Peter Rabbit,"Alexa, open Tale of Peter Rabbit",The Tale of Peter Rabbit is a British children's book written and illustrated by Beatrix Potter that follows mischievous and disobedient young Peter Rabbit as he is chased about the garden of Mr. McGregor.
+Tale of Peter Rabbit,help,"For Help, please visit the help pages on the Amazon web site."
+Tale of Peter Rabbit,stop,
+Tale of Peter Rabbit,quit,
+Lottery Numbers,"Alexa, open Lottery Numbers","Sorry, I’m not sure about that."
+Lottery Numbers,help,"For Help, please visit the help pages on the Amazon web site."
+Lottery Numbers,stop,
+Lottery Numbers,quit,
+Funny Word History - Flash Briefing,"Alexa, open Funny Word History - Flash Briefing","Funny Word History - Flash Briefing is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Funny Word History - Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Funny Word History - Flash Briefing,stop,
+Funny Word History - Flash Briefing,quit,
+Learn Spanish Daily,"Alexa, open Learn Spanish Daily",
+Learn Spanish Daily,help,"For Help, please visit the help pages on the Amazon web site."
+Learn Spanish Daily,stop,
+Learn Spanish Daily,quit,
+Ear Trainer,"Alexa, open Ear Trainer","welcome to ear trainer, which test would you like to do? You have the choice of triad test, seventh chord test, or all chords."
+Ear Trainer,help,"welcome to ear trainer, which test would you like to do? You have the choice of triad test, seventh chord test, or all chords."
+Ear Trainer,stop,peace
+Ear Trainer,quit,
+The Bill of Rights,"Alexa, open The Bill of Rights",'Bill of rights' is usually defined as a statement of fundamental rights and privileges (especially the first ten amendments to the United States Constitution).
+The Bill of Rights,help,"For Help, please visit the help pages on the Amazon web site."
+The Bill of Rights,stop,
+The Bill of Rights,quit,
+Park University,"Alexa, open Park University",You have Daily Facts about National Parks enabled. Do you want to open it?
+Park University,Yes,Welcome to national park facts! Would you like to hear a fact about national parks?
+Park University,help,"""With this skill, you can get a new fact about national parks. Would you like to hear a fact about national parks?"""
+Park University,stop,"""Come back tomorrow to hear another fact about national parks. Just say, ""Alexa, launch national park facts"" to open the skill again."""
+Park University,quit,
+Luther's Small Catechism,"Alexa, open Luther's Small Catechism",Welcome to the Small Catechism from Concordia Publishing House. What would you like to ask Luther?
+Luther's Small Catechism,help,"Ask any question from the catechism. For a list of the chief parts, ask me what are the chief parts. For some suggestions, say, for instance, help baptism."
+Luther's Small Catechism,stop,Goodbye!
+Luther's Small Catechism,quit,
+Easter Egg Daily,"Alexa, open Easter Egg Daily","Easter Egg Daily is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Easter Egg Daily,help,"For Help, please visit the help pages on the Amazon web site."
+Easter Egg Daily,stop,
+Easter Egg Daily,quit,
+Powerball Numbers,"Alexa, open Powerball Numbers",Powerball Numbers contains mature content that may not be suitable for all ages
+Powerball Numbers,help,"For Help, please visit the help pages on the Amazon web site."
+Powerball Numbers,stop,
+Powerball Numbers,quit,
+Today In History - Flash Briefing,"Alexa, open Today In History - Flash Briefing","Today In History - Flash Briefing is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Today In History - Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Today In History - Flash Briefing,stop,
+Today In History - Flash Briefing,quit,
+German Tutor,"Alexa, open German Tutor",You have Math Tutor enabled. Do you want to open it?
+German Tutor,Yes,
+German Tutor,help,"Using Math Tutor, you can ask me for times tables between one and ten. I can then read them to you. Now, which table would you like?"
+German Tutor,stop,
+German Tutor,quit,
+The Jordan Harbinger Show,"Alexa, open The Jordan Harbinger Show","Sorry, I don't know that."
+The Jordan Harbinger Show,help,"For Help, please visit the help pages on the Amazon web site."
+The Jordan Harbinger Show,stop,
+The Jordan Harbinger Show,quit,
+Spelling Bee Winner,"Alexa, open Spelling Bee Winner","To get started, tell me to 'start a quiz', 'create a list' or 'update a list'."
+Spelling Bee Winner,help,"The Spelling Champion skill allows you to save multiple lists and use those lists in spelling quizzes. To create a list, say 'Create a List.' When creating a list, you'll need to use a mobile phone with text messaging capabilities. Once you have at least one list created, you can use it in a quiz. To do that, say 'Start a quiz'. You can update or delete lists by saying update list or delete list. Check the Alexa app for a full list of commands. What would you like to do?"
+Spelling Bee Winner,stop,"Ok. I've stopped. When you are ready, just come back and ask me to 'open Spelling Champion'."
+Spelling Bee Winner,quit,
+Top Music,"Alexa, open Top Music",I couldn't find any songs that match your request in your library .
+Top Music,help,"For Help, please visit the help pages on the Amazon web site."
+Top Music,stop,
+Top Music,quit,
+Mega Millions Numbers,"Alexa, open Mega Millions Numbers",Mega Millions Numbers contains mature content that may not be suitable for all ages
+Mega Millions Numbers,help,"For Help, please visit the help pages on the Amazon web site."
+Mega Millions Numbers,stop,
+Mega Millions Numbers,quit,
+Learn Something Radio,"Alexa, open Learn Something Radio",You have Learn Spanish enabled. Do you want to open it?
+Learn Something Radio,Yes,The following are 50 common Spanish expressions. Hi!
+Learn Something Radio,help,With these popular Spanish expressions you will learn how to communicate with others. After you listen to all the expressions you can test your knowledge in a contest to recognize the different Spanish expressions I have available. So. Would you like to continue?
+Learn Something Radio,stop,"Ok, feel free to reach out to me to play more Spanish expressions. Goodbye."
+Learn Something Radio,quit,
+Teach Me,"Alexa, open Teach Me","Hmm, I don't know that one."
+Teach Me,help,"For Help, please visit the help pages on the Amazon web site."
+Teach Me,stop,
+Teach Me,quit,
+Marriage Jokes,"Alexa, open Marriage Jokes",<Audio only response>
+Marriage Jokes,help,"For Help, please visit the help pages on the Amazon web site."
+Marriage Jokes,stop,
+Marriage Jokes,quit,
+Speak Up America,"Alexa, open Speak Up America","Sorry, I'm having trouble accessing your Speak Up America skill right now"
+Speak Up America,help,"For Help, please visit the help pages on the Amazon web site."
+Speak Up America,stop,
+Speak Up America,quit,
+Black History Daily,"Alexa, open Black History Daily","Black History Daily is in your Flash Briefing; to hear it, just say, What’s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Black History Daily,help,"For Help, please visit the help pages on the Amazon web site."
+Black History Daily,stop,
+Black History Daily,quit,
+Learn Japanese,"Alexa, open Learn Japanese",You have Guru Devs enabled. Do you want to open it?
+Learn Japanese,Yes,"Welcome to Guru Devs, you can say play episode and then say the episode number! I currently have 6 episodes."
+Learn Japanese,help,You can say play episode and then the episode number! I currently have 6 episodes.
+Learn Japanese,stop,Goodbye!
+Learn Japanese,quit,
+LegalShield,"Alexa, open LegalShield","Hmm, I don't know that one."
+LegalShield,help,"For Help, please visit the help pages on the Amazon web site."
+LegalShield,stop,
+LegalShield,quit,
+Math puzzle game,"Alexa, open Math puzzle game",
+Math puzzle game,help,"You can say 'ask me a question', or 'tell me more about extra puzzle pack', or 'I want to buy', or 'I want to buy extra puzzle pack', 'ask me a question' or 'ask a extra puzzle pack question'. Please note that once you buy extra puzzle pack, you need to specifically say 'ask a extra puzzle pack question' or 'next extra puzzle pack question'. So What can I help you with?"
+Math puzzle game,stop,Bye. Best wishes for what ever you are doing today.
+Math puzzle game,quit,
+Read the Doctrine and Covenants This Year,"Alexa, open Read the Doctrine and Covenants This Year",I couldn't find doctrine and covenants this year.
+Read the Doctrine and Covenants This Year,help,"For Help, please visit the help pages on the Amazon web site."
+Read the Doctrine and Covenants This Year,stop,
+Read the Doctrine and Covenants This Year,quit,
+Interview Prep,"Alexa, open Interview Prep",You have Facebook Behavioral Interview Questions enabled. Do you want to open it?
+Interview Prep,Yes,What is your typical way of dealing with conflict? Give me an example. What have you learned from dealing with conflict?
+Interview Prep,help,"For Help, please visit the help pages on the Amazon web site."
+Interview Prep,stop,
+Interview Prep,quit,
+Cats Meow,"Alexa, open Cats Meow","Sorry, I'm having trouble accessing your Cats Meow skill right now"
+Cats Meow,help,"For Help, please visit the help pages on the Amazon web site."
+Cats Meow,stop,
+Cats Meow,quit,
+Category Facts,"Alexa, open Category Facts",
+Category Facts,help,"To learn more about a product, say 'Tell me more about', followed by the product name. If you are ready to buy, say 'Buy', followed by the product name. So what can I help you with?"
+Category Facts,stop,"We hope you enjoyed Category Facts! If you liked this fact skill, please rate us with some stars! Your feedback is important to us and the Alexa skill store will detail how and when this skill will get updated. Thanks again, and come back soon!"
+Category Facts,quit,
+The Great Courses Plus,"Alexa, open The Great Courses Plus","Sorry, I could not find your account details. Please make sure you have linked your account to this skill in the Alexa app. Check your Alexa app for more information!"
+The Great Courses Plus,help,"For Help, please visit the help pages on the Amazon web site."
+The Great Courses Plus,stop,
+The Great Courses Plus,quit,
+My MATH,"Alexa, open My MATH",Math Tutor. Which times table would you like me to read?
+My MATH,help,"Using Math Tutor, you can ask me for times tables between one and ten. I can then read them to you. Now, which table would you like?"
+My MATH,stop,
+My MATH,quit,
+Pharmacy,"Alexa, open Pharmacy","Hmm, I don't know that one."
+Pharmacy,help,"For Help, please visit the help pages on the Amazon web site."
+Pharmacy,stop,
+Pharmacy,quit,
+S.L.P. Praxis Review,"Alexa, open S.L.P. Praxis Review",
+S.L.P. Praxis Review,help,"For Help, please visit the help pages on the Amazon web site."
+S.L.P. Praxis Review,stop,
+S.L.P. Praxis Review,quit,
+"Arizona State University - Events, Hours & Info","Alexa, open Arizona State University - Events, Hours & Info",
+"Arizona State University - Events, Hours & Info",help,"You can use the skill to find out about ASU events to attend, business hours for popular ASU businesses and buildings, frequently asked academic calendar dates, or random ASU facts. What would you like to do?"
+"Arizona State University - Events, Hours & Info",stop,Goodbye. Thank you for using the ASU skill.
+"Arizona State University - Events, Hours & Info",quit,
+Drivetime Devotions,"Alexa, open Drivetime Devotions",
+Drivetime Devotions,help,"For Help, please visit the help pages on the Amazon web site."
+Drivetime Devotions,stop,
+Drivetime Devotions,quit,
+BlueSmart Baby Tracker and Logbook,"Alexa, open BlueSmart Baby Tracker and Logbook",<Audio only response>
+BlueSmart Baby Tracker and Logbook,help,"For Help, please visit the help pages on the Amazon web site."
+BlueSmart Baby Tracker and Logbook,stop,
+BlueSmart Baby Tracker and Logbook,quit,
+Skygaze,"Alexa, open Skygaze","Sorry, I’m not sure about that."
+Skygaze,help,"For Help, please visit the help pages on the Amazon web site."
+Skygaze,stop,
+Skygaze,quit,
+Continuous Wave,"Alexa, open Continuous Wave","Sorry, I’m not sure about that."
+Continuous Wave,help,"For Help, please visit the help pages on the Amazon web site."
+Continuous Wave,stop,
+Continuous Wave,quit,
+Indoor Plants Guide,"Alexa, open Indoor Plants Guide","Sorry, I’m not sure about that."
+Indoor Plants Guide,help,"For Help, please visit the help pages on the Amazon web site."
+Indoor Plants Guide,stop,
+Indoor Plants Guide,quit,
+Zipcode Lookup,"Alexa, open Zipcode Lookup","Tell me a zipcode, or a city and state."
+Zipcode Lookup,help,You can tell me a five digit zipcode and I will tell you what city that is for. Or you can tell me a city and state and I will tell you the zipcode or zipcodes associated with that city.
+Zipcode Lookup,stop,
+Zipcode Lookup,quit,
+Memory Lane,"Alexa, open Memory Lane","Hmm, I don't know that."
+Memory Lane,help,"For Help, please visit the help pages on the Amazon web site."
+Memory Lane,stop,
+Memory Lane,quit,
+Guinea Pig,"Alexa, open Guinea Pig",You have Animal Sounds enabled. Do you want to open it?
+Guinea Pig,Yes,"hey there, what animal sound would you like to hear?"
+Guinea Pig,help,"Ask me for an animal noise, try sheep, cow or lion to get started, or just say random."
+Guinea Pig,stop,cheerio
+Guinea Pig,quit,
+Selling Coaching Minute with Jeffrey St. Laurent,"Alexa, open Selling Coaching Minute with Jeffrey St. Laurent","Hmm, I'm not sure."
+Selling Coaching Minute with Jeffrey St. Laurent,help,"For Help, please visit the help pages on the Amazon web site."
+Selling Coaching Minute with Jeffrey St. Laurent,stop,
+Selling Coaching Minute with Jeffrey St. Laurent,quit,
+Class Picker - Random picker for Teachers,"Alexa, open Class Picker - Random picker for Teachers","Hmm. Maybe the skill, Class Picker - Random picker for Teachers, can help. Do you want to try it?"
+Class Picker - Random picker for Teachers,help,"For Help, please visit the help pages on the Amazon web site."
+Class Picker - Random picker for Teachers,stop,
+Class Picker - Random picker for Teachers,quit,
+HR Shield,"Alexa, open HR Shield","Sorry, I’m not sure about that."
+HR Shield,help,"For Help, please visit the help pages on the Amazon web site."
+HR Shield,stop,
+HR Shield,quit,
+Ayah Of The Day,"Alexa, open Ayah Of The Day","Sorry, I'm not sure."
+Ayah Of The Day,help,"For Help, please visit the help pages on the Amazon web site."
+Ayah Of The Day,stop,
+Ayah Of The Day,quit,
+Raising Creators with Yong Pratt,"Alexa, open Raising Creators with Yong Pratt",<Audio only response>
+Raising Creators with Yong Pratt,help,"For Help, please visit the help pages on the Amazon web site."
+Raising Creators with Yong Pratt,stop,
+Raising Creators with Yong Pratt,quit,
+Autism Help,"Alexa, open Autism Help",Welcome to autism help. Who this learning session is for?
+Autism Help,help,"autism help is an Alexa skill that helps children with autism. To start using this skill, tell Alexa who this learning session is for, like: this is for ... and the the child's name. After that, choose one of the skill types or just resume your previous learning session."
+Autism Help,stop,Goodbye!
+Autism Help,quit,
+Medela,"Alexa, open Medela","Sorry, I don't know that."
+Medela,help,"For Help, please visit the help pages on the Amazon web site."
+Medela,stop,
+Medela,quit,
+Beginners Gardening,"Alexa, open Beginners Gardening","Sorry, I’m not sure about that."
+Beginners Gardening,help,"For Help, please visit the help pages on the Amazon web site."
+Beginners Gardening,stop,
+Beginners Gardening,quit,
+AskMyClass - Teacher & Student Classroom Helper,"Alexa, open AskMyClass - Teacher & Student Classroom Helper","I can’t find that skill. To find skills, go to the Skills section of the Alexa App."
+AskMyClass - Teacher & Student Classroom Helper,help,"For Help, please visit the help pages on the Amazon web site."
+AskMyClass - Teacher & Student Classroom Helper,stop,
+AskMyClass - Teacher & Student Classroom Helper,quit,
+German Articles - learning by doing,"Alexa, open German Articles - learning by doing",You have wikiHow enabled. Do you want to open it?
+German Articles - learning by doing,Yes,Hi! Ask me how to do anything.
+German Articles - learning by doing,help,"Hi! You can ask me how to do anything. For example try asking, ""how do I make french toast without milk?"""
+German Articles - learning by doing,stop,"Thanks for using wikihow. You can always ask another question later by saying, open wikihow"
+German Articles - learning by doing,quit,
+Math Tutor,"Alexa, open Math Tutor",Math Tutor. Which times table would you like me to read?
+Math Tutor,help,"Using Math Tutor, you can ask me for times tables between one and ten. I can then read them to you. Now, which table would you like?"
+Math Tutor,stop,
+Math Tutor,quit,
+Fix My Computer,"Alexa, open Fix My Computer","Sorry, I’m not sure about that."
+Fix My Computer,help,"For Help, please visit the help pages on the Amazon web site."
+Fix My Computer,stop,
+Fix My Computer,quit,
+Bored Game,"Alexa, open Bored Game",I found a few matches for that.
+Bored Game,help,"For Help, please visit the help pages on the Amazon web site."
+Bored Game,stop,
+Bored Game,quit,
+Encyclopedia of Philosophy,"Alexa, open Encyclopedia of Philosophy",
+Encyclopedia of Philosophy,help,"For Help, please visit the help pages on the Amazon web site."
+Encyclopedia of Philosophy,stop,
+Encyclopedia of Philosophy,quit,
+Learn Italian Daily,"Alexa, open Learn Italian Daily",I found a few matches for that.
+Learn Italian Daily,help,"For Help, please visit the help pages on the Amazon web site."
+Learn Italian Daily,stop,
+Learn Italian Daily,quit,
+International Space Station (ISS) HD Earth view,"Alexa, open International Space Station (ISS) HD Earth view",
+International Space Station (ISS) HD Earth view,help,"For Help, please visit the help pages on the Amazon web site."
+International Space Station (ISS) HD Earth view,stop,
+International Space Station (ISS) HD Earth view,quit,
+Higher Education Enrollment Growth Briefing,"Alexa, open Higher Education Enrollment Growth Briefing","Sorry, I'm not sure."
+Higher Education Enrollment Growth Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Higher Education Enrollment Growth Briefing,stop,
+Higher Education Enrollment Growth Briefing,quit,
+The Gorilla Channel,"Alexa, open The Gorilla Channel","Sorry, I’m not sure about that."
+The Gorilla Channel,help,"For Help, please visit the help pages on the Amazon web site."
+The Gorilla Channel,stop,
+The Gorilla Channel,quit,
+Daily Quran and Hadith,"Alexa, open Daily Quran and Hadith","Ok, Here's Holy Quraan"
+Daily Quran and Hadith,help,"Welcome to the Help section. Now you can create a playlist select additional reciters or a translation language to create a playlist while a chapter is playing ask Alexa the following ask holy quraan to add to my playlist and when you are done adding your chapters to your playlist you can ask alexa to play your playlist by saying alexa ask holy quraan to play my playlist to select another reciter you can ask alexa the following ask holy quraan to select reciter one or eight you have a total of eight reciters now! to view the list of reciters you can ask me the following ask holy quraan to list reciters for translation you can ask alexa the following ask holy quraan to translate to English or to Urdu, currently we have added support for English and Urdu translation if you would like me to add another translation language please suggest it at the skill comment section, please check the skill description for further details Thank you."
+Daily Quran and Hadith,stop,
+Daily Quran and Hadith,quit,
+HackerOne,"Alexa, open HackerOne","Hmm, I'm not sure."
+HackerOne,help,"For Help, please visit the help pages on the Amazon web site."
+HackerOne,stop,
+HackerOne,quit,
+ABFM Board Review,"Alexa, open ABFM Board Review",ABFM Board Review contains mature content that may not be suitable for all ages
+ABFM Board Review,help,"For Help, please visit the help pages on the Amazon web site."
+ABFM Board Review,stop,
+ABFM Board Review,quit,
+Storyline Manual,"Alexa, open Storyline Manual","Storyline is a tool for crafting Alexa skills with a visual interface. Today, you will learn an Inventive approach to changing concepts into Alexa skills. This is an interactive manual. to help you to learn how to use Storyline. Have we met here before? if not, listen to the help file! You'll understand how to use Storyline quicker. If you've been here before, then you know what to say.say new, skills, other, help, or stop. now"
+Storyline Manual,help,"If you don't understand something, there's a definition choice in my full menu. I will try to help you with everything! You can get to my full menu at any time. just say. 'Alexa, full menu'. Then, you can get anything I know, by saying ""Alexa"", followed by what you want to know. For example, ""Alexa, tricks and tips"". The more senses you use when learning, the easier it is to master something. Always have Storyline's browser app open, so you can see what I'm talking about. with all of the stuff available, i tried to keep the choices in all menus except the full menu to a reasonable number. enjoy! it was a labour of love. Say stop. or say back. now."
+Storyline Manual,stop,"Please come back anytime. Just say, ""Alexa, open Storyline Manual"" to open this skill again. that's, ""Alexa, open Storyline Manual"""
+Storyline Manual,quit,
+Giving Developmental Feedback,"Alexa, open Giving Developmental Feedback",<Audio only response>
+Giving Developmental Feedback,help,"For Help, please visit the help pages on the Amazon web site."
+Giving Developmental Feedback,stop,
+Giving Developmental Feedback,quit,
+America's Victoria,"Alexa, open America's Victoria",You have Speak Up America enabled. Do you want to open it?
+America's Victoria,Yes,"Sorry, I'm having trouble accessing your Speak Up America skill right now"
+America's Victoria,help,"For Help, please visit the help pages on the Amazon web site."
+America's Victoria,stop,
+America's Victoria,quit,
+Reagan Quotes,"Alexa, open Reagan Quotes","Here's your Reagan Quote: I have left orders to be awakened at any time during national emergency, even if I'm in a cabinet meeting."
+Reagan Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Reagan Quotes,stop,
+Reagan Quotes,quit,
+First Grade Words,"Alexa, open First Grade Words","Sorry, I’m not sure about that."
+First Grade Words,help,"For Help, please visit the help pages on the Amazon web site."
+First Grade Words,stop,
+First Grade Words,quit,
+Guru Devs,"Alexa, open Guru Devs","Welcome to Guru Devs, you can say play episode and then say the episode number! I currently have 6 episodes."
+Guru Devs,help,You can say play episode and then the episode number! I currently have 6 episodes.
+Guru Devs,stop,Goodbye!
+Guru Devs,quit,
+Do Good,"Alexa, open Do Good",
+Do Good,help,"For Help, please visit the help pages on the Amazon web site."
+Do Good,stop,
+Do Good,quit,
+JCS Lunch Menu,"Alexa, open JCS Lunch Menu",
+JCS Lunch Menu,help,"For Help, please visit the help pages on the Amazon web site."
+JCS Lunch Menu,stop,
+JCS Lunch Menu,quit,
+me who is,"Alexa, open me who is",<Audio only response>
+me who is,help,"For Help, please visit the help pages on the Amazon web site."
+me who is,stop,
+me who is,quit,
+Daily French Word by MatchEpic.com,"Alexa, open Daily French Word by MatchEpic.com","Sorry, I don't know that."
+Daily French Word by MatchEpic.com,help,"For Help, please visit the help pages on the Amazon web site."
+Daily French Word by MatchEpic.com,stop,
+Daily French Word by MatchEpic.com,quit,
+Daily Facts about National Parks,"Alexa, open Daily Facts about National Parks",Welcome to national park facts! Would you like to hear a fact about national parks?
+Daily Facts about National Parks,help,"""With this skill, you can get a new fact about national parks. Would you like to hear a fact about national parks?"""
+Daily Facts about National Parks,stop,"""Come back tomorrow to hear another fact about national parks. Just say, ""Alexa, launch national park facts"" to open the skill again."""
+Daily Facts about National Parks,quit,
+Earthquake Summary,"Alexa, open Earthquake Summary",<Audio only response>
+Earthquake Summary,help,"For Help, please visit the help pages on the Amazon web site."
+Earthquake Summary,stop,
+Earthquake Summary,quit,
+United States Trivia,"Alexa, open United States Trivia","Welcome to the United States Quiz Game! You can ask me about any of the fifty states and their capitals by saying the state name, or you can ask me to start a quiz by saying start a quiz. What would you like to do?"
+United States Trivia,help,"I know lots of things about the United States. You can ask me about a state or a capital, and I'll tell you what I know. You can also test your knowledge by asking me to start a quiz. What would you like to do?"
+United States Trivia,stop,Thank you for playing the United States Quiz Game! Let's play again soon!
+United States Trivia,quit,

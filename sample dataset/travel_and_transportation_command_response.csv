@@ -1,0 +1,201 @@
+name,question,response
+I'm Driving,"""Alexa, open I'm driving!""",You have I'm Driving enabled. Do you want to open it?
+I'm Driving,Yes,Thanks for Trying I'm driving. You'll need to complete account linking to start using the skill. I've sent a card to the alexa app to help you get started.
+I'm Driving,"""Alexa, open I'm driving!""",You have I'm Driving enabled. Do you want to open it?
+I'm Driving,quit,
+I'm Driving,"""Alexa, ask I'm Driving for directions to the gym""","I don't know your exact location, so I can't give you traffic to a destination. To set your device location, visit the Settings section of the Alexa app and select your device."
+I'm Driving,quit,
+I'm Driving,quit,
+I'm Driving,"""Alexa, open I'm driving!""",You have I'm Driving enabled. Do you want to open it?
+I'm Driving,Yes,<Audio only response>
+I'm Driving,quit,
+Maps,"""Alexa, ask Live Maps how long will it take for me to get from White House t... """,<Audio only response>
+Maps,quit,
+Maps,"""Alexa, ask Live Maps how long will it take for me to get from White House t... """,<Audio only response>
+Maps,"""Las Vegas to Miami""",You have Las Vegas Facts enabled. Do you want to open it?
+Maps,quit,
+Maps,"""Alexa, ask Live Maps how long will it take for me to get from White House t... ""","I couldn't find that one, but I'm working on adding more local businesses."
+Maps,"""How far away is it to Yosemite from Santa Barbara""","I couldn't find that one, but I'm working on adding more local businesses."
+Maps,quit,
+Gas Prices,"""Alexa, gas prices!""","Over the past week, the average price of gas in Colorado was 2.9 USD per gallon."
+Gas Prices,quit,
+Gas Prices,"""Alexa, gas prices!""","Over the past week, the average price of gas in Colorado was 2.9 USD per gallon."
+Gas Prices,"""What is the price of Mobil?""",Do you want to know the price for mobil?
+Gas Prices,quit,
+Gas Prices,"""Alexa, gas prices!""","Over the past week, the average price of gas in Colorado was 2.9 USD per gallon."
+Gas Prices,"""Are gas prices going up?""","Over the past week, the average price of gas in The United States was 2.87 USD per gallon."
+Gas Prices,quit,
+Traffic,"""Alexa, how is the traffic today""","I don't know your commute information. To set your home and work addresses, tap the notification I’ve sent to the Alexa app on your phone."
+Traffic,quit,
+Traffic,"""Alexa, how is the traffic to work today""","I don't know your commute information. To set your home and work addresses, tap the notification I’ve sent to the Alexa app on your phone."
+Traffic,quit,
+Traffic,quit,
+Traffic,"""Alexa, what's my commute""","I don't know your commute information. To set your home and work addresses, tap the notification I’ve sent to the Alexa app on your phone."
+Traffic,quit,
+Traffic,quit,
+Airport Security Line Wait Times,"""Alexa, ask security line what is the wait time at SFO terminal 2?""","Ok, Here's Airport Security Line Wait Times"
+Airport Security Line Wait Times,quit,
+Airport Security Line Wait Times,"""Alexa, ask security line how long is the security line at San Francisco ter... ""","Ok, Here's Airport Security Line Wait Times"
+Airport Security Line Wait Times,quit,
+Airport Security Line Wait Times,quit,
+Airport Security Line Wait Times,"""Alexa, ask security line how long is security at SFO?""","Ok, Here's Airport Security Line Wait Times"
+Airport Security Line Wait Times,quit,
+Airport Security Line Wait Times,quit,
+Distance Between,"""Alexa, ask distance between Santa Barbara, California and Chicago, Illinois... ""","This might answer your question: Chicago is 1,804 miles from Santa Barbara, California as the crow flies."
+Distance Between,quit,
+Distance Between,"""Alexa, ask distance between Aspen and Denver by bike.""","Ok, Here's Distance Between"
+Distance Between,quit,
+Distance Between,quit,
+Distance Between,"""Alexa, ask distance between London, England and York, England, if I walk.""",This might answer your question: York is 174 miles from London as the crow flies.
+Distance Between,quit,
+Distance Between,quit,
+Expedia,"""Alexa, ask Expedia to search for a hotel.""",<Audio only response>
+Expedia,quit,
+Expedia,"""Alexa, ask Expedia to search for a flight.""",<Audio only response>
+Expedia,quit,
+Expedia,quit,
+Expedia,"""Alexa, ask Expedia for loyalty points.""",You have Expedia enabled. Do you want to open it?
+Expedia,Yes,"Welcome to Expedia. Looking for your next adventure? You can ask me to tell you about a destination, or you can ask me for a packing list. Which would you like?"
+Expedia,"""Alexa, ask Expedia for loyalty points.""","Hmm, I can't do that right now. Ask me your travel questions, like what should I pack?"
+Expedia,quit,
+Expedia,quit,
+Dave's Airport METAR & TAF Reader,"""Alexa, start airport weather""","Welcome to the mee-tar reader app. I will read you airport weather reports. You can say ""get San Francisco"" to get the weather at San Francisco airport. You can say ""get kilo oscar romeo delta"" to get the weather at Chicago O'Hare airport. Please note that the data I read is advisory and pilots should consult official sources for a legal weather briefing."
+Dave's Airport METAR & TAF Reader,quit,
+Dave's Airport METAR & TAF Reader,"""Alexa, ask airport weather to read the metar at kilo echo whiskey romeo""","Ok, Here's Dave's Airport METAR & TAF Reader"
+Dave's Airport METAR & TAF Reader,quit,
+Dave's Airport METAR & TAF Reader,quit,
+Dave's Airport METAR & TAF Reader,"""Alexa, ask airport weather to get the atis at Cincinnati""",You have Dave's Airport METAR & TAF Reader enabled. Do you want to open it?
+Dave's Airport METAR & TAF Reader,Yes,"Welcome to the mee-tar reader app. I will read you airport weather reports. You can say ""get San Francisco"" to get the weather at San Francisco airport. You can say ""get kilo oscar romeo delta"" to get the weather at Chicago O'Hare airport. Please note that the data I read is advisory and pilots should consult official sources for a legal weather briefing."
+Dave's Airport METAR & TAF Reader,"""Alexa, ask airport weather to get the atis at Cincinnati""",covington airport automated weather observation 0 5 5 2 zulu wind 2 fife 4 at 7 visibility 10 sky condition clear temperature niner dewpoint 1 altimeter 2 niner niner 2 .
+Dave's Airport METAR & TAF Reader,quit,
+Dave's Airport METAR & TAF Reader,quit,
+My ETA,"""Alexa, Open My E. T. A. and tell me the list of my destinations""","Hmm, I'm not sure."
+My ETA,quit,
+My ETA,"""Alexa, Ask My E. T. A. for the time to drive to destination number one""","Ok, Here's My ETA"
+My ETA,quit,
+My ETA,quit,
+My ETA,"""Alexa, Ask My E. T. A. to tell me the time to drive to LAX when leaving in ... """,<Audio only response>
+My ETA,quit,
+My ETA,quit,
+Control Tower,"""Alexa, ask Control Tower what is the weather at Portland""","Currently, in Portland Oregon it's 49 degrees Fahrenheit with mostly cloudy skies. Tonight, you can expect cloudy skies moving in and out, with a low of 44 degrees."
+Control Tower,quit,
+Control Tower,"""Alexa, ask Control Tower what is the weather at Kilo Hotel India Oscar""","Sorry, I don't know that."
+Control Tower,quit,
+Control Tower,quit,
+Control Tower,"""Alexa, ask Control Tower what is the airport identifier for Los Angeles""","Sorry, I still didn't get that. But if you're up for a game, I've got everything from Music to Trivia. Want to find one to play?"
+Control Tower,quit,
+Control Tower,quit,
+My Disney Visit,"""Alexa, ask My Disney Visit how long until we go to Disney World""","I found a Walt Disney World Dolphin. It is 1,566 miles away on Epcot Resort Boulevard in Lake Buena Vista. I don't know your exact location, so I'm not sure how long it would take to get there. To set your street address, visit the Settings section in your Alexa app."
+My Disney Visit,quit,
+My Disney Visit,"""Alexa, ask My Disney Visit what time the Magic Kingdom opens tomorrow""",I couldn't find any that are open tomorrow.
+My Disney Visit,quit,
+My Disney Visit,quit,
+My Disney Visit,"""Alexa, ask My Disney Visit to give me the schedule for Epcot on February th... """,
+My Disney Visit,quit,
+My Disney Visit,quit,
+Vacation Rental Concierge Service,"""Alexa, use the concierge service""",
+Vacation Rental Concierge Service,quit,
+Vacation Rental Concierge Service,"""Alexa, ask Home Service what is the wifi password.""","Sorry, I’m not sure about that."
+Vacation Rental Concierge Service,quit,
+Vacation Rental Concierge Service,quit,
+Vacation Rental Concierge Service,"""Alexa, ask Expedia to search for a hotel.""",<Audio only response>
+Vacation Rental Concierge Service,quit,
+Vacation Rental Concierge Service,quit,
+Places,"""Alexa, ask Nearby Places for directions to the closest Target""","I don't know your exact location, so I can't give you traffic to a destination. To set your device location, visit the Settings section of the Alexa app and select your device."
+Places,quit,
+Places,"""Alexa, ask Nearby Places what is the phone number for pizza hut""","The phone number for a Pizza Hut, located on 28th Street in Boulder, is (303)449-8877. It is currently closed but will be open from April 27th 2019 at 10:00 a.m. to April 28th 2019 at 12:00 a.m. To get more accurate results, go to the Alexa app and enter your address."
+Places,quit,
+Places,quit,
+Places,"""Alexa, ask Nearby Places where is the closest Starbucks""",I found a Starbucks. It is 3 miles away on Lookout Rd in Boulder. It is currently closed but will be open today from 6:00 a.m. to 8:00 p.m.
+Places,quit,
+Places,quit,
+Cruise Radio News,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Cruise Radio News,quit,
+Cruise Radio News,"""Alexa, what's in the news?""",Here's your news.
+Cruise Radio News,quit,
+Cruise Radio News,quit,
+Cruise Radio News,"""Alexa, ask Cruise Planners about Royal Caribbean.""","Royal Caribbean International, also known by its former name Royal Caribbean Cruise Line, is a cruise line brand founded in 1968 in Norway and organised as a wholly owned subsidiary of Royal Caribbean Cruises Ltd. since 1997."
+Cruise Radio News,quit,
+Cruise Radio News,quit,
+U.S. National Parks,"""Alexa, ask National Parks for Yosemite.""",<Audio only response>
+U.S. National Parks,quit,
+U.S. National Parks,"""Alexa, ask National Parks for Yosemite.""",<Audio only response>
+U.S. National Parks,"""Where is it?""","Sorry, I'm not sure. For now, I'm able to look up phone numbers, hours, and addresses."
+U.S. National Parks,quit,
+U.S. National Parks,"""Alexa, ask National Parks for Yosemite.""",Which city in california?
+U.S. National Parks,"""California""",Which city in california?
+U.S. National Parks,quit,
+Cruise Planners,"""Alexa, ask Cruise Planners about Royal Caribbean.""","Royal Caribbean International, also known by its former name Royal Caribbean Cruise Line, is a cruise line brand founded in 1968 in Norway and organised as a wholly owned subsidiary of Royal Caribbean Cruises Ltd. since 1997."
+Cruise Planners,quit,
+Cruise Planners,"""Alexa, ask Cruise Planners about Royal Caribbean.""","Royal Caribbean International, also known by its former name Royal Caribbean Cruise Line, is a cruise line brand founded in 1968 in Norway and organised as a wholly owned subsidiary of Royal Caribbean Cruises Ltd. since 1997."
+Cruise Planners,"""ask Cruise Planners when is my next vacation""",You have Ship.com — Automatic Package Tracker enabled. Do you want to open it?
+Cruise Planners,quit,
+Cruise Planners,"""Alexa, ask Cruise Planners who is my agent.""",You have Meal Planner enabled. Do you want to open it?
+Cruise Planners,Yes,Welcome to Meal Planner. Plan meal by saying add pizza for dinner or ask what's for dinner today
+Cruise Planners,"""Alexa, ask Cruise Planners who is my agent.""","Which meal time do you want to plan for ? Try breakfast, lunch, snack or dinner"
+Cruise Planners,quit,
+Cruise Planners,quit,
+Travel Time,"""Alexa, open Travel Time""",<Short audio>
+Travel Time,quit,
+Travel Time,"""Alexa, open Travel Time""",<Short audio>
+Travel Time,"""New York""","I'm sorry, I didn't understand that."
+Travel Time,quit,
+Travel Time,"""Alexa, open Travel Time""",<Audio only response>
+Travel Time,"""Springfield""","Currently, in Springfield Illinois it's 50 degrees Fahrenheit with clear skies. Today, you can expect thunderstorms, with a high of 63 degrees and a low of 33 degrees."
+Travel Time,quit,
+Should I Ride,"""Alexa, Ask Should I Ride""","Welcome to Ride. I can tell you if you should ride your bike today. To start, please tell me your zipcode."
+Should I Ride,quit,
+Should I Ride,"""Alexa, Ask Should I Ride for 11215""",You have Should I Ride enabled. Do you want to open it?
+Should I Ride,Yes,"Welcome to Ride. I can tell you if you should ride your bike today. To start, please tell me your zipcode."
+Should I Ride,"""Alexa, Ask Should I Ride for 11215""",Please tell me your five digit zipcode.
+Should I Ride,quit,
+Should I Ride,quit,
+Should I Ride,"""Alexa, Ask Should I Ride tomorrow""",You have Should I Ride enabled. Do you want to open it?
+Should I Ride,Yes,"Welcome to Ride. I can tell you if you should ride your bike today. To start, please tell me your zipcode."
+Should I Ride,"""Alexa, Ask Should I Ride tomorrow""",What's your zipcode?
+Should I Ride,quit,
+Should I Ride,quit,
+Travel Dates,"""Alexa, ask Travel Dates for my departure date of June 5th, 2017""","Sorry, I'm not sure."
+Travel Dates,quit,
+Travel Dates,"""Alexa, ask Travel Dates for a departure of August 8th, 2017""","Hmm, I don't know that one."
+Travel Dates,quit,
+Travel Dates,quit,
+Travel Dates,"""Alexa, ask Travel Dates for November 5th""",You have Star Date Converter enabled. Do you want to open it?
+Travel Dates,Yes,"Welcome to Star Date Converter. Please say the Earth date that you would like to convert to a Star Date. or you can say, What is today's Star Date?"
+Travel Dates,"""Alexa, ask Travel Dates for November 5th""","The standard United Federation of Planets Star Date for, 2019-11-05, is 20 , 19, point, 309 ; Thanks for using Star Date Converter. I rather believe that time is a companion, who goes with us on the journey, and reminds us to cherish every moment because they'll never come again. What we leave behind, is not as important as how we've lived. Captain Jean Luc Picard."
+Travel Dates,quit,
+Travel Dates,quit,
+American Airlines Entertainment,"""Alexa, start American Airlines Entertainment""","Hmm. Maybe the skill, American Airlines Entertainment, can help. Do you want to try it?"
+American Airlines Entertainment,quit,
+American Airlines Entertainment,"""Alexa, start American Airlines Entertainment""","Hmm. Maybe the skill, American Airlines Entertainment, can help. Do you want to try it?"
+American Airlines Entertainment,"""What are the comedy movies""","Hmm. Maybe the skill, American Airlines Entertainment, can help. Do you want to try it?"
+American Airlines Entertainment,quit,
+American Airlines Entertainment,"""Alexa, ask Flight Tracker for United 262""","For flight information, tell me an Airline and flight number."
+American Airlines Entertainment,quit,
+American Airlines Entertainment,quit,
+Trip Planner,"""Alexa, open Trip Planner""","Welcome to the Trip Planner. Please ask me to plan your trip to a city by saying, Plan me a trip to Los Angeles"
+Trip Planner,quit,
+Trip Planner,"""Alexa, open Trip Planner""","Welcome to the Trip Planner. Please ask me to plan your trip to a city by saying, Plan me a trip to Los Angeles"
+Trip Planner,"""Ask Trip Planner to Plan me a full day trip in Seattle""","Sorry, I'm having trouble accessing your Trip Planner skill right now"
+Trip Planner,quit,
+Trip Planner,"""Alexa, open Trip Planner""","Welcome to the Trip Planner. Please ask me to plan your trip to a city by saying, Plan me a trip to Los Angeles"
+Trip Planner,"""Ask Trip Planner to Plan me a trip in Los Angeles""","Sorry, I'm having trouble accessing your Trip Planner skill right now"
+Trip Planner,quit,
+Distance Finder,"""Alexa, ask distance finder whats the distance between London and Dartford""","London is 16.65 miles from Dartford, England, as the crow flies."
+Distance Finder,quit,
+Distance Finder,"""Alexa, ask distance finder to find distance from London to Dartford""","Sorry, I’m not sure about that."
+Distance Finder,quit,
+Distance Finder,quit,
+Distance Finder,"""Alexa, ask distance finder to get the distance between London and Dartford""","Hmm, I don't know that."
+Distance Finder,quit,
+Distance Finder,quit,
+Champaign/Urbana Bus Times,"""Alexa, ask bus times for First and Daniel""",You have Daniel's Brain enabled. Do you want to open it?
+Champaign/Urbana Bus Times,Yes,Danielisms are wild and wonderful facts and musings about the world. They may or may not be true but are always fun! Want to hear one?
+Champaign/Urbana Bus Times,"""Alexa, ask bus times for First and Daniel""","If you bring me a margarita with ice, I'm gonna throw it in your face! Want another?"
+Champaign/Urbana Bus Times,quit,
+Champaign/Urbana Bus Times,"""Alexa, bus times""","Hmm, I don't know that."
+Champaign/Urbana Bus Times,quit,
+Champaign/Urbana Bus Times,quit,
+Champaign/Urbana Bus Times,"""Alexa, ask bus times for Green and Locust""","Sorry, I don't know that one."
+Champaign/Urbana Bus Times,quit,
+Champaign/Urbana Bus Times,quit,

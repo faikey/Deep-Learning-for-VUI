@@ -1,0 +1,1335 @@
+name,question,response
+Baby Groot,"Alexa, open Baby Groot","Welcome to Baby Stats. Try saying, add wet. Say help if you need help, or go to www.babystats.org. What stat would you like to track?"
+Baby Groot,help,"Try saying, add wet. You can then ask baby stats what time was the last wet. If you want more tips, say help. You can also navigate to www.babystats.org and click on help."
+Baby Groot,stop,See you later!
+Baby Groot,quit,
+Baby Groot,"Alexa, open Baby Groot","Welcome to Baby Stats. Try saying, add pumping 3 ounces. Say help if you need help, or go to www.babystats.org. What stat would you like to track?"
+Baby Groot,help,"Try saying, add feeding. If you want more tips, say help. You can also navigate to www.babystats.org and click on help."
+Baby Groot,stop,Bye!
+Baby Groot,quit,
+Baby Groot,"Alexa, open Baby Groot","Welcome to Baby Stats. Try saying, add feeding left breast. Say help if you need help, or go to www.babystats.org. What stat would you like to track?"
+Baby Groot,help,"Try saying, add feeding 3 ounces. If you want more tips, say help. You can also navigate to www.babystats.org and click on help."
+Baby Groot,stop,Bye!
+Baby Groot,quit,
+The Tonight Show,"Alexa, open The Tonight Show",<Short audio>
+The Tonight Show,help,"The Tonight Show can play the latest Monologue, listen to Jimmyâ€™s Thank You Notes, find out which guests will appear on upcoming episodes or tell you more about the show. Try saying things like play the monologue or who is on the show this week. How can I help you?"
+The Tonight Show,stop,Ok. Goodbye
+The Tonight Show,quit,
+The Tonight Show,"Alexa, open The Tonight Show",<Short audio>
+The Tonight Show,help,"The Tonight Show can play the latest Monologue, listen to Jimmyâ€™s Thank You Notes, find out which guests will appear on upcoming episodes or tell you more about the show. Try saying things like play the monologue or who is on the show this week. How can I help you?"
+The Tonight Show,stop,Ok. Goodbye
+The Tonight Show,quit,
+The Tonight Show,"Alexa, open The Tonight Show",<Short audio>
+The Tonight Show,help,"The Tonight Show can play the latest Monologue, listen to Jimmyâ€™s Thank You Notes, find out which guests will appear on upcoming episodes or tell you more about the show. Try saying things like play the monologue or who is on the show this week. How can I help you?"
+The Tonight Show,stop,Ok. Goodbye
+The Tonight Show,quit,
+The Tonight Show Monologue,"Alexa, open The Tonight Show Monologue",<Short audio>
+The Tonight Show Monologue,help,"The Tonight Show can play the latest Monologue, listen to Jimmyâ€™s Thank You Notes, find out which guests will appear on upcoming episodes or tell you more about the show. Try saying things like play the monologue or who is on the show this week. How can I help you?"
+The Tonight Show Monologue,stop,Ok. Goodbye
+The Tonight Show Monologue,quit,
+The Tonight Show Monologue,"Alexa, open The Tonight Show Monologue",<Short audio>
+The Tonight Show Monologue,help,"The Tonight Show can play the latest Monologue, listen to Jimmyâ€™s Thank You Notes, find out which guests will appear on upcoming episodes or tell you more about the show. Try saying things like play the monologue or who is on the show this week. How can I help you?"
+The Tonight Show Monologue,stop,Ok. Goodbye
+The Tonight Show Monologue,quit,
+The Tonight Show Monologue,"Alexa, open The Tonight Show Monologue",<Short audio>
+The Tonight Show Monologue,help,"The Tonight Show can play the latest Monologue, listen to Jimmyâ€™s Thank You Notes, find out which guests will appear on upcoming episodes or tell you more about the show. Try saying things like play the monologue or who is on the show this week. How can I help you?"
+The Tonight Show Monologue,stop,Ok. Goodbye
+The Tonight Show Monologue,quit,
+Spider-Man,"Alexa, open Spider-Man",<Short audio>
+Spider-Man,help,"Sorry, I didn't catch that. You can choose from Spider-man: Into the Spider-verse, or Spider-man: Homecoming. Which will it be?"
+Spider-Man,stop,"Speak soon, make sure to come back tomorrow for some new Spidey content!"
+Spider-Man,quit,
+Spider-Man,"Alexa, open Spider-Man",<Short audio>
+Spider-Man,help,"Sorry, I didn't catch that. You can choose from Spider-man: Into the Spider-verse, or Spider-man: Homecoming. Which will it be?"
+Spider-Man,stop,"Speak soon, make sure to come back tomorrow for some new Spidey content!"
+Spider-Man,quit,
+Spider-Man,"Alexa, open Spider-Man",<Short audio>
+Spider-Man,help,"Sorry, I didn't catch that. You can choose from Spider-man: Into the Spider-verse, or Spider-man: Homecoming. Which will it be?"
+Spider-Man,stop,"Speak soon, make sure to come back tomorrow for some new Spidey content!"
+Spider-Man,quit,
+Fandango,"Alexa, open Fandango","Welcome to Fandango, I can help you find showtimes to a movie. What can I help you with?"
+Fandango,help,"You can search for movies by specific name, find movies playing nearby, or change your zip code. Try saying things like 'I want to see I Can Only Imagine' or 'change my zip code.' What would you like to do?"
+Fandango,stop,Thank you for using Fandango. Good bye!
+Fandango,quit,
+Fandango,"Alexa, open Fandango","Welcome to Fandango, I can help you find showtimes to a movie. What can I help you with?"
+Fandango,help,"You can search for movies by specific name, find movies playing nearby, or change your zip code. Try saying things like 'I want to see I Can Only Imagine' or 'change my zip code.' What would you like to do?"
+Fandango,stop,Thank you for using Fandango. Good bye!
+Fandango,quit,
+Fandango,"Alexa, open Fandango","Welcome to Fandango, I can help you find showtimes to a movie. What can I help you with?"
+Fandango,help,"You can search for movies by specific name, find movies playing nearby, or change your zip code. Try saying things like 'I want to see I Can Only Imagine' or 'change my zip code.' What would you like to do?"
+Fandango,stop,Thank you for using Fandango. Good bye!
+Fandango,quit,
+Match Game,"Alexa, open Match Game","Hmm, I don't know that one."
+Match Game,help,"For Help, please visit the help pages on the Amazon web site."
+Match Game,stop,
+Match Game,quit,
+Match Game,"Alexa, open Match Game","Hmm, I don't know that one."
+Match Game,help,"For Help, please visit the help pages on the Amazon web site."
+Match Game,stop,
+Match Game,quit,
+Match Game,"Alexa, open Match Game","Sorry, Iâ€™m not sure about that."
+Match Game,help,"For Help, please visit the help pages on the Amazon web site."
+Match Game,stop,
+Match Game,quit,
+Atom Tickets,"Alexa, open Atom Tickets","Ok, Here's Fandango"
+Atom Tickets,help,What's your zip code?
+Atom Tickets,stop,Thank you for using Fandango. Good bye!
+Atom Tickets,quit,
+Atom Tickets,"Alexa, open Atom Tickets","Ok, Here's Fandango"
+Atom Tickets,help,What's your zip code?
+Atom Tickets,stop,Thank you for using Fandango. Good bye!
+Atom Tickets,quit,
+Atom Tickets,"Alexa, open Atom Tickets","Ok, Here's Fandango"
+Atom Tickets,help,What's your zip code?
+Atom Tickets,stop,Thank you for using Fandango. Good bye!
+Atom Tickets,quit,
+Screen Test | Movie Quote Quiz,"Alexa, open Screen Test | Movie Quote Quiz","Welcome to the Cinema Playground Screen Test. I will play 5 movie quotes. Just say the answer. If you need to hear the quote again, just say repeat. Good Luck. Quote 1."
+Screen Test | Movie Quote Quiz,help,"To start a new game at any time, say, start new game. To repeat the last quote, say, repeat. Would you like to keep playing?"
+Screen Test | Movie Quote Quiz,stop,Thanks for playing the Cinema Playground Screen Test.
+Screen Test | Movie Quote Quiz,quit,
+Screen Test | Movie Quote Quiz,"Alexa, open Screen Test | Movie Quote Quiz","Welcome to the Cinema Playground Screen Test. I will play 5 movie quotes. Just say the answer. If you need to hear the quote again, just say repeat. Good Luck. Quote 1."
+Screen Test | Movie Quote Quiz,help,"To start a new game at any time, say, start new game. To repeat the last quote, say, repeat. Would you like to keep playing?"
+Screen Test | Movie Quote Quiz,stop,Thanks for playing the Cinema Playground Screen Test.
+Screen Test | Movie Quote Quiz,quit,
+Screen Test | Movie Quote Quiz,"Alexa, open Screen Test | Movie Quote Quiz","Welcome to the Cinema Playground Screen Test. I will play 5 movie quotes. Just say the answer. If you need to hear the quote again, just say repeat. Good Luck. Quote 1."
+Screen Test | Movie Quote Quiz,help,"To start a new game at any time, say, start new game. To repeat the last quote, say, repeat. Would you like to keep playing?"
+Screen Test | Movie Quote Quiz,stop,Thanks for playing the Cinema Playground Screen Test.
+Screen Test | Movie Quote Quiz,quit,
+The Office Quote Game,"Alexa, open The Office Quote Game",The Office Quote Game contains mature content that may not be suitable for all ages
+The Office Quote Game,help,"For Help, please visit the help pages on the Amazon web site."
+The Office Quote Game,stop,
+The Office Quote Game,quit,
+The Office Quote Game,"Alexa, open The Office Quote Game",The Office Quote Game contains mature content that may not be suitable for all ages
+The Office Quote Game,help,"For Help, please visit the help pages on the Amazon web site."
+The Office Quote Game,stop,
+The Office Quote Game,quit,
+The Office Quote Game,"Alexa, open The Office Quote Game",The Office Quote Game contains mature content that may not be suitable for all ages
+The Office Quote Game,help,"For Help, please visit the help pages on the Amazon web site."
+The Office Quote Game,stop,
+The Office Quote Game,quit,
+Burger of the Day,"Alexa, open Burger of the Day","Ok, Here's Burger of the Day"
+Burger of the Day,help,"For Help, please visit the help pages on the Amazon web site."
+Burger of the Day,stop,
+Burger of the Day,quit,
+Burger of the Day,"Alexa, open Burger of the Day","Ok, Here's Burger of the Day"
+Burger of the Day,help,"For Help, please visit the help pages on the Amazon web site."
+Burger of the Day,stop,
+Burger of the Day,quit,
+Burger of the Day,"Alexa, open Burger of the Day","Ok, Here's Burger of the Day"
+Burger of the Day,help,"For Help, please visit the help pages on the Amazon web site."
+Burger of the Day,stop,
+Burger of the Day,quit,
+YourDirect TV,"Alexa, open YourDirect TV","Hello, welcome to your direct tv guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+YourDirect TV,help,"No worries, i will help you out. To know about a channel number, ask , what is the channel number of bloomberg tv or any channel of your choice. Furthermore, you can also find out about a particular category of channels. Ask, where can i find regional sports networks or music channels ?."
+YourDirect TV,stop,"Thanks for using your direct tv guide. I am here for you, whenever you need."
+YourDirect TV,quit,
+YourDirect TV,"Alexa, open YourDirect TV","Hello, welcome to your direct tv guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+YourDirect TV,help,"No worries, i will help you out. To know about a channel number, ask , what is the channel number of bloomberg tv or any channel of your choice. Furthermore, you can also find out about a particular category of channels. Ask, where can i find regional sports networks or music channels ?."
+YourDirect TV,stop,"Thanks for using your direct tv guide. I am here for you, whenever you need."
+YourDirect TV,quit,
+YourDirect TV,"Alexa, open YourDirect TV","Hello, welcome to your direct tv guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+YourDirect TV,help,"No worries, i will help you out. To know about a channel number, ask , what is the channel number of bloomberg tv or any channel of your choice. Furthermore, you can also find out about a particular category of channels. Ask, where can i find regional sports networks or music channels ?."
+YourDirect TV,stop,"Thanks for using your direct tv guide. I am here for you, whenever you need."
+YourDirect TV,quit,
+Deadpool,"Alexa, open Deadpool","Hmm, I don't know that."
+Deadpool,help,"For Help, please visit the help pages on the Amazon web site."
+Deadpool,stop,
+Deadpool,quit,
+Deadpool,"Alexa, open Deadpool","Sorry, Iâ€™m not sure about that."
+Deadpool,help,"For Help, please visit the help pages on the Amazon web site."
+Deadpool,stop,
+Deadpool,quit,
+Deadpool,"Alexa, open Deadpool","Sorry, I don't know that one."
+Deadpool,help,"For Help, please visit the help pages on the Amazon web site."
+Deadpool,stop,
+Deadpool,quit,
+Seinfeld Fan Trivia,"Alexa, open Seinfeld Fan Trivia","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. When George and Kramer visit the bus boy, what or who slips out the door? 1. A dog. 2. A cat. 3. A snake. 4. The baby."
+Seinfeld Fan Trivia,help,"I will ask you 5 multiple choice questions, try to get as many right as you can! To give an answer to a question, respond with the number of the answer by saying one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question asked, say, repeat."
+Seinfeld Fan Trivia,stop,Good bye!
+Seinfeld Fan Trivia,quit,
+Seinfeld Fan Trivia,"Alexa, open Seinfeld Fan Trivia","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. Who was Georgeâ€™s masseuse? 1. John Paul. 2. Tony. 3. Raymond. 4. Todd Gack."
+Seinfeld Fan Trivia,help,"I will ask you 5 multiple choice questions, try to get as many right as you can! To give an answer to a question, respond with the number of the answer by saying one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question asked, say, repeat."
+Seinfeld Fan Trivia,stop,Good bye!
+Seinfeld Fan Trivia,quit,
+Seinfeld Fan Trivia,"Alexa, open Seinfeld Fan Trivia","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. When George and Kramer visit the bus boy, what or who slips out the door? 1. A dog. 2. A cat. 3. A snake. 4. The baby."
+Seinfeld Fan Trivia,help,"I will ask you 5 multiple choice questions, try to get as many right as you can! To give an answer to a question, respond with the number of the answer by saying one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question asked, say, repeat."
+Seinfeld Fan Trivia,stop,Good bye!
+Seinfeld Fan Trivia,quit,
+Michael Scott Quote Generator,"Alexa, open Michael Scott Quote Generator","Here is a quote from Michael Scott. ""I'm very sorry, I did not know you were wearing a hearing aid. I thought you were just speaking abnormally."""
+Michael Scott Quote Generator,help,"For Help, please visit the help pages on the Amazon web site."
+Michael Scott Quote Generator,stop,
+Michael Scott Quote Generator,quit,
+Michael Scott Quote Generator,"Alexa, open Michael Scott Quote Generator","Here is a quote from Michael Scott. ""I'm very sorry, I did not know you were wearing a hearing aid. I thought you were just speaking abnormally."""
+Michael Scott Quote Generator,help,"For Help, please visit the help pages on the Amazon web site."
+Michael Scott Quote Generator,stop,
+Michael Scott Quote Generator,quit,
+Michael Scott Quote Generator,"Alexa, open Michael Scott Quote Generator","Here is a quote from Michael Scott. ""I'm very sorry, I did not know you were wearing a hearing aid. I thought you were just speaking abnormally."""
+Michael Scott Quote Generator,help,"For Help, please visit the help pages on the Amazon web site."
+Michael Scott Quote Generator,stop,
+Michael Scott Quote Generator,quit,
+Movie Trivia,"Alexa, open Movie Trivia",Here's your fact: Among Patrick Bateman's neighbours in the novel of American Psycho is one Tom Cruise (see also #66)
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+Movie Trivia,"Alexa, open Movie Trivia",Here's your fact: Fight Club and Choke author Chuck Palahnuik can be glimpsed ever so briefly in the final scene of the latter. He's sitting next to Sam Rockwell on the plane.
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+Movie Trivia,"Alexa, open Movie Trivia","Here's your fact: Robert Ludlum, the creator of the Jason Bourne series, died while the first Bourne film was in post-production."
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+Groot,"Alexa, open Groot","Sorry, I don't know that."
+Groot,help,"For Help, please visit the help pages on the Amazon web site."
+Groot,stop,
+Groot,quit,
+Groot,"Alexa, open Groot","Hmm, I don't know that."
+Groot,help,"For Help, please visit the help pages on the Amazon web site."
+Groot,stop,
+Groot,quit,
+Groot,"Alexa, open Groot","Sorry, I don't know that one."
+Groot,help,"For Help, please visit the help pages on the Amazon web site."
+Groot,stop,
+Groot,quit,
+Golden Girls Trivia,"Alexa, open Golden Girls Trivia",<Short audio>
+Golden Girls Trivia,help,"You can stop the question and answer it at any time by saying Alexa: and the number of your answer. Easy peasy. To repeat the last question, say, repeat. Would you like to keep playing?"
+Golden Girls Trivia,stop,Would you like to keep playing?
+Golden Girls Trivia,quit,
+Golden Girls Trivia,"Alexa, open Golden Girls Trivia",<Short audio>
+Golden Girls Trivia,help,"You can stop the question and answer it at any time by saying Alexa: and the number of your answer. Easy peasy. To repeat the last question, say, repeat. Would you like to keep playing?"
+Golden Girls Trivia,stop,Would you like to keep playing?
+Golden Girls Trivia,quit,
+Golden Girls Trivia,"Alexa, open Golden Girls Trivia",<Short audio>
+Golden Girls Trivia,help,"You can stop the question and answer it at any time by saying Alexa: and the number of your answer. Easy peasy. To repeat the last question, say, repeat. Would you like to keep playing?"
+Golden Girls Trivia,stop,Would you like to keep playing?
+Golden Girls Trivia,quit,
+SHOWTIME,"Alexa, open SHOWTIME","Welcome back to Showtime! Catch new episodes of Billions, Sundays at 9 PM Eastern and Pacific. You can ask me about series, movies, documentaries or sports. Which would you like?"
+SHOWTIME,help,"You can ask me to browse series, movies, documentaries, or sports, ask about your favorite characters, or find out whatâ€™s happening on the latest episodes of your favorite Showtime shows. How can I help you?"
+SHOWTIME,stop,Thanks for using the Showtime skill. Goodbye
+SHOWTIME,quit,
+SHOWTIME,"Alexa, open SHOWTIME","Welcome back to Showtime! Catch new episodes of Billions, Sundays at 9 PM Eastern and Pacific. You can ask me about series, movies, documentaries or sports. Which would you like?"
+SHOWTIME,help,"You can ask me to browse series, movies, documentaries, or sports, ask about your favorite characters, or find out whatâ€™s happening on the latest episodes of your favorite Showtime shows. How can I help you?"
+SHOWTIME,stop,Thanks for using the Showtime skill. Goodbye
+SHOWTIME,quit,
+SHOWTIME,"Alexa, open SHOWTIME","Welcome back to Showtime! Catch new episodes of Billions, Sundays at 9 PM Eastern and Pacific. You can ask me about series, movies, documentaries or sports. Which would you like?"
+SHOWTIME,help,"You can ask me to browse series, movies, documentaries, or sports, ask about your favorite characters, or find out whatâ€™s happening on the latest episodes of your favorite Showtime shows. How can I help you?"
+SHOWTIME,stop,Thanks for using the Showtime skill. Goodbye
+SHOWTIME,quit,
+WWE Trivia - Questions and Facts,"Alexa, open WWE Trivia - Questions and Facts","Here's your fact: Who did Chris Jericho interrupt when he made his WWE debut? The Rock. He interrupted The Rock on the Aug. 9, 1999, episode of Raw Is War."
+WWE Trivia - Questions and Facts,help,"For Help, please visit the help pages on the Amazon web site."
+WWE Trivia - Questions and Facts,stop,
+WWE Trivia - Questions and Facts,quit,
+WWE Trivia - Questions and Facts,"Alexa, open WWE Trivia - Questions and Facts","Here's your fact: In 2001, the WWFâ€™s version of the Kai En Tai stable had been quietly dissolved when all of the villainous Orientals in the faction left the company, with the exception of Funaki and Taka Michinoku, who remained to form a comedic tag team under the same name. Riffing off the cliched Hollywood practice of appalling overdubbing of kung fu movies, Kai En Tai would excitedly cut promos to a dead mic, while a deep, out-of-synch American voice would boom over the PA with the English dub of the promo. Inevitably, Taka would end with the word EEEEVIL!, and Funaki would tack INDEEEED! on the end. A rarity for WWE comedy gimmicks, the bit was actually funny. Perhaps thatâ€™s because Shane McMahon came up with it rather than his father. What few people realised was that the hilariously over-the-top dubbed voice was Shane as well. Eeeevil indeeeed."
+WWE Trivia - Questions and Facts,help,"For Help, please visit the help pages on the Amazon web site."
+WWE Trivia - Questions and Facts,stop,
+WWE Trivia - Questions and Facts,quit,
+WWE Trivia - Questions and Facts,"Alexa, open WWE Trivia - Questions and Facts","Here's your fact: Dwayne The Rock Johnson didnâ€™t develop the ability to quirk an eyebrow overnight while working the house show loop. No, the Peopleâ€™s Eyebrow was something he came up with while studying criminology and physiology on a full football scholarship at the University Of Miami. Why he made it a thing back in college, I have no idea. Equally, I havenâ€™t got a clue why he decided to call it â€˜the Heat Browâ€™. Was it getting him heat? Did it make other people hot? Miamiâ€™s a hot town. Was there perspiration involved? Weâ€™ll probably never know. He tried calling it that again when the eyebrow reappeared in the WWF, but it never caught on like â€˜the Peopleâ€™s Eyebrowâ€™ did."
+WWE Trivia - Questions and Facts,help,"For Help, please visit the help pages on the Amazon web site."
+WWE Trivia - Questions and Facts,stop,
+WWE Trivia - Questions and Facts,quit,
+Famous Movie Quotes,"Alexa, open Famous Movie Quotes",Here's a quote from the movie undefined... undefined
+Famous Movie Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Famous Movie Quotes,stop,
+Famous Movie Quotes,quit,
+Famous Movie Quotes,"Alexa, open Famous Movie Quotes",Here's a quote from the movie undefined... undefined
+Famous Movie Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Famous Movie Quotes,stop,
+Famous Movie Quotes,quit,
+Famous Movie Quotes,"Alexa, open Famous Movie Quotes",Here's a quote from the movie undefined... undefined
+Famous Movie Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Famous Movie Quotes,stop,
+Famous Movie Quotes,quit,
+new flicks,"Alexa, open new flicks","Hmm, I don't know that one."
+new flicks,help,"For Help, please visit the help pages on the Amazon web site."
+new flicks,stop,
+new flicks,quit,
+new flicks,"Alexa, open new flicks","Sorry, Iâ€™m not sure about that."
+new flicks,help,"For Help, please visit the help pages on the Amazon web site."
+new flicks,stop,
+new flicks,quit,
+new flicks,"Alexa, open new flicks","Hmm, I don't know that one."
+new flicks,help,"For Help, please visit the help pages on the Amazon web site."
+new flicks,stop,
+new flicks,quit,
+NoCable,"Alexa, open NoCable","Hmm, I don't know that."
+NoCable,help,"For Help, please visit the help pages on the Amazon web site."
+NoCable,stop,
+NoCable,quit,
+NoCable,"Alexa, open NoCable","Sorry, Iâ€™m not sure about that."
+NoCable,help,"For Help, please visit the help pages on the Amazon web site."
+NoCable,stop,
+NoCable,quit,
+NoCable,"Alexa, open NoCable","Sorry, I don't know that one."
+NoCable,help,"For Help, please visit the help pages on the Amazon web site."
+NoCable,stop,
+NoCable,quit,
+BOSCH: A Detective's Case,"Alexa, open BOSCH: A Detective's Case",<Audio only response>
+BOSCH: A Detective's Case,help,"For Help, please visit the help pages on the Amazon web site."
+BOSCH: A Detective's Case,stop,
+BOSCH: A Detective's Case,quit,
+BOSCH: A Detective's Case,"Alexa, open BOSCH: A Detective's Case",<Audio only response>
+BOSCH: A Detective's Case,help,"For Help, please visit the help pages on the Amazon web site."
+BOSCH: A Detective's Case,stop,
+BOSCH: A Detective's Case,quit,
+BOSCH: A Detective's Case,"Alexa, open BOSCH: A Detective's Case",<Audio only response>
+BOSCH: A Detective's Case,help,"For Help, please visit the help pages on the Amazon web site."
+BOSCH: A Detective's Case,stop,
+BOSCH: A Detective's Case,quit,
+Schrute Quotes,"Alexa, open Schrute Quotes","Here's your Dwight Schrute quote:People say, oh itâ€™s dangerous to keep weapons in the home, or the workplace. Well I say, itâ€™s better to be hurt by someone you know, accidentally, than by a stranger, on purpose.Would you like another quote?"
+Schrute Quotes,help,"You can say tell me a quote, or, you can say exit... What can I help you with?"
+Schrute Quotes,stop,Goodbye
+Schrute Quotes,quit,
+Schrute Quotes,"Alexa, open Schrute Quotes","Here's your Dwight Schrute quote:I signed up for Second Life about a year ago. Back then, my life was so great that I literally wanted a second one. Absolutely everything was the same...except I could fly.Would you like another quote?"
+Schrute Quotes,help,"You can say tell me a quote, or, you can say exit... What can I help you with?"
+Schrute Quotes,stop,Goodbye
+Schrute Quotes,quit,
+Schrute Quotes,"Alexa, open Schrute Quotes",Here's your Dwight Schrute quote:Jim couldn't land me in a thousand years.Would you like another quote?
+Schrute Quotes,help,"You can say tell me a quote, or, you can say exit... What can I help you with?"
+Schrute Quotes,stop,Goodbye
+Schrute Quotes,quit,
+Layer3 TV,"Alexa, open Layer3 TV",It looks like your T Vision account is not linked yet. You can link T Vision to your Amazon Account from the Amazon Alexa app.
+Layer3 TV,help,"For Help, please visit the help pages on the Amazon web site."
+Layer3 TV,stop,
+Layer3 TV,quit,
+Layer3 TV,"Alexa, open Layer3 TV",It looks like your T Vision account is not linked yet. You can link T Vision to your Amazon Account from the Amazon Alexa app.
+Layer3 TV,help,"For Help, please visit the help pages on the Amazon web site."
+Layer3 TV,stop,
+Layer3 TV,quit,
+Layer3 TV,"Alexa, open Layer3 TV",It looks like your T Vision account is not linked yet. You can link T Vision to your Amazon Account from the Amazon Alexa app.
+Layer3 TV,help,"For Help, please visit the help pages on the Amazon web site."
+Layer3 TV,stop,
+Layer3 TV,quit,
+Keeping Up With The Kardashians Quote Game,"Alexa, open Keeping Up With The Kardashians Quote Game",<Short audio>
+Keeping Up With The Kardashians Quote Game,help,"Please guess the character by saying the character name for example, Kim. Or say, Repeat to Repeat the question"
+Keeping Up With The Kardashians Quote Game,stop,<Short audio>
+Keeping Up With The Kardashians Quote Game,quit,
+Keeping Up With The Kardashians Quote Game,"Alexa, open Keeping Up With The Kardashians Quote Game",<Short audio>
+Keeping Up With The Kardashians Quote Game,help,"Please guess the character by saying the character name for example, Kim. Or say, Repeat to Repeat the question"
+Keeping Up With The Kardashians Quote Game,stop,<Short audio>
+Keeping Up With The Kardashians Quote Game,quit,
+Keeping Up With The Kardashians Quote Game,"Alexa, open Keeping Up With The Kardashians Quote Game",<Short audio>
+Keeping Up With The Kardashians Quote Game,help,"Please guess the character by saying the character name for example, Kim. Or say, Repeat to Repeat the question"
+Keeping Up With The Kardashians Quote Game,stop,<Short audio>
+Keeping Up With The Kardashians Quote Game,quit,
+Star Wars Quotes,"Alexa, open Star Wars Quotes","Here's a Star Wars: A New Hope quote: ""Got him! I got him!""."
+Star Wars Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Star Wars Quotes,stop,
+Star Wars Quotes,quit,
+Star Wars Quotes,"Alexa, open Star Wars Quotes","Here's a Star Wars: A New Hope quote: ""If you're right, he must not be allowed to escape."""
+Star Wars Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Star Wars Quotes,stop,
+Star Wars Quotes,quit,
+Star Wars Quotes,"Alexa, open Star Wars Quotes","Here's a Star Wars: A New Hope quote: ""I have you now!""."
+Star Wars Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Star Wars Quotes,stop,
+Star Wars Quotes,quit,
+Horror Trivia,"Alexa, open Horror Trivia",Here's your horror fact: English actor Doug Bradley portrayed Pinhead in the first 8 films of the Hellraiser series. The ninth and tenth in the series feature a different actor in the role.
+Horror Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Horror Trivia,stop,
+Horror Trivia,quit,
+Horror Trivia,"Alexa, open Horror Trivia","Here's your horror fact: The longest gap between horror sequels is not Psycho 2 but actually Return of the Killer Shrews, 54 years after the original."
+Horror Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Horror Trivia,stop,
+Horror Trivia,quit,
+Horror Trivia,"Alexa, open Horror Trivia","Here's your horror fact: The longest gap between horror sequels is not Psycho 2 but actually Return of the Killer Shrews, 54 years after the original."
+Horror Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Horror Trivia,stop,
+Horror Trivia,quit,
+TV Data,"Alexa, open TV Data","Sorry, Iâ€™m not sure about that."
+TV Data,help,"For Help, please visit the help pages on the Amazon web site."
+TV Data,stop,
+TV Data,quit,
+TV Data,"Alexa, open TV Data","Sorry, Iâ€™m not sure about that."
+TV Data,help,"For Help, please visit the help pages on the Amazon web site."
+TV Data,stop,
+TV Data,quit,
+TV Data,"Alexa, open TV Data","Sorry, I'm not sure."
+TV Data,help,"For Help, please visit the help pages on the Amazon web site."
+TV Data,stop,
+TV Data,quit,
+Can I stream,"Alexa, open Can I stream",You have wikiHow enabled. Do you want to open it?
+Can I stream,Yes,Hi! Ask me how to do anything.
+Can I stream,help,"Hi! You can ask me how to do anything. For example try asking, ""how do I make french toast without milk?"""
+Can I stream,stop,"Thanks for using wikihow. You can always ask another question later by saying, open wikihow"
+Can I stream,quit,
+Can I stream,"Alexa, open Can I stream",You have wikiHow enabled. Do you want to open it?
+Can I stream,Yes,Hi! Ask me how to do anything.
+Can I stream,help,"Hi! You can ask me how to do anything. For example try asking, ""how do I make french toast without milk?"""
+Can I stream,stop,"Thanks for using wikihow. You can always ask another question later by saying, open wikihow"
+Can I stream,quit,
+Can I stream,"Alexa, open Can I stream",You have wikiHow enabled. Do you want to open it?
+Can I stream,Yes,Hi! Ask me how to do anything.
+Can I stream,help,"Hi! You can ask me how to do anything. For example try asking, ""how do I make french toast without milk?"""
+Can I stream,stop,"Thanks for using wikihow. You can always ask another question later by saying, open wikihow"
+Can I stream,quit,
+Ay-Oh with Bohemian Rhapsody,"Alexa, open Ay-Oh with Bohemian Rhapsody","Hmm, I don't know that one."
+Ay-Oh with Bohemian Rhapsody,help,"For Help, please visit the help pages on the Amazon web site."
+Ay-Oh with Bohemian Rhapsody,stop,
+Ay-Oh with Bohemian Rhapsody,quit,
+Ay-Oh with Bohemian Rhapsody,"Alexa, open Ay-Oh with Bohemian Rhapsody","Sorry, Iâ€™m not sure about that."
+Ay-Oh with Bohemian Rhapsody,help,"For Help, please visit the help pages on the Amazon web site."
+Ay-Oh with Bohemian Rhapsody,stop,
+Ay-Oh with Bohemian Rhapsody,quit,
+Ay-Oh with Bohemian Rhapsody,"Alexa, open Ay-Oh with Bohemian Rhapsody","Hmm, I'm not sure."
+Ay-Oh with Bohemian Rhapsody,help,"For Help, please visit the help pages on the Amazon web site."
+Ay-Oh with Bohemian Rhapsody,stop,
+Ay-Oh with Bohemian Rhapsody,quit,
+Syfy,"Alexa, open Syfy","Welcome to Sy Fi. I can give you, whats playing on Sy Fi now, whats playing later tonight, and list Sy Fi shows. How can I help you?"
+Syfy,help,"The Sy Fi skill can give you recaps and schedules of Sy Fi shows. You can say things like, 'The Magicians, or any other show name for more info ''what is The Expanse,''what happened on the latest 12 Monkeys,' 'when is the next episode of The Magicians,' 'what happens on the next Face Off,' and, 'list shows.'' How can I help you?"
+Syfy,stop,Thank you for using Sy Fi!
+Syfy,quit,
+Syfy,"Alexa, open Syfy","Welcome to Sy Fi. I can give you, whats playing on Sy Fi now, whats playing later tonight, and list Sy Fi shows. How can I help you?"
+Syfy,help,"The Sy Fi skill can give you recaps and schedules of Sy Fi shows. You can say things like, 'The Magicians, or any other show name for more info ''what is The Expanse,''what happened on the latest 12 Monkeys,' 'when is the next episode of The Magicians,' 'what happens on the next Face Off,' and, 'list shows.'' How can I help you?"
+Syfy,stop,Thank you for using Sy Fi!
+Syfy,quit,
+Syfy,"Alexa, open Syfy","Welcome to Sy Fi. I can give you, whats playing on Sy Fi now, whats playing later tonight, and list Sy Fi shows. How can I help you?"
+Syfy,help,"The Sy Fi skill can give you recaps and schedules of Sy Fi shows. You can say things like, 'The Magicians, or any other show name for more info ''what is The Expanse,''what happened on the latest 12 Monkeys,' 'when is the next episode of The Magicians,' 'what happens on the next Face Off,' and, 'list shows.'' How can I help you?"
+Syfy,stop,Thank you for using Sy Fi!
+Syfy,quit,
+Lesser Known Star Wars Facts,"Alexa, open Lesser Known Star Wars Facts","After a star has depleted the fuel in its core, it will often throw out the waste material it created into space. This material may later find its way into a new star or planet."
+Lesser Known Star Wars Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Lesser Known Star Wars Facts,stop,
+Lesser Known Star Wars Facts,quit,
+Lesser Known Star Wars Facts,"Alexa, open Lesser Known Star Wars Facts","Many stars form as a binary pair, where two stars orbit the same center of gravity. Some star sets have even been recorded with 3 or more stars sharing the same center of orbit."
+Lesser Known Star Wars Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Lesser Known Star Wars Facts,stop,
+Lesser Known Star Wars Facts,quit,
+Lesser Known Star Wars Facts,"Alexa, open Lesser Known Star Wars Facts","After a star has depleted the fuel in its core, it will often throw out the waste material it created into space. This material may later find its way into a new star or planet."
+Lesser Known Star Wars Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Lesser Known Star Wars Facts,stop,
+Lesser Known Star Wars Facts,quit,
+MTV,"Alexa, open MTV","Sorry, I'm having trouble accessing your MTV skill right now"
+MTV,help,"For Help, please visit the help pages on the Amazon web site."
+MTV,stop,
+MTV,quit,
+MTV,"Alexa, open MTV","Sorry, I'm having trouble accessing your MTV skill right now"
+MTV,help,"For Help, please visit the help pages on the Amazon web site."
+MTV,stop,
+MTV,quit,
+MTV,"Alexa, open MTV","Sorry, I'm having trouble accessing your MTV skill right now"
+MTV,help,"For Help, please visit the help pages on the Amazon web site."
+MTV,stop,
+MTV,quit,
+Big Bang Trivia,"Alexa, open Big Bang Trivia",Big Bang Trivia contains mature content that may not be suitable for all ages
+Big Bang Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Big Bang Trivia,stop,
+Big Bang Trivia,quit,
+Big Bang Trivia,"Alexa, open Big Bang Trivia",Big Bang Trivia contains mature content that may not be suitable for all ages
+Big Bang Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Big Bang Trivia,stop,
+Big Bang Trivia,quit,
+Big Bang Trivia,"Alexa, open Big Bang Trivia",Big Bang Trivia contains mature content that may not be suitable for all ages
+Big Bang Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Big Bang Trivia,stop,
+Big Bang Trivia,quit,
+Tomato Score,"Alexa, open Tomato Score","Hmm, I don't know that."
+Tomato Score,help,"For Help, please visit the help pages on the Amazon web site."
+Tomato Score,stop,
+Tomato Score,quit,
+Tomato Score,"Alexa, open Tomato Score","Hmm, I'm not sure."
+Tomato Score,help,"For Help, please visit the help pages on the Amazon web site."
+Tomato Score,stop,
+Tomato Score,quit,
+Tomato Score,"Alexa, open Tomato Score","Hmm, I don't know that one."
+Tomato Score,help,"For Help, please visit the help pages on the Amazon web site."
+Tomato Score,stop,
+Tomato Score,quit,
+New Movies,"Alexa, open New Movies",You have Fandango enabled. Do you want to open it?
+New Movies,Yes,<Audio only response>
+New Movies,help,"For Help, please visit the help pages on the Amazon web site."
+New Movies,stop,
+New Movies,quit,
+New Movies,"Alexa, open New Movies",You have Fandango enabled. Do you want to open it?
+New Movies,Yes,<Audio only response>
+New Movies,help,"For Help, please visit the help pages on the Amazon web site."
+New Movies,stop,
+New Movies,quit,
+New Movies,"Alexa, open New Movies",You have Fandango enabled. Do you want to open it?
+New Movies,Yes,<Audio only response>
+New Movies,help,"For Help, please visit the help pages on the Amazon web site."
+New Movies,stop,
+New Movies,quit,
+Trakt,"Alexa, open Trakt","Hmm, I'm not sure."
+Trakt,help,"For Help, please visit the help pages on the Amazon web site."
+Trakt,stop,
+Trakt,quit,
+Trakt,"Alexa, open Trakt","Sorry, I'm not sure."
+Trakt,help,"For Help, please visit the help pages on the Amazon web site."
+Trakt,stop,
+Trakt,quit,
+Trakt,"Alexa, open Trakt","Sorry, I don't know that one."
+Trakt,help,"For Help, please visit the help pages on the Amazon web site."
+Trakt,stop,
+Trakt,quit,
+"Rules of Acquisition from ""Star Trek"" (Unofficial)","Alexa, open Rules of Acquisition from ""Star Trek"" (Unofficial)","Rules of Acquisition from ""Star Trek"" (Unofficial) contains mature content that may not be suitable for all ages"
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",help,"For Help, please visit the help pages on the Amazon web site."
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",stop,
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",quit,
+"Rules of Acquisition from ""Star Trek"" (Unofficial)","Alexa, open Rules of Acquisition from ""Star Trek"" (Unofficial)","Rules of Acquisition from ""Star Trek"" (Unofficial) contains mature content that may not be suitable for all ages"
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",help,"For Help, please visit the help pages on the Amazon web site."
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",stop,
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",quit,
+"Rules of Acquisition from ""Star Trek"" (Unofficial)","Alexa, open Rules of Acquisition from ""Star Trek"" (Unofficial)","Rules of Acquisition from ""Star Trek"" (Unofficial) contains mature content that may not be suitable for all ages"
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",help,"For Help, please visit the help pages on the Amazon web site."
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",stop,
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",quit,
+Rapid Fire T.V.,"Alexa, open Rapid Fire T.V.",
+Rapid Fire T.V.,help,"For Help, please visit the help pages on the Amazon web site."
+Rapid Fire T.V.,stop,
+Rapid Fire T.V.,quit,
+Rapid Fire T.V.,"Alexa, open Rapid Fire T.V.",
+Rapid Fire T.V.,help,"For Help, please visit the help pages on the Amazon web site."
+Rapid Fire T.V.,stop,
+Rapid Fire T.V.,quit,
+Rapid Fire T.V.,"Alexa, open Rapid Fire T.V.",
+Rapid Fire T.V.,help,"For Help, please visit the help pages on the Amazon web site."
+Rapid Fire T.V.,stop,
+Rapid Fire T.V.,quit,
+Harry Potter Facts,"Alexa, open Harry Potter Facts","Here's your fact: Other unauthorised sequels have included Harry Potter and the Crystal Vase and Harry Potter and the Golden Turtle in China, and the Indian Harry Potter in Calcutta."
+Harry Potter Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Harry Potter Facts,stop,
+Harry Potter Facts,quit,
+Harry Potter Facts,"Alexa, open Harry Potter Facts","Here's your fact: In 2006, Rowling said that ""The Mirror of Erised"" is her favourite chapter in the first book, and one of her favourites from the entire series."
+Harry Potter Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Harry Potter Facts,stop,
+Harry Potter Facts,quit,
+Harry Potter Facts,"Alexa, open Harry Potter Facts",Here's your fact: J.K. Rowling abandoned another book that she was writing in order to start working on the Harry Potter series.
+Harry Potter Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Harry Potter Facts,stop,
+Harry Potter Facts,quit,
+Movie Quiz,"Alexa, open Movie Quiz","Movie Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Which of Forrest Gumpâ€™s body parts was wounded, thereby sending him home from Vietnam? 1. Pinkie. 2. Big toe. 3. Buttock. 4. Earlobe."
+Movie Quiz,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Movie Quiz,stop,Good bye!
+Movie Quiz,quit,
+Movie Quiz,"Alexa, open Movie Quiz","Movie Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What type of candy does Elliott use to persuade E.T. to come into his room? 1. M&M's. 2. Reese's Pieces. 3. Skittles. 4. Air Heads."
+Movie Quiz,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Movie Quiz,stop,Good bye!
+Movie Quiz,quit,
+Movie Quiz,"Alexa, open Movie Quiz","Movie Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. In Goodfellas, what is Henry Hillâ€™s job as a teenager that gets him involved with the mob? 1. Delivering Groceries. 2. Parking Cars. 3. Playing Video Games. 4. Selling Newspapers."
+Movie Quiz,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Movie Quiz,stop,Good bye!
+Movie Quiz,quit,
+Gibbs's NCIS Rules (unauthorized),"Alexa, open Gibbs's NCIS Rules (unauthorized)",
+Gibbs's NCIS Rules (unauthorized),help,"For Help, please visit the help pages on the Amazon web site."
+Gibbs's NCIS Rules (unauthorized),stop,
+Gibbs's NCIS Rules (unauthorized),quit,
+Gibbs's NCIS Rules (unauthorized),"Alexa, open Gibbs's NCIS Rules (unauthorized)",
+Gibbs's NCIS Rules (unauthorized),help,"For Help, please visit the help pages on the Amazon web site."
+Gibbs's NCIS Rules (unauthorized),stop,
+Gibbs's NCIS Rules (unauthorized),quit,
+Gibbs's NCIS Rules (unauthorized),"Alexa, open Gibbs's NCIS Rules (unauthorized)",
+Gibbs's NCIS Rules (unauthorized),help,"For Help, please visit the help pages on the Amazon web site."
+Gibbs's NCIS Rules (unauthorized),stop,
+Gibbs's NCIS Rules (unauthorized),quit,
+BoxOffice,"Alexa, open BoxOffice","Sorry, Iâ€™m not sure about that."
+BoxOffice,help,"For Help, please visit the help pages on the Amazon web site."
+BoxOffice,stop,
+BoxOffice,quit,
+BoxOffice,"Alexa, open BoxOffice","Hmm, I don't know that one."
+BoxOffice,help,"For Help, please visit the help pages on the Amazon web site."
+BoxOffice,stop,
+BoxOffice,quit,
+BoxOffice,"Alexa, open BoxOffice","Sorry, Iâ€™m not sure about that."
+BoxOffice,help,"For Help, please visit the help pages on the Amazon web site."
+BoxOffice,stop,
+BoxOffice,quit,
+Fish Tank for Echo Show,"Alexa, open Fish Tank for Echo Show",You have Watch TV with Stream Player enabled. Do you want to open it?
+Fish Tank for Echo Show,Yes,"Welcome back! What would you like to do? For example say ""watch abc news""."
+Fish Tank for Echo Show,help,"You can say â€_startâ€œ followed by the channels name, for example say ""watch abc news"" or ""start channel one"". To see what channels are available please take a look at the skill description in your alexa app. What would you like to do?"
+Fish Tank for Echo Show,stop,Have a nice day. Please rate this skill in the Skill store if you want. I would appreciate it.
+Fish Tank for Echo Show,quit,
+Fish Tank for Echo Show,"Alexa, open Fish Tank for Echo Show",You have Watch TV with Stream Player enabled. Do you want to open it?
+Fish Tank for Echo Show,Yes,"Welcome back! What would you like to do? For example say ""watch abc news""."
+Fish Tank for Echo Show,help,"You can say â€_startâ€œ followed by the channels name, for example say ""watch abc news"" or ""start channel one"". To see what channels are available please take a look at the skill description in your alexa app. What would you like to do?"
+Fish Tank for Echo Show,stop,Have a nice day. Please rate this skill in the Skill store if you want. I would appreciate it.
+Fish Tank for Echo Show,quit,
+Fish Tank for Echo Show,"Alexa, open Fish Tank for Echo Show",You have Watch TV with Stream Player enabled. Do you want to open it?
+Fish Tank for Echo Show,Yes,"Welcome back! What would you like to do? For example say ""watch abc news""."
+Fish Tank for Echo Show,help,"You can say â€_startâ€œ followed by the channels name, for example say ""watch abc news"" or ""start channel one"". To see what channels are available please take a look at the skill description in your alexa app. What would you like to do?"
+Fish Tank for Echo Show,stop,Have a nice day. Please rate this skill in the Skill store if you want. I would appreciate it.
+Fish Tank for Echo Show,quit,
+Valossa Movie Finder,"Alexa, open Valossa Movie Finder",What movie can I help you find today?
+Valossa Movie Finder,help,"I can help you find your favorite movies! Simply tell me the name of the movie you're looking for and I'll tell you a list of all the places you can watch it! Anytime you're in the Flic Finder Skill, you can interrupt by saying my name and then the movie title you are looking for. For example, say 'Alexa, Titanic' or 'Alexa, Find Titanic'. So, what movie can I help you find today?"
+Valossa Movie Finder,stop,Thanks for using Flic Finder to search for your favorite movies! Have a great day!
+Valossa Movie Finder,quit,
+Valossa Movie Finder,"Alexa, open Valossa Movie Finder",What movie can I help you find today?
+Valossa Movie Finder,help,"I can help you find your favorite movies! Simply tell me the name of the movie you're looking for and I'll tell you a list of all the places you can watch it! Anytime you're in the Flic Finder Skill, you can interrupt by saying my name and then the movie title you are looking for. For example, say 'Alexa, Titanic' or 'Alexa, Find Titanic'. So, what movie can I help you find today?"
+Valossa Movie Finder,stop,Thanks for using Flic Finder to search for your favorite movies! Have a great day!
+Valossa Movie Finder,quit,
+Valossa Movie Finder,"Alexa, open Valossa Movie Finder",What movie can I help you find today?
+Valossa Movie Finder,help,"I can help you find your favorite movies! Simply tell me the name of the movie you're looking for and I'll tell you a list of all the places you can watch it! Anytime you're in the Flic Finder Skill, you can interrupt by saying my name and then the movie title you are looking for. For example, say 'Alexa, Titanic' or 'Alexa, Find Titanic'. So, what movie can I help you find today?"
+Valossa Movie Finder,stop,Thanks for using Flic Finder to search for your favorite movies! Have a great day!
+Valossa Movie Finder,quit,
+80's Movie Trivia,"Alexa, open 80's Movie Trivia",Here's your fact: George Lucas' dog was named Indiana.
+80's Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+80's Movie Trivia,stop,
+80's Movie Trivia,quit,
+80's Movie Trivia,"Alexa, open 80's Movie Trivia","Here's your fact: In 1994, during one famous lunch at Pixar, filmmakers John Lasseter, Pete Docter and Joe Ranft came up with ideas that would eventually become A Bug's Life, Finding Nemo, Monster Inc. and Wall-E. We'll have what they're having"
+80's Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+80's Movie Trivia,stop,
+80's Movie Trivia,quit,
+80's Movie Trivia,"Alexa, open 80's Movie Trivia",Here's your fact: Among Patrick Bateman's neighbours in the novel of American Psycho is one Tom Cruise (see also #66)
+80's Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+80's Movie Trivia,stop,
+80's Movie Trivia,quit,
+IMDb's What's On TV Briefing,"Alexa, open IMDb's What's On TV Briefing",Here's your news.
+IMDb's What's On TV Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+IMDb's What's On TV Briefing,stop,
+IMDb's What's On TV Briefing,quit,
+IMDb's What's On TV Briefing,"Alexa, open IMDb's What's On TV Briefing",Here's your news.
+IMDb's What's On TV Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+IMDb's What's On TV Briefing,stop,
+IMDb's What's On TV Briefing,quit,
+IMDb's What's On TV Briefing,"Alexa, open IMDb's What's On TV Briefing",Here's your news.
+IMDb's What's On TV Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+IMDb's What's On TV Briefing,stop,
+IMDb's What's On TV Briefing,quit,
+HP Wizard Spell Book,"Alexa, open HP Wizard Spell Book","Hmm, I don't know that."
+HP Wizard Spell Book,help,"For Help, please visit the help pages on the Amazon web site."
+HP Wizard Spell Book,stop,
+HP Wizard Spell Book,quit,
+HP Wizard Spell Book,"Alexa, open HP Wizard Spell Book","Sorry, I don't know that."
+HP Wizard Spell Book,help,"For Help, please visit the help pages on the Amazon web site."
+HP Wizard Spell Book,stop,
+HP Wizard Spell Book,quit,
+HP Wizard Spell Book,"Alexa, open HP Wizard Spell Book","Hmm, I don't know that."
+HP Wizard Spell Book,help,"For Help, please visit the help pages on the Amazon web site."
+HP Wizard Spell Book,stop,
+HP Wizard Spell Book,quit,
+Movie Trivia,"Alexa, open Movie Trivia",Here's your fact: The idea for the poster for The Usual Suspects came before any script or story.
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+Movie Trivia,"Alexa, open Movie Trivia",Here's your fact: Paul Schrader wrote Taxi Driver in five days. It is rumoured he had a loaded gun by his desk for â€œinspiration and motivationâ€ù.
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+Movie Trivia,"Alexa, open Movie Trivia",Here's your fact: Author Peter Benchley plays the role of a TV reporter in Jaws. Benchley was reportedly thrown off set after continually arguing with Spielberg about the film's ending.
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+T.V. Guru,"Alexa, open T.V. Guru",Welcome to TV Guru! You can say something like: Is Last Man Standing Cancelled?
+T.V. Guru,help,You can say something like: Is Last Man Standing Cancelled?
+T.V. Guru,stop,Goodbye
+T.V. Guru,quit,
+T.V. Guru,"Alexa, open T.V. Guru",Welcome to TV Guru! You can say something like: Is Last Man Standing Cancelled?
+T.V. Guru,help,You can say something like: Is Last Man Standing Cancelled?
+T.V. Guru,stop,Goodbye
+T.V. Guru,quit,
+T.V. Guru,"Alexa, open T.V. Guru",Welcome to TV Guru! You can say something like: Is Last Man Standing Cancelled?
+T.V. Guru,help,You can say something like: Is Last Man Standing Cancelled?
+T.V. Guru,stop,Goodbye
+T.V. Guru,quit,
+24: Legacy Daily Mission,"Alexa, open 24: Legacy Daily Mission",
+24: Legacy Daily Mission,help,
+24: Legacy Daily Mission,stop,
+24: Legacy Daily Mission,quit,
+24: Legacy Daily Mission,"Alexa, open 24: Legacy Daily Mission",<Short audio>
+24: Legacy Daily Mission,help,
+24: Legacy Daily Mission,stop,
+24: Legacy Daily Mission,quit,
+24: Legacy Daily Mission,"Alexa, open 24: Legacy Daily Mission",<Short audio>
+24: Legacy Daily Mission,help,
+24: Legacy Daily Mission,stop,<Short audio>
+24: Legacy Daily Mission,quit,
+Death Info for Westeros,"Alexa, open Death Info for Westeros","Welcome to Death Info for Westeros. Tell me the name of a character from the Song of Ice and Fire book series, and I will check if they are known to be dead or not. For example, you can say: 'is Arya Stark dead?'"
+Death Info for Westeros,help,"Death Info for Westeros. I can tell you if a character from the Song of Ice and Fire book series is confirmed dead or not. Many of the characters also appear in the HBO series Game of Thrones, though dying in the HBO show does not necesarily mean the character is dead in the books. To try it out, you can say: 'is Sansa Stark dead?'"
+Death Info for Westeros,stop,Thank you for using Death Info for Westeros. Valar Morghulis
+Death Info for Westeros,quit,
+Death Info for Westeros,"Alexa, open Death Info for Westeros","Welcome to Death Info for Westeros. Tell me the name of a character from the Song of Ice and Fire book series, and I will check if they are known to be dead or not. For example, you can say: 'is Arya Stark dead?'"
+Death Info for Westeros,help,"Death Info for Westeros. I can tell you if a character from the Song of Ice and Fire book series is confirmed dead or not. Many of the characters also appear in the HBO series Game of Thrones, though dying in the HBO show does not necesarily mean the character is dead in the books. To try it out, you can say: 'is Sansa Stark dead?'"
+Death Info for Westeros,stop,Thank you for using Death Info for Westeros. Valar Morghulis
+Death Info for Westeros,quit,
+Death Info for Westeros,"Alexa, open Death Info for Westeros","Welcome to Death Info for Westeros. Tell me the name of a character from the Song of Ice and Fire book series, and I will check if they are known to be dead or not. For example, you can say: 'is Arya Stark dead?'"
+Death Info for Westeros,help,"Death Info for Westeros. I can tell you if a character from the Song of Ice and Fire book series is confirmed dead or not. Many of the characters also appear in the HBO series Game of Thrones, though dying in the HBO show does not necesarily mean the character is dead in the books. To try it out, you can say: 'is Sansa Stark dead?'"
+Death Info for Westeros,stop,Thank you for using Death Info for Westeros. Valar Morghulis
+Death Info for Westeros,quit,
+TV Guide,"Alexa, open TV Guide",I couldnâ€™t find any enabled video skills. Go to the Alexa app to find and enable Video Skills and Devices.
+TV Guide,help,"For Help, please visit the help pages on the Amazon web site."
+TV Guide,stop,
+TV Guide,quit,
+TV Guide,"Alexa, open TV Guide",I couldnâ€™t find any enabled video skills. Go to the Alexa app to find and enable Video Skills and Devices.
+TV Guide,help,"For Help, please visit the help pages on the Amazon web site."
+TV Guide,stop,
+TV Guide,quit,
+TV Guide,"Alexa, open TV Guide",I couldnâ€™t find any enabled video skills. Go to the Alexa app to find and enable Video Skills and Devices.
+TV Guide,help,"For Help, please visit the help pages on the Amazon web site."
+TV Guide,stop,
+TV Guide,quit,
+Tim Burton's Character of the Day,"Alexa, open Tim Burton's Character of the Day","Welcome to Tim Burton's Character of the Day. Today is April seventeenth, 2019. Today's character is Batman from Batman Returns. Batman Returns came out in 1992 and Batman was played by Michael Keaton. Would you like to hear a quote from this character?"
+Tim Burton's Character of the Day,help,"You can ask what today's character is, what today's character quote is, or leave"
+Tim Burton's Character of the Day,stop,Goodbye!
+Tim Burton's Character of the Day,quit,
+Tim Burton's Character of the Day,"Alexa, open Tim Burton's Character of the Day","Welcome to Tim Burton's Character of the Day. Today is April seventeenth, 2019. Today's character is Batman from Batman Returns. Batman Returns came out in 1992 and Batman was played by Michael Keaton. Would you like to hear a quote from this character?"
+Tim Burton's Character of the Day,help,"You can ask what today's character is, what today's character quote is, or leave"
+Tim Burton's Character of the Day,stop,Goodbye!
+Tim Burton's Character of the Day,quit,
+Tim Burton's Character of the Day,"Alexa, open Tim Burton's Character of the Day","Welcome to Tim Burton's Character of the Day. Today is April seventeenth, 2019. Today's character is Batman from Batman Returns. Batman Returns came out in 1992 and Batman was played by Michael Keaton. Would you like to hear a quote from this character?"
+Tim Burton's Character of the Day,help,"You can ask what today's character is, what today's character quote is, or leave"
+Tim Burton's Character of the Day,stop,Goodbye!
+Tim Burton's Character of the Day,quit,
+Incredibles Hero Training,"Alexa, open Incredibles Hero Training",I couldn't find any enabled video skills that can play that. Go to the Alexa app to manage your video skills and devices.
+Incredibles Hero Training,help,"For Help, please visit the help pages on the Amazon web site."
+Incredibles Hero Training,stop,
+Incredibles Hero Training,quit,
+Incredibles Hero Training,"Alexa, open Incredibles Hero Training",I couldn't find any enabled video skills that can play that. Go to the Alexa app to manage your video skills and devices.
+Incredibles Hero Training,help,"For Help, please visit the help pages on the Amazon web site."
+Incredibles Hero Training,stop,
+Incredibles Hero Training,quit,
+Incredibles Hero Training,"Alexa, open Incredibles Hero Training",I couldn't find any enabled video skills that can play that. Go to the Alexa app to manage your video skills and devices.
+Incredibles Hero Training,help,"For Help, please visit the help pages on the Amazon web site."
+Incredibles Hero Training,stop,
+Incredibles Hero Training,quit,
+Box Office,"Alexa, open Box Office","Hello this is the Box Office, what do you want to know?"
+Box Office,help,"You can say whats the top 10, or coming soon, or opening this week... What can I help you with?"
+Box Office,stop,Goodbye!
+Box Office,quit,
+Box Office,"Alexa, open Box Office","Hello this is the Box Office, what do you want to know?"
+Box Office,help,"You can say whats the top 10, or coming soon, or opening this week... What can I help you with?"
+Box Office,stop,Goodbye!
+Box Office,quit,
+Box Office,"Alexa, open Box Office","Hello this is the Box Office, what do you want to know?"
+Box Office,help,"You can say whats the top 10, or coming soon, or opening this week... What can I help you with?"
+Box Office,stop,Goodbye!
+Box Office,quit,
+The Tragedy of Darth Plagueis the Wise Unofficial,"Alexa, open The Tragedy of Darth Plagueis the Wise Unofficial","I couldn't find alexa, open the tragedy of darth plagueis the wise unofficial."
+The Tragedy of Darth Plagueis the Wise Unofficial,help,"For Help, please visit the help pages on the Amazon web site."
+The Tragedy of Darth Plagueis the Wise Unofficial,stop,
+The Tragedy of Darth Plagueis the Wise Unofficial,quit,
+The Tragedy of Darth Plagueis the Wise Unofficial,"Alexa, open The Tragedy of Darth Plagueis the Wise Unofficial","I couldn't find alexa, open the tragedy of darth plagueis the wise unofficial."
+The Tragedy of Darth Plagueis the Wise Unofficial,help,"For Help, please visit the help pages on the Amazon web site."
+The Tragedy of Darth Plagueis the Wise Unofficial,stop,
+The Tragedy of Darth Plagueis the Wise Unofficial,quit,
+The Tragedy of Darth Plagueis the Wise Unofficial,"Alexa, open The Tragedy of Darth Plagueis the Wise Unofficial","I couldn't find alexa, open the tragedy of darth plagueis the wise unofficial."
+The Tragedy of Darth Plagueis the Wise Unofficial,help,"For Help, please visit the help pages on the Amazon web site."
+The Tragedy of Darth Plagueis the Wise Unofficial,stop,
+The Tragedy of Darth Plagueis the Wise Unofficial,quit,
+Fireplace for Echo Show,"Alexa, open Fireplace for Echo Show",You have Cosy Fireplace enabled. Do you want to open it?
+Fireplace for Echo Show,Yes,
+Fireplace for Echo Show,help,"For Help, please visit the help pages on the Amazon web site."
+Fireplace for Echo Show,stop,
+Fireplace for Echo Show,quit,
+Fireplace for Echo Show,"Alexa, open Fireplace for Echo Show",You have Cosy Fireplace enabled. Do you want to open it?
+Fireplace for Echo Show,Yes,
+Fireplace for Echo Show,help,"For Help, please visit the help pages on the Amazon web site."
+Fireplace for Echo Show,stop,
+Fireplace for Echo Show,quit,
+Fireplace for Echo Show,"Alexa, open Fireplace for Echo Show",You have Cosy Fireplace enabled. Do you want to open it?
+Fireplace for Echo Show,Yes,
+Fireplace for Echo Show,help,"For Help, please visit the help pages on the Amazon web site."
+Fireplace for Echo Show,stop,
+Fireplace for Echo Show,quit,
+YourCox TV Guide,"Alexa, open YourCox TV Guide","Hello, welcome to cox t.v. guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+YourCox TV Guide,help,"No worries, i will help you out. To know about a channel number, ask , what is the channel number of h.b.o. or any channel of your choice."
+YourCox TV Guide,stop,"Thanks for using cox t.v. guide. I am here for you, whenever you need."
+YourCox TV Guide,quit,
+YourCox TV Guide,"Alexa, open YourCox TV Guide","Hello, welcome to cox t.v. guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+YourCox TV Guide,help,"No worries, i will help you out. To know about a channel number, ask , what is the channel number of h.b.o. or any channel of your choice."
+YourCox TV Guide,stop,"Thanks for using cox t.v. guide. I am here for you, whenever you need."
+YourCox TV Guide,quit,
+YourCox TV Guide,"Alexa, open YourCox TV Guide","Hello, welcome to cox t.v. guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+YourCox TV Guide,help,"No worries, i will help you out. To know about a channel number, ask , what is the channel number of h.b.o. or any channel of your choice."
+YourCox TV Guide,stop,"Thanks for using cox t.v. guide. I am here for you, whenever you need."
+YourCox TV Guide,quit,
+Discovery Channel's Shark Week,"Alexa, open Discovery Channel's Shark Week","Hello, welcome to your direct tv guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+Discovery Channel's Shark Week,help,"No worries, i will help you out. To know about a channel number, ask , what is the channel number of bloomberg tv or any channel of your choice. Furthermore, you can also find out about a particular category of channels. Ask, where can i find regional sports networks or music channels ?."
+Discovery Channel's Shark Week,stop,"Thanks for using your direct tv guide. I am here for you, whenever you need."
+Discovery Channel's Shark Week,quit,
+Discovery Channel's Shark Week,"Alexa, open Discovery Channel's Shark Week","Hello, welcome to your direct tv guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+Discovery Channel's Shark Week,help,"No worries, i will help you out. To know about a channel number, ask , what is the channel number of bloomberg tv or any channel of your choice. Furthermore, you can also find out about a particular category of channels. Ask, where can i find regional sports networks or music channels ?."
+Discovery Channel's Shark Week,stop,"Thanks for using your direct tv guide. I am here for you, whenever you need."
+Discovery Channel's Shark Week,quit,
+Discovery Channel's Shark Week,"Alexa, open Discovery Channel's Shark Week","Hello, welcome to your direct tv guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+Discovery Channel's Shark Week,help,"No worries, i will help you out. To know about a channel number, ask , what is the channel number of bloomberg tv or any channel of your choice. Furthermore, you can also find out about a particular category of channels. Ask, where can i find regional sports networks or music channels ?."
+Discovery Channel's Shark Week,stop,"Thanks for using your direct tv guide. I am here for you, whenever you need."
+Discovery Channel's Shark Week,quit,
+Next Episode,"Alexa, open Next Episode","Sorry, I don't know that one."
+Next Episode,help,"For Help, please visit the help pages on the Amazon web site."
+Next Episode,stop,
+Next Episode,quit,
+Next Episode,"Alexa, open Next Episode","Sorry, I'm not sure."
+Next Episode,help,"For Help, please visit the help pages on the Amazon web site."
+Next Episode,stop,
+Next Episode,quit,
+Next Episode,"Alexa, open Next Episode","Hmm, I don't know that."
+Next Episode,help,"For Help, please visit the help pages on the Amazon web site."
+Next Episode,stop,
+Next Episode,quit,
+MovieBot,"Alexa, open MovieBot","Hey, it's MovieBot. A popular movie is Pet Sematary, a Horror Thriller film, starring Jason Clarke.."
+MovieBot,help,"You can try, is it any good"
+MovieBot,stop,Goodbye
+MovieBot,quit,
+MovieBot,"Alexa, open MovieBot","Hey, it's MovieBot. A popular movie is Unplanned, a Drama film, starring Ashley Bratcher.."
+MovieBot,help,"You can also say, is it any good"
+MovieBot,stop,Goodbye
+MovieBot,quit,
+MovieBot,"Alexa, open MovieBot","Hey, it's MovieBot. A popular movie is Triple Frontier, an Action Adventure film, starring Ben Affleck.."
+MovieBot,help,"You can also say, is it any good"
+MovieBot,stop,Goodbye
+MovieBot,quit,
+Aquarium Screensaver for Echo Show,"Alexa, open Aquarium Screensaver for Echo Show","Sorry, I don't know that one."
+Aquarium Screensaver for Echo Show,help,"For Help, please visit the help pages on the Amazon web site."
+Aquarium Screensaver for Echo Show,stop,
+Aquarium Screensaver for Echo Show,quit,
+Aquarium Screensaver for Echo Show,"Alexa, open Aquarium Screensaver for Echo Show","Hmm, I don't know that."
+Aquarium Screensaver for Echo Show,help,"For Help, please visit the help pages on the Amazon web site."
+Aquarium Screensaver for Echo Show,stop,
+Aquarium Screensaver for Echo Show,quit,
+Aquarium Screensaver for Echo Show,"Alexa, open Aquarium Screensaver for Echo Show","Hmm, I don't know that."
+Aquarium Screensaver for Echo Show,help,"For Help, please visit the help pages on the Amazon web site."
+Aquarium Screensaver for Echo Show,stop,
+Aquarium Screensaver for Echo Show,quit,
+Infinity War Trivia,"Alexa, open Infinity War Trivia","Excited for New Avengers Infinity War Movie? Try this trivia. I will ask you 4 questions, try to get em all right. Just say the number of the answer. Avengers Assemble. Question 1. Who would Captain America be in Avengers Infinity War? 1. Dr. Strange. 2. Fourth Avenger. 3. Mr. Strange. 4. Nomad."
+Infinity War Trivia,help,"I will ask you 4 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Infinity War Trivia,stop,Avengers Assemble! Good bye!
+Infinity War Trivia,quit,
+Infinity War Trivia,"Alexa, open Infinity War Trivia","Excited for New Avengers Infinity War Movie? Try this trivia. I will ask you 4 questions, try to get em all right. Just say the number of the answer. Avengers Assemble. Question 1. Who plays Spiderman? 1. Robert Downey Jr.. 2. Chris Pratt. 3. Tom Holland. 4. Chris Evans."
+Infinity War Trivia,help,"I will ask you 4 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Infinity War Trivia,stop,Avengers Assemble! Good bye!
+Infinity War Trivia,quit,
+Infinity War Trivia,"Alexa, open Infinity War Trivia","Excited for New Avengers Infinity War Movie? Try this trivia. I will ask you 4 questions, try to get em all right. Just say the number of the answer. Avengers Assemble. Question 1. Who plays Spiderman? 1. Tom Holland. 2. Robert Downey Jr.. 3. Chris Pratt. 4. Chris Evans."
+Infinity War Trivia,help,"I will ask you 4 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+Infinity War Trivia,stop,Avengers Assemble! Good bye!
+Infinity War Trivia,quit,
+Inconceivable Quotes,"Alexa, open Inconceivable Quotes",Inconceivable Quotes contains mature content that may not be suitable for all ages
+Inconceivable Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Inconceivable Quotes,stop,
+Inconceivable Quotes,quit,
+Inconceivable Quotes,"Alexa, open Inconceivable Quotes",Inconceivable Quotes contains mature content that may not be suitable for all ages
+Inconceivable Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Inconceivable Quotes,stop,
+Inconceivable Quotes,quit,
+Inconceivable Quotes,"Alexa, open Inconceivable Quotes",Inconceivable Quotes contains mature content that may not be suitable for all ages
+Inconceivable Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Inconceivable Quotes,stop,
+Inconceivable Quotes,quit,
+Garden Screensaver for Echo Show,"Alexa, open Garden Screensaver for Echo Show","Hmm, I'm not sure."
+Garden Screensaver for Echo Show,help,"For Help, please visit the help pages on the Amazon web site."
+Garden Screensaver for Echo Show,stop,
+Garden Screensaver for Echo Show,quit,
+Garden Screensaver for Echo Show,"Alexa, open Garden Screensaver for Echo Show","Sorry, I don't know that."
+Garden Screensaver for Echo Show,help,"For Help, please visit the help pages on the Amazon web site."
+Garden Screensaver for Echo Show,stop,
+Garden Screensaver for Echo Show,quit,
+Garden Screensaver for Echo Show,"Alexa, open Garden Screensaver for Echo Show","Hmm, I'm not sure."
+Garden Screensaver for Echo Show,help,"For Help, please visit the help pages on the Amazon web site."
+Garden Screensaver for Echo Show,stop,
+Garden Screensaver for Echo Show,quit,
+Star Trek quotes original series,"Alexa, open Star Trek quotes original series",You have SHOWTIME enabled. Do you want to open it?
+Star Trek quotes original series,Yes,"Welcome back to Showtime! Catch new episodes of Billions, Sundays at 9 PM Eastern and Pacific. You can ask me about series, movies, documentaries or sports. Which would you like?"
+Star Trek quotes original series,help,"You can ask me to browse series, movies, documentaries, or sports, ask about your favorite characters, or find out whatâ€™s happening on the latest episodes of your favorite Showtime shows. How can I help you?"
+Star Trek quotes original series,stop,Thanks for using the Showtime skill. Goodbye
+Star Trek quotes original series,quit,
+Star Trek quotes original series,"Alexa, open Star Trek quotes original series",You have SHOWTIME enabled. Do you want to open it?
+Star Trek quotes original series,Yes,"Welcome back to Showtime! Catch new episodes of Billions, Sundays at 9 PM Eastern and Pacific. You can ask me about series, movies, documentaries or sports. Which would you like?"
+Star Trek quotes original series,help,"You can ask me to browse series, movies, documentaries, or sports, ask about your favorite characters, or find out whatâ€™s happening on the latest episodes of your favorite Showtime shows. How can I help you?"
+Star Trek quotes original series,stop,Thanks for using the Showtime skill. Goodbye
+Star Trek quotes original series,quit,
+Star Trek quotes original series,"Alexa, open Star Trek quotes original series",You have SHOWTIME enabled. Do you want to open it?
+Star Trek quotes original series,Yes,"Welcome back to Showtime! Catch new episodes of Billions, Sundays at 9 PM Eastern and Pacific. You can ask me about series, movies, documentaries or sports. Which would you like?"
+Star Trek quotes original series,help,"You can ask me to browse series, movies, documentaries, or sports, ask about your favorite characters, or find out whatâ€™s happening on the latest episodes of your favorite Showtime shows. How can I help you?"
+Star Trek quotes original series,stop,Thanks for using the Showtime skill. Goodbye
+Star Trek quotes original series,quit,
+Sounds of Swanson,"Alexa, open Sounds of Swanson","Sorry, I don't know that one."
+Sounds of Swanson,help,"For Help, please visit the help pages on the Amazon web site."
+Sounds of Swanson,stop,
+Sounds of Swanson,quit,
+Sounds of Swanson,"Alexa, open Sounds of Swanson","Hmm, I'm not sure."
+Sounds of Swanson,help,"For Help, please visit the help pages on the Amazon web site."
+Sounds of Swanson,stop,
+Sounds of Swanson,quit,
+Sounds of Swanson,"Alexa, open Sounds of Swanson","Sorry, I'm not sure."
+Sounds of Swanson,help,"For Help, please visit the help pages on the Amazon web site."
+Sounds of Swanson,stop,
+Sounds of Swanson,quit,
+SOLO: A Star Wars Story Co-Pilot Quiz,"Alexa, open SOLO: A Star Wars Story Co-Pilot Quiz","Sorry, I don't know that one."
+SOLO: A Star Wars Story Co-Pilot Quiz,help,"For Help, please visit the help pages on the Amazon web site."
+SOLO: A Star Wars Story Co-Pilot Quiz,stop,
+SOLO: A Star Wars Story Co-Pilot Quiz,quit,
+SOLO: A Star Wars Story Co-Pilot Quiz,"Alexa, open SOLO: A Star Wars Story Co-Pilot Quiz","Hmm, I'm not sure."
+SOLO: A Star Wars Story Co-Pilot Quiz,help,"For Help, please visit the help pages on the Amazon web site."
+SOLO: A Star Wars Story Co-Pilot Quiz,stop,
+SOLO: A Star Wars Story Co-Pilot Quiz,quit,
+SOLO: A Star Wars Story Co-Pilot Quiz,"Alexa, open SOLO: A Star Wars Story Co-Pilot Quiz","Hmm, I don't know that."
+SOLO: A Star Wars Story Co-Pilot Quiz,help,"For Help, please visit the help pages on the Amazon web site."
+SOLO: A Star Wars Story Co-Pilot Quiz,stop,
+SOLO: A Star Wars Story Co-Pilot Quiz,quit,
+Zombieland Rules,"Alexa, open Zombieland Rules","Sorry, I'm not sure."
+Zombieland Rules,help,"For Help, please visit the help pages on the Amazon web site."
+Zombieland Rules,stop,
+Zombieland Rules,quit,
+Zombieland Rules,"Alexa, open Zombieland Rules","Sorry, I don't know that one."
+Zombieland Rules,help,"For Help, please visit the help pages on the Amazon web site."
+Zombieland Rules,stop,
+Zombieland Rules,quit,
+Zombieland Rules,"Alexa, open Zombieland Rules","Hmm, I don't know that one."
+Zombieland Rules,help,"For Help, please visit the help pages on the Amazon web site."
+Zombieland Rules,stop,
+Zombieland Rules,quit,
+TV Info,"Alexa, open TV Info","Open TV, formerly Epsilontv, is a Greek free-to-air television station, based in Marousi, Athens."
+TV Info,help,"For Help, please visit the help pages on the Amazon web site."
+TV Info,stop,
+TV Info,quit,
+TV Info,"Alexa, open TV Info","Open TV, formerly Epsilontv, is a Greek free-to-air television station, based in Marousi, Athens."
+TV Info,help,"For Help, please visit the help pages on the Amazon web site."
+TV Info,stop,
+TV Info,quit,
+TV Info,"Alexa, open TV Info","Open TV, formerly Epsilontv, is a Greek free-to-air television station, based in Marousi, Athens."
+TV Info,help,"For Help, please visit the help pages on the Amazon web site."
+TV Info,stop,
+TV Info,quit,
+Unofficial Star Wars Galaxy Characteristics,"Alexa, open Unofficial Star Wars Galaxy Characteristics","Welcome to the Unofficial Star Wars Galaxy Characteristic Information. Ask questions like, what's the characteristics for an X-wing or Yoda."
+Unofficial Star Wars Galaxy Characteristics,help,"You can ask what is the characteristics for a certain person, place or thing in the Star Wars Galaxy, what can I help you with?"
+Unofficial Star Wars Galaxy Characteristics,stop,Goodbye
+Unofficial Star Wars Galaxy Characteristics,quit,
+Unofficial Star Wars Galaxy Characteristics,"Alexa, open Unofficial Star Wars Galaxy Characteristics","Welcome to the Unofficial Star Wars Galaxy Characteristic Information. Ask questions like, what's the characteristics for an X-wing or Yoda."
+Unofficial Star Wars Galaxy Characteristics,help,"You can ask what is the characteristics for a certain person, place or thing in the Star Wars Galaxy, what can I help you with?"
+Unofficial Star Wars Galaxy Characteristics,stop,Goodbye
+Unofficial Star Wars Galaxy Characteristics,quit,
+Unofficial Star Wars Galaxy Characteristics,"Alexa, open Unofficial Star Wars Galaxy Characteristics","Welcome to the Unofficial Star Wars Galaxy Characteristic Information. Ask questions like, what's the characteristics for an X-wing or Yoda."
+Unofficial Star Wars Galaxy Characteristics,help,"You can ask what is the characteristics for a certain person, place or thing in the Star Wars Galaxy, what can I help you with?"
+Unofficial Star Wars Galaxy Characteristics,stop,Goodbye
+Unofficial Star Wars Galaxy Characteristics,quit,
+Suggest me a movie,"Alexa, open Suggest me a movie",You have Movie Picker enabled. Do you want to open it?
+Suggest me a movie,Yes,Here's a good movie to watch: Singin' in the Rain
+Suggest me a movie,help,"For Help, please visit the help pages on the Amazon web site."
+Suggest me a movie,stop,
+Suggest me a movie,quit,
+Suggest me a movie,"Alexa, open Suggest me a movie",You have Movie Picker enabled. Do you want to open it?
+Suggest me a movie,Yes,Here's a good movie to watch: Donnie Darko
+Suggest me a movie,help,"For Help, please visit the help pages on the Amazon web site."
+Suggest me a movie,stop,
+Suggest me a movie,quit,
+Suggest me a movie,"Alexa, open Suggest me a movie",You have Movie Picker enabled. Do you want to open it?
+Suggest me a movie,Yes,Here's a good movie to watch: Star Trek Beyond
+Suggest me a movie,help,"For Help, please visit the help pages on the Amazon web site."
+Suggest me a movie,stop,
+Suggest me a movie,quit,
+Game of Thrones Radio,"Alexa, open Game of Thrones Radio",You have Game of Thrones Facts enabled. Do you want to open it?
+Game of Thrones Radio,Yes,"Here's your fact: Jack Gleeson, aka Joffery, played a little kid in Batman Begins."
+Game of Thrones Radio,help,"For Help, please visit the help pages on the Amazon web site."
+Game of Thrones Radio,stop,
+Game of Thrones Radio,quit,
+Game of Thrones Radio,"Alexa, open Game of Thrones Radio",You have Game of Thrones Facts enabled. Do you want to open it?
+Game of Thrones Radio,Yes,Here's your fact: The actor who plays Brain's 13-year-old compainion Jojen Reed is actually 23 in real life.
+Game of Thrones Radio,help,"For Help, please visit the help pages on the Amazon web site."
+Game of Thrones Radio,stop,
+Game of Thrones Radio,quit,
+Game of Thrones Radio,"Alexa, open Game of Thrones Radio",You have Game of Thrones Facts enabled. Do you want to open it?
+Game of Thrones Radio,Yes,Here's your fact: Arya is the fastest-grwoing baby name in the United States.
+Game of Thrones Radio,help,"For Help, please visit the help pages on the Amazon web site."
+Game of Thrones Radio,stop,
+Game of Thrones Radio,quit,
+Emby,"Alexa, open Emby","I cannot find your server information, please sign in to your Emby account."
+Emby,help,"I cannot find your server information, please sign in to your Emby account."
+Emby,stop,"I cannot find your server information, please sign in to your Emby account."
+Emby,quit,
+Emby,"Alexa, open Emby","I cannot find your server information, please sign in to your Emby account."
+Emby,help,"I cannot find your server information, please sign in to your Emby account."
+Emby,stop,"I cannot find your server information, please sign in to your Emby account."
+Emby,quit,
+Emby,"Alexa, open Emby","I cannot find your server information, please sign in to your Emby account."
+Emby,help,"I cannot find your server information, please sign in to your Emby account."
+Emby,stop,"I cannot find your server information, please sign in to your Emby account."
+Emby,quit,
+The Magicians Trivia,"Alexa, open The Magicians Trivia",I found a few matches for that.
+The Magicians Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+The Magicians Trivia,stop,
+The Magicians Trivia,quit,
+The Magicians Trivia,"Alexa, open The Magicians Trivia","Hmm, I have a few skills that can help."
+The Magicians Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+The Magicians Trivia,stop,
+The Magicians Trivia,quit,
+The Magicians Trivia,"Alexa, open The Magicians Trivia","Hmm, I found a few skills that might help."
+The Magicians Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+The Magicians Trivia,stop,
+The Magicians Trivia,quit,
+PokeyFinder,"Alexa, open PokeyFinder",<Audio only response>
+PokeyFinder,help,"For Help, please visit the help pages on the Amazon web site."
+PokeyFinder,stop,
+PokeyFinder,quit,
+PokeyFinder,"Alexa, open PokeyFinder","Hmm, I don't know that."
+PokeyFinder,help,"For Help, please visit the help pages on the Amazon web site."
+PokeyFinder,stop,
+PokeyFinder,quit,
+PokeyFinder,"Alexa, open PokeyFinder","Sorry, Iâ€™m not sure about that."
+PokeyFinder,help,"For Help, please visit the help pages on the Amazon web site."
+PokeyFinder,stop,
+PokeyFinder,quit,
+TV Trivia,"Alexa, open TV Trivia",TV Trivia contains mature content that may not be suitable for all ages
+TV Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+TV Trivia,stop,
+TV Trivia,quit,
+TV Trivia,"Alexa, open TV Trivia",TV Trivia contains mature content that may not be suitable for all ages
+TV Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+TV Trivia,stop,
+TV Trivia,quit,
+TV Trivia,"Alexa, open TV Trivia",TV Trivia contains mature content that may not be suitable for all ages
+TV Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+TV Trivia,stop,
+TV Trivia,quit,
+TV Trivia,"Alexa, open TV Trivia",TV Trivia contains mature content that may not be suitable for all ages
+TV Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+TV Trivia,stop,
+TV Trivia,quit,
+TV Trivia,"Alexa, open TV Trivia",TV Trivia contains mature content that may not be suitable for all ages
+TV Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+TV Trivia,stop,
+TV Trivia,quit,
+TV Trivia,"Alexa, open TV Trivia",TV Trivia contains mature content that may not be suitable for all ages
+TV Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+TV Trivia,stop,
+TV Trivia,quit,
+Flic Movie Finder,"Alexa, open Flic Movie Finder",
+Flic Movie Finder,help,"I can help you find your favorite movies! Simply tell me the name of the movie you're looking for and I'll tell you a list of all the places you can watch it! Anytime you're in the Flic Finder Skill, you can interrupt by saying my name and then the movie title you are looking for. For example, say 'Alexa, Titanic' or 'Alexa, Find Titanic'. So, what movie can I help you find today?"
+Flic Movie Finder,stop,Thanks for using Flic Finder to search for your favorite movies! Have a great day!
+Flic Movie Finder,quit,
+Flic Movie Finder,"Alexa, open Flic Movie Finder",What movie can I help you find today?
+Flic Movie Finder,help,"I can help you find your favorite movies! Simply tell me the name of the movie you're looking for and I'll tell you a list of all the places you can watch it! Anytime you're in the Flic Finder Skill, you can interrupt by saying my name and then the movie title you are looking for. For example, say 'Alexa, Titanic' or 'Alexa, Find Titanic'. So, what movie can I help you find today?"
+Flic Movie Finder,stop,Thanks for using Flic Finder to search for your favorite movies! Have a great day!
+Flic Movie Finder,quit,
+Flic Movie Finder,"Alexa, open Flic Movie Finder",What movie can I help you find today?
+Flic Movie Finder,help,"I can help you find your favorite movies! Simply tell me the name of the movie you're looking for and I'll tell you a list of all the places you can watch it! Anytime you're in the Flic Finder Skill, you can interrupt by saying my name and then the movie title you are looking for. For example, say 'Alexa, Titanic' or 'Alexa, Find Titanic'. So, what movie can I help you find today?"
+Flic Movie Finder,stop,Thanks for using Flic Finder to search for your favorite movies! Have a great day!
+Flic Movie Finder,quit,
+Game of Thrones Facts,"Alexa, open Game of Thrones Facts","Here's your fact: Jack Gleeson, aka Joffery, played a little kid in Batman Begins."
+Game of Thrones Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Game of Thrones Facts,stop,
+Game of Thrones Facts,quit,
+Game of Thrones Facts,"Alexa, open Game of Thrones Facts","Here's your fact: The actress who plays sansa, on the other hand, has blonde hair in real life."
+Game of Thrones Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Game of Thrones Facts,stop,
+Game of Thrones Facts,quit,
+Game of Thrones Facts,"Alexa, open Game of Thrones Facts",Here's your fact: Peter Dinklage was George R.R. Martin's first choice for Tyrion.
+Game of Thrones Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Game of Thrones Facts,stop,
+Game of Thrones Facts,quit,
+Movie Info,"Alexa, open Movie Info","Hey, it's MovieBot. A popular movie is After, a Drama Romance film, starring Hero Fiennes-Tiffin.."
+Movie Info,help,"You can also say, is it any good"
+Movie Info,stop,Goodbye
+Movie Info,quit,
+Movie Info,"Alexa, open Movie Info","Hey, it's MovieBot. A popular movie is Hellboy, an Action Adventure film, starring David Harbour.."
+Movie Info,help,"You can try, is it any good"
+Movie Info,stop,Goodbye
+Movie Info,quit,
+Movie Info,"Alexa, open Movie Info","Welcome to Movie Helper, how can I help you? You can try saying, tell me more info about the movie Transformers"
+Movie Info,help,"To find information on a movie, try saying 'tell me more info about the movie Despicable Me 3'. To find ratings on a movie, try saying 'what are the ratings for Fast and the Furious'. To get information on an actor, try saying 'who is Johnny Depp'. To hear the current popular movies, try saying 'popular movies'. To hear upcoming releases, try saying 'which movies are coming out'. To hear which movies are currently out, try saying 'what movies are playing right now'. Go ahead and try a phrase"
+Movie Info,stop,Okay
+Movie Info,quit,
+Jim Rockford's Answering Machine,"Alexa, open Jim Rockford's Answering Machine","Jim? Madame O'Connor at the Zodiac Restaurant. You don't pay that dinner tab, we're gonna repo your birthday."
+Jim Rockford's Answering Machine,help,"For Help, please visit the help pages on the Amazon web site."
+Jim Rockford's Answering Machine,stop,
+Jim Rockford's Answering Machine,quit,
+Jim Rockford's Answering Machine,"Alexa, open Jim Rockford's Answering Machine","Say, I'm the one who hit your car at Fork City, I've got no insurance, I'm broke. But, I really wanted you to know how sorry I am. If it makes you feel any better I hurt my arm."
+Jim Rockford's Answering Machine,help,"For Help, please visit the help pages on the Amazon web site."
+Jim Rockford's Answering Machine,stop,
+Jim Rockford's Answering Machine,quit,
+Jim Rockford's Answering Machine,"Alexa, open Jim Rockford's Answering Machine",Jim? This is Manny down at Ralph's Bar. Some guy named Angel Martin just ran up a fifty buck bar tab. Now he wants to charge it to you. You gonna pay it?
+Jim Rockford's Answering Machine,help,"For Help, please visit the help pages on the Amazon web site."
+Jim Rockford's Answering Machine,stop,
+Jim Rockford's Answering Machine,quit,
+Mini Movie Review Flash Briefing,"Alexa, open Mini Movie Review Flash Briefing",You have Focus Word enabled. Do you want to open it?
+Mini Movie Review Flash Briefing,Yes,"The Focus Word is Trust. Trust can take years to earn, but only seconds to lose. Do not squander trust,for once lost it is rarely given again. Today, focus on trust."
+Mini Movie Review Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Mini Movie Review Flash Briefing,stop,
+Mini Movie Review Flash Briefing,quit,
+Mini Movie Review Flash Briefing,"Alexa, open Mini Movie Review Flash Briefing",You have Focus Word enabled. Do you want to open it?
+Mini Movie Review Flash Briefing,Yes,"The Focus Word is Dream. Dream big dreams. Then wake up and make them come true. Today, focus on your dreams."
+Mini Movie Review Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Mini Movie Review Flash Briefing,stop,
+Mini Movie Review Flash Briefing,quit,
+Mini Movie Review Flash Briefing,"Alexa, open Mini Movie Review Flash Briefing",You have Focus Word enabled. Do you want to open it?
+Mini Movie Review Flash Briefing,Yes,"The Focus Word is Honor. Honor is not hindered by inconvenience, cost or embarrassment. Today, focus on honor."
+Mini Movie Review Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Mini Movie Review Flash Briefing,stop,
+Mini Movie Review Flash Briefing,quit,
+The Flash Trivia,"Alexa, open The Flash Trivia","Welcome to The Flash Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What Is The Flashs Name? 1. barry allen. 2. wally west. 3. jay garrick. 4. joe west."
+The Flash Trivia,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+The Flash Trivia,stop,Good bye!
+The Flash Trivia,quit,
+The Flash Trivia,"Alexa, open The Flash Trivia","Welcome to The Flash Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Why Is The Flashs Father Imprisoned? 1. robbing banks. 2. fraud. 3. tax evasion. 4. murder of barry's mother."
+The Flash Trivia,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+The Flash Trivia,stop,Good bye!
+The Flash Trivia,quit,
+The Flash Trivia,"Alexa, open The Flash Trivia","Welcome to The Flash Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What Animal Villain Gained Psychic Powers Due To The Particle Accelerator? 1. Gorilla Grodd. 2. Mongul. 3. Killer Frost. 4. The Scorpion."
+The Flash Trivia,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+The Flash Trivia,stop,Good bye!
+The Flash Trivia,quit,
+Movie Picker,"Alexa, open Movie Picker",Here's a good movie to watch: Snowden
+Movie Picker,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Picker,stop,
+Movie Picker,quit,
+Movie Picker,"Alexa, open Movie Picker",Here's a good movie to watch: Prisoners
+Movie Picker,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Picker,stop,
+Movie Picker,quit,
+Movie Picker,"Alexa, open Movie Picker",Here's a good movie to watch: Double Indemnity
+Movie Picker,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Picker,stop,
+Movie Picker,quit,
+WatchAid,"Alexa, open WatchAid","Sorry, I don't know that one."
+WatchAid,help,"For Help, please visit the help pages on the Amazon web site."
+WatchAid,stop,
+WatchAid,quit,
+WatchAid,"Alexa, open WatchAid","Hmm, I don't know that."
+WatchAid,help,"For Help, please visit the help pages on the Amazon web site."
+WatchAid,stop,
+WatchAid,quit,
+WatchAid,"Alexa, open WatchAid","Sorry, I don't know that one."
+WatchAid,help,"For Help, please visit the help pages on the Amazon web site."
+WatchAid,stop,
+WatchAid,quit,
+Movie Helper,"Alexa, open Movie Helper","Welcome to Movie Helper, how can I help you? You can try saying, popular Movies"
+Movie Helper,help,"To find information on a movie, try saying 'tell me more info about the movie Despicable Me 3'. To find ratings on a movie, try saying 'what are the ratings for Fast and the Furious'. To get information on an actor, try saying 'who is Johnny Depp'. To hear the current popular movies, try saying 'popular movies'. To hear upcoming releases, try saying 'which movies are coming out'. To hear which movies are currently out, try saying 'what movies are playing right now'. Go ahead and try a phrase"
+Movie Helper,stop,Okay
+Movie Helper,quit,
+Movie Helper,"Alexa, open Movie Helper","Welcome to Movie Helper, how can I help you? You can try saying, which movies are coming out"
+Movie Helper,help,"To find information on a movie, try saying 'tell me more info about the movie Despicable Me 3'. To find ratings on a movie, try saying 'what are the ratings for Fast and the Furious'. To get information on an actor, try saying 'who is Johnny Depp'. To hear the current popular movies, try saying 'popular movies'. To hear upcoming releases, try saying 'which movies are coming out'. To hear which movies are currently out, try saying 'what movies are playing right now'. Go ahead and try a phrase"
+Movie Helper,stop,Okay
+Movie Helper,quit,
+Movie Helper,"Alexa, open Movie Helper","Welcome to Movie Helper, how can I help you? You can try saying, popular Movies"
+Movie Helper,help,"To find information on a movie, try saying 'tell me more info about the movie Despicable Me 3'. To find ratings on a movie, try saying 'what are the ratings for Fast and the Furious'. To get information on an actor, try saying 'who is Johnny Depp'. To hear the current popular movies, try saying 'popular movies'. To hear upcoming releases, try saying 'which movies are coming out'. To hear which movies are currently out, try saying 'what movies are playing right now'. Go ahead and try a phrase"
+Movie Helper,stop,Okay
+Movie Helper,quit,
+Tollywood Dialogues,"Alexa, open Tollywood Dialogues","Hmm, I'm not sure."
+Tollywood Dialogues,help,"For Help, please visit the help pages on the Amazon web site."
+Tollywood Dialogues,stop,
+Tollywood Dialogues,quit,
+Tollywood Dialogues,"Alexa, open Tollywood Dialogues","Hmm, I don't know that."
+Tollywood Dialogues,help,"For Help, please visit the help pages on the Amazon web site."
+Tollywood Dialogues,stop,
+Tollywood Dialogues,quit,
+Tollywood Dialogues,"Alexa, open Tollywood Dialogues","Hmm, I'm not sure."
+Tollywood Dialogues,help,"For Help, please visit the help pages on the Amazon web site."
+Tollywood Dialogues,stop,
+Tollywood Dialogues,quit,
+Celebrity Page,"Alexa, open Celebrity Page","Sorry, I'm not sure."
+Celebrity Page,help,"For Help, please visit the help pages on the Amazon web site."
+Celebrity Page,stop,
+Celebrity Page,quit,
+Celebrity Page,"Alexa, open Celebrity Page","Sorry, I don't know that."
+Celebrity Page,help,"For Help, please visit the help pages on the Amazon web site."
+Celebrity Page,stop,
+Celebrity Page,quit,
+Celebrity Page,"Alexa, open Celebrity Page","Hmm, I don't know that."
+Celebrity Page,help,"For Help, please visit the help pages on the Amazon web site."
+Celebrity Page,stop,
+Celebrity Page,quit,
+Movie Trivia,"Alexa, open Movie Trivia",Here's your fact: Among Patrick Bateman's neighbours in the novel of American Psycho is one Tom Cruise (see also #66)
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+Movie Trivia,"Alexa, open Movie Trivia","Here's your fact: Stanley Kubrick would reportedly call Stephen King at 3am to ask him questions about The Shining. According to King, one famous exchange had the director ask the author, â€œDo you believe in God?â€ù. When he replied in the affirmative Kubrick yelled â€œI knew it!â€ù and slammed the phone down."
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+Movie Trivia,"Alexa, open Movie Trivia","Here's your fact: Like Facebook, Star Wars was originally prefixed by the definite article 'The'. Much cleaner without it."
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+Combat,"Alexa, open Combat",Combat contains mature content that may not be suitable for all ages
+Combat,help,"For Help, please visit the help pages on the Amazon web site."
+Combat,stop,
+Combat,quit,
+Combat,"Alexa, open Combat",Combat contains mature content that may not be suitable for all ages
+Combat,help,"For Help, please visit the help pages on the Amazon web site."
+Combat,stop,
+Combat,quit,
+Combat,"Alexa, open Combat",Combat contains mature content that may not be suitable for all ages
+Combat,help,"For Help, please visit the help pages on the Amazon web site."
+Combat,stop,
+Combat,quit,
+Blu-ray New Releases,"Alexa, open Blu-ray New Releases","Sorry, I'm not sure."
+Blu-ray New Releases,help,"For Help, please visit the help pages on the Amazon web site."
+Blu-ray New Releases,stop,
+Blu-ray New Releases,quit,
+Blu-ray New Releases,"Alexa, open Blu-ray New Releases","Sorry, I don't know that."
+Blu-ray New Releases,help,"For Help, please visit the help pages on the Amazon web site."
+Blu-ray New Releases,stop,
+Blu-ray New Releases,quit,
+Blu-ray New Releases,"Alexa, open Blu-ray New Releases","Hmm, I'm not sure."
+Blu-ray New Releases,help,"For Help, please visit the help pages on the Amazon web site."
+Blu-ray New Releases,stop,
+Blu-ray New Releases,quit,
+FX,"Alexa, open FX","Hmm, I don't know that one."
+FX,help,"For Help, please visit the help pages on the Amazon web site."
+FX,stop,
+FX,quit,
+FX,"Alexa, open FX","Sorry, I don't know that one."
+FX,help,"For Help, please visit the help pages on the Amazon web site."
+FX,stop,
+FX,quit,
+FX,"Alexa, open FX","Hmm, I don't know that one."
+FX,help,"For Help, please visit the help pages on the Amazon web site."
+FX,stop,
+FX,quit,
+New release schedule for Netflix,"Alexa, open New release schedule for Netflix","Hmm, I don't know that."
+New release schedule for Netflix,help,"For Help, please visit the help pages on the Amazon web site."
+New release schedule for Netflix,stop,
+New release schedule for Netflix,quit,
+New release schedule for Netflix,"Alexa, open New release schedule for Netflix","Sorry, I don't know that."
+New release schedule for Netflix,help,"For Help, please visit the help pages on the Amazon web site."
+New release schedule for Netflix,stop,
+New release schedule for Netflix,quit,
+New release schedule for Netflix,"Alexa, open New release schedule for Netflix","Hmm, I'm not sure."
+New release schedule for Netflix,help,"For Help, please visit the help pages on the Amazon web site."
+New release schedule for Netflix,stop,
+New release schedule for Netflix,quit,
+Unofficial Peaky Blinders,"Alexa, open Unofficial Peaky Blinders","Sorry, I'm not sure."
+Unofficial Peaky Blinders,help,"For Help, please visit the help pages on the Amazon web site."
+Unofficial Peaky Blinders,stop,
+Unofficial Peaky Blinders,quit,
+Unofficial Peaky Blinders,"Alexa, open Unofficial Peaky Blinders","Sorry, Iâ€™m not sure about that."
+Unofficial Peaky Blinders,help,"For Help, please visit the help pages on the Amazon web site."
+Unofficial Peaky Blinders,stop,
+Unofficial Peaky Blinders,quit,
+Unofficial Peaky Blinders,"Alexa, open Unofficial Peaky Blinders","Hmm, I don't know that."
+Unofficial Peaky Blinders,help,"For Help, please visit the help pages on the Amazon web site."
+Unofficial Peaky Blinders,stop,
+Unofficial Peaky Blinders,quit,
+Movie List,"Alexa, open Movie List",You have Movie Picker enabled. Do you want to open it?
+Movie List,Yes,Here's a good movie to watch: The Sixth Sense
+Movie List,help,"For Help, please visit the help pages on the Amazon web site."
+Movie List,stop,
+Movie List,quit,
+Movie List,"Alexa, open Movie List",<Audio only response>
+Movie List,help,"For Help, please visit the help pages on the Amazon web site."
+Movie List,stop,
+Movie List,quit,
+Movie List,"Alexa, open Movie List",You have Movie Picker enabled. Do you want to open it?
+Movie List,Yes,Here's a good movie to watch: AmÃ©lie
+Movie List,help,"For Help, please visit the help pages on the Amazon web site."
+Movie List,stop,
+Movie List,quit,
+Name The Movie Trivia,"Alexa, open Name The Movie Trivia",Here's your fact: Dan Akroyd's original script for Ghostbusters was set in a future where Ghostbusters were everyday figures of society like paramedics and firemen.
+Name The Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Name The Movie Trivia,stop,
+Name The Movie Trivia,quit,
+Name The Movie Trivia,"Alexa, open Name The Movie Trivia",Here's your fact: Disney turned down the chance to make Back to the Future claiming the mother/son relationship was too risquÃ©.
+Name The Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Name The Movie Trivia,stop,
+Name The Movie Trivia,quit,
+Name The Movie Trivia,"Alexa, open Name The Movie Trivia",Here's your fact: The Imperial officer's uniforms were patterned after the uniforms of Nazi officers
+Name The Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Name The Movie Trivia,stop,
+Name The Movie Trivia,quit,
+"""Coffee and Daisies"" Trivia","Alexa, open ""Coffee and Daisies"" Trivia","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What kind of computer did Rory get for her birthday? 1. Sony. 2. Gateway. 3. Dell. 4. Apple."
+"""Coffee and Daisies"" Trivia",help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+"""Coffee and Daisies"" Trivia",stop,Good bye!
+"""Coffee and Daisies"" Trivia",quit,
+"""Coffee and Daisies"" Trivia","Alexa, open ""Coffee and Daisies"" Trivia","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What Season is Rory Dating Jess? 1. Season 6. 2. Season 3. 3. Season 1. 4. Season 4."
+"""Coffee and Daisies"" Trivia",help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+"""Coffee and Daisies"" Trivia",stop,Good bye!
+"""Coffee and Daisies"" Trivia",quit,
+"""Coffee and Daisies"" Trivia","Alexa, open ""Coffee and Daisies"" Trivia","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. How does Jess get a black eye? 1. Fought with Dean. 2. A swan. 3. He fell. 4. Playing softball."
+"""Coffee and Daisies"" Trivia",help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+"""Coffee and Daisies"" Trivia",stop,Good bye!
+"""Coffee and Daisies"" Trivia",quit,
+Movie Facts,"Alexa, open Movie Facts",Here's your fact: The Imperial officer's uniforms were patterned after the uniforms of Nazi officers
+Movie Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Facts,stop,
+Movie Facts,quit,
+Movie Facts,"Alexa, open Movie Facts",Here's your fact: Among Patrick Bateman's neighbours in the novel of American Psycho is one Tom Cruise (see also #66)
+Movie Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Facts,stop,
+Movie Facts,quit,
+Movie Facts,"Alexa, open Movie Facts","Here's your fact: In the penultimate Ian Fleming 007 novel, You Only Live Twice, James Bond's parents are revealed to be Scottish and Swiss. His formative years were spent in Germany and France."
+Movie Facts,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Facts,stop,
+Movie Facts,quit,
+ActorLookup,"Alexa, open ActorLookup","Hmm, I don't know that one."
+ActorLookup,help,"For Help, please visit the help pages on the Amazon web site."
+ActorLookup,stop,
+ActorLookup,quit,
+ActorLookup,"Alexa, open ActorLookup","Hmm, I don't know that."
+ActorLookup,help,"For Help, please visit the help pages on the Amazon web site."
+ActorLookup,stop,
+ActorLookup,quit,
+ActorLookup,"Alexa, open ActorLookup","Hmm, I'm not sure."
+ActorLookup,help,"For Help, please visit the help pages on the Amazon web site."
+ActorLookup,stop,
+ActorLookup,quit,
+Ask Titanium Rex,"Alexa, open Ask Titanium Rex",Welcome to Titanium Rex! Would you like to ask Rex a question or learn more about the show?
+Ask Titanium Rex,help,"To start, say, ask Titanium Rex, then ask your question"
+Ask Titanium Rex,stop,Disconnecting from the League of Freedom. Goodbye.
+Ask Titanium Rex,quit,
+Ask Titanium Rex,"Alexa, open Ask Titanium Rex",Welcome to Titanium Rex! Would you like to ask Rex a question or learn more about the show?
+Ask Titanium Rex,help,"To start, say, ask Titanium Rex, then ask your question"
+Ask Titanium Rex,stop,<Short audio>
+Ask Titanium Rex,quit,
+Ask Titanium Rex,"Alexa, open Ask Titanium Rex",Welcome to Titanium Rex! Would you like to ask Rex a question or learn more about the show?
+Ask Titanium Rex,help,"To start, say, ask Titanium Rex, then ask your question"
+Ask Titanium Rex,stop,<Short audio>
+Ask Titanium Rex,quit,
+Greyfox,"Alexa, open Greyfox","Hmm, I don't know that."
+Greyfox,help,"For Help, please visit the help pages on the Amazon web site."
+Greyfox,stop,
+Greyfox,quit,
+Greyfox,"Alexa, open Greyfox","Hmm, I don't know that one."
+Greyfox,help,"For Help, please visit the help pages on the Amazon web site."
+Greyfox,stop,
+Greyfox,quit,
+Greyfox,"Alexa, open Greyfox","Sorry, I don't know that."
+Greyfox,help,"For Help, please visit the help pages on the Amazon web site."
+Greyfox,stop,
+Greyfox,quit,
+Anime News Network Flash Briefing,"Alexa, open Anime News Network Flash Briefing","Anime News Network Flash Briefing is in your Flash Briefing; to hear it, just say, Whatâ€™s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Anime News Network Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Anime News Network Flash Briefing,stop,
+Anime News Network Flash Briefing,quit,
+Anime News Network Flash Briefing,"Alexa, open Anime News Network Flash Briefing","Anime News Network Flash Briefing is in your Flash Briefing; to hear it, just say, Whatâ€™s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Anime News Network Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Anime News Network Flash Briefing,stop,
+Anime News Network Flash Briefing,quit,
+Anime News Network Flash Briefing,"Alexa, open Anime News Network Flash Briefing","Anime News Network Flash Briefing is in your Flash Briefing; to hear it, just say, Whatâ€™s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Anime News Network Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Anime News Network Flash Briefing,stop,
+Anime News Network Flash Briefing,quit,
+Movie Trivia,"Alexa, open Movie Trivia",Here's your fact: The first notable film lensed by legendary cinematographer Roger Deakins was the 1984 adaptation of George Orwell's 1984.
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+Movie Trivia,"Alexa, open Movie Trivia",Here's your fact: Among Patrick Bateman's neighbours in the novel of American Psycho is one Tom Cruise (see also #66)
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+Movie Trivia,"Alexa, open Movie Trivia","Here's your fact: In 1994, during one famous lunch at Pixar, filmmakers John Lasseter, Pete Docter and Joe Ranft came up with ideas that would eventually become A Bug's Life, Finding Nemo, Monster Inc. and Wall-E. We'll have what they're having"
+Movie Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,stop,
+Movie Trivia,quit,
+Harvey Specter's Quote,"Alexa, open Harvey Specter's Quote","Hmm. Maybe the skill, Harvey Specter's Quote, can help. Do you want to try it?"
+Harvey Specter's Quote,help,"For Help, please visit the help pages on the Amazon web site."
+Harvey Specter's Quote,stop,
+Harvey Specter's Quote,quit,
+Harvey Specter's Quote,"Alexa, open Harvey Specter's Quote","Hmm. Maybe the skill, Harvey Specter's Quote, can help. Do you want to try it?"
+Harvey Specter's Quote,help,"For Help, please visit the help pages on the Amazon web site."
+Harvey Specter's Quote,stop,
+Harvey Specter's Quote,quit,
+Harvey Specter's Quote,"Alexa, open Harvey Specter's Quote","Hmm. Maybe the skill, Harvey Specter's Quote, can help. Do you want to try it?"
+Harvey Specter's Quote,help,"For Help, please visit the help pages on the Amazon web site."
+Harvey Specter's Quote,stop,
+Harvey Specter's Quote,quit,
+Trekkie Trivia,"Alexa, open Trekkie Trivia","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. What blew the fuses in Jerry and Kramers apartment building? 1. Air conditioner. 2. Hot tub. 3. Thunderstorm. 4. Stove."
+Trekkie Trivia,help,"I will ask you 5 multiple choice questions, try to get as many right as you can! To give an answer to a question, respond with the number of the answer by saying one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question asked, say, repeat."
+Trekkie Trivia,stop,Good bye!
+Trekkie Trivia,quit,
+Trekkie Trivia,"Alexa, open Trekkie Trivia","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. What was Kramer carrying when the group was trying to find their car in the parking garage? 1. Books. 2. TV. 3. Air conditioner. 4. Fish."
+Trekkie Trivia,help,"I will ask you 5 multiple choice questions, try to get as many right as you can! To give an answer to a question, respond with the number of the answer by saying one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question asked, say, repeat."
+Trekkie Trivia,stop,Good bye!
+Trekkie Trivia,quit,
+Trekkie Trivia,"Alexa, open Trekkie Trivia","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. What occupation does Jerryâ€™s girlfriend, the virgin, have? 1. Calvin Klein Model. 2. Closet organizer. 3. Charity worker. 4. Actress."
+Trekkie Trivia,help,"I will ask you 5 multiple choice questions, try to get as many right as you can! To give an answer to a question, respond with the number of the answer by saying one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question asked, say, repeat."
+Trekkie Trivia,stop,Good bye!
+Trekkie Trivia,quit,
+Use The Force Trivia,"Alexa, open Use The Force Trivia","Here's your fact: Our eyes are always the same size from birth, but our nose and ears never stop growing."
+Use The Force Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Use The Force Trivia,stop,
+Use The Force Trivia,quit,
+Use The Force Trivia,"Alexa, open Use The Force Trivia","Here's your fact: Our eyes are always the same size from birth, but our nose and ears never stop growing."
+Use The Force Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Use The Force Trivia,stop,
+Use The Force Trivia,quit,
+Use The Force Trivia,"Alexa, open Use The Force Trivia",Here's your fact: Our most northern state has more coastline than all other 49 states combined
+Use The Force Trivia,help,"For Help, please visit the help pages on the Amazon web site."
+Use The Force Trivia,stop,
+Use The Force Trivia,quit,

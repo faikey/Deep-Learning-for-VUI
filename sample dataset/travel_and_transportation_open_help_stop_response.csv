@@ -1,0 +1,103 @@
+name,question,response
+I'm Driving,"Alexa, open I'm Driving",Thanks for Trying I'm driving. You'll need to complete account linking to start using the skill. I've sent a card to the alexa app to help you get started.
+I'm Driving,help,"For Help, please visit the help pages on the Amazon web site."
+I'm Driving,stop,
+I'm Driving,quit,
+Maps,"Alexa, open Maps","Name two places you want to know the time it'll take to drive to, or how far away they are from each other."
+Maps,help,"Name two places you want to know the time it'll take to drive to, or how far away they are from each other. Phrase it like this, Las Vegas to Miami."
+Maps,stop,Ok
+Maps,quit,
+Gas Prices,"Alexa, open Gas Prices",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Gas Prices,Yes,What stock price would you like me to look up?
+Gas Prices,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Gas Prices,stop,O.K.
+Gas Prices,quit,
+Traffic,"Alexa, open Traffic",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Traffic,Yes,What stock price would you like me to look up?
+Traffic,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Traffic,stop,O.K.
+Traffic,quit,
+Airport Security Line Wait Times,"Alexa, open Airport Security Line Wait Times",How can I help?
+Airport Security Line Wait Times,help,You can ask for wait times for any airport terminal... What can I help you with?
+Airport Security Line Wait Times,stop,Goodbye!
+Airport Security Line Wait Times,quit,
+Distance Between,"Alexa, open Distance Between",
+Distance Between,help,"For Help, please visit the help pages on the Amazon web site."
+Distance Between,stop,
+Distance Between,quit,
+Expedia,"Alexa, open Expedia","Welcome to Expedia. Looking for your next adventure? You can ask me to tell you about a destination, or you can ask me for a packing list. Which would you like?"
+Expedia,help,"You can ask me to tell you about a destination, or you can ask me for a packing list. What would you like to ask me?"
+Expedia,stop,Thank you for using Expedia.
+Expedia,quit,
+Dave's Airport METAR & TAF Reader,"Alexa, open Dave's Airport METAR & TAF Reader","Welcome to the mee-tar reader app. I will read you airport weather reports. You can say ""get San Francisco"" to get the weather at San Francisco airport. You can say ""get kilo oscar romeo delta"" to get the weather at Chicago O'Hare airport. Please note that the data I read is advisory and pilots should consult official sources for a legal weather briefing."
+Dave's Airport METAR & TAF Reader,help,"The airport weather skill lets you hear airport mee-tars and terminal forecasts red aloud as if they were ATIS reports. It works by three or four letter airport identifier, or by city name. For example, you can say get kilo oscar alpha kilo or get Oakland. This will return the current weather. You can say get forecast San Francisco or get forecast kilo sierra foxtrot oscar. This will return the terminal forecast."
+Dave's Airport METAR & TAF Reader,stop,stopping. goodbye
+Dave's Airport METAR & TAF Reader,quit,
+My ETA,"Alexa, open My ETA",<Audio only response>
+My ETA,help,"For Help, please visit the help pages on the Amazon web site."
+My ETA,stop,
+My ETA,quit,
+Control Tower,"Alexa, open Control Tower",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Control Tower,Yes,What stock price would you like me to look up?
+Control Tower,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Control Tower,stop,O.K.
+Control Tower,quit,
+My Disney Visit,"Alexa, open My Disney Visit",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+My Disney Visit,Yes,What stock price would you like me to look up?
+My Disney Visit,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+My Disney Visit,stop,O.K.
+My Disney Visit,quit,
+Vacation Rental Concierge Service,"Alexa, open Vacation Rental Concierge Service",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Vacation Rental Concierge Service,Yes,What stock price would you like me to look up?
+Vacation Rental Concierge Service,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Vacation Rental Concierge Service,stop,O.K.
+Vacation Rental Concierge Service,quit,
+Places,"Alexa, open Places",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Places,Yes,What stock price would you like me to look up?
+Places,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Places,stop,O.K.
+Places,quit,
+Cruise Radio News,"Alexa, open Cruise Radio News",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Cruise Radio News,Yes,What stock price would you like me to look up?
+Cruise Radio News,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Cruise Radio News,stop,O.K.
+Cruise Radio News,quit,
+U.S. National Parks,"Alexa, open U.S. National Parks",Welcome to national park facts! Would you like to hear a fact about national parks?
+U.S. National Parks,help,"""With this skill, you can get a new fact about national parks. Would you like to hear a fact about national parks?"""
+U.S. National Parks,stop,"""Come back tomorrow to hear another fact about national parks. Just say, ""Alexa, launch national park facts"" to open the skill again."""
+U.S. National Parks,quit,
+Cruise Planners,"Alexa, open Cruise Planners",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Cruise Planners,Yes,What stock price would you like me to look up?
+Cruise Planners,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Cruise Planners,stop,O.K.
+Cruise Planners,quit,
+Travel Time,"Alexa, open Travel Time",<Short audio>
+Travel Time,help,"From left to right, press each Echo Button once, until you hear a ding."
+Travel Time,stop,"Great work today cadets! Launch me again anytime. See you soon! If you enjoyed Time Travel Cadets, you may like Party Foul. To launch, just say, 'Alexa, open Party Foul.'"
+Travel Time,quit,
+Should I Ride,"Alexa, open Should I Ride",<Audio only response>
+Should I Ride,help,"For Help, please visit the help pages on the Amazon web site."
+Should I Ride,stop,
+Should I Ride,quit,
+Travel Dates,"Alexa, open Travel Dates",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Travel Dates,Yes,What stock price would you like me to look up?
+Travel Dates,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Travel Dates,stop,O.K.
+Travel Dates,quit,
+American Airlines Entertainment,"Alexa, open American Airlines Entertainment","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What two networks broadcasted Super Bowl I? 1. CBS and NBC. 2. CTV and NBC. 3. CTV and CBS. 4. CTV and ABC."
+American Airlines Entertainment,help,"I will ask you 5 multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. To repeat the last question, say, repeat. Would you like to keep playing?"
+American Airlines Entertainment,stop,Good bye!
+American Airlines Entertainment,quit,
+Trip Planner,"Alexa, open Trip Planner","Welcome to the Trip Planner. Please ask me to plan your trip to a city by saying, Plan me a trip to Los Angeles"
+Trip Planner,help,"Welcome to the Trip Planner. Please ask me to plan your trip to a city by saying, Plan me a trip to Los Angeles"
+Trip Planner,stop,Thank you for trying Trip Planner. Good luck on that trip!Have a nice day!
+Trip Planner,quit,
+Distance Finder,"Alexa, open Distance Finder",Welcome to Recipe Finder. I can find you a recipe based on the ingredients in your fridge. Just list up to 5 ingredients you would like to use.
+Distance Finder,help,Here's some help. I can help you find you a recipe based on the ingredients in your fridge. All you need to do is list some ingredients and I will offer up some tasty recipes for you that use those ingredients. What ingredients would you like to use?
+Distance Finder,stop,Good luck with dinner
+Distance Finder,quit,
+Champaign/Urbana Bus Times,"Alexa, open Champaign/Urbana Bus Times",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Champaign/Urbana Bus Times,Yes,What stock price would you like me to look up?
+Champaign/Urbana Bus Times,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Champaign/Urbana Bus Times,stop,O.K.
+Champaign/Urbana Bus Times,quit,

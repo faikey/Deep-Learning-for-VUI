@@ -1,0 +1,346 @@
+name,question,response
+Redbox,"Alexa, open Redbox","Welcome to Redbox, your source for affordable movie and game rentals. How can Redbox help you?"
+Redbox,help,"You can ask me about movies, release dates, who acted in a movie, etc. Some sample commands are: What's new ?, What's coming soon ?, Where is my closest Kiosk?, and when will a movie be available at redbox?. How can Redbox help you?"
+Redbox,stop,Ending conversation with Redbox.
+Redbox,quit,
+Redbox,"Alexa, open Redbox","Welcome to Redbox, your source for affordable movie and game rentals. How can Redbox help you?"
+Redbox,help,"You can ask me about movies, release dates, who acted in a movie, etc. Some sample commands are: What's new ?, What's coming soon ?, Where is my closest Kiosk?, and when will a movie be available at redbox?. How can Redbox help you?"
+Redbox,stop,Ending conversation with Redbox.
+Redbox,quit,
+Redbox,"Alexa, open Redbox","Welcome to Redbox, your source for affordable movie and game rentals. How can Redbox help you?"
+Redbox,help,"You can ask me about movies, release dates, who acted in a movie, etc. Some sample commands are: What's new ?, What's coming soon ?, Where is my closest Kiosk?, and when will a movie be available at redbox?. How can Redbox help you?"
+Redbox,stop,Ending conversation with Redbox.
+Redbox,quit,
+AnyList,"Alexa, open AnyList","Hmm, I don't know that."
+AnyList,help,"For Help, please visit the help pages on the Amazon web site."
+AnyList,stop,
+AnyList,quit,
+AnyList,"Alexa, open AnyList","Sorry, I’m not sure about that."
+AnyList,help,"For Help, please visit the help pages on the Amazon web site."
+AnyList,stop,
+AnyList,quit,
+AnyList,"Alexa, open AnyList","Sorry, I’m not sure about that."
+AnyList,help,"For Help, please visit the help pages on the Amazon web site."
+AnyList,stop,
+AnyList,quit,
+Out Of Milk,"Alexa, open Out Of Milk","Oops, looks like you're logged out. Please go to your companion app and re-link your account."
+Out Of Milk,help,"For Help, please visit the help pages on the Amazon web site."
+Out Of Milk,stop,
+Out Of Milk,quit,
+Out Of Milk,"Alexa, open Out Of Milk","Oops, looks like you're logged out. Please go to your companion app and re-link your account."
+Out Of Milk,help,"For Help, please visit the help pages on the Amazon web site."
+Out Of Milk,stop,
+Out Of Milk,quit,
+Out Of Milk,"Alexa, open Out Of Milk","Oops, looks like you're logged out. Please go to your companion app and re-link your account."
+Out Of Milk,help,"For Help, please visit the help pages on the Amazon web site."
+Out Of Milk,stop,
+Out Of Milk,quit,
+Bring! Shopping List,"Alexa, open Bring! Shopping List",You have Bring! Shopping List enabled. Do you want to open it?
+Bring! Shopping List,Yes,Welcome to Bring! How can I help you?
+Bring! Shopping List,help,"To add an item to your list just say: ""Add 1 pound chocolate to my list"". You can remove items by saying: ""remove chocolate"". I can read the content of your list to you if you say: ""What is on my list?"". To change the list please say: ""change my list to holiday home"". What do you want to do? whats next?"
+Bring! Shopping List,stop,
+Bring! Shopping List,quit,
+Bring! Shopping List,"Alexa, open Bring! Shopping List",You have Bring! Shopping List enabled. Do you want to open it?
+Bring! Shopping List,Yes,<Audio only response>
+Bring! Shopping List,help,"For Help, please visit the help pages on the Amazon web site."
+Bring! Shopping List,stop,
+Bring! Shopping List,quit,
+Bring! Shopping List,"Alexa, open Bring! Shopping List",You have Bring! Shopping List enabled. Do you want to open it?
+Bring! Shopping List,Yes,Welcome to Bring! How can I help?
+Bring! Shopping List,help,"To add an item to your list just say: ""Add 1 pound chocolate to my list"". You can remove items by saying: ""remove chocolate"". I can read the content of your list to you if you say: ""What is on my list?"". To change the list please say: ""change my list to holiday home"". What do you want to do? whats next?"
+Bring! Shopping List,stop,Bye bye. Happy shopping!
+Bring! Shopping List,quit,
+Woot,"Alexa, open Woot",Welcome to Woot! Which category's deal would you like to hear about?
+Woot,help,"You can get the deal of the day by asking for today's deal. You can also ask for a specific category. Categories are woot, home, electronics, computers, tools, sport, shirt, gourmet, sellout. Which category's deal would you like to hear about?"
+Woot,stop,
+Woot,quit,
+Woot,"Alexa, open Woot",Welcome to Woot! Which category's deal would you like to hear about?
+Woot,help,"You can get the deal of the day by asking for today's deal. You can also ask for a specific category. Categories are woot, home, electronics, computers, tools, sport, shirt, gourmet, sellout. Which category's deal would you like to hear about?"
+Woot,stop,
+Woot,quit,
+Woot,"Alexa, open Woot",Welcome to Woot! Which category's deal would you like to hear about?
+Woot,help,"You can get the deal of the day by asking for today's deal. You can also ask for a specific category. Categories are woot, home, electronics, computers, tools, sport, shirt, gourmet, sellout. Which category's deal would you like to hear about?"
+Woot,stop,
+Woot,quit,
+Toyota Finder,"Alexa, open Toyota Finder","Alright, let’s find you a Toyota! To start, either say “Find my Toyota”, say “Ask a question” or you can say something like “Find my SUV”."
+Toyota Finder,help,"I can help you find the perfect Toyota for you by saying ""Find my Toyota"" or if you are looking for a Hybrid or SUV you can say ""Find my Hybrid"". Additionally, I can try to answer whatever questions you may have about Toyota. What would you like?"
+Toyota Finder,stop,Sounds good. Thanks for exploring with me!
+Toyota Finder,quit,
+Toyota Finder,"Alexa, open Toyota Finder","Alright, let’s find you a Toyota! To start, either say “Find my Toyota”, say “Ask a question” or you can say something like “Find my SUV”."
+Toyota Finder,help,"I can help you find the perfect Toyota for you by saying ""Find my Toyota"" or if you are looking for a Hybrid or SUV you can say ""Find my Hybrid"". Additionally, I can try to answer whatever questions you may have about Toyota. What would you like?"
+Toyota Finder,stop,Sounds good. Thanks for exploring with me!
+Toyota Finder,quit,
+Toyota Finder,"Alexa, open Toyota Finder","Alright, let’s find you a Toyota! To start, either say “Find my Toyota”, say “Ask a question” or you can say something like “Find my SUV”."
+Toyota Finder,help,"I can help you find the perfect Toyota for you by saying ""Find my Toyota"" or if you are looking for a Hybrid or SUV you can say ""Find my Hybrid"". Additionally, I can try to answer whatever questions you may have about Toyota. What would you like?"
+Toyota Finder,stop,Sounds good. Thanks for exploring with me!
+Toyota Finder,quit,
+Carter's Customer Service,"Alexa, open Carter's Customer Service",<Audio only response>
+Carter's Customer Service,help,"For Help, please visit the help pages on the Amazon web site."
+Carter's Customer Service,stop,
+Carter's Customer Service,quit,
+Carter's Customer Service,"Alexa, open Carter's Customer Service",<Audio only response>
+Carter's Customer Service,help,"For Help, please visit the help pages on the Amazon web site."
+Carter's Customer Service,stop,
+Carter's Customer Service,quit,
+Carter's Customer Service,"Alexa, open Carter's Customer Service",<Audio only response>
+Carter's Customer Service,help,"For Help, please visit the help pages on the Amazon web site."
+Carter's Customer Service,stop,
+Carter's Customer Service,quit,
+Best Buy,"Alexa, open Best Buy",You have Best Buy enabled. Do you want to open it?
+Best Buy,Yes,<Audio only response>
+Best Buy,help,"For Help, please visit the help pages on the Amazon web site."
+Best Buy,stop,
+Best Buy,quit,
+Best Buy,"Alexa, open Best Buy",You have Best Buy enabled. Do you want to open it?
+Best Buy,Yes,<Audio only response>
+Best Buy,help,"For Help, please visit the help pages on the Amazon web site."
+Best Buy,stop,
+Best Buy,quit,
+Best Buy,"Alexa, open Best Buy",You have Best Buy enabled. Do you want to open it?
+Best Buy,Yes,"Welcome to Best Buy! You can discover Best Buy's Deals of the day, check the status of your order, and get store hours and locations. Or, for frequently asked questions and tech tips, you can say things like, 'how to set a default printer' or 'help with my Best Buy credit card'. If you link your Best Buy account in the Alexa app, you can also buy Best Buy products. What can I help you with today?"
+Best Buy,help,
+Best Buy,stop,
+Best Buy,quit,
+MyGroceryList,"Alexa, open MyGroceryList","Sorry, I'm not sure."
+MyGroceryList,help,"For Help, please visit the help pages on the Amazon web site."
+MyGroceryList,stop,
+MyGroceryList,quit,
+MyGroceryList,"Alexa, open MyGroceryList","Sorry, I don't know that one."
+MyGroceryList,help,"For Help, please visit the help pages on the Amazon web site."
+MyGroceryList,stop,
+MyGroceryList,quit,
+MyGroceryList,"Alexa, open MyGroceryList","Sorry, I don't know that."
+MyGroceryList,help,"For Help, please visit the help pages on the Amazon web site."
+MyGroceryList,stop,
+MyGroceryList,quit,
+Listonic - smart grocery list,"Alexa, open Listonic - smart grocery list",I couldn't find a list called listonic - smart grocery.
+Listonic - smart grocery list,help,"For Help, please visit the help pages on the Amazon web site."
+Listonic - smart grocery list,stop,
+Listonic - smart grocery list,quit,
+Listonic - smart grocery list,"Alexa, open Listonic - smart grocery list",I couldn't find a list called listonic - smart grocery.
+Listonic - smart grocery list,help,"For Help, please visit the help pages on the Amazon web site."
+Listonic - smart grocery list,stop,
+Listonic - smart grocery list,quit,
+Listonic - smart grocery list,"Alexa, open Listonic - smart grocery list",I couldn't find a list called listonic - smart grocery.
+Listonic - smart grocery list,help,"For Help, please visit the help pages on the Amazon web site."
+Listonic - smart grocery list,stop,
+Listonic - smart grocery list,quit,
+Kia Niro,"Alexa, open Kia Niro","Sorry, the Kia Niro skill is no longer available. You can find more skills in the Alexa app."
+Kia Niro,help,"For Help, please visit the help pages on the Amazon web site."
+Kia Niro,stop,
+Kia Niro,quit,
+Kia Niro,"Alexa, open Kia Niro","Sorry, the Kia Niro skill is no longer available. You can find more skills in the Alexa app."
+Kia Niro,help,"For Help, please visit the help pages on the Amazon web site."
+Kia Niro,stop,
+Kia Niro,quit,
+Kia Niro,"Alexa, open Kia Niro","Sorry, the Kia Niro skill is no longer available. You can find more skills in the Alexa app."
+Kia Niro,help,"For Help, please visit the help pages on the Amazon web site."
+Kia Niro,stop,
+Kia Niro,quit,
+1-800-Flowers,"Alexa, open 1-800-Flowers",You have 1-800-Flowers enabled. Do you want to open it?
+1-800-Flowers,Yes,
+1-800-Flowers,help,"For Help, please visit the help pages on the Amazon web site."
+1-800-Flowers,stop,
+1-800-Flowers,quit,
+1-800-Flowers,"Alexa, open 1-800-Flowers",You have 1-800-Flowers enabled. Do you want to open it?
+1-800-Flowers,Yes,"In order to order flowers, you'll need to enable Amazon Pay permission in the 1 800 Flowers Skill from your settings on the Alexa app. Please come back once it's enabled. See you soon!"
+1-800-Flowers,help,"For Help, please visit the help pages on the Amazon web site."
+1-800-Flowers,stop,
+1-800-Flowers,quit,
+1-800-Flowers,"Alexa, open 1-800-Flowers",You have 1-800-Flowers enabled. Do you want to open it?
+1-800-Flowers,Yes,"In order to order flowers, you'll need to enable Amazon Pay permission in the 1 800 Flowers Skill from your settings on the Alexa app. Please come back once it's enabled. See you soon!"
+1-800-Flowers,help,"For Help, please visit the help pages on the Amazon web site."
+1-800-Flowers,stop,
+1-800-Flowers,quit,
+Steal of the week,"Alexa, open Steal of the week","Sorry, I don't know that one."
+Steal of the week,help,"For Help, please visit the help pages on the Amazon web site."
+Steal of the week,stop,
+Steal of the week,quit,
+Steal of the week,"Alexa, open Steal of the week","Sorry, I’m not sure about that."
+Steal of the week,help,"For Help, please visit the help pages on the Amazon web site."
+Steal of the week,stop,
+Steal of the week,quit,
+Steal of the week,"Alexa, open Steal of the week","Hmm, I don't know that."
+Steal of the week,help,"For Help, please visit the help pages on the Amazon web site."
+Steal of the week,stop,
+Steal of the week,quit,
+MailHaven Package Tracker,"Alexa, open MailHaven Package Tracker"
+MailHaven Package Tracker,help,"For Help, please visit the help pages on the Amazon web site."
+MailHaven Package Tracker,stop,
+MailHaven Package Tracker,quit,
+MailHaven Package Tracker,"Alexa, open MailHaven Package Tracker",Please use the Alexa app to link your account with MailHaven.
+MailHaven Package Tracker,help,"For Help, please visit the help pages on the Amazon web site."
+MailHaven Package Tracker,stop,
+MailHaven Package Tracker,quit,
+MailHaven Package Tracker,"Alexa, open MailHaven Package Tracker",Please use the Alexa app to link your account with MailHaven.
+MailHaven Package Tracker,help,"For Help, please visit the help pages on the Amazon web site."
+MailHaven Package Tracker,stop,
+MailHaven Package Tracker,quit,
+Edmunds,"Alexa, open Edmunds","Sorry, I’m not sure about that."
+Edmunds,help,"For Help, please visit the help pages on the Amazon web site."
+Edmunds,stop,
+Edmunds,quit,
+Edmunds,"Alexa, open Edmunds","Sorry, I don't know that."
+Edmunds,help,"For Help, please visit the help pages on the Amazon web site."
+Edmunds,stop,
+Edmunds,quit,
+Edmunds,"Alexa, open Edmunds","Hmm, I don't know that one."
+Edmunds,help,"For Help, please visit the help pages on the Amazon web site."
+Edmunds,stop,
+Edmunds,quit,
+eBags,"Alexa, open eBags","Hmm, I don't know that one."
+eBags,help,"For Help, please visit the help pages on the Amazon web site."
+eBags,stop,
+eBags,quit,
+eBags,"Alexa, open eBags","Sorry, I don't know that one."
+eBags,help,"For Help, please visit the help pages on the Amazon web site."
+eBags,stop,
+eBags,quit,
+eBags,"Alexa, open eBags","Hmm, I don't know that."
+eBags,help,"For Help, please visit the help pages on the Amazon web site."
+eBags,stop,
+eBags,quit,
+Product Feedback,"Alexa, open Product Feedback",
+Product Feedback,help,"For Help, please visit the help pages on the Amazon web site."
+Product Feedback,stop,
+Product Feedback,quit,
+Product Feedback,"Alexa, open Product Feedback",
+Product Feedback,help,"For Help, please visit the help pages on the Amazon web site."
+Product Feedback,stop,
+Product Feedback,quit,
+Product Feedback,"Alexa, open Product Feedback",
+Product Feedback,help,"For Help, please visit the help pages on the Amazon web site."
+Product Feedback,stop,
+Product Feedback,quit,
+My Grocer,"Alexa, open My Grocer","Sorry, I'm not sure."
+My Grocer,help,"For Help, please visit the help pages on the Amazon web site."
+My Grocer,stop,
+My Grocer,quit,
+My Grocer,"Alexa, open My Grocer","Sorry, I don't know that."
+My Grocer,help,"For Help, please visit the help pages on the Amazon web site."
+My Grocer,stop,
+My Grocer,quit,
+My Grocer,"Alexa, open My Grocer","Hmm, I don't know that one."
+My Grocer,help,"For Help, please visit the help pages on the Amazon web site."
+My Grocer,stop,
+My Grocer,quit,
+Kit,"Alexa, open Kit","Sorry, I'm not sure."
+Kit,help,"For Help, please visit the help pages on the Amazon web site."
+Kit,stop,
+Kit,quit,
+Kit,"Alexa, open Kit","Hmm, I don't know that."
+Kit,help,"For Help, please visit the help pages on the Amazon web site."
+Kit,stop,
+Kit,quit,
+Kit,"Alexa, open Kit","Hmm, I don't know that."
+Kit,help,"For Help, please visit the help pages on the Amazon web site."
+Kit,stop,
+Kit,quit,
+BatteryBoot,"Alexa, open BatteryBoot","Hmm, I don't know that one."
+BatteryBoot,help,"For Help, please visit the help pages on the Amazon web site."
+BatteryBoot,stop,
+BatteryBoot,quit,
+BatteryBoot,"Alexa, open BatteryBoot","Hmm, I don't know that one."
+BatteryBoot,help,"For Help, please visit the help pages on the Amazon web site."
+BatteryBoot,stop,
+BatteryBoot,quit,
+BatteryBoot,"Alexa, open BatteryBoot","Hmm, I don't know that."
+BatteryBoot,help,"For Help, please visit the help pages on the Amazon web site."
+BatteryBoot,stop,
+BatteryBoot,quit,
+Purell,"Alexa, open Purell",<Audio only response>
+Purell,help,"For Help, please visit the help pages on the Amazon web site."
+Purell,stop,
+Purell,quit,
+Purell,"Alexa, open Purell",<Audio only response>
+Purell,help,"For Help, please visit the help pages on the Amazon web site."
+Purell,stop,
+Purell,quit,
+Purell,"Alexa, open Purell",<Audio only response>
+Purell,help,"For Help, please visit the help pages on the Amazon web site."
+Purell,stop,
+Purell,quit,
+Stupid Deal,"Alexa, open Stupid Deal","Sorry, I'm not sure."
+Stupid Deal,help,"For Help, please visit the help pages on the Amazon web site."
+Stupid Deal,stop,
+Stupid Deal,quit,
+Stupid Deal,"Alexa, open Stupid Deal","Sorry, I don't know that one."
+Stupid Deal,help,"For Help, please visit the help pages on the Amazon web site."
+Stupid Deal,stop,
+Stupid Deal,quit,
+Stupid Deal,"Alexa, open Stupid Deal","Hmm, I'm not sure."
+Stupid Deal,help,"For Help, please visit the help pages on the Amazon web site."
+Stupid Deal,stop,
+Stupid Deal,quit,
+publix chicken tender subs,"Alexa, open publix chicken tender subs","Sorry, I don't know that one."
+publix chicken tender subs,help,"For Help, please visit the help pages on the Amazon web site."
+publix chicken tender subs,stop,
+publix chicken tender subs,quit,
+publix chicken tender subs,"Alexa, open publix chicken tender subs","Sorry, I don't know that."
+publix chicken tender subs,help,"For Help, please visit the help pages on the Amazon web site."
+publix chicken tender subs,stop,
+publix chicken tender subs,quit,
+publix chicken tender subs,"Alexa, open publix chicken tender subs","Sorry, I don't know that one."
+publix chicken tender subs,help,"For Help, please visit the help pages on the Amazon web site."
+publix chicken tender subs,stop,
+publix chicken tender subs,quit,
+My Deal,"Alexa, open My Deal",<Audio only response>
+My Deal,help,"For Help, please visit the help pages on the Amazon web site."
+My Deal,stop,
+My Deal,quit,
+My Deal,"Alexa, open My Deal",<Audio only response>
+My Deal,help,"For Help, please visit the help pages on the Amazon web site."
+My Deal,stop,
+My Deal,quit,
+My Deal,"Alexa, open My Deal",This feature is only available for Prime members.
+My Deal,help,"For Help, please visit the help pages on the Amazon web site."
+My Deal,stop,
+My Deal,quit,
+B&H Photo Deal Zone,"Alexa, open B&H Photo Deal Zone","Sorry, I’m not sure about that."
+B&H Photo Deal Zone,help,"For Help, please visit the help pages on the Amazon web site."
+B&H Photo Deal Zone,stop,
+B&H Photo Deal Zone,quit,
+B&H Photo Deal Zone,"Alexa, open B&H Photo Deal Zone","Sorry, I don't know that one."
+B&H Photo Deal Zone,help,"For Help, please visit the help pages on the Amazon web site."
+B&H Photo Deal Zone,stop,
+B&H Photo Deal Zone,quit,
+B&H Photo Deal Zone,"Alexa, open B&H Photo Deal Zone","Hmm, I don't know that one."
+B&H Photo Deal Zone,help,"For Help, please visit the help pages on the Amazon web site."
+B&H Photo Deal Zone,stop,
+B&H Photo Deal Zone,quit,
+Ship.com Automatic Package Tracker,"Alexa, open Ship.com Automatic Package Tracker","Welcome to the Ship.com Beta! I’ve sent you instructions to your Alexa app. To get started, you’ll have to login, or create a Ship.com account using the Alexa app."
+Ship.com Automatic Package Tracker,help,"For Help, please visit the help pages on the Amazon web site."
+Ship.com Automatic Package Tracker,stop,
+Ship.com Automatic Package Tracker,quit,
+Ship.com Automatic Package Tracker,"Alexa, open Ship.com Automatic Package Tracker","Welcome to the Ship.com Beta! I’ve sent you instructions to your Alexa app. To get started, you’ll have to login, or create a Ship.com account using the Alexa app."
+Ship.com Automatic Package Tracker,help,"For Help, please visit the help pages on the Amazon web site."
+Ship.com Automatic Package Tracker,stop,
+Ship.com Automatic Package Tracker,quit,
+Ship.com Automatic Package Tracker,"Alexa, open Ship.com Automatic Package Tracker","Welcome to the Ship.com Beta! I’ve sent you instructions to your Alexa app. To get started, you’ll have to login, or create a Ship.com account using the Alexa app."
+Ship.com Automatic Package Tracker,help,"For Help, please visit the help pages on the Amazon web site."
+Ship.com Automatic Package Tracker,stop,
+Ship.com Automatic Package Tracker,quit,
+Simon,"Alexa, open Simon","Sorry, I’m not sure about that."
+Simon,help,"For Help, please visit the help pages on the Amazon web site."
+Simon,stop,
+Simon,quit,
+Simon,"Alexa, open Simon","Sorry, I'm not sure."
+Simon,help,"For Help, please visit the help pages on the Amazon web site."
+Simon,stop,
+Simon,quit,
+Simon,"Alexa, open Simon","Sorry, I'm not sure."
+Simon,help,"For Help, please visit the help pages on the Amazon web site."
+Simon,stop,
+Simon,quit,
+grocery,"Alexa, open grocery","Sorry, I'm not sure."
+grocery,help,"For Help, please visit the help pages on the Amazon web site."
+grocery,stop,
+grocery,quit,
+grocery,"Alexa, open grocery","Hmm, I'm not sure."
+grocery,help,"For Help, please visit the help pages on the Amazon web site."
+grocery,stop,
+grocery,quit,
+grocery,"Alexa, open grocery","Sorry, I don't know that."
+grocery,help,"For Help, please visit the help pages on the Amazon web site."
+grocery,stop,
+grocery,quit,

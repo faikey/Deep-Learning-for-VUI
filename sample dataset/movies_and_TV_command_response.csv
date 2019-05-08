@@ -1,0 +1,988 @@
+name,question,response
+Baby Groot,"""Alexa, ask Baby Groot what time is it""",The time is 7:37 PM.
+Baby Groot,quit,
+Baby Groot,"""Alexa, ask Baby Groot where he is""","Ok, Here's Baby Groot"
+Baby Groot,quit,
+Baby Groot,quit,
+Baby Groot,"""Alexa, ask Baby Groot whats up""","Ok, Here's Baby Groot"
+Baby Groot,quit,
+Baby Groot,quit,
+The Tonight Show,"""Alexa, open The Tonight Show""",<Short audio>
+The Tonight Show,quit,
+The Tonight Show,"""Alexa, ask The Tonight Show to play the Monologue""",You have The Tonight Show enabled. Do you want to open it?
+The Tonight Show,Yes,<Short audio>
+The Tonight Show,"""Alexa, ask The Tonight Show to play the Monologue""",You have The Tonight Show enabled. Do you want to open it?
+The Tonight Show,quit,
+The Tonight Show,quit,
+The Tonight Show,"""Alexa, ask The Tonight Show to play Jimmy's Thank You Notes""",I couldn't find any enabled video skills that can play that. Go to the Alexa app to manage your video skills and devices.
+The Tonight Show,quit,
+The Tonight Show,quit,
+The Tonight Show Monologue,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Tonight Show Monologue,quit,
+The Tonight Show Monologue,"""Alexa, what's in the news?""",Here's your news.
+The Tonight Show Monologue,quit,
+The Tonight Show Monologue,quit,
+The Tonight Show Monologue,"""Alexa, what's my Flash Briefing?""",Here's your news.
+The Tonight Show Monologue,quit,
+The Tonight Show Monologue,quit,
+Spider-Man,"""Alexa, open Spiderman""",You have Spider-Man enabled. Do you want to open it?
+Spider-Man,Yes,<Short audio>
+Spider-Man,"""Alexa, open Spiderman""","Sorry, I didn't catch that. You can choose from Spider-man: Into the Spider-verse, or Spider-man: Homecoming. Which will it be?"
+Spider-Man,quit,
+Spider-Man,"""Alexa, ask Spiderman to go behind the scenes""",You have Spider-Man enabled. Do you want to open it?
+Spider-Man,Yes,<Short audio>
+Spider-Man,"""Alexa, ask Spiderman to go behind the scenes""","Sorry, I didn't catch that. You can choose from Spider-man: Into the Spider-verse, or Spider-man: Homecoming. Which will it be?"
+Spider-Man,quit,
+Spider-Man,quit,
+Spider-Man,"""Alexa, ask Spiderman for a quiz""",You have Spider-Man enabled. Do you want to open it?
+Spider-Man,Yes,<Short audio>
+Spider-Man,"""Alexa, ask Spiderman for a quiz""","Sorry, I didn't catch that. You can choose from Spider-man: Into the Spider-verse, or Spider-man: Homecoming. Which will it be?"
+Spider-Man,quit,
+Spider-Man,quit,
+Fandango,"""Alexa, Open Fandango""","Welcome to Fandango, I can help you find showtimes to a movie. What can I help you with?"
+Fandango,quit,
+Fandango,"""Alexa, Ask Fandango what's playing at a nearby theater""",Here are a few movies playing near you today :
+Fandango,quit,
+Fandango,quit,
+Fandango,"""Alexa, Ask Fandango to search for I can only Imagine""",You have Fandango enabled. Do you want to open it?
+Fandango,Yes,"Welcome to Fandango, I can help you find showtimes to a movie. What can I help you with?"
+Fandango,"""Alexa, Ask Fandango to search for I can only Imagine""",You have Fandango enabled. Do you want to open it?
+Fandango,quit,
+Fandango,quit,
+Match Game,"""Alexa, open Match Game""","Sorry, I don't know that one."
+Match Game,quit,
+Match Game,"""Alexa, launch Match Game""","Hmm, I don't know that."
+Match Game,quit,
+Match Game,quit,
+Match Game,"""Alexa, ask Match Game who is the host of the gameshow""","Sorry, I'm not sure."
+Match Game,quit,
+Match Game,quit,
+Atom Tickets,"""Alexa, launch Atom.""",<Audio only response>
+Atom Tickets,quit,
+Atom Tickets,"""Alexa, ask Atom to buy movie tickets for today.""",You have Fandango enabled. Do you want to open it?
+Atom Tickets,Yes,<Audio only response>
+Atom Tickets,"""Alexa, ask Atom to buy movie tickets for today.""",You have Fandango enabled. Do you want to open it?
+Atom Tickets,quit,
+Atom Tickets,quit,
+Atom Tickets,"""Alexa, ask Atom what's playing right now.""","Hmm. Maybe the skill, Atom Tickets, can help. Do you want to try it?"
+Atom Tickets,quit,
+Atom Tickets,quit,
+Screen Test | Movie Quote Quiz,"""Alexa, Open Screen Test""","Welcome to the Cinema Playground Screen Test. I will play 5 movie quotes. Just say the answer. If you need to hear the quote again, just say repeat. Good Luck. Quote 1."
+Screen Test | Movie Quote Quiz,quit,
+Screen Test | Movie Quote Quiz,"""Alexa, Open Screen Test""","Welcome to the Cinema Playground Screen Test. I will play 5 movie quotes. Just say the answer. If you need to hear the quote again, just say repeat. Good Luck. Quote 1."
+Screen Test | Movie Quote Quiz,"""Give me a clue""","Okay, here's a clue. Four teenage boys enter a pact to lose their virginity by prom night. To hear the quote again, just say repeat. If you know the movie you can just say it. Otherwise say skip."
+Screen Test | Movie Quote Quiz,quit,
+Screen Test | Movie Quote Quiz,"""Alexa, Open Screen Test""","Welcome to the Cinema Playground Screen Test. I will play 5 movie quotes. Just say the answer. If you need to hear the quote again, just say repeat. Good Luck. Quote 1."
+Screen Test | Movie Quote Quiz,"""I need more time""","Okay, here's 10 more seconds to think about it."
+Screen Test | Movie Quote Quiz,quit,
+The Office Quote Game,"""Alexa, ask Office Quotes for a quote""",You have Schrute Quotes enabled. Do you want to open it?
+The Office Quote Game,Yes,Here's your Dwight Schrute quote:I am fast. To give you a reference point I am somewhere between a snake and a mongoose...And a panther.Would you like another quote?
+The Office Quote Game,"""Alexa, ask Office Quotes for a quote""","Here's your Dwight Schrute quote:Before I do anything I ask myself, Would an idiot do that? and if the answer is yes, I do not do that thing.Would you like another quote?"
+The Office Quote Game,quit,
+The Office Quote Game,"""Alexa, ask Office Quotes to tell me a quote""",Here's a quote by Michelle Obama
+The Office Quote Game,quit,
+The Office Quote Game,quit,
+The Office Quote Game,"""Alexa, ask Office Quotes to give me a quote""",Here's a quote from Jennifer Lawrence
+The Office Quote Game,quit,
+The Office Quote Game,quit,
+Burger of the Day,"""Alexa, ask Bob's Chalkboard what the burger of the day is""","Ok, Here's Burger of the Day"
+Burger of the Day,quit,
+Burger of the Day,"""Alexa, ask Bob's Chalkboard about today's burger of the day""","Ok, Here's Burger of the Day"
+Burger of the Day,quit,
+Burger of the Day,quit,
+Burger of the Day,"""Alexa, ask Bob's Chalkboard about today's burger""","Ok, Here's Burger of the Day"
+Burger of the Day,quit,
+Burger of the Day,quit,
+YourDirect TV,"""Alexa, Open Direct channel guide""",You have YourDirect TV enabled. Do you want to open it?
+YourDirect TV,Yes,"Hello, welcome to your direct tv guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+YourDirect TV,"""Alexa, Open Direct channel guide""","Sorry, I did not get you, can you please repeat the channel name"
+YourDirect TV,quit,
+YourDirect TV,"""Alexa, Open Direct channel guide""",You have YourDirect TV enabled. Do you want to open it?
+YourDirect TV,Yes,"Which channel number or channel category you want to know about ?. If you need any help, say help."
+YourDirect TV,quit,
+YourDirect TV,"""Alexa, Open Direct channel guide""",You have YourDirect TV enabled. Do you want to open it?
+YourDirect TV,Yes,"Which channel number or channel category you want to know about ?. If you need any help, say help."
+YourDirect TV,quit,
+Deadpool,"""Alexa, open deadpool""","Sorry, I’m not sure about that."
+Deadpool,quit,
+Deadpool,"""Alexa, open deadpool""","Hmm, I'm not sure."
+Deadpool,"""give me a random deadpool quote""","Here is a quote from the film Deadpool. 'You're right. Cancer is only in my liver, lungs, prostate, and brain. All the things I can live without.'"
+Deadpool,quit,
+Deadpool,"""Alexa, open deadpool""","Hmm, I don't know that."
+Deadpool,"""what is a deadpool quote""","Here is a quote from the film Deadpool. 'I'd go with you, but... I don't want to.'"
+Deadpool,quit,
+Seinfeld Fan Trivia,"""Alexa, open Seinfeld Trivia""","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. What does Joe DiMaggio dunk in his coffee? 1. Donut. 2. Toast. 3. Bagel. 4. Muffin."
+Seinfeld Fan Trivia,quit,
+Seinfeld Fan Trivia,"""Alexa, play Seinfeld Trivia""","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. What food item did George eat that was in the trash? 1. Chip. 2. Eclaire. 3. Cookie. 4. Cake."
+Seinfeld Fan Trivia,quit,
+Seinfeld Fan Trivia,quit,
+Seinfeld Fan Trivia,"""Alexa, start Seinfeld Trivia""","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. What material is George’s big, puffy jacket made out of? 1. Wool. 2. Leather. 3. Gortex. 4. Cotten."
+Seinfeld Fan Trivia,quit,
+Seinfeld Fan Trivia,quit,
+Michael Scott Quote Generator,"""Alexa, ask Michael Scott Quotes for a quote.""","Here is a quote from Michael Scott. ""I'm very sorry, I did not know you were wearing a hearing aid. I thought you were just speaking abnormally."""
+Michael Scott Quote Generator,quit,
+Michael Scott Quote Generator,"""Alexa, ask Michael Scott Quotes to rate some quotes.""","Here is a quote from Michael Scott. ""I'm very sorry, I did not know you were wearing a hearing aid. I thought you were just speaking abnormally."""
+Michael Scott Quote Generator,quit,
+Michael Scott Quote Generator,quit,
+Michael Scott Quote Generator,"""Alexa, ask Michael Scott Quotes for ID 100.""","Here is a quote from Michael Scott. ""I'm very sorry, I did not know you were wearing a hearing aid. I thought you were just speaking abnormally."""
+Michael Scott Quote Generator,quit,
+Michael Scott Quote Generator,quit,
+Movie Trivia,"""Alexa, ask movie trivia to give me some movie trivia""",Here's your fact: Author Peter Benchley plays the role of a TV reporter in Jaws. Benchley was reportedly thrown off set after continually arguing with Spielberg about the film's ending.
+Movie Trivia,quit,
+Movie Trivia,"""Alexa, start movie trivia""","Here's your fact: Stanley Kubrick would reportedly call Stephen King at 3am to ask him questions about The Shining. According to King, one famous exchange had the director ask the author, “Do you believe in God?”. When he replied in the affirmative Kubrick yelled “I knew it!” and slammed the phone down."
+Movie Trivia,quit,
+Movie Trivia,quit,
+Movie Trivia,"""Alexa, ask movie trivia tell me a fact""",You have Movie Trivia enabled. Do you want to open it?
+Movie Trivia,Yes,Here's your fact: The US title for the exceptionally wonderful A Matter of Life and Death was Stairway to Heaven. The UK had no stairway. Denied.
+Movie Trivia,"""Alexa, ask movie trivia tell me a fact""",You have Movie Trivia enabled. Do you want to open it?
+Movie Trivia,quit,
+Movie Trivia,quit,
+Groot,"""Alexa, ask baby groot when is the next Guardians of the Galaxy movie coming... ""","The next Guardians of the Galaxy movie, ""Guardians of the Galaxy Vol. 3,"" will be released on December 31, 2022. The most recent Guardians of the Galaxy movie was ""Guardians of the Galaxy Vol. 2,"" which was released on May 5, 2017."
+Groot,quit,
+Groot,"""Alexa, ask baby groot what is the next guardians adventure?""","Ok, Here's Groot"
+Groot,quit,
+Groot,quit,
+Groot,"""Alexa, ask baby groot to tell me a fact""",You have Groot enabled. Do you want to open it?
+Groot,Yes,I am Groot?
+Groot,"""Alexa, ask baby groot to tell me a fact""",You have Groot enabled. Do you want to open it?
+Groot,quit,
+Groot,quit,
+Golden Girls Trivia,"""Alexa, tell Golden Girls Trivia to start.""","This might answer your question: Here's a fact about The Golden Girls. The girls consumed over one hundred cheesecakes during the show's seven-year run. In reality, Bea Arthur hated cheesecake."
+Golden Girls Trivia,quit,
+Golden Girls Trivia,"""Alexa, ask Golden Girls Trivia for help.""",<Short audio>
+Golden Girls Trivia,quit,
+Golden Girls Trivia,quit,
+Golden Girls Trivia,"""Alexa, ask golden girls fact to tell me a golden girls fact""","Here's a fact about The Golden Girls. Estelle Getty suffered from stage fright, every Friday night for 26 weeks during the show's taping."
+Golden Girls Trivia,quit,
+Golden Girls Trivia,quit,
+SHOWTIME,"""Alexa, talk to Showtime""",You have SHOWTIME enabled. Do you want to open it?
+SHOWTIME,Yes,"Welcome back to Showtime! Catch new episodes of Billions, Sundays at 9 PM Eastern and Pacific. You can ask me about series, movies, documentaries or sports. Which would you like?"
+SHOWTIME,"""Alexa, talk to Showtime""","I can't help you to watch Showtime right now. If you're not a subscriber yet, go to S.H.O. DOT com slash order, to start your free trial. Would you like to hear what’s on Showtime?"
+SHOWTIME,quit,
+SHOWTIME,"""Alexa, ask Showtime what to watch""",You have SHOWTIME enabled. Do you want to open it?
+SHOWTIME,Yes,"Welcome back to Showtime! Catch new episodes of Billions, Sundays at 9 PM Eastern and Pacific. You can ask me about series, movies, documentaries or sports. Which would you like?"
+SHOWTIME,"""Alexa, ask Showtime what to watch""","Which would you like to hear about, series, movies, documentaries, or sports?"
+SHOWTIME,quit,
+SHOWTIME,quit,
+SHOWTIME,"""Alexa, ask Showtime what's on tonight""",You have SHOWTIME enabled. Do you want to open it?
+SHOWTIME,Yes,<Audio only response>
+SHOWTIME,"""Alexa, ask Showtime what's on tonight""",You have SHOWTIME enabled. Do you want to open it?
+SHOWTIME,quit,
+SHOWTIME,quit,
+WWE Trivia - Questions and Facts,"""Alexa, open WWE Trivia""",Here's your fact: Who won the Deadly Games tournament to crown a new WWF Champion at the 1998 Survivor Series? The Rock. The Rock defeated Mankind in the finals with some help from Vince McMahon.
+WWE Trivia - Questions and Facts,quit,
+WWE Trivia - Questions and Facts,"""Alexa launch WWE Trivia""","Here's your fact: Dwayne The Rock Johnson didn’t develop the ability to quirk an eyebrow overnight while working the house show loop. No, the People’s Eyebrow was something he came up with while studying criminology and physiology on a full football scholarship at the University Of Miami. Why he made it a thing back in college, I have no idea. Equally, I haven’t got a clue why he decided to call it ‘the Heat Brow’. Was it getting him heat? Did it make other people hot? Miami’s a hot town. Was there perspiration involved? We’ll probably never know. He tried calling it that again when the eyebrow reappeared in the WWF, but it never caught on like ‘the People’s Eyebrow’ did."
+WWE Trivia - Questions and Facts,quit,
+WWE Trivia - Questions and Facts,quit,
+WWE Trivia - Questions and Facts,"""Alexa, open unofficial w. w. e. superstars theme songs""",I couldn't find any songs matching unofficial w. w. e. superstars theme in your library .
+WWE Trivia - Questions and Facts,quit,
+WWE Trivia - Questions and Facts,quit,
+Famous Movie Quotes,"""Alexa, ask Famous Movie Quotes for a quote""",Here's a quote from the movie undefined... undefined
+Famous Movie Quotes,quit,
+Famous Movie Quotes,"""Alexa, open Famous Movie Quotes and give me a movie quote""",Here's a quote from the movie undefined... undefined
+Famous Movie Quotes,quit,
+Famous Movie Quotes,quit,
+Famous Movie Quotes,"""Alexa, Open Screen Test""","Welcome to the Cinema Playground Screen Test. I will play 5 movie quotes. Just say the answer. If you need to hear the quote again, just say repeat. Good Luck. Quote 1."
+Famous Movie Quotes,quit,
+Famous Movie Quotes,quit,
+new flicks,"""""Alexa, ask new flicks to suggest some movies""""","Hmm. Maybe the skill, new flicks, can help. Do you want to try it?"
+new flicks,quit,
+new flicks,"""""Alexa, ask new flicks for latest movies on hulu""""",You have Fandango enabled. Do you want to open it?
+new flicks,Yes,"Welcome to Fandango, I can help you find showtimes to a movie. What can I help you with?"
+new flicks,"""""Alexa, ask new flicks for latest movies on hulu""""",You have Fandango enabled. Do you want to open it?
+new flicks,quit,
+new flicks,quit,
+new flicks,"""""Alexa, ask new flicks for popular movies on redbox""""",<Audio only response>
+new flicks,quit,
+new flicks,quit,
+NoCable,"""Alexa, ask my antenna what channel NBC is""",You have NBC News enabled. Do you want to open it?
+NoCable,Yes,"Welcome to nbc news,you can ask what's trending get the top topics or ask for breaking news. Which would you like to hear?"
+NoCable,"""Alexa, ask my antenna what channel NBC is""","here are the top trending headlinesAs AG Barr announces Thursday news conference, here’s what to expect in the Mueller reportThe long-awaited probe into the president is expected to be publicly released Thursday. Here's everything you need to know.next in the newsA closer look at the ravaged Notre Dame CathedralThe massive blaze that ripped through Notre Dame Cathedral collapsed its roof and spire, but some of its treasures survived. Here's an up-close look.next in the news'An event of very weighty significance': N.K. test-fires new tactical guided weaponThe weapon's development is ""of very weighty significance in increasing the combat power of the People's Army,"" Kim Jong Un said, according to North Korea's state news agency.we have sent the trending links to your alexa companion app.You can hear about other news topics like politics, business or health. Which would you like?"
+NoCable,quit,
+NoCable,"""Alexa, ask my antenna what orientation should my antenna face""","Sorry, I'm not sure."
+NoCable,quit,
+NoCable,quit,
+NoCable,"""Alexa, ask my antenna how I should install it""",
+NoCable,quit,
+NoCable,quit,
+BOSCH: A Detective's Case,"""Alexa, open Bosch.""","Hmm, I don't know that."
+BOSCH: A Detective's Case,quit,
+BOSCH: A Detective's Case,"""Alexa, ask Bosch where can I watch the show.""","The next season of Bosch will start on Friday April 19, 2019 on Amazon Video."
+BOSCH: A Detective's Case,quit,
+BOSCH: A Detective's Case,quit,
+BOSCH: A Detective's Case,"""Alexa, ask Bosch who is Michael Connelly?""","Michael Connelly is an American author of detective novels and other crime fiction, notably those featuring LAPD Detective Hieronymus ""Harry"" Bosch and criminal defense attorney Mickey Haller."
+BOSCH: A Detective's Case,quit,
+BOSCH: A Detective's Case,quit,
+Schrute Quotes,"""Alexa ask Schrute Quotes for a quote""","Here's your Dwight Schrute quote:How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.Would you like another quote?"
+Schrute Quotes,quit,
+Schrute Quotes,"""Alexa ask Schrute Quotes for a Dwight Schrute quote""","Here's your Dwight Schrute quote:Congratulations on your one cousin. I have seventy, each one better than the last!Would you like another quote?"
+Schrute Quotes,quit,
+Schrute Quotes,quit,
+Schrute Quotes,"""Alexa ask Schrute Quotes to tell me a quote""","Here's your Dwight Schrute quote:It’s never the person who you most suspect. It’s also never the person you least suspect since anyone with half a brain would suspect them the most. Therefore, I know the killer to be Phyllis...The person who I most medium suspect.Would you like another quote?"
+Schrute Quotes,quit,
+Schrute Quotes,quit,
+Layer3 TV,"""Alexa, ask layer three to search for The Avengers.""",You have Layer3 TV enabled. Do you want to open it?
+Layer3 TV,Yes,It looks like your T Vision account is not linked yet. You can link T Vision to your Amazon Account from the Amazon Alexa app.
+Layer3 TV,"""Alexa, ask layer three to search for The Avengers.""",You have Layer3 TV enabled. Do you want to open it?
+Layer3 TV,quit,
+Layer3 TV,"""Alexa, tell layer three tune to ESPN.""",I couldn't find any enabled video skills that can do that. Go to the Alexa app to manage your video skills and devices.
+Layer3 TV,quit,
+Layer3 TV,quit,
+Layer3 TV,"""Alexa, ask layer three to go to the home screen.""",You have Layer3 TV enabled. Do you want to open it?
+Layer3 TV,Yes,It looks like your T Vision account is not linked yet. You can link T Vision to your Amazon Account from the Amazon Alexa app.
+Layer3 TV,"""Alexa, ask layer three to go to the home screen.""",You have Layer3 TV enabled. Do you want to open it?
+Layer3 TV,quit,
+Layer3 TV,quit,
+Keeping Up With The Kardashians Quote Game,"""Alexa, start Kardashian Quote Game""",<Short audio>
+Keeping Up With The Kardashians Quote Game,quit,
+Keeping Up With The Kardashians Quote Game,"""Alexa, open Kardashian Quote Game""",<Short audio>
+Keeping Up With The Kardashians Quote Game,quit,
+Keeping Up With The Kardashians Quote Game,quit,
+Keeping Up With The Kardashians Quote Game,"""Alexa, launch Kardashian Quote Game""",<Short audio>
+Keeping Up With The Kardashians Quote Game,quit,
+Keeping Up With The Kardashians Quote Game,quit,
+Star Wars Quotes,"""Alexa, open Star Wars Quotes""","Here's a Star Wars: A New Hope quote: ""Luke! Take these two over to the garage will you, I want them cleaned up before dinner."""
+Star Wars Quotes,quit,
+Star Wars Quotes,"""Alexa, ask Star Wars Quotes for a quote""","Here's a Star Wars: A New Hope quote: ""Several fighters have broken off from the main group. Come with me!""."
+Star Wars Quotes,quit,
+Star Wars Quotes,quit,
+Star Wars Quotes,"""Alexa, give me a quote from Star Wars Quotes""","I know about 147 Star Wars: A New Hope quotes including ""Uh, everything's under control. Situation normal."" whose quote is Uh, everything's under control. Situation normal., ""Let me see your identification."" whose quote is Let me see your identification., ""Use the Force, Luke."" whose quote is Use the Force, Luke., and ""Hokey religions and ancient weapons are no match for a good blaster at your side, kid."" whose quote is Hokey religions and ancient weapons are no match for a good blaster at your side, kid."
+Star Wars Quotes,quit,
+Star Wars Quotes,quit,
+Horror Trivia,"""Alexa, open Horror Trivia.""",You have Horror Trivia enabled. Do you want to open it?
+Horror Trivia,Yes,"Here's your horror fact: There are two Friday the 13th films where Jason Voorhees is not the killer. The first film from 1980, and Part 5, A New Beginning, from 1985."
+Horror Trivia,"""Alexa, open Horror Trivia.""",You have Horror Trivia enabled. Do you want to open it?
+Horror Trivia,quit,
+Horror Trivia,"""Alexa ask horror trivia to give me a horror fact.""","Here's your horror fact: Horror movies based on stories by Stephen King include Carrie, Cujo, The Dead Zone, Christine, Children of the Corn, Firestarter, Pet Sematary, Misery, Needful Things, and The Shining. There are many more."
+Horror Trivia,quit,
+Horror Trivia,quit,
+Horror Trivia,"""Alexa open horror trivia and tell me something.""","Here's your horror fact: The Thing is Based on the classic short story, Who Goes There?, by science fiction writer John W. Campbell Jr. John Carpenter's version of the movie follows the story more closely than the original film from 1951."
+Horror Trivia,quit,
+Horror Trivia,quit,
+TV Data,"""Alexa, open TV Data""","Sorry, I don't know that."
+TV Data,quit,
+TV Data,"""Alexa, open TV Data""","Sorry, I’m not sure about that."
+TV Data,"""What is The Walking Dead about?""","The Walking Dead is a drama show starring Andrew Lincoln, Norman Reedus, and Melissa McBride. Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive. So far 9 seasons have completed. Season 10 premieres sometime in 2019. The series has an IMDb rating of 8.3 out of 10 and is rated TV-MA."
+TV Data,quit,
+TV Data,"""Alexa, open TV Data""","Hmm, I'm not sure."
+TV Data,"""When does The Walking Dead next air?""",There are no new episodes or re-runs of The Walking Dead on TV in the next two weeks. The next season of The Walking Dead will start sometime in 2019 on AMC. It is available to stream on Amazon Video and Netflix. Check back for updates once the new season's schedule is announced.
+TV Data,quit,
+Can I stream,"""Alexa, ask can I stream Game of Thrones""",You have Game of Thrones Facts enabled. Do you want to open it?
+Can I stream,Yes,Here's your fact: Theon's sister Yara is named Asha in the book.
+Can I stream,"""Alexa, ask can I stream Game of Thrones""",You have Game of Thrones Facts enabled. Do you want to open it?
+Can I stream,quit,
+Can I stream,"""Alexa, ask can I stream Manchester by the Sea""",I couldn't find any enabled video skills that can play that. Go to the Alexa app to manage your video skills and devices.
+Can I stream,quit,
+Can I stream,quit,
+Can I stream,"""Alexa, ask can I stream Raiders of the Lost Ark""",You have wikiHow enabled. Do you want to open it?
+Can I stream,Yes,Hi! Ask me how to do anything.
+Can I stream,"""Alexa, ask can I stream Raiders of the Lost Ark""","How to Do In‐text Citations in MLA. To do in-text citations in MLA, provide the last name of the author and the page number the citation was pulled from in parentheses. If you mention the author’s last name within the sentence, simply include the page number from the book or article in parentheses at the end of the sentence. Alternatively, if you need to cite multiple authors, list the last name of each author along with the page number. When citing from internet sources, use the same format unless the source doesn’t have a page number, in which case you would use the name of the webpage. Say “READ STEPS”, if you want me to read each step in detail."
+Can I stream,quit,
+Can I stream,quit,
+Ay-Oh with Bohemian Rhapsody,"""Alexa, start a. oh live""","Sorry, I don't know that."
+Ay-Oh with Bohemian Rhapsody,quit,
+Ay-Oh with Bohemian Rhapsody,"""Alexa, begin a. oh live""",This might answer your question: Amazon Alexa started in 2014.
+Ay-Oh with Bohemian Rhapsody,quit,
+Ay-Oh with Bohemian Rhapsody,quit,
+Ay-Oh with Bohemian Rhapsody,"""Alexa, launch a. oh live""","Sorry, I'm not sure."
+Ay-Oh with Bohemian Rhapsody,quit,
+Ay-Oh with Bohemian Rhapsody,quit,
+Syfy,"""Alexa, start Syfy.""",You have Syfy enabled. Do you want to open it?
+Syfy,Yes,"Welcome to Sy Fi. I can give you, whats playing on Sy Fi now, whats playing later tonight, and list Sy Fi shows. How can I help you?"
+Syfy,"""Alexa, start Syfy.""",Happy! is on now and started at 10:00pm Eastern / 9:00pm Central. Ender's Game is on at 11:00pm Eastern / 10:00pm Central. Seventh Son is on at 1:29am Eastern / 12:29am Central. What else can I help you with?
+Syfy,quit,
+Syfy,"""Alexa, ask Syfy what happened on the latest episode of the Magicians?""",
+Syfy,quit,
+Syfy,quit,
+Syfy,"""Alexa, ask Syfy what happens in the next episode of 12 Monkeys?""","I'm still learning about monkey questions. Try asking ""tell me a monkey fact"" to learn more about them."
+Syfy,quit,
+Syfy,quit,
+Lesser Known Star Wars Facts,"""Alexa open lesser known star wars facts""",Here's your fact: James Earl Jones is famed for providing the voice for Vader however he didnt do the famous breathing effect. This was done by Ben Burt placing a microphone inside the mouth piece of a breathing apparatus and recording it being used.
+Lesser Known Star Wars Facts,quit,
+Lesser Known Star Wars Facts,"""Alexa ask lesser known star wars facts for a fact""",Here's your fact: It took as many as ten puppeteers using both hands to operate Jabba the Hutt.
+Lesser Known Star Wars Facts,quit,
+Lesser Known Star Wars Facts,quit,
+Lesser Known Star Wars Facts,"""Alexa, ask Baby Groot what time is it""",It's 8:07 PM.
+Lesser Known Star Wars Facts,quit,
+Lesser Known Star Wars Facts,quit,
+MTV,"""Alexa, open MTV""","Sorry, I'm having trouble accessing your MTV skill right now"
+MTV,quit,
+MTV,"""Alexa, ask FX about Archer""","Hmm, I don't know that."
+MTV,quit,
+MTV,quit,
+MTV,"""Alexa, talk to Showtime""",You have SHOWTIME enabled. Do you want to open it?
+MTV,Yes,"Welcome back to Showtime! Catch new episodes of Billions, Sundays at 9 PM Eastern and Pacific. You can ask me about series, movies, documentaries or sports. Which would you like?"
+MTV,"""Alexa, talk to Showtime""","I can't help you to watch Showtime right now. If you're not a subscriber yet, go to S.H.O. DOT com slash order, to start your free trial. Would you like to hear what’s on Showtime?"
+MTV,quit,
+MTV,quit,
+Big Bang Trivia,"""Alexa open Big Bang Trivia""",Big Bang Trivia contains mature content that may not be suitable for all ages
+Big Bang Trivia,quit,
+Big Bang Trivia,"""Alexa play big bang trivia""",Big Bang Trivia contains mature content that may not be suitable for all ages
+Big Bang Trivia,quit,
+Big Bang Trivia,quit,
+Big Bang Trivia,"""Alexa, open Seinfeld Trivia""","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. What does the winner get who sells the most computers for Frank Costanza? 1. Nothing. 2. Water pick. 3. Free computer. 4. Money."
+Big Bang Trivia,quit,
+Big Bang Trivia,quit,
+Tomato Score,"""Alexa, open Tomato Score""","Sorry, I don't know that."
+Tomato Score,quit,
+Tomato Score,"""Alexa, ask Tomato Score what is the score of ""Star Wars""""","Sorry, I don't know that one."
+Tomato Score,quit,
+Tomato Score,quit,
+Tomato Score,"""Alexa, ask Tomato Score give me the score of ""Empire Strikes Back""""","Hmm, I don't know that."
+Tomato Score,quit,
+Tomato Score,quit,
+New Movies,"""Alexa, ask New Movies what movies have been released recently""",Here are a few movies playing near you today :
+New Movies,quit,
+New Movies,"""Alexa, start New Movies""",You have Fandango enabled. Do you want to open it?
+New Movies,Yes,<Audio only response>
+New Movies,"""Alexa, start New Movies""",You have Fandango enabled. Do you want to open it?
+New Movies,quit,
+New Movies,quit,
+New Movies,"""Alexa, ask New Movies what's new""",
+New Movies,quit,
+New Movies,quit,
+Trakt,"""Alexa, ask Trakt t.v. what is on TV today?""",You have YourCox TV Guide enabled. Do you want to open it?
+Trakt,Yes,"Hello, welcome to cox t.v. guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+Trakt,"""Alexa, ask Trakt t.v. what is on TV today?""","Hello, welcome to cox t.v. guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+Trakt,quit,
+Trakt,"""Alexa, ask Trakt t.v. what is premiering this week?""",You have YourCox TV Guide enabled. Do you want to open it?
+Trakt,Yes,"Hello, welcome to cox t.v. guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+Trakt,"""Alexa, ask Trakt t.v. what is premiering this week?""","Hello, welcome to cox t.v. guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+Trakt,quit,
+Trakt,quit,
+Trakt,"""Alexa, ask Trakt t.v. what is on Sunday?""",You have YourCox TV Guide enabled. Do you want to open it?
+Trakt,Yes,"Hello, welcome to cox t.v. guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+Trakt,"""Alexa, ask Trakt t.v. what is on Sunday?""","Hello, welcome to cox t.v. guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+Trakt,quit,
+Trakt,quit,
+"Rules of Acquisition from ""Star Trek"" (Unofficial)","""Alexa, ask rules of acquisition for a rule.""","Sorry, I don't know that."
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",quit,
+"Rules of Acquisition from ""Star Trek"" (Unofficial)","""Alexa, ask rules of acquisition for a rule.""","Hmm, I'm not sure."
+"Rules of Acquisition from ""Star Trek"" (Unofficial)","""Tell me a random rule.""",Law is a random rule or law.
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",quit,
+"Rules of Acquisition from ""Star Trek"" (Unofficial)","""Alexa, ask rules of acquisition for a rule.""","Sorry, I’m not sure about that."
+"Rules of Acquisition from ""Star Trek"" (Unofficial)","""What is rule 34?""","Rule 34 of the Internet, the assumption that a pornographic image exists of anything that you can think of."
+"Rules of Acquisition from ""Star Trek"" (Unofficial)",quit,
+Rapid Fire T.V.,"""Alexa, start Rapid Fire TV""",You have Death Info for Westeros enabled. Do you want to open it?
+Rapid Fire T.V.,Yes,"Welcome to Death Info for Westeros. Tell me the name of a character from the Song of Ice and Fire book series, and I will check if they are known to be dead or not. For example, you can say: 'is Arya Stark dead?'"
+Rapid Fire T.V.,"""Alexa, start Rapid Fire TV""","I wasn't able to find the character 'alexa, start rapid fire tv', please try again. Please say another character."
+Rapid Fire T.V.,quit,
+Rapid Fire T.V.,"""Alexa, open Rapid Fire TV""",You have Death Info for Westeros enabled. Do you want to open it?
+Rapid Fire T.V.,Yes,"Welcome to Death Info for Westeros. Tell me the name of a character from the Song of Ice and Fire book series, and I will check if they are known to be dead or not. For example, you can say: 'is Arya Stark dead?'"
+Rapid Fire T.V.,"""Alexa, open Rapid Fire TV""","I wasn't able to find the character 'alexa, open rapid fire tv', please try again. Please say another character."
+Rapid Fire T.V.,quit,
+Rapid Fire T.V.,quit,
+Rapid Fire T.V.,"""Alexa, play Rapid Fire TV""",<Audio only response>
+Rapid Fire T.V.,quit,
+Rapid Fire T.V.,quit,
+Harry Potter Facts,"""Alexa, open Harry Potter Facts""","Here's your fact: The book consisted of the text of J.R.R. Tolkeins The Hobbit with names changed to Harry Potter characters. The first line was ""Harry does not know how long it will take to wash the sticky cream cake off his face."""
+Harry Potter Facts,quit,
+Harry Potter Facts,"""Alexa, ask Harry Potter Facts to give me some information about Harry Potte... ""","Sorry, I don't know that."
+Harry Potter Facts,quit,
+Harry Potter Facts,quit,
+Harry Potter Facts,"""Alexa, ask Harry Potter Facts to tell me a Harry Potter Fact""","This might answer your question: Here's a fact about Harry Potter. At the beginning of the series, Harry Potter is 11 years old. Here's a fact about Harry Potter. As far as I know, there are no new Harry Potter books coming out. The most recent Harry Potter book was ""Harry Potter and the Deathly Hallows"" by J. K. Rowling, which was published on July 21, 2007."
+Harry Potter Facts,quit,
+Harry Potter Facts,quit,
+Movie Quiz,"""Alexa, ask Movie Quiz to start new game.""",You have Movie Quiz enabled. Do you want to open it?
+Movie Quiz,Yes,"Movie Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. How much money does the paperboy demand in Better Off Dead? 1. $2. 2. $1. 3. $3. 4. $25."
+Movie Quiz,"""Alexa, ask Movie Quiz to start new game.""",The correct answer is 1: $2. Your score is 0. Question 2. Against whom are the Three Amigos hired to fight against in order to save the village of Santo Poco? 1. El Hermano. 2. El Salvador. 3. El Guapo. 4. El Diablo.
+Movie Quiz,quit,
+Movie Quiz,"""Alexa, ask Movie Quiz to start new game.""",Which skill do you want to enable?
+Movie Quiz,"""The answer is four""","Hmm, I have a few skills that can help."
+Movie Quiz,quit,
+Movie Quiz,"""Alexa, ask Movie Quiz.""",You have Movie Quiz enabled. Do you want to open it?
+Movie Quiz,Yes,"Movie Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. In The Godfather, what does Jack Wolz find in his bed when he wakes up? 1. A cow head. 2. A cat head. 3. A dog head. 4. A horse head."
+Movie Quiz,"""Alexa, ask Movie Quiz.""",The correct answer is 4: A horse head. Your score is 0. Question 2. Woody and Buzz Lightyear are two of Andy’s toys. Who is the next door neighbor that Andy’s toys fear? 1. George. 2. Hamm. 3. Sid. 4. Rex.
+Movie Quiz,quit,
+Movie Quiz,quit,
+Gibbs's NCIS Rules (unauthorized),"""Alexa, ask Marine Rules for rule number 1.""","Hmm. Maybe the skill, Gibbs's NCIS Rules (unauthorized), can help. Do you want to try it?"
+Gibbs's NCIS Rules (unauthorized),quit,
+Gibbs's NCIS Rules (unauthorized),"""Alexa, ask Marine Rules for rule number 40.""","Hmm. Maybe the skill, Gibbs's NCIS Rules (unauthorized), can help. Do you want to try it?"
+Gibbs's NCIS Rules (unauthorized),quit,
+Gibbs's NCIS Rules (unauthorized),quit,
+Gibbs's NCIS Rules (unauthorized),"""Alexa, ask Marine Rules for the rule of the day.""","Hmm. Maybe the skill, Gibbs's NCIS Rules (unauthorized), can help. Do you want to try it?"
+Gibbs's NCIS Rules (unauthorized),quit,
+Gibbs's NCIS Rules (unauthorized),quit,
+BoxOffice,"""Alexa, ask Box Office what's the rating of Titanic""","The 1997 film ""Titanic"" grossed $659,400,000 in the United States and $1,528,000,000 in other territories for a worldwide gross of $2,187,500,000."
+BoxOffice,quit,
+BoxOffice,"""Alexa, ask Box Office what's the rating of Titanic""","The 1997 film ""Titanic"" grossed $659,400,000 in the United States and $1,528,000,000 in other territories for a worldwide gross of $2,187,500,000."
+BoxOffice,"""Tell me review of The Avengers""","Here's a summary of ""The Avengers"" reviews: The review aggregator website Rotten Tomatoes reported a 92% approval rating with an average rating of 8.05/10 based on 342 reviews. The website's consensus reads, ""Thanks to a script that emphasizes its heroes' humanity and a wealth of superpowered set pieces, The Avengers lives up to its hype and raises the bar for Marvel at the movies."""
+BoxOffice,quit,
+BoxOffice,"""Alexa, ask Box Office what's the rating of Titanic""","The 1997 film ""Titanic"" grossed $659,400,000 in the United States and $1,528,000,000 in other territories for a worldwide gross of $2,187,500,000."
+BoxOffice,"""Tell me movie rating of Iron Man""","The film Iron Man has an IMDb rating of 7.9 out of 10 from around 850,000 user votes and is rated PG-13. It has a popularity rank of 125 on IMDb."
+BoxOffice,quit,
+Fish Tank for Echo Show,"""Alexa, open Fish Tank""","Sorry, your device isn't supported right now. Please try again soon."
+Fish Tank for Echo Show,quit,
+Fish Tank for Echo Show,"""Alexa, open Fireplace""",
+Fish Tank for Echo Show,quit,
+Fish Tank for Echo Show,quit,
+Fish Tank for Echo Show,"""Alexa, open My Aquarium""","Hmm, I'm not sure."
+Fish Tank for Echo Show,quit,
+Fish Tank for Echo Show,quit,
+Valossa Movie Finder,"""Alexa, ask movie finder what is the movie where a boy learns he is a wizard""","Sorry, I don't know that."
+Valossa Movie Finder,quit,
+Valossa Movie Finder,"""Alexa, use movie finder to find me British war movies from the 1990s""",I couldn't find any enabled video skills that can find that. Go to the Alexa app to manage your video skills and devices.
+Valossa Movie Finder,quit,
+Valossa Movie Finder,quit,
+Valossa Movie Finder,"""Alexa, ask movie finder what are the best romantic movies""",You have Flic Movie Finder enabled. Do you want to open it?
+Valossa Movie Finder,Yes,<Audio only response>
+Valossa Movie Finder,"""Alexa, ask movie finder what are the best romantic movies""",You have Flic Movie Finder enabled. Do you want to open it?
+Valossa Movie Finder,quit,
+Valossa Movie Finder,quit,
+80's Movie Trivia,"""Alexa, open eighties movie trivia""","Here's your fact: In the Stephen King novella for The Shawshank Redemption, Morgan Freeman's Red is described as a white Irishman. The script sees Red sarcastically quip, “Maybe it's cause I'm Irish” as a nod to the change."
+80's Movie Trivia,quit,
+80's Movie Trivia,"""Alexa, open eighties movie trivia""","Here's your fact: In 1994, during one famous lunch at Pixar, filmmakers John Lasseter, Pete Docter and Joe Ranft came up with ideas that would eventually become A Bug's Life, Finding Nemo, Monster Inc. and Wall-E. We'll have what they're having"
+80's Movie Trivia,"""i don't know""","OK, well I'll be here when you need me."
+80's Movie Trivia,quit,
+80's Movie Trivia,"""Alexa, open eighties movie trivia""",Here's your fact: The Imperial officer's uniforms were patterned after the uniforms of Nazi officers
+80's Movie Trivia,"""skip""",What do you want to play?
+80's Movie Trivia,quit,
+IMDb's What's On TV Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+IMDb's What's On TV Briefing,quit,
+IMDb's What's On TV Briefing,"""Alexa, what's in the news?""",Here's your news.
+IMDb's What's On TV Briefing,quit,
+IMDb's What's On TV Briefing,quit,
+IMDb's What's On TV Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+IMDb's What's On TV Briefing,quit,
+IMDb's What's On TV Briefing,quit,
+HP Wizard Spell Book,"""'Alexa, Open Spell Book and tell me a spell'""","Hmm. Maybe the skill, HP Wizard Spell Book, can help. Do you want to try it?"
+HP Wizard Spell Book,quit,
+HP Wizard Spell Book,"""'Alexa, Open Spell Book and tell me a spell'""","Hmm. Maybe the skill, HP Wizard Spell Book, can help. Do you want to try it?"
+HP Wizard Spell Book,"""'Tell me a spell from the Spell Book""",<Audio only response>
+HP Wizard Spell Book,quit,
+HP Wizard Spell Book,"""'Alexa, Open Spell Book and tell me a spell'""","Hmm. Maybe the skill, HP Wizard Spell Book, can help. Do you want to try it?"
+HP Wizard Spell Book,"""'Search Spell Book for a spell'""","Hmm. Maybe the skill, HP Wizard Spell Book, can help. Do you want to try it?"
+HP Wizard Spell Book,quit,
+Movie Trivia,"""""Alexa, open The Movie Trivia""""",<Audio only response>
+Movie Trivia,quit,
+Movie Trivia,"""""Alexa, run The Movie Trivia""""",Run's trivia is Kelly Preston replaced Tracy Pollan who bowed out during early filming.
+Movie Trivia,quit,
+Movie Trivia,quit,
+Movie Trivia,"""""Alexa, open The Movie Trivia""""",<Audio only response>
+Movie Trivia,"""""Exit""""",
+Movie Trivia,quit,
+T.V. Guru,"""Alexa, ask T. V. Guru if Last Man Standing is canceled.""","Sorry, I don't know that one."
+T.V. Guru,quit,
+T.V. Guru,"""Alexa, ask T. V. Guru is Scorpion canceled?""","This might answer your question: ""Scorpion"" ended on November 20, 2017 after 4 seasons. Here's IMDb's announcement: CBS has canceled its procedural about security-maintaining super-geniuses after its four-season run, in addition to shutting down ""Superior Donuts"" after two seasons."
+T.V. Guru,quit,
+T.V. Guru,quit,
+T.V. Guru,"""Alexa, ask T. V. Guru for help.""",You have T.V. Guru enabled. Do you want to open it?
+T.V. Guru,Yes,Welcome to TV Guru! You can say something like: Is Last Man Standing Cancelled?
+T.V. Guru,"""Alexa, ask T. V. Guru for help.""","I'm Sorry, I have no information available about alexa, ask TV guru for help."
+T.V. Guru,quit,
+T.V. Guru,quit,
+24: Legacy Daily Mission,"""Alexa, launch twenty four legacy""",You have 24: Legacy Daily Mission enabled. Do you want to open it?
+24: Legacy Daily Mission,Yes,<Audio only response>
+24: Legacy Daily Mission,"""Alexa, launch twenty four legacy""",You have 24: Legacy Daily Mission enabled. Do you want to open it?
+24: Legacy Daily Mission,quit,
+24: Legacy Daily Mission,"""Alexa, launch twenty four legacy""",You have 24: Legacy Daily Mission enabled. Do you want to open it?
+24: Legacy Daily Mission,Yes,<Audio only response>
+24: Legacy Daily Mission,quit,
+24: Legacy Daily Mission,"""Alexa, launch twenty four legacy""",You have 24: Legacy Daily Mission enabled. Do you want to open it?
+24: Legacy Daily Mission,Yes,<Audio only response>
+24: Legacy Daily Mission,quit,
+Death Info for Westeros,"""Alexa, ask Westeros if Eddard Stark is dead""",You have Death Info for Westeros enabled. Do you want to open it?
+Death Info for Westeros,Yes,"Welcome to Death Info for Westeros. Tell me the name of a character from the Song of Ice and Fire book series, and I will check if they are known to be dead or not. For example, you can say: 'is Arya Stark dead?'"
+Death Info for Westeros,"""Alexa, ask Westeros if Eddard Stark is dead""","Eddard Stark is confirmed dead. In 299 AC, at Great Sept of Baelor in King's Landing. Please say another character."
+Death Info for Westeros,quit,
+Death Info for Westeros,"""Alexa, ask Westeros if Eddard Stark is dead""",You have Death Info for Westeros enabled. Do you want to open it?
+Death Info for Westeros,Yes,"I wasn't able to find the character 'yes', please try again. Please say another character."
+Death Info for Westeros,quit,
+Death Info for Westeros,"""Alexa, ask Westeros if Eddard Stark is dead""",You have Death Info for Westeros enabled. Do you want to open it?
+Death Info for Westeros,Yes,"I wasn't able to find the character 'yes', please try again. Please say another character."
+Death Info for Westeros,quit,
+TV Guide,"""Alexa, what's my Flash Briefing?""",Here's your news.
+TV Guide,quit,
+TV Guide,"""Alexa, what's in the news?""",Here's your news.
+TV Guide,quit,
+TV Guide,quit,
+TV Guide,"""Alexa, what's my Flash Briefing?""",Here's your news.
+TV Guide,quit,
+TV Guide,quit,
+Tim Burton's Character of the Day,"""Alexa, open Movie Character of the Day""","Welcome to Tim Burton's Character of the Day. Today is April eighteenth, 2019. Today's character is Alfred from Batman. Batman came out in 1989 and Alfred was played by Michael Gough. Would you like to hear a quote from this character?"
+Tim Burton's Character of the Day,quit,
+Tim Burton's Character of the Day,"""Alexa, open Movie Character of the Day""","Welcome to Tim Burton's Character of the Day. Today is April eighteenth, 2019. Today's character is Alfred from Batman. Batman came out in 1989 and Alfred was played by Michael Gough. Would you like to hear a quote from this character?"
+Tim Burton's Character of the Day,"""What's today's quote?""","I have no wish to fill my few remaining years grieving for the loss of old friends. Or their sons. What else would you like to do? I can repeat today's character, repeat the quote, or leave"
+Tim Burton's Character of the Day,quit,
+Tim Burton's Character of the Day,"""Alexa, open Movie Character of the Day""","Welcome to Tim Burton's Character of the Day. Today is April eighteenth, 2019. Today's character is Alfred from Batman. Batman came out in 1989 and Alfred was played by Michael Gough. Would you like to hear a quote from this character?"
+Tim Burton's Character of the Day,"""Give me today's character.""","Please answer yes or no, would you like to hear a quote from this character?"
+Tim Burton's Character of the Day,quit,
+Incredibles Hero Training,"""Alexa open Incredibles Hero Training""",<Short audio>
+Incredibles Hero Training,quit,
+Incredibles Hero Training,"""Alexa play Incredibles Hero Training""",<Short audio>
+Incredibles Hero Training,quit,
+Incredibles Hero Training,quit,
+Incredibles Hero Training,"""Alexa, play Disney Hits Challenge""","Ok, Here's 30 Day Pushup Challenge"
+Incredibles Hero Training,quit,
+Incredibles Hero Training,quit,
+Box Office,"""Alexa, ask Box Office for the top ten""",You have Box Office enabled. Do you want to open it?
+Box Office,Yes,"Hello this is the Box Office, what do you want to know?"
+Box Office,"""Alexa, ask Box Office for the top ten""",Today's Box Office Top 10 is: 10. The Best of Enemies.. 9. Missing Link.. 8. After.. 7. Us.. 6. Captain Marvel.. 5. Dumbo.. 4. Pet Sematary.. 3. Hellboy.. 2. Little.. 1. Shazam!..
+Box Office,quit,
+Box Office,"""Alexa, ask Box Office what's coming soon?""",You have Box Office enabled. Do you want to open it?
+Box Office,Yes,"Hello this is the Box Office, what do you want to know?"
+Box Office,"""Alexa, ask Box Office what's coming soon?""",You have Box Office enabled. Do you want to open it?
+Box Office,quit,
+Box Office,quit,
+Box Office,"""Alexa, ask Box Office what's opening this week?""",You have Box Office enabled. Do you want to open it?
+Box Office,Yes,
+Box Office,"""Alexa, ask Box Office what's opening this week?""",You have Box Office enabled. Do you want to open it?
+Box Office,quit,
+Box Office,quit,
+The Tragedy of Darth Plagueis the Wise Unofficial,"""Alexa, open our Tragedy""",What can I help you with?
+The Tragedy of Darth Plagueis the Wise Unofficial,quit,
+The Tragedy of Darth Plagueis the Wise Unofficial,"""Alexa, ask my totally legit older friend for the secrets of th... """,<Audio only response>
+The Tragedy of Darth Plagueis the Wise Unofficial,quit,
+The Tragedy of Darth Plagueis the Wise Unofficial,quit,
+The Tragedy of Darth Plagueis the Wise Unofficial,"""Alexa, open Skyrim""",Skyrim Very Special Edition contains mature content that may not be suitable for all ages
+The Tragedy of Darth Plagueis the Wise Unofficial,quit,
+The Tragedy of Darth Plagueis the Wise Unofficial,quit,
+Fireplace for Echo Show,"""Alexa, open Fireplace""",
+Fireplace for Echo Show,quit,
+Fireplace for Echo Show,"""Alexa, open Fish Tank""","Sorry, your device isn't supported right now. Please try again soon."
+Fireplace for Echo Show,quit,
+Fireplace for Echo Show,quit,
+Fireplace for Echo Show,"""Alexa, open My Aquarium""","Sorry, I'm not sure."
+Fireplace for Echo Show,quit,
+Fireplace for Echo Show,quit,
+YourCox TV Guide,"""Alexa, open Cox channel guide""",You have YourCox TV Guide enabled. Do you want to open it?
+YourCox TV Guide,Yes,"Hello, welcome to cox t.v. guide. Having trouble remembering the channel numbers ?. Dont worry, I have got you covered. Tell me what are you looking for ?"
+YourCox TV Guide,"""Alexa, open Cox channel guide""","Sorry, I did not get you, can you please repeat the channel name"
+YourCox TV Guide,quit,
+YourCox TV Guide,"""Alexa, open Cox channel guide""",You have YourCox TV Guide enabled. Do you want to open it?
+YourCox TV Guide,Yes,Which channel number do you want to know about ?
+YourCox TV Guide,quit,
+YourCox TV Guide,"""Alexa, open Cox channel guide""",You have YourCox TV Guide enabled. Do you want to open it?
+YourCox TV Guide,Yes,Which channel number do you want to know about ?
+YourCox TV Guide,quit,
+Discovery Channel's Shark Week,"""Alexa, ask shark week for a fact.""","Hmm. Maybe the skill, Discovery Channel's Shark Week, can help. Do you want to try it?"
+Discovery Channel's Shark Week,quit,
+Discovery Channel's Shark Week,"""Alexa, ask shark week when shark week starts.""","This might answer your question: Shark Week premiered on July 17, 1988."
+Discovery Channel's Shark Week,quit,
+Discovery Channel's Shark Week,quit,
+Discovery Channel's Shark Week,"""Alexa, ask shark week when shark week begins.""","This might answer your question: Shark Week premiered on July 17, 1988."
+Discovery Channel's Shark Week,quit,
+Discovery Channel's Shark Week,quit,
+Next Episode,"""Alexa, ask Next Episode for Game of Thrones""","This might answer your question: The next Game of Thrones TV episode will be Episode #8.2 which will be released on April 21, 2019."
+Next Episode,quit,
+Next Episode,"""Alexa, ask Next Episode when's the next episode of New Girl""","This might answer your question: There are no upcoming episodes of ""New Girl."" New Girl ran from 2011 through 2018. Over the course of the show, there were 7 seasons."
+Next Episode,quit,
+Next Episode,quit,
+Next Episode,"""Alexa, ask Next Episode about The Big Bang Theory""","This might answer your question: The next Big Bang Theory TV episode will be The Inspiration Deprivation which will be released on April 18, 2019."
+Next Episode,quit,
+Next Episode,quit,
+MovieBot,"""Alexa, open Movie Bot""","Hey, it's MovieBot. A popular movie is Avengers: Infinity War, an Action Adventure film, starring Robert Downey Jr..."
+MovieBot,quit,
+MovieBot,"""Alexa, open Movie Bot""","Hey, it's MovieBot. A popular movie is Spider-Man: Into the Spider-Verse, an Action Adventure film, starring Shameik Moore.."
+MovieBot,"""What movie should I watch?""","A popular movie is Shazam!, an Action Adventure film, starring Zachary Levi."
+MovieBot,quit,
+MovieBot,"""Alexa, open Movie Bot""",I couldn't find any enabled video skills that can find that. Go to the Alexa app to manage your video skills and devices.
+MovieBot,"""Recommend a movie""",I couldn't find any enabled video skills that can find that. Go to the Alexa app to manage your video skills and devices.
+MovieBot,quit,
+Aquarium Screensaver for Echo Show,"""Alexa, open My Aquarium""","Hmm, I'm not sure."
+Aquarium Screensaver for Echo Show,quit,
+Aquarium Screensaver for Echo Show,"""Alexa, open Fish Tank""","Sorry, your device isn't supported right now. Please try again soon."
+Aquarium Screensaver for Echo Show,quit,
+Aquarium Screensaver for Echo Show,quit,
+Aquarium Screensaver for Echo Show,"""Alexa, open Fireplace""",
+Aquarium Screensaver for Echo Show,quit,
+Aquarium Screensaver for Echo Show,quit,
+Infinity War Trivia,"""Alexa, open infinity war trivia""","Excited for New Avengers Infinity War Movie? Try this trivia. I will ask you 4 questions, try to get em all right. Just say the number of the answer. Avengers Assemble. Question 1. Which Marvel Character is Thaaaanos in love with? 1. Scarlet Witch. 2. Singularity. 3. Mistress Death. 4. Black Widow."
+Infinity War Trivia,quit,
+Infinity War Trivia,"""Alexa, open infinity war trivia""","Excited for New Avengers Infinity War Movie? Try this trivia. I will ask you 4 questions, try to get em all right. Just say the number of the answer. Avengers Assemble. Question 1. Who's Sanctum partner for Doctor strange? 1. Wong. 2. Chris Evans. 3. Bill. 4. Spiderman."
+Infinity War Trivia,"""yes""",Your answer must be a number between 1 and 4. Question 1. Who's Sanctum partner for Doctor strange? 1. Wong. 2. Chris Evans. 3. Bill. 4. Spiderman.
+Infinity War Trivia,quit,
+Infinity War Trivia,"""Alexa, open infinity war trivia""","Excited for New Avengers Infinity War Movie? Try this trivia. I will ask you 4 questions, try to get em all right. Just say the number of the answer. Avengers Assemble. Question 1. Who's Sanctum partner for Doctor strange? 1. Wong. 2. Bill. 3. Chris Evans. 4. Spiderman."
+Infinity War Trivia,"""no""",Your answer must be a number between 1 and 4. Question 1. Who's Sanctum partner for Doctor strange? 1. Wong. 2. Bill. 3. Chris Evans. 4. Spiderman.
+Infinity War Trivia,quit,
+Inconceivable Quotes,"""Alexa, open Inconceivable Quotes""",Inconceivable Quotes contains mature content that may not be suitable for all ages
+Inconceivable Quotes,quit,
+Inconceivable Quotes,"""Alexa, ask Inconceivable Quotes for a quote""","This might answer your question: Here's an Inconceivable, the movie, quote: ""God, what have I done?""."
+Inconceivable Quotes,quit,
+Inconceivable Quotes,quit,
+Inconceivable Quotes,"""Alexa, ask Inconceivable Quotes to give me a quote""",Here's one from David Beckham
+Inconceivable Quotes,quit,
+Inconceivable Quotes,quit,
+Garden Screensaver for Echo Show,"""Alexa, open Garden Screensaver""","Sorry, I don't know that."
+Garden Screensaver for Echo Show,quit,
+Garden Screensaver for Echo Show,"""Alexa, play Garden Screensaver""","Sorry, I don't know that."
+Garden Screensaver for Echo Show,quit,
+Garden Screensaver for Echo Show,quit,
+Garden Screensaver for Echo Show,"""Alexa, open Fish Tank""","Sorry, your device isn't supported right now. Please try again soon."
+Garden Screensaver for Echo Show,quit,
+Garden Screensaver for Echo Show,quit,
+Star Trek quotes original series,"""Alexa, open Star Trek quotes original series""",You have SHOWTIME enabled. Do you want to open it?
+Star Trek quotes original series,Yes,"Welcome back to Showtime! Catch new episodes of Billions, Sundays at 9 PM Eastern and Pacific. You can ask me about series, movies, documentaries or sports. Which would you like?"
+Star Trek quotes original series,"""Alexa, open Star Trek quotes original series""","That may not be on Showtime. To browse Showtime series, say, 'browse series', or to browse movies, say, 'browse movies'"
+Star Trek quotes original series,quit,
+Star Trek quotes original series,"""Alexa, start Star Trek quotes original series""",
+Star Trek quotes original series,quit,
+Star Trek quotes original series,quit,
+Star Trek quotes original series,"""Alexa, launch Star Trek quotes original series""",You have SHOWTIME enabled. Do you want to open it?
+Star Trek quotes original series,Yes,"Welcome back to Showtime! Catch new episodes of Billions, Sundays at 9 PM Eastern and Pacific. You can ask me about series, movies, documentaries or sports. Which would you like?"
+Star Trek quotes original series,"""Alexa, launch Star Trek quotes original series""","That may not be on Showtime. To browse Showtime series, say, 'browse series', or to browse movies, say, 'browse movies'"
+Star Trek quotes original series,quit,
+Star Trek quotes original series,quit,
+Sounds of Swanson,"""Alexa, get a few quotes from sounds of swanson""",I don't know any quote about sounds of swanson
+Sounds of Swanson,quit,
+Sounds of Swanson,"""Alexa, get some inspiriation from sounds of swanson""","Hmm. Maybe the skill, Sounds of Swanson, can help. Do you want to try it?"
+Sounds of Swanson,quit,
+Sounds of Swanson,quit,
+Sounds of Swanson,"""Alexa, open sounds of swanson""","Sorry, I don't know that."
+Sounds of Swanson,quit,
+Sounds of Swanson,quit,
+SOLO: A Star Wars Story Co-Pilot Quiz,"""Alexa open Solo Movie Quiz""","Movie Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Which of the following can NOT be said of Will in Good Will Hunting? 1. He is a genius. 2. He comes from a good family. 3. He has been in trouble with the law. 4. He has trouble holding jobs."
+SOLO: A Star Wars Story Co-Pilot Quiz,quit,
+SOLO: A Star Wars Story Co-Pilot Quiz,"""Alexa play Solo Movie Quiz""","Movie Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Which 1996 part-animated film featured basketball player Michael Jordan starring alongside Bugs Bunny? 1. Space Jam. 2. Who Framed Rodger Rabbit. 3. Tom and Jerry. 4. Looney Toons Back In Action."
+SOLO: A Star Wars Story Co-Pilot Quiz,quit,
+SOLO: A Star Wars Story Co-Pilot Quiz,quit,
+SOLO: A Star Wars Story Co-Pilot Quiz,"""Alexa Solo Movie Quiz""","Movie Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What is the cardinal direction used when referring to the witch that wants Dorothy’s ruby slippers? 1. North. 2. West. 3. South. 4. East."
+SOLO: A Star Wars Story Co-Pilot Quiz,quit,
+SOLO: A Star Wars Story Co-Pilot Quiz,quit,
+Zombieland Rules,"""Alexa, ask Zombieland Rules what is rule number 3""","Hmm. Maybe the skill, Zombieland Rules, can help. Do you want to try it?"
+Zombieland Rules,quit,
+Zombieland Rules,"""Alexa, ask Zombieland Rules what is rule number 3""","Hmm. Maybe the skill, Zombieland Rules, can help. Do you want to try it?"
+Zombieland Rules,"""is there a rule about sprinting""","Hmm. Maybe the skill, Zombieland Rules, can help. Do you want to try it?"
+Zombieland Rules,quit,
+Zombieland Rules,"""Alexa, ask Zombieland Rules what is rule number 3""","Hmm. Maybe the skill, Zombieland Rules, can help. Do you want to try it?"
+Zombieland Rules,"""what's your favorite rule""","Hmm. Maybe the skill, Zombieland Rules, can help. Do you want to try it?"
+Zombieland Rules,quit,
+TV Info,"""Alexa, ask TV Info about the Walking Dead""","Originally based on a book series by Robert Kirkman, The Walking Dead is a drama show starring Andrew Lincoln, Norman Reedus, and Melissa McBride. Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive. So far 9 seasons have completed. Season 10 premieres sometime in 2019. The series has an IMDb rating of 8.3 out of 10 and is rated TV-MA."
+TV Info,quit,
+TV Info,"""Alexa, ask TV Info about the Walking Dead""","Originally based on a book series by Robert Kirkman, The Walking Dead is a drama show starring Andrew Lincoln, Norman Reedus, and Melissa McBride. Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive. So far 9 seasons have completed. Season 10 premieres sometime in 2019. The series has an IMDb rating of 8.3 out of 10 and is rated TV-MA."
+TV Info,"""Ask TV Info when the Walking Dead is on TV""",There are no new episodes or re-runs of The Walking Dead on TV in the next two weeks. The next season of The Walking Dead will start sometime in 2019 on AMC. It is available to stream on Amazon Video and Netflix. Check back for updates once the new season's schedule is announced.
+TV Info,quit,
+TV Info,"""Alexa, ask TV Info about the Walking Dead""","Originally based on a book series by Robert Kirkman, The Walking Dead is a drama show starring Andrew Lincoln, Norman Reedus, and Melissa McBride. Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive. So far 9 seasons have completed. Season 10 premieres sometime in 2019. The series has an IMDb rating of 8.3 out of 10 and is rated TV-MA."
+TV Info,"""Ask TV Info what network the Walking Dead is on""",There are no new episodes or re-runs of The Walking Dead on TV in the next two weeks. The next season of The Walking Dead will start sometime in 2019 on AMC. It is available to stream on Amazon Video and Netflix. Check back for updates once the new season's schedule is announced.
+TV Info,quit,
+Unofficial Star Wars Galaxy Characteristics,"""Alexa, open Force Information.""",You have Unofficial Star Wars Galaxy Characteristics enabled. Do you want to open it?
+Unofficial Star Wars Galaxy Characteristics,Yes,<Audio only response>
+Unofficial Star Wars Galaxy Characteristics,"""Alexa, open Force Information.""",You have Unofficial Star Wars Galaxy Characteristics enabled. Do you want to open it?
+Unofficial Star Wars Galaxy Characteristics,quit,
+Unofficial Star Wars Galaxy Characteristics,"""Alexa, launch Force Information and tell me about Yoda.""","Yoda, the character in Star Wars."
+Unofficial Star Wars Galaxy Characteristics,quit,
+Unofficial Star Wars Galaxy Characteristics,quit,
+Unofficial Star Wars Galaxy Characteristics,"""Alexa, open Star Wars Quotes""","Here's a Star Wars: A New Hope quote: ""In my experience, there's no such thing as luck."""
+Unofficial Star Wars Galaxy Characteristics,quit,
+Unofficial Star Wars Galaxy Characteristics,quit,
+Suggest me a movie,"""Alexa, suggest me a movie""",You have Movie Picker enabled. Do you want to open it?
+Suggest me a movie,Yes,
+Suggest me a movie,"""Alexa, suggest me a movie""",You have Movie Picker enabled. Do you want to open it?
+Suggest me a movie,quit,
+Suggest me a movie,"""Alexa, suggest me a movie""",You have Movie Picker enabled. Do you want to open it?
+Suggest me a movie,Yes,<Audio only response>
+Suggest me a movie,quit,
+Suggest me a movie,"""Alexa, suggest me a movie""",You have Movie Picker enabled. Do you want to open it?
+Suggest me a movie,Yes,<Audio only response>
+Suggest me a movie,quit,
+Game of Thrones Radio,"""Alexa, play Game of Thrones Radio""","Sorry, something went wrong.WarnServiceFailureMUSICen_USdefaultVARIANT1Adm-20170607_215633-2"
+Game of Thrones Radio,quit,
+Game of Thrones Radio,"""Alexa, next""",'Next' is usually defined as immediately following in time or order.
+Game of Thrones Radio,quit,
+Game of Thrones Radio,quit,
+Game of Thrones Radio,"""Alexa, tell Game of Thrones Radio I love this""","Sorry, something went wrong.WarnServiceFailureMUSICen_USdefaultVARIANT1Adm-20170607_215633-2"
+Game of Thrones Radio,quit,
+Game of Thrones Radio,quit,
+Emby,"""Alexa, ask m. b. home what's next""","I cannot find your server information, please sign in to your Emby account."
+Emby,quit,
+Emby,"""Alexa, ask m. b. home for recently added movies""",You have Emby enabled. Do you want to open it?
+Emby,Yes,"I cannot find your server information, please sign in to your Emby account."
+Emby,"""Alexa, ask m. b. home for recently added movies""",You have Emby enabled. Do you want to open it?
+Emby,quit,
+Emby,quit,
+Emby,"""Alexa, ask m. b. home to suggest something to watch""",You have Emby enabled. Do you want to open it?
+Emby,Yes,<Audio only response>
+Emby,"""Alexa, ask m. b. home to suggest something to watch""",You have Emby enabled. Do you want to open it?
+Emby,quit,
+Emby,quit,
+The Magicians Trivia,"""Alexa, open magicians trivia""","Hmm, I found a few skills that might help."
+The Magicians Trivia,quit,
+The Magicians Trivia,"""Alexa, start magicians trivia""",I found a few matches for that.
+The Magicians Trivia,quit,
+The Magicians Trivia,quit,
+The Magicians Trivia,"""Alexa, launch magicians trivia""",I found a few matches for that.
+The Magicians Trivia,quit,
+The Magicians Trivia,quit,
+PokeyFinder,"""Alexa, ask pokey finder to find charizard""",
+PokeyFinder,quit,
+PokeyFinder,"""Alexa, ask pokey finder to find charizard""",Are you looking for bulbasaur?
+PokeyFinder,"""Find bulbasaur""",
+PokeyFinder,quit,
+PokeyFinder,"""Alexa, ask pokey finder to find charizard""","Jigglypuff, known in Japan as Purin, the Pokémon species in Nintendo and Game Freak's Pokémon franchise."
+PokeyFinder,"""Tell me about jigglypuff""","Jigglypuff, known in Japan as Purin, the Pokémon species in Nintendo and Game Freak's Pokémon franchise."
+PokeyFinder,quit,
+TV Trivia,"""Alexa, ask t. v. trivia to give a tv trivia""",TV Trivia contains mature content that may not be suitable for all ages
+TV Trivia,quit,
+TV Trivia,"""Alexa, ask t. v. trivia for a tv fact""",I found a few matches for that.
+TV Trivia,quit,
+TV Trivia,quit,
+TV Trivia,"""Alexa, ask t. v. trivia for a television fact""",Welcome to TV Guru! You can say something like: Is Last Man Standing Cancelled?
+TV Trivia,quit,
+TV Trivia,quit,
+TV Trivia,"""Alexa, ask t. v. trivia to give a tv trivia""",TV Trivia contains mature content that may not be suitable for all ages
+TV Trivia,quit,
+TV Trivia,quit,
+TV Trivia,"""Alexa, ask t. v. trivia for a tv fact""",I found a few matches for that.
+TV Trivia,quit,
+TV Trivia,quit,
+TV Trivia,"""Alexa, ask t. v. trivia for a television fact""",
+TV Trivia,quit,Welcome to TV Guru! You can say something like: Is Last Man Standing Cancelled?
+TV Trivia,quit,Welcome to TV Guru! You can say something like: Is Last Man Standing Cancelled?
+Flic Movie Finder,"""Alexa, ask Flic Finder to find Cars 3""",You have Flic Movie Finder enabled. Do you want to open it?
+Flic Movie Finder,Yes,What movie can I help you find today?
+Flic Movie Finder,"""Alexa, ask Flic Finder to find Cars 3""","I found a few movies with similar titles to alexa, ask flick finder to find cars 3. The first result is Fantastic Beasts and Where to Find Them from 2016. Is that the movie you're looking for?"
+Flic Movie Finder,quit,
+Flic Movie Finder,"""Alexa, ask Flic Finder to find Cars 3""",You have Flic Movie Finder enabled. Do you want to open it?
+Flic Movie Finder,Yes,What movie can I help you find today?
+Flic Movie Finder,quit,
+Flic Movie Finder,"""Alexa, ask Flic Finder to find Cars 3""",You have Flic Movie Finder enabled. Do you want to open it?
+Flic Movie Finder,Yes,What movie can I help you find today?
+Flic Movie Finder,quit,
+Game of Thrones Facts,"""Alexa ask game of thrones to tell me Game of Thrones facts""",Here's your fact: Peter Dinklage is vegetarian. All the 'meat' he eats on the show isn't real.
+Game of Thrones Facts,quit,
+Game of Thrones Facts,"""Alexa ask game of thrones to tell me Game of Thrones facts""",Here's your fact: Theon's sister Yara is named Asha in the book.
+Game of Thrones Facts,"""GOT facts""",Here's a fact about Leighanna Needham. Daughter of Kerry Needham and Simon Ward.
+Game of Thrones Facts,quit,
+Game of Thrones Facts,"""Alexa ask game of thrones to tell me Game of Thrones facts""","Here's a fact about Game of Thrones. Liam Burke was cast as Aerys II Targaryen, the ""Mad King"" in flashback scenes, but the scenes were cut. Eventually, a flashback scene of Aerys was included in Blood of My Blood (2016), and the character was played by David Rintoul."
+Game of Thrones Facts,"""What are interesting facts about game of thrones""","Here's a fact about Game of Thrones. According to Paula Fairfield, a sound designer on the series, Daenerys' dragon Drogon is designed to sound similar to her late husband Khal Drogo, whom the sound team considers Drogon to be a metaphorical reincarnation of."
+Game of Thrones Facts,quit,
+Movie Info,"""alexa, ask movie info about the magnificent seven""",You have Movie Helper enabled. Do you want to open it?
+Movie Info,Yes,"Welcome to Movie Helper, how can I help you? You can try saying, what are the ratings for SpiderMan"
+Movie Info,"""alexa, ask movie info about the magnificent seven""",I was unable to find information for the movie provided. Try saying another movie
+Movie Info,quit,
+Movie Info,"""alexa, ask movie info about the magnificent seven""",You have Movie Helper enabled. Do you want to open it?
+Movie Info,Yes,"Movies that are currently playing are Shazam!, After, Captain Marvel, Hellboy, Dumbo, Us, Missing Link, The Highwaymen, The Curse of La Llorona, Pet Sematary."
+Movie Info,quit,
+Movie Info,"""alexa, ask movie info about the magnificent seven""",You have Movie Helper enabled. Do you want to open it?
+Movie Info,Yes,"Movies that are currently playing are Shazam!, After, Captain Marvel, Hellboy, Dumbo, Us, Missing Link, The Highwaymen, The Curse of La Llorona, Pet Sematary."
+Movie Info,quit,
+Jim Rockford's Answering Machine,"""Alexa, Ask Jim Rockford's Answering Machine to read a message""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Jim Rockford's Answering Machine,quit,
+Jim Rockford's Answering Machine,"""Alexa, Ask Jim Rockford's Answering Machine to play a message""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Jim Rockford's Answering Machine,quit,
+Jim Rockford's Answering Machine,quit,
+Jim Rockford's Answering Machine,"""Alexa, Ask Jim Rockford's Answering Machine to read messages""",Messaging with Alexa is not supported on this device. You can use the Alexa app instead.
+Jim Rockford's Answering Machine,quit,
+Jim Rockford's Answering Machine,quit,
+Mini Movie Review Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Mini Movie Review Flash Briefing,quit,
+Mini Movie Review Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+Mini Movie Review Flash Briefing,quit,
+Mini Movie Review Flash Briefing,quit,
+Mini Movie Review Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Mini Movie Review Flash Briefing,quit,
+Mini Movie Review Flash Briefing,quit,
+The Flash Trivia,"""Alexa open the flash trivia""","Welcome to The Flash Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Who Is The First Villain That Barry Faces? 1. Clyde Mardon. 2. Zoom. 3. Grodd. 4. Reverse Flash."
+The Flash Trivia,quit,
+The Flash Trivia,"""Alexa open the flash trivia""","Welcome to The Flash Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Who Is Caitlin Snows Villainous Alter Ego? 1. captain cold. 2. Killer Frost. 3. Mirror Master. 4. Magenta."
+The Flash Trivia,"""yes""",Your answer must be a number between 1 and 4. Question 1. Who Is Caitlin Snows Villainous Alter Ego? 1. captain cold. 2. Killer Frost. 3. Mirror Master. 4. Magenta.
+The Flash Trivia,quit,
+The Flash Trivia,"""Alexa open the flash trivia""","Welcome to The Flash Quiz. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Who Was The Second Villain To Attempt To Steal Barrys Speed? 1. reverse flash. 2. zoom. 3. black flash. 4. savitar."
+The Flash Trivia,"""no""",Your answer must be a number between 1 and 4. Question 1. Who Was The Second Villain To Attempt To Steal Barrys Speed? 1. reverse flash. 2. zoom. 3. black flash. 4. savitar.
+The Flash Trivia,quit,
+Movie Picker,"""Alexa, open movie picker""",Here's a good movie to watch: Casablanca
+Movie Picker,quit,
+Movie Picker,"""Alexa, ask movie picker whats a good movie to watch""",You have Movie Picker enabled. Do you want to open it?
+Movie Picker,Yes,Here's a good movie to watch: Money Monster
+Movie Picker,"""Alexa, ask movie picker whats a good movie to watch""",You have Movie Picker enabled. Do you want to open it?
+Movie Picker,quit,
+Movie Picker,quit,
+Movie Picker,"""Alexa, ask movie picker do you know any good movies""",You have Movie Picker enabled. Do you want to open it?
+Movie Picker,Yes,Here's a good movie to watch: Roman Holiday
+Movie Picker,"""Alexa, ask movie picker do you know any good movies""",You have Movie Picker enabled. Do you want to open it?
+Movie Picker,quit,
+Movie Picker,quit,
+WatchAid,"""Alexa, ask Watch Aid when is the next The Walking Dead?""","This might answer your question: The game The Walking Dead: The Telltale Series - The Final Season was released on August 14, 2018."
+WatchAid,quit,
+WatchAid,"""Alexa, ask Watch Aid what show is on next Monday?""",You have Syfy enabled. Do you want to open it?
+WatchAid,Yes,"Welcome to Sy Fi. I can give you, whats playing on Sy Fi now, whats playing later tonight, and list Sy Fi shows. How can I help you?"
+WatchAid,"""Alexa, ask Watch Aid what show is on next Monday?""","I do not know the show you requested. Please go to sci fi.com from more details, or ask me to list shows. How can I help you?"
+WatchAid,quit,
+WatchAid,quit,
+WatchAid,"""Alexa, ask Watch Aid what's new?""",You have Movie Picker enabled. Do you want to open it?
+WatchAid,Yes,Here's a good movie to watch: Snatch
+WatchAid,"""Alexa, ask Watch Aid what's new?""",You have Movie Picker enabled. Do you want to open it?
+WatchAid,quit,
+WatchAid,quit,
+Movie Helper,"""Alexa ask movie helper to tell me more about the movie Transformers""","Young teenager, Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots – the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it."
+Movie Helper,quit,
+Movie Helper,"""Alexa ask movie helper to tell me more about the movie Transformers""","Young teenager, Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots – the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it."
+Movie Helper,"""What is the movie SpiderMan about?""",
+Movie Helper,quit,
+Movie Helper,"""Alexa ask movie helper to tell me more about the movie Transformers""","Young teenager, Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots – the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it."
+Movie Helper,"""What good movies are out?""","According to IMDb, these are a few of the highest rated movies in theaters: ""Shazam!"" whose rating is 7.6 out of 10, ""Us"" at 7.4 out of 10, and ""The Highwaymen"" at 7 out of 10."
+Movie Helper,quit,
+Tollywood Dialogues,"""Alexa, ask tollywood dialogue""","Hmm, I don't know that one."
+Tollywood Dialogues,quit,
+Tollywood Dialogues,"""Alexa, ask tollywood dialogue""","Hmm, I don't know that."
+Tollywood Dialogues,"""play the dialogue""","Hmm, I don't know that one."
+Tollywood Dialogues,quit,
+Tollywood Dialogues,"""Alexa, ask tollywood dialogue""","Sorry, I'm not sure."
+Tollywood Dialogues,"""begin dialogue""","Sorry, I don't know that."
+Tollywood Dialogues,quit,
+Celebrity Page,"""Alexa, open Celebrity Page.""","Sorry, I’m not sure about that."
+Celebrity Page,quit,
+Celebrity Page,"""Alexa, ask Celebrity Page to tell me the latest feed.""",
+Celebrity Page,quit,
+Celebrity Page,quit,
+Celebrity Page,"""Alexa , open black panther facts.""",This might answer your question: Here's a fact about Black Panther. There was a DELETED SCENE after the UN that showed Wakanda sharing their tech with the world.
+Celebrity Page,quit,
+Celebrity Page,quit,
+Movie Trivia,"""Alexa launch movie trivia""",Here's your fact: Francis Ford Coppola would read passages of Heart of Darkness to Marlon Brando on the fractious set of Apocalypse Now after learning the actor had never read the source material.
+Movie Trivia,quit,
+Movie Trivia,"""Alexa launch movie trivia""",Here's your fact: Author Peter Benchley plays the role of a TV reporter in Jaws. Benchley was reportedly thrown off set after continually arguing with Spielberg about the film's ending.
+Movie Trivia,"""Repeat""","Sorry, there is nothing to repeat."
+Movie Trivia,quit,
+Movie Trivia,"""Alexa launch movie trivia""",Here's your fact: The first notable film lensed by legendary cinematographer Roger Deakins was the 1984 adaptation of George Orwell's 1984.
+Movie Trivia,"""Help""","For Help, please visit the help pages on the Amazon web site."
+Movie Trivia,quit,
+Combat,"""Alexa, open combat and hit the dragon with my sword""","Hmm, I don't know that."
+Combat,quit,
+Combat,"""Alexa, open combat and tickle the pickle""",<Audio only response>
+Combat,quit,
+Combat,quit,
+Combat,"""Alexa, open combat and smack the dwarf with a stick""",<Audio only response>
+Combat,quit,
+Combat,quit,
+Blu-ray New Releases,"""Alexa, ask Movie Tuesday what came out.""","This might answer your question: Here are a few April 23, 2019 movies: ""I Spit on Your Grave: Deja Vu,"" ""Girls Guns and Blood,"" ""Growing Up with I Spit on Your Grave,"" ""STALLED,"" and ""Mother's Day."""
+Blu-ray New Releases,quit,
+Blu-ray New Releases,"""Alexa, ask Movie Tuesday what's new.""",You have Fandango enabled. Do you want to open it?
+Blu-ray New Releases,Yes,<Audio only response>
+Blu-ray New Releases,"""Alexa, ask Movie Tuesday what's new.""",You have Fandango enabled. Do you want to open it?
+Blu-ray New Releases,quit,
+Blu-ray New Releases,quit,
+Blu-ray New Releases,"""Alexa, ask Movie Tuesday for new movies.""",You have Fandango enabled. Do you want to open it?
+Blu-ray New Releases,Yes,<Audio only response>
+Blu-ray New Releases,"""Alexa, ask Movie Tuesday for new movies.""",You have Fandango enabled. Do you want to open it?
+Blu-ray New Releases,quit,
+Blu-ray New Releases,quit,
+FX,"""Alexa, ask FX about Archer""","Hmm, I don't know that."
+FX,quit,
+FX,"""Alexa, ask FX about FX plus""","Hmm, I found a few skills that might help."
+FX,quit,
+FX,quit,
+FX,"""Alexa, ask FX how to watch shows""",<Audio only response>
+FX,quit,
+FX,quit,
+New release schedule for Netflix,"""Alexa, open unofficial netflix new release guide""","Hmm, I found a few skills that might help."
+New release schedule for Netflix,quit,
+New release schedule for Netflix,"""Alexa, open unofficial netflix new release guide""","Hmm, I have a few skills that can help."
+New release schedule for Netflix,"""new releases on netflix""","Hmm, I have a few skills that can help."
+New release schedule for Netflix,quit,
+New release schedule for Netflix,"""Alexa, open unofficial netflix new release guide""",I found a few matches for that.
+New release schedule for Netflix,"""what are the new releases on netflix""",I found a few matches for that.
+New release schedule for Netflix,quit,
+Unofficial Peaky Blinders,"""Alexa, ask Pokey Blinders to give me a quote""",You have Daily Quotes enabled. Do you want to open it?
+Unofficial Peaky Blinders,Yes,
+Unofficial Peaky Blinders,"""Alexa, ask Pokey Blinders to give me a quote""",You have Daily Quotes enabled. Do you want to open it?
+Unofficial Peaky Blinders,quit,
+Unofficial Peaky Blinders,"""Alexa, open deadpool""","Hmm, I don't know that."
+Unofficial Peaky Blinders,quit,
+Unofficial Peaky Blinders,quit,
+Unofficial Peaky Blinders,"""Alexa, ask movie trivia to give me some movie trivia""",Here's your fact: Fight Club and Choke author Chuck Palahnuik can be glimpsed ever so briefly in the final scene of the latter. He's sitting next to Sam Rockwell on the plane.
+Unofficial Peaky Blinders,quit,
+Unofficial Peaky Blinders,quit,
+Movie List,"""Alexa ask Movie List, top 10 movies""",You have Box Office enabled. Do you want to open it?
+Movie List,Yes,<Audio only response>
+Movie List,"""Alexa ask Movie List, top 10 movies""",You have Box Office enabled. Do you want to open it?
+Movie List,quit,
+Movie List,"""Alexa ask Movie List, top movies""",You have Box Office enabled. Do you want to open it?
+Movie List,Yes,"Hello this is the Box Office, what do you want to know?"
+Movie List,"""Alexa ask Movie List, top movies""",You have Box Office enabled. Do you want to open it?
+Movie List,quit,
+Movie List,quit,
+Movie List,"""Alexa ask Movie List, best movies""","Hey, it's MovieBot. A popular movie is Captain Marvel, an Action Adventure film, starring Brie Larson.."
+Movie List,quit,
+Movie List,quit,
+Name The Movie Trivia,"""Alexa play name the movie trivia""","Here's your fact: In the Stephen King novella for The Shawshank Redemption, Morgan Freeman's Red is described as a white Irishman. The script sees Red sarcastically quip, “Maybe it's cause I'm Irish” as a nod to the change."
+Name The Movie Trivia,quit,
+Name The Movie Trivia,"""Alexa start name the movie trivia""",Here's your fact: The Imperial officer's uniforms were patterned after the uniforms of Nazi officers
+Name The Movie Trivia,quit,
+Name The Movie Trivia,quit,
+Name The Movie Trivia,"""Alexa play name the movie trivia""","Here's your fact: In 1994, during one famous lunch at Pixar, filmmakers John Lasseter, Pete Docter and Joe Ranft came up with ideas that would eventually become A Bug's Life, Finding Nemo, Monster Inc. and Wall-E. We'll have what they're having"
+Name The Movie Trivia,"""name the movie trivia I want to play""","Ok, Here's Movie Trivia"
+Name The Movie Trivia,quit,
+"""Coffee and Daisies"" Trivia","""Alexa, open Coffee Talk Trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Who speaks the first line of the series? 1. Sookie. 2. Luke. 3. Logan. 4. Lorelai."
+"""Coffee and Daisies"" Trivia",quit,
+"""Coffee and Daisies"" Trivia","""Alexa, launch Coffee Talk Trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. Who is Jess? 1. Sookie's Nephew. 2. Luke's Son. 3. Lorelai's Cousin. 4. Luke's Nephew."
+"""Coffee and Daisies"" Trivia",quit,
+"""Coffee and Daisies"" Trivia",quit,
+"""Coffee and Daisies"" Trivia","""Alexa, start Coffee Talk Trivia""","I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin. Question 1. What is Rory's middle name? 1. Leigh. 2. Ann. 3. Mary. 4. Emily."
+"""Coffee and Daisies"" Trivia",quit,
+"""Coffee and Daisies"" Trivia",quit,
+Movie Facts,"""Alexa ask movie facts to give me a marvel fact""","This might answer your question: Here's a fact about Marvel Comics. Marvel Comics was founded by Martin Goodman and Marvel Comics was founded in 1939. Here's a fact about Film. Preceding film in origin by thousands of years, early plays and dances had elements common to film: scripts, sets, costumes, production, direction, actors, audiences, storyboards and scores. Much terminology later used in film theory and criticism apply, such as mise en scène. Owing to the lack of any technology for doing so, the moving images and sounds couldn't be recorded for replaying as with film."
+Movie Facts,quit,
+Movie Facts,"""Alexa ask movie facts to give me a marvel fact""","This might answer your question: Here's a fact about Marvel Comics. Marvel Comics is 80 years old. It was founded in 1939. Here's a fact about Film. Preceding film in origin by thousands of years, early plays and dances had elements common to film: scripts, sets, costumes, production, direction, actors, audiences, storyboards and scores. Much terminology later used in film theory and criticism apply, such as mise en scène. Owing to the lack of any technology for doing so, the moving images and sounds couldn't be recorded for replaying as with film."
+Movie Facts,"""Give me a random fact about any movie""","This might answer your question: Here's a fact about Random. Random was played by Jimmy Brogan, who's 6 feet 2 inches tall."
+Movie Facts,quit,
+Movie Facts,"""Alexa ask movie facts to give me a marvel fact""","This might answer your question: Here's a fact about Marvel Comics. Marvel Comics is 80 years old. It was founded in 1939. Here's a fact about Film. Preceding film in origin by thousands of years, early plays and dances had elements common to film: scripts, sets, costumes, production, direction, actors, audiences, storyboards and scores. Much terminology later used in film theory and criticism apply, such as mise en scène. Owing to the lack of any technology for doing so, the moving images and sounds couldn't be recorded for replaying as with film."
+Movie Facts,"""Give me the new Lord of The Rings fact""",
+Movie Facts,quit,
+ActorLookup,"""Alexa, ask Actor Lookup what movies are Will Smith known for""","Sorry, I'm not sure."
+ActorLookup,quit,
+ActorLookup,"""Alexa, open Actor Lookup and give me a movie that Tom Hanks is in""",
+ActorLookup,quit,
+ActorLookup,quit,
+ActorLookup,"""Alexa, ask Actor Lookup what movies were popular in 2017""","This might answer your question: According to IMDb, the most popular movies are ""Shazam!"" at #1, ""Avengers: Endgame"" at #2, and ""Hellboy"" at #3."
+ActorLookup,quit,
+ActorLookup,quit,
+Ask Titanium Rex,"""Alexa, ask Titanium Rex if I will ever find true love?""","Sorry, I'm not sure."
+Ask Titanium Rex,quit,
+Ask Titanium Rex,"""Alexa, ask Titanium Rex if I can speak with Groaner?""",You have Ask Titanium Rex enabled. Do you want to open it?
+Ask Titanium Rex,Yes,<Audio only response>
+Ask Titanium Rex,"""Alexa, ask Titanium Rex if I can speak with Groaner?""",You have Ask Titanium Rex enabled. Do you want to open it?
+Ask Titanium Rex,quit,
+Ask Titanium Rex,quit,
+Ask Titanium Rex,"""Alexa, ask Titanium Rex for today's weather.""",You have Ask Titanium Rex enabled. Do you want to open it?
+Ask Titanium Rex,Yes,Welcome to Titanium Rex! Would you like to ask Rex a question or learn more about the show?
+Ask Titanium Rex,"""Alexa, ask Titanium Rex for today's weather.""",<Short audio>
+Ask Titanium Rex,quit,
+Ask Titanium Rex,quit,
+Greyfox,"""Alexa, ask wubba lubba dub dub to tell me something""","Sorry, I don't know that one."
+Greyfox,quit,
+Greyfox,"""Alexa, ask wubba lubba dub dub to look at me""","Play the song I'm Gonna Ask To Leave At Three So Dub me, right?"
+Greyfox,quit,
+Greyfox,quit,
+Greyfox,"""Alexa, ask wubba lubba dub dub to give me a rick fact""","Sorry, I don't know that one."
+Greyfox,quit,
+Greyfox,quit,
+Anime News Network Flash Briefing,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Anime News Network Flash Briefing,quit,
+Anime News Network Flash Briefing,"""Alexa, what's in the news?""",Here's your news.
+Anime News Network Flash Briefing,quit,
+Anime News Network Flash Briefing,quit,
+Anime News Network Flash Briefing,"""Alexa, launch Anime Recommender.""",Anime Recommender is here to help!
+Anime News Network Flash Briefing,quit,
+Anime News Network Flash Briefing,quit,
+Movie Trivia,"""Alexa ask movie trivia about lord of the rings""","Here's your fact: Robert Ludlum, the creator of the Jason Bourne series, died while the first Bourne film was in post-production."
+Movie Trivia,quit,
+Movie Trivia,"""Alexa ask movie trivia to suggest a science fiction movie""",Here's your fact: Fight Club and Choke author Chuck Palahnuik can be glimpsed ever so briefly in the final scene of the latter. He's sitting next to Sam Rockwell on the plane.
+Movie Trivia,quit,
+Movie Trivia,quit,
+Movie Trivia,"""Alexa ask movie trivia to find movies by will smith""",Here's your fact: Novelist and screenwriter Nick Hornby is brother-in-law to novelist and screenwriter Robert Harris.
+Movie Trivia,quit,
+Movie Trivia,quit,
+Harvey Specter's Quote,"""Alexa, ask harvey specter for a quote""","Hmm. Maybe the skill, Harvey Specter's Quote, can help. Do you want to try it?"
+Harvey Specter's Quote,quit,
+Harvey Specter's Quote,"""Alexa, tell harvey specter to tell me a quote""",From Gerald Ford
+Harvey Specter's Quote,quit,
+Harvey Specter's Quote,quit,
+Harvey Specter's Quote,"""Alexa, ask harvey specter for a quote by harvey""","Hmm. Maybe the skill, Harvey Specter's Quote, can help. Do you want to try it?"
+Harvey Specter's Quote,quit,
+Harvey Specter's Quote,quit,
+Trekkie Trivia,"""Alexa Start Trekkie Trivia""","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. George becomes what type of model? 1. Muscle man model. 2. Foot model. 3. Leg model. 4. Hand model."
+Trekkie Trivia,quit,
+Trekkie Trivia,"""Alexa, Open Trekkie Trivia""","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. What is not in the tea given to George when he visits the natural healer? 1. Lint. 2. Cramp bark. 3. Cleavers. 4. Couch grass."
+Trekkie Trivia,quit,
+Trekkie Trivia,quit,
+Trekkie Trivia,"""Alexa Start Trekkie Trivia""","Seinfeld Trivia. I will ask you 5 questions, try to get as many right as you can. Just say the number of the answer. Let's begin.Question 1. What was on the sweater that George got Elaine? 1. Ketchup stain. 2. Red dot. 3. Mustard stain. 4. Blue dot."
+Trekkie Trivia,"""The answer is One""",That answer is wrong. The correct answer is Red dot. Your score is 0. Question 2. What does Joe DiMaggio dunk in his coffee? 1. Toast. 2. Donut. 3. Bagel. 4. Muffin.
+Trekkie Trivia,quit,
+Use The Force Trivia,"""Alexa, start Force Trivia.""",This might answer your question: Here's a fact about Force. The force is equal to mass times acceleration.
+Use The Force Trivia,quit,
+Use The Force Trivia,"""Alexa, start Force Trivia.""","Sorry, there is nothing to repeat."
+Use The Force Trivia,"""Repeat""","Sorry, there is nothing to repeat."
+Use The Force Trivia,quit,
+Use The Force Trivia,"""Alexa, start Force Trivia.""",This might answer your question: Here's a fact about Force. The force is equal to mass times acceleration.
+Use The Force Trivia,"""Help""","For Help, please visit the help pages on the Amazon web site."
+Use The Force Trivia,quit,

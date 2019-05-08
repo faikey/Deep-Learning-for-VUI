@@ -1,0 +1,255 @@
+name,question,response
+Redbox,"""Alexa, open Redbox.""",You have Redbox enabled. Do you want to open it?
+Redbox,Yes,"Welcome to Redbox, your source for affordable movie and game rentals. How can Redbox help you?"
+Redbox,"""Alexa, open Redbox.""","Sorry, RedBox did not understand your request. Some sample commands are: What's new?, Where is my closest Kiosk?, and when will a movie be available at redbox?. How can Redbox help you?"
+Redbox,quit,
+Redbox,"""Alexa, ask Redbox what's new at Redbox?""",<Audio only response>
+Redbox,quit,
+Redbox,quit,
+Redbox,"""Alexa, ask Redbox where is my closest kiosk?""","I couldn't find that one, but I'm working on adding more local businesses."
+Redbox,quit,
+Redbox,quit,
+AnyList,"""Alexa, add apples to my shopping list.""",I couldn't find a list called list. shopping. Should I create one?
+AnyList,quit,
+AnyList,"""Alexa, add bananas to my shopping list.""",I couldn't find a list called list. shopping. Should I create one?
+AnyList,quit,
+AnyList,quit,
+AnyList,"""Alexa, add carrots to my shopping list.""",I couldn't find a list called list. shopping. Should I create one?
+AnyList,quit,
+AnyList,quit,
+Out Of Milk,"""Alexa, ask Out Of Milk to add milk to my list""",I've put milk milk on your Shopping list.
+Out Of Milk,quit,
+Out Of Milk,"""Alexa, ask Out Of Milk to add milk to my list""",You already have milk milk on your shopping list. Would you like to add milk milk again?.
+Out Of Milk,"""What is on my list""",You have 5 items on your shopping list.
+Out Of Milk,quit,
+Out Of Milk,"""Alexa, ask Out Of Milk to add milk to my list""",I've checked-off milk milk from your Shopping list.
+Out Of Milk,"""Remove milk from my list""",I couldn't find milk on your list.
+Out Of Milk,quit,
+Bring! Shopping List,"""Alexa, open Bring and add milk.""",You have Bring! Shopping List enabled. Do you want to open it?
+Bring! Shopping List,Yes,Welcome to Bring! How can I help?
+Bring! Shopping List,"""Alexa, open Bring and add milk.""","Ok, milk. is on your list. whats next?"
+Bring! Shopping List,quit,
+Bring! Shopping List,"""Alexa, open Bring.""",You have Bring! Shopping List enabled. Do you want to open it?
+Bring! Shopping List,Yes,Welcome to Bring! How can I help you?
+Bring! Shopping List,"""Alexa, open Bring.""",bring. is not on your list. whats next?
+Bring! Shopping List,quit,
+Bring! Shopping List,quit,
+Bring! Shopping List,"""Alexa, ask Bring what is on my list?""",You have 4 items on your shopping list.
+Bring! Shopping List,quit,
+Bring! Shopping List,quit,
+Woot,"""Alexa, ask Woot for the daily deal.""",You have Woot enabled. Do you want to open it?
+Woot,Yes,Welcome to Woot! Which category's deal would you like to hear about?
+Woot,"""Alexa, ask Woot for the daily deal.""",Today's WOOT deal is NETGEAR Orbi Home Mesh WiFi System for $179.99 (44% off List Price). Cover your home in the mesh of a security net. And yea ye shall catch the errant miscreant with the net like the sea sailors of old snaggin evil gilled fish from the depths that would gladly feat on their eyes. And like those nets this mesh is made from strong fibers... only it's fiber optics and... uh... Jeez I really backed myself into a corner with this seafaring metaphor didn't I?
+Woot,quit,
+Woot,"""Alexa, ask Woot for the shirt deal.""",You have Woot enabled. Do you want to open it?
+Woot,Yes,<Audio only response>
+Woot,"""Alexa, ask Woot for the shirt deal.""",You have Woot enabled. Do you want to open it?
+Woot,quit,
+Woot,quit,
+Woot,"""Alexa, ask Woot what the deal on electronics is.""",<Audio only response>
+Woot,quit,
+Woot,quit,
+Toyota Finder,"""Alexa, open Toyota Finder""","Alright, let’s find you a Toyota! To start, either say “Find my Toyota”, say “Ask a question” or you can say something like “Find my SUV”."
+Toyota Finder,quit,
+Toyota Finder,"""Alexa, ask Toyota Finder to help me find an s. u. v.""","Hmm, I'm not sure."
+Toyota Finder,quit,
+Toyota Finder,quit,
+Toyota Finder,"""Alexa, ask Toyota Finder to help me find a truck""",You have Toyota Finder enabled. Do you want to open it?
+Toyota Finder,Yes,"Alright, let’s find you a Toyota! To start, either say “Find my Toyota”, say “Ask a question” or you can say something like “Find my SUV”."
+Toyota Finder,"""Alexa, ask Toyota Finder to help me find a truck""","Alright, let's do it. First off, are you looking for a truck for work or for weekends?"
+Toyota Finder,quit,
+Toyota Finder,quit,
+Carter's Customer Service,"""Alexa, ask Carter's where is my order?""",I didn't find any open orders for Yichen
+Carter's Customer Service,quit,
+Carter's Customer Service,"""Alexa, ask Carter's where are my pajamas?""",I didn't understand. Would you like package delivery notifications?
+Carter's Customer Service,quit,
+Carter's Customer Service,quit,
+Carter's Customer Service,"""Alexa, tell Carter's I want to return an item.""","Sorry, I'm not sure."
+Carter's Customer Service,quit,
+Carter's Customer Service,quit,
+Best Buy,"""Alexa, launch Best Buy.""","Welcome to Best Buy! You can discover Best Buy's Deals of the day, check the status of your order, and get store hours and locations. Or, for frequently asked questions and tech tips, you can say things like, 'how to set a default printer' or 'help with my Best Buy credit card'. If you link your Best Buy account in the Alexa app, you can also buy Best Buy products. What can I help you with today?"
+Best Buy,quit,
+Best Buy,"""Alexa, ask Best Buy about deals.""",You have Best Buy enabled. Do you want to open it?
+Best Buy,Yes,"Welcome to Best Buy! You can discover Best Buy's Deals of the day, check the status of your order, and get store hours and locations. Or, for frequently asked questions and tech tips, you can say things like, 'how to set a default printer' or 'help with my Best Buy credit card'. If you link your Best Buy account in the Alexa app, you can also buy Best Buy products. What can I help you with today?"
+Best Buy,"""Alexa, ask Best Buy about deals.""","I'm sorry, I don't understand. You can hear Best Buy deals, check the status of your order, and get store hours and locations. Or, you can try things like, 'how to set a default printer' or 'help with my Best Buy credit card'. How can I help?"
+Best Buy,quit,
+Best Buy,quit,
+Best Buy,"""Alexa, ask Best Buy for store hours.""",You have Best Buy enabled. Do you want to open it?
+Best Buy,Yes,"Welcome to Best Buy! You can discover Best Buy's Deals of the day, check the status of your order, and get store hours and locations. Or, for frequently asked questions and tech tips, you can say things like, 'how to set a default printer' or 'help with my Best Buy credit card'. If you link your Best Buy account in the Alexa app, you can also buy Best Buy products. What can I help you with today?"
+Best Buy,"""Alexa, ask Best Buy for store hours.""","What location do you want me to find a store in? You can tell me a ZIP code, or a city and state."
+Best Buy,quit,
+Best Buy,quit,
+MyGroceryList,"""Alexa ask my grocery list for what are the items in the list""",I couldn't find a list called grocery.
+MyGroceryList,quit,
+MyGroceryList,"""Alexa ask my grocery list to add potato""",I couldn't find a list called grocery. Should I create one?
+MyGroceryList,quit,
+MyGroceryList,quit,
+MyGroceryList,"""Alexa ask my grocery list to text me the list of items""",I couldn't find a list called grocery text.
+MyGroceryList,quit,
+MyGroceryList,quit,
+Listonic - smart grocery list,"""Alexa, use Listonic""","Sorry, I'm not sure."
+Listonic - smart grocery list,quit,
+Listonic - smart grocery list,"""Alexa, use Listonic""","Hmm, I don't know that."
+Listonic - smart grocery list,"""Add apple pie to my list""",I've added apple pie to your Shopping list.
+Listonic - smart grocery list,quit,
+Listonic - smart grocery list,"""Alexa, use Listonic""","Sorry, I don't know that."
+Listonic - smart grocery list,"""Tick off applesauce on Birthday Party""","Hmm, I don't know that one."
+Listonic - smart grocery list,quit,
+Kia Niro,"""Alexa, ask Kia Niro to get started""","Sorry, the Kia Niro skill is no longer available. You can find more skills in the Alexa app."
+Kia Niro,quit,
+Kia Niro,"""Alexa, ask Kia Niro what its miles per gallon is""","Hmm, I don't know that one."
+Kia Niro,quit,
+Kia Niro,quit,
+Kia Niro,"""Alexa, ask Kia Niro what it costs""","Sorry, I don't know that."
+Kia Niro,quit,
+Kia Niro,quit,
+1-800-Flowers,"""Alexa ask 1-800-Flowers to order flowers for my sister for her birthday""","Sorry, I don't know that one."
+1-800-Flowers,quit,
+1-800-Flowers,"""Alexa tell 1-800-Flowers I want to send a gift for my grandpa""","Hmm, I don't know that one."
+1-800-Flowers,quit,
+1-800-Flowers,quit,
+1-800-Flowers,"""Alexa tell 1-800-Flowers to send my wife roses""",You have 1-800-Flowers enabled. Do you want to open it?
+1-800-Flowers,Yes,
+1-800-Flowers,"""Alexa tell 1-800-Flowers to send my wife roses""",You have 1-800-Flowers enabled. Do you want to open it?
+1-800-Flowers,quit,
+1-800-Flowers,quit,
+Steal of the week,"""Alexa open today's steal""",I need to know your phone number in order to text you the deals. Please enable permissions in the Amazon Alexa app.
+Steal of the week,quit,
+Steal of the week,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Steal of the week,quit,
+Steal of the week,quit,
+Steal of the week,"""Alexa open amazon pay deals""",<Audio only response>
+Steal of the week,quit,
+Steal of the week,quit,
+MailHaven Package Tracker,"""Alexa ask mailhaven where is my stuff""",Please use the Alexa app to link your account with MailHaven.
+MailHaven Package Tracker,quit,
+MailHaven Package Tracker,"""Alexa ask mailhaven the status of my last package""",Please use the Alexa app to link your account with MailHaven.
+MailHaven Package Tracker,quit,
+MailHaven Package Tracker,quit,
+MailHaven Package Tracker,"""Alexa ask mailhaven where is my last package""",Please use the Alexa app to link your account with MailHaven.
+MailHaven Package Tracker,quit,
+MailHaven Package Tracker,quit,
+Edmunds,"""Alexa, ask Edmunds how much is the Ford Escape?""","Hmm. Maybe the skill, Edmunds, can help. Do you want to try it?"
+Edmunds,quit,
+Edmunds,"""Alexa, ask Edmunds what is my car worth today?""",
+Edmunds,quit,
+Edmunds,quit,
+Edmunds,"""Alexa, ask Edmunds when is my next service due?""",
+Edmunds,quit,
+Edmunds,quit,
+eBags,"""Alexa, ask e. bags where is my order?""",I didn't find any open orders for Yichen
+eBags,quit,
+eBags,"""Alexa, ask e. bags where is my laptop backpack?""",I didn't understand. Would you like package delivery notifications?
+eBags,quit,
+eBags,quit,
+eBags,"""Alexa, ask e. bags i want to return an item""",
+eBags,quit,
+eBags,quit,
+Product Feedback,"""Alexa launch Product Feedback""","Hello What product do you want to talk about? If you're going to feedback on shampoo, just say shampoo, for laundry products just say laundry"
+Product Feedback,quit,
+Product Feedback,"""Alexa open Product Feedback""","Hello What product do you want to talk about? If you're going to feedback on shampoo, just say shampoo, for laundry products just say laundry"
+Product Feedback,quit,
+Product Feedback,quit,
+Product Feedback,"""Alexa, open Poll Taker""","In order for me to ask you the right questions, you'll need to tell me which poll you'd like to take. for example, if the poll you want to take is called the banana poll, then say, 'take the banana poll'."
+Product Feedback,quit,
+Product Feedback,quit,
+My Grocer,"""alexa, open my grocer""","Hmm, I don't know that one."
+My Grocer,quit,
+My Grocer,"""alexa, open my grocer""","Sorry, I don't know that one."
+My Grocer,"""alexa, ask my grocer to add banana""",You have My Chef - Kitchen Assistant by Chefling enabled. Do you want to open it?
+My Grocer,quit,
+My Grocer,"""alexa, open my grocer""","Hmm, I don't know that."
+My Grocer,"""alexa, ask my grocer what do I have in my shopping list""",You have 5 items on your shopping list.
+My Grocer,quit,
+Kit,"""Alexa, ask Kit what's the best gaming keyboard?""",Hmmm… I don’t understand
+Kit,quit,
+Kit,"""Alexa, ask Kit for yoga mat recommendations.""",You have Easy Yoga enabled. Do you want to open it?
+Kit,Yes,<Audio only response>
+Kit,"""Alexa, ask Kit for yoga mat recommendations.""",You have Easy Yoga enabled. Do you want to open it?
+Kit,quit,
+Kit,quit,
+Kit,"""Alexa, ask Kit to recommend me hair spray.""","Sorry, I don't know that one."
+Kit,quit,
+Kit,quit,
+BatteryBoot,"""Alexa, ask battery boot where to buy it?""",You have Best Buy enabled. Do you want to open it?
+BatteryBoot,Yes,"Welcome to Best Buy! You can discover Best Buy's Deals of the day, check the status of your order, and get store hours and locations. Or, for frequently asked questions and tech tips, you can say things like, 'how to set a default printer' or 'help with my Best Buy credit card'. If you link your Best Buy account in the Alexa app, you can also buy Best Buy products. What can I help you with today?"
+BatteryBoot,"""Alexa, ask battery boot where to buy it?""","I'm sorry, I don't understand. You can hear Best Buy deals, check the status of your order, and get store hours and locations. Or, you can try things like, 'how to set a default printer' or 'help with my Best Buy credit card'. How can I help?"
+BatteryBoot,quit,
+BatteryBoot,"""Alexa, ask battery boot when will you be released?""","Sorry, I’m not sure about that."
+BatteryBoot,quit,
+BatteryBoot,quit,
+BatteryBoot,"""Alexa, ask battery boot for info?""","Sorry, I’m not sure about that."
+BatteryBoot,quit,
+BatteryBoot,quit,
+Purell,"""Alexa, open Purell.""","Hmm, I don't know that."
+Purell,quit,
+Purell,"""Alexa, ask Purell to take me to the Hand Hygiene Center.""",
+Purell,quit,
+Purell,quit,
+Purell,"""Alexa, ask Purell to buy hand sanitizer.""",You have Best Buy enabled. Do you want to open it?
+Purell,Yes,"Welcome to Best Buy! You can discover Best Buy's Deals of the day, check the status of your order, and get store hours and locations. Or, for frequently asked questions and tech tips, you can say things like, 'how to set a default printer' or 'help with my Best Buy credit card'. If you link your Best Buy account in the Alexa app, you can also buy Best Buy products. What can I help you with today?"
+Purell,"""Alexa, ask Purell to buy hand sanitizer.""","I'm sorry, I don't understand. You can hear Best Buy deals, check the status of your order, and get store hours and locations. Or, you can try things like, 'how to set a default printer' or 'help with my Best Buy credit card'. How can I help?"
+Purell,quit,
+Purell,quit,
+Stupid Deal,"""Alexa, ask stupid deal what's today's deal""",This feature is only available for Prime members.
+Stupid Deal,quit,
+Stupid Deal,"""Alexa, ask Woot for the daily deal.""",You have Woot enabled. Do you want to open it?
+Stupid Deal,Yes,Welcome to Woot! Which category's deal would you like to hear about?
+Stupid Deal,"""Alexa, ask Woot for the daily deal.""",Today's WOOT deal is NETGEAR Orbi Home Mesh WiFi System for $179.99 (44% off List Price). Cover your home in the mesh of a security net. And yea ye shall catch the errant miscreant with the net like the sea sailors of old snaggin evil gilled fish from the depths that would gladly feat on their eyes. And like those nets this mesh is made from strong fibers... only it's fiber optics and... uh... Jeez I really backed myself into a corner with this seafaring metaphor didn't I?
+Stupid Deal,quit,
+Stupid Deal,quit,
+Stupid Deal,"""Alexa, what's my Flash Briefing?""",Here's your news.
+Stupid Deal,quit,
+Stupid Deal,quit,
+publix chicken tender subs,"""Alexa chicken tender pub sub""","Sorry, I don't know that."
+publix chicken tender subs,quit,
+publix chicken tender subs,"""Alexa ask chicken tender pub sub if they're on sale""","Sorry, I'm not sure."
+publix chicken tender subs,quit,
+publix chicken tender subs,quit,
+publix chicken tender subs,"""Alexa, tell pub sub of the week""","Sorry, I don't know that."
+publix chicken tender subs,quit,
+publix chicken tender subs,quit,
+My Deal,"""Alexa, Open My Deal""",<Audio only response>
+My Deal,quit,
+My Deal,"""Alexa, Ask My Deal For The deals of iPhone""",<Audio only response>
+My Deal,quit,
+My Deal,quit,
+My Deal,"""Alexa, Ask My Deal To Tell me the deals for women's outerwear""",
+My Deal,quit,
+My Deal,quit,
+B&H Photo Deal Zone,"""Alexa, ask b. h. photo video, what is today's deal?""",This feature is only available for Prime members.
+B&H Photo Deal Zone,quit,
+B&H Photo Deal Zone,"""Alexa, ask b. h. photo video to give me today's deal.""","Hmm, I'm not sure."
+B&H Photo Deal Zone,quit,
+B&H Photo Deal Zone,quit,
+B&H Photo Deal Zone,"""Alexa, ask b.h. photo video for today's dealzone item.""",You have OurGroceries enabled. Do you want to open it?
+B&H Photo Deal Zone,Yes,"Welcome to Our Groceries, you can say, add milk to Shopping List."
+B&H Photo Deal Zone,"""Alexa, ask b.h. photo video for today's dealzone item.""","Welcome to Our Groceries, you can say, add milk to Shopping List."
+B&H Photo Deal Zone,quit,
+B&H Photo Deal Zone,quit,
+Ship.com Automatic Package Tracker,"""Alexa, ask Ship.com where my stuff is""",I didn't find any open orders for Yichen
+Ship.com Automatic Package Tracker,quit,
+Ship.com Automatic Package Tracker,"""Alexa, ask Ship.com when my next package will arrive""",
+Ship.com Automatic Package Tracker,quit,
+Ship.com Automatic Package Tracker,quit,
+Ship.com Automatic Package Tracker,"""Alexa, ask Ship.com when my last package arrived""",You have Ship.com — Automatic Package Tracker enabled. Do you want to open it?
+Ship.com Automatic Package Tracker,Yes,
+Ship.com Automatic Package Tracker,"""Alexa, ask Ship.com when my last package arrived""",You have Ship.com — Automatic Package Tracker enabled. Do you want to open it?
+Ship.com Automatic Package Tracker,quit,
+Ship.com Automatic Package Tracker,quit,
+Simon,"""Alexa, open Simon.""","Hmm, I don't know that."
+Simon,quit,
+Simon,"""Alexa, open Simon.""","Hmm, I don't know that."
+Simon,"""What are the center hours""",Business hour for the Center on E 6th St in Leadville is not available.
+Simon,quit,
+Simon,"""Alexa, open Simon.""","Hmm, I don't know that one."
+Simon,"""Tell me some deals""",<Audio only response>
+Simon,quit,
+grocery,"""Alexa, ask grocery manager to get my grocery list""",I couldn't find a list called grocery. Should I create one?
+grocery,quit,
+grocery,"""Alexa, ask grocery manager to add onion 1 lb""","I've added alexa, ask grocery manager onion 1 lb to your Shopping list."
+grocery,quit,
+grocery,quit,
+grocery,"""Alexa, ask grocery manager to clear my grocery list""","You can delete a list in the Alexa App, or ask me to 'clear your list'."
+grocery,quit,
+grocery,quit,

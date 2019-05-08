@@ -1,0 +1,626 @@
+name,question,response
+Make Me Smart,"Alexa, open Make Me Smart","Welcome back to Make Me Smart. You've heard our latest topic, but here's Molly Wood explaining Feminist Economics."
+Make Me Smart,help,"You can say next or replay, hear what's new, or submit your idea for an explainer. What would you like to do?"
+Make Me Smart,stop,
+Make Me Smart,quit,
+CNBC,"Alexa, open CNBC",You have CNBC enabled. Do you want to open it?
+CNBC,Yes,"Welcome back to CNBC. The markets are closed. On April 12th, markets closed up. What can I help you with?"
+CNBC,help,"CNBC offers real-time quotes for stocks, futures, indexes and cryptocurrencies. You can also get a market update, catch up on the latest business news, watch top videos and the Cramer Remix, and listen to CNBC podcasts. You can say repeat to hear this list again. What would you like?"
+CNBC,stop,Thanks for talking to CNBC.
+CNBC,quit,
+Capital One,"Alexa, open Capital One",
+Capital One,help,"For Help, please visit the help pages on the Amazon web site."
+Capital One,stop,
+Capital One,quit,
+The Motley Fool,"Alexa, open The Motley Fool",You have The Motley Fool enabled. Do you want to open it?
+The Motley Fool,Yes,"The Motley Fool. Give me the name of a company, or ask me about how your watchlist is doing."
+The Motley Fool,help,"Sure, here's some help. I can quote you stock information, information about a specific index, or about how the market is doing overall. I can also give you a summary about how your watchlist is doing, add a stock to your watchlist or remove a stock from it. Now, give me the name of a company or ask me about your watchlist."
+The Motley Fool,stop,
+The Motley Fool,quit,
+Store Card,"Alexa, open Store Card",You have Store Card enabled. Do you want to open it?
+Store Card,Yes,"Welcome to your Amazon.com Store Card. We have made some improvements, but you need to disable this skill and then enable it again. Please use the link we just sent to your Alexa App."
+Store Card,help,"For Help, please visit the help pages on the Amazon web site."
+Store Card,stop,
+Store Card,quit,
+Fidelity Investments,"Alexa, open Fidelity Investments","Welcome to Fidelity! I can give quotes, list the market movers, get tax information, or we can talk about how much others are saving in their 401(k). What would you like to do?"
+Fidelity Investments,help,"You can ask Fidelity for a quote, the market update, today's market movers, tax form information, or about how much people are saving in their 401(k). For example, you could say, How is the market doing today? Or What are the top gainers? What would you like to do?"
+Fidelity Investments,stop,"Thanks, come back soon."
+Fidelity Investments,quit,
+Thirty Second Money Tip with Nick True,"Alexa, open Thirty Second Money Tip with Nick True",<Audio only response>
+Thirty Second Money Tip with Nick True,help,"For Help, please visit the help pages on the Amazon web site."
+Thirty Second Money Tip with Nick True,stop,
+Thirty Second Money Tip with Nick True,quit,
+Amex,"Alexa, open Amex","Sorry, but you don't have an american express online account linked to the skill. I've sent you a card to help get started. You can also link your account by opening the alexa companion app and searching for amex."
+Amex,help,"For Help, please visit the help pages on the Amazon web site."
+Amex,stop,
+Amex,quit,
+The Pitch with Amy Summers,"Alexa, open The Pitch with Amy Summers","Sorry, Iâ€™m not sure about that."
+The Pitch with Amy Summers,help,"For Help, please visit the help pages on the Amazon web site."
+The Pitch with Amy Summers,stop,
+The Pitch with Amy Summers,quit,
+TD Ameritrade,"Alexa, open TD Ameritrade",You have TD Ameritrade enabled. Do you want to open it?
+TD Ameritrade,Yes,"Welcome back to TD Ameritrade. To get started, you can get a quote, listen to the daily briefing, get your account summary, or place a trade. Which would you like to do?"
+TD Ameritrade,help,"I can help you place trades, review your accounts, and stay tuned-in with whatâ€™s happening in the markets. You can say things like, â€œplace a tradeâ€ù or â€œcheck my accounts.â€ù I sent more info to your Alexa app. So, how can I help you?"
+TD Ameritrade,stop,"Ok, good bye!"
+TD Ameritrade,quit,
+Front Row Entrepreneur,"Alexa, open Front Row Entrepreneur","Sorry, Iâ€™m not sure about that."
+Front Row Entrepreneur,help,"For Help, please visit the help pages on the Amazon web site."
+Front Row Entrepreneur,stop,
+Front Row Entrepreneur,quit,
+Experian,"Alexa, open Experian",You have Experian enabled. Do you want to open it?
+Experian,Yes,You'll first need to link your Experian account to use this skill. I've sent some information to your Alexa app to help you get started. Talk to you soon.
+Experian,help,"For Help, please visit the help pages on the Amazon web site."
+Experian,stop,
+Experian,quit,
+PayPal,"Alexa, open PayPal","Welcome to PayPal. To get the most out of your experience, you'll first need to link your PayPal account. I've sent some information to your Alexa app to help you get started"
+PayPal,help,"For Help, please visit the help pages on the Amazon web site."
+PayPal,stop,
+PayPal,quit,
+Ally,"Alexa, open Ally","Sorry, I'm not sure."
+Ally,help,"For Help, please visit the help pages on the Amazon web site."
+Ally,stop,
+Ally,quit,
+Stock Prices by Opening Bell,"Alexa, open Stock Prices by Opening Bell",
+Stock Prices by Opening Bell,help,"For Help, please visit the help pages on the Amazon web site."
+Stock Prices by Opening Bell,stop,
+Stock Prices by Opening Bell,quit,
+Facebook Behavioral Interview Questions,"Alexa, open Facebook Behavioral Interview Questions",Tell us about a job or setting where great attention to detail was required to complete a task. What steps were involved? How did you handle that situation?
+Facebook Behavioral Interview Questions,help,"For Help, please visit the help pages on the Amazon web site."
+Facebook Behavioral Interview Questions,stop,
+Facebook Behavioral Interview Questions,quit,
+YNAB,"Alexa, open YNAB","Sorry, I don't know that one."
+YNAB,help,"For Help, please visit the help pages on the Amazon web site."
+YNAB,stop,
+YNAB,quit,
+Prudential Retirement,"Alexa, open Prudential Retirement",To get started please complete linking your Prudential Retirement account in your Alexa app.
+Prudential Retirement,help,"For Help, please visit the help pages on the Amazon web site."
+Prudential Retirement,stop,
+Prudential Retirement,quit,
+Run To Your Leadership Challenges!,"Alexa, open Run To Your Leadership Challenges!","Hmm, I don't know that."
+Run To Your Leadership Challenges!,help,"For Help, please visit the help pages on the Amazon web site."
+Run To Your Leadership Challenges!,stop,
+Run To Your Leadership Challenges!,quit,
+Atlanta Real Estate,"Alexa, open Atlanta Real Estate",<Audio only response>
+Atlanta Real Estate,help,"For Help, please visit the help pages on the Amazon web site."
+Atlanta Real Estate,stop,
+Atlanta Real Estate,quit,
+Morgan Stanley,"Alexa, open Morgan Stanley",
+Morgan Stanley,help,"What would you like to know more about? You can say: Ideas Briefing, the ideas Podcast, Thoughts on the Market, Jargon Buster or Get to Know Morgan Stanley."
+Morgan Stanley,stop,Goodbye!
+Morgan Stanley,quit,
+Bloomberg,"Alexa, open Bloomberg","Welcome to Bloomberg. You can hear Bloomberg Market Minute, or ask what can I say for more options."
+Bloomberg,help,"You can say things like What's the price for amazon?, Play market minute, What is Bloomberg?, What can I help you with?"
+Bloomberg,stop,GoodBye
+Bloomberg,quit,
+Pete's Points - Business and Leadership Strategies,"Alexa, open Pete's Points - Business and Leadership Strategies","I couldn't find alexa, open pete's points - business and leadership strategies."
+Pete's Points - Business and Leadership Strategies,help,"For Help, please visit the help pages on the Amazon web site."
+Pete's Points - Business and Leadership Strategies,stop,
+Pete's Points - Business and Leadership Strategies,quit,
+Ohio Real Estate,"Alexa, open Ohio Real Estate","You have Disher, Hamrick & Myers Residential Real Estate enabled. Do you want to open it?"
+Ohio Real Estate,Yes,"Welcome to Disher, Hamrick and Myers Residential Real Estate in beautiful Charleston, South Carolina. We look forward to helping you with all your home buying and selling needs in the greater Charleston, SC market. To learn more about our agency, say ""About Us"". You can also ask about our ""Location"", ""Get Directions"", ""Hours of Operation"", or ""Phone Number"". What can I help you with?"
+Ohio Real Estate,help,"I can help you answer many questions about our business. You can say things like ""About Us"" or ""Location"", or ""Hours of Operation"". You can also get ""Directions"" or ""Contact Information"". What would you like to know?"
+Ohio Real Estate,stop,"Sorry, I'm having trouble accessing your Disher, Hamrick & Myers Residential Real Estate skill right now"
+Ohio Real Estate,quit,
+Akron Real Estate,"Alexa, open Akron Real Estate",
+Akron Real Estate,help,I need you to link your account so that I can email you your results. Please check your alexa app or tell me your phone number with area code first. You can say goodbye to exit
+Akron Real Estate,stop,goodbye and thank you for using Berkshire Hathaway HomeServices Professional Realty's skill.
+Akron Real Estate,quit,
+BCCS Law,"Alexa, open BCCS Law","We will attend the MARQUES meeting in Paris in September. We hope to see you there. The following information might interest you: As a general rule, the rights in a mark are acquired through registration. The Philippines follow the first-to-file system. A suit for infringement of a mark is only possible if the trade mark is registered."
+BCCS Law,help,"For Help, please visit the help pages on the Amazon web site."
+BCCS Law,stop,
+BCCS Law,quit,
+Cincinnati Real Estate,"Alexa, open Cincinnati Real Estate",<Audio only response>
+Cincinnati Real Estate,help,"For Help, please visit the help pages on the Amazon web site."
+Cincinnati Real Estate,stop,
+Cincinnati Real Estate,quit,
+Cleveland Real Estate,"Alexa, open Cleveland Real Estate",<Audio only response>
+Cleveland Real Estate,help,"For Help, please visit the help pages on the Amazon web site."
+Cleveland Real Estate,stop,
+Cleveland Real Estate,quit,
+Dayton Real Estate,"Alexa, open Dayton Real Estate",<Audio only response>
+Dayton Real Estate,help,"For Help, please visit the help pages on the Amazon web site."
+Dayton Real Estate,stop,
+Dayton Real Estate,quit,
+Columbus Real Estate,"Alexa, open Columbus Real Estate",Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+Columbus Real Estate,help,I need you to link your account so that I can email you your results. Please check your alexa app or tell me your phone number with area code first. You can say goodbye to exit
+Columbus Real Estate,stop,goodbye and thank you for using Berkshire Hathaway HomeServices Professional Realty's skill.
+Columbus Real Estate,quit,
+My Home Agent - Find a Realtor & Sell My Home,"Alexa, open My Home Agent - Find a Realtor & Sell My Home","Hmm, I'm not sure."
+My Home Agent - Find a Realtor & Sell My Home,help,"For Help, please visit the help pages on the Amazon web site."
+My Home Agent - Find a Realtor & Sell My Home,stop,
+My Home Agent - Find a Realtor & Sell My Home,quit,
+Sowing Seed Flash Briefing,"Alexa, open Sowing Seed Flash Briefing",Here's your news.
+Sowing Seed Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Sowing Seed Flash Briefing,stop,
+Sowing Seed Flash Briefing,quit,
+Motley Fool Stock Watch,"Alexa, open Motley Fool Stock Watch","The Motley Fool. Give me the name of a company, or ask me about how your watchlist is doing."
+Motley Fool Stock Watch,help,"Sure, here's some help. I can quote you stock information, information about a specific index, or about how the market is doing overall. I can also give you a summary about how your watchlist is doing, add a stock to your watchlist or remove a stock from it. Now, give me the name of a company or ask me about your watchlist."
+Motley Fool Stock Watch,stop,
+Motley Fool Stock Watch,quit,
+Fox Business,"Alexa, open Fox Business","Fox Business is in your Flash Briefing; to hear it, just say, Whatâ€™s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Fox Business,help,"For Help, please visit the help pages on the Amazon web site."
+Fox Business,stop,
+Fox Business,quit,
+Harvard Business Review: Management Tip,"Alexa, open Harvard Business Review: Management Tip","Harvard Business Review: Management Tip is in your Flash Briefing; to hear it, just say, Whatâ€™s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Harvard Business Review: Management Tip,help,"For Help, please visit the help pages on the Amazon web site."
+Harvard Business Review: Management Tip,stop,
+Harvard Business Review: Management Tip,quit,
+Mike Hrezo - Valencia Real Estate,"Alexa, open Mike Hrezo - Valencia Real Estate",<Audio only response>
+Mike Hrezo - Valencia Real Estate,help,"For Help, please visit the help pages on the Amazon web site."
+Mike Hrezo - Valencia Real Estate,stop,
+Mike Hrezo - Valencia Real Estate,quit,
+Real Estate,"Alexa, open Real Estate",Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+Real Estate,help,I need you to link your account so that I can email you your results. Please check your alexa app or tell me your phone number with area code first. You can say goodbye to exit
+Real Estate,stop,goodbye and thank you for using Berkshire Hathaway HomeServices Professional Realty's skill.
+Real Estate,quit,
+Coinbase Bitcoin/Ethereum Price,"Alexa, open Coinbase Bitcoin/Ethereum Price","Hi, feel free to ask me for bitcoin price."
+Coinbase Bitcoin/Ethereum Price,help,"Hi, feel free to ask me for bitcoin price."
+Coinbase Bitcoin/Ethereum Price,stop,Bye!
+Coinbase Bitcoin/Ethereum Price,quit,
+BrewResearch,"Alexa, open BrewResearch","Sorry, I don't know that one."
+BrewResearch,help,"For Help, please visit the help pages on the Amazon web site."
+BrewResearch,stop,
+BrewResearch,quit,
+The Mastermind Blueprint: Building A Richer Life,"Alexa, open The Mastermind Blueprint: Building A Richer Life",I couldn't find any enabled video skills that can play that. Go to the Alexa app to manage your video skills and devices.
+The Mastermind Blueprint: Building A Richer Life,help,"For Help, please visit the help pages on the Amazon web site."
+The Mastermind Blueprint: Building A Richer Life,stop,
+The Mastermind Blueprint: Building A Richer Life,quit,
+Business Leadership Series,"Alexa, open Business Leadership Series",Starting your book.
+Business Leadership Series,help,"For Help, please visit the help pages on the Amazon web site."
+Business Leadership Series,stop,
+Business Leadership Series,quit,
+The Money Making Minute,"Alexa, open The Money Making Minute",You have PayPal enabled. Do you want to open it?
+The Money Making Minute,Yes,"Welcome to PayPal. To get the most out of your experience, you'll first need to link your PayPal account. I've sent some information to your Alexa app to help you get started"
+The Money Making Minute,help,"For Help, please visit the help pages on the Amazon web site."
+The Money Making Minute,stop,
+The Money Making Minute,quit,
+U.S. Bank,"Alexa, open U.S. Bank",
+U.S. Bank,help,"I can help you get the latest price for a stock. You can simply open Stock Ticker and ask a question like, What's the stock price for Amazon. Or you can say exit to quit this skill. There maybe times where I have trouble recognizing or looking up a Company's name. For these cases, I am able to look up stock symbols as well. For stock symbol lookups, just replace the company name with the symbol, like, What's the stock price for GOOGL. Now, what company should I look up?"
+U.S. Bank,stop,Goodbye!
+U.S. Bank,quit,
+My Home Value,"Alexa, open My Home Value",You have Akron Real Estate enabled. Do you want to open it?
+My Home Value,Yes,Please check your alexa app to link your account or tell me your phone number with area code and I will send you a text to link your account. What is your phone number?
+My Home Value,help,I need you to link your account so that I can email you your results. Please check your alexa app or tell me your phone number with area code first. You can say goodbye to exit
+My Home Value,stop,goodbye and thank you for using Berkshire Hathaway HomeServices Professional Realty's skill.
+My Home Value,quit,
+One Minute Retirement Tip with Ashley,"Alexa, open One Minute Retirement Tip with Ashley",You have Prudential Retirement enabled. Do you want to open it?
+One Minute Retirement Tip with Ashley,Yes,To get started please complete linking your Prudential Retirement account in your Alexa app.
+One Minute Retirement Tip with Ashley,help,"For Help, please visit the help pages on the Amazon web site."
+One Minute Retirement Tip with Ashley,stop,
+One Minute Retirement Tip with Ashley,quit,
+The Perfect Gentleman,"Alexa, open The Perfect Gentleman",Starting your book.
+The Perfect Gentleman,help,"For Help, please visit the help pages on the Amazon web site."
+The Perfect Gentleman,stop,
+The Perfect Gentleman,quit,
+SilverBug,"Alexa, open SilverBug","Hmm, I don't know that."
+SilverBug,help,"For Help, please visit the help pages on the Amazon web site."
+SilverBug,stop,
+SilverBug,quit,
+Cheddar,"Alexa, open Cheddar","Sorry, I don't know that."
+Cheddar,help,"For Help, please visit the help pages on the Amazon web site."
+Cheddar,stop,
+Cheddar,quit,
+StockTrigger,"Alexa, open StockTrigger","Sorry, I'm not sure."
+StockTrigger,help,"For Help, please visit the help pages on the Amazon web site."
+StockTrigger,stop,
+StockTrigger,quit,
+Amazon Seller Central,"Alexa, open Amazon Seller Central","To use the Seller Central skill, youâ€™ll first need to link your account. Iâ€™ve sent some information to your Alexa app to help you get started."
+Amazon Seller Central,help,"For Help, please visit the help pages on the Amazon web site."
+Amazon Seller Central,stop,
+Amazon Seller Central,quit,
+Rocket Mortgage,"Alexa, open Rocket Mortgage",
+Rocket Mortgage,help,"For Help, please visit the help pages on the Amazon web site."
+Rocket Mortgage,stop,"Welcome to Rocket Mortgage. To check out our new features, try saying whats new! How can I help you?"
+Rocket Mortgage,quit,
+NPR Business Story of the Day,"Alexa, open NPR Business Story of the Day","Here's NPR: Business Story of the Day, from TuneIn."
+NPR Business Story of the Day,help,"For Help, please visit the help pages on the Amazon web site."
+NPR Business Story of the Day,stop,
+NPR Business Story of the Day,quit,
+Charles Schwab,"Alexa, open Charles Schwab","Welcome to Charles Schwab. You can request a market update, ask about your favorites, or say a security name or symbol to get a quote. How can I help?"
+Charles Schwab,help,You can ask; 'How are my favorites doing?'; request an update on the market; ask for a quote by saying its security name or symbol; or request to hear the Schwab Market Update. What would you like to do?
+Charles Schwab,stop,
+Charles Schwab,quit,
+Allstate,"Alexa, open Allstate",
+Allstate,help,"I can help you get the latest price for a stock. You can simply open Stock Ticker and ask a question like, What's the stock price for Amazon. Or you can say exit to quit this skill. There maybe times where I have trouble recognizing or looking up a Company's name. For these cases, I am able to look up stock symbols as well. For stock symbol lookups, just replace the company name with the symbol, like, What's the stock price for GOOGL. Now, what company should I look up?"
+Allstate,stop,Goodbye!
+Allstate,quit,
+Credit Card Helper,"Alexa, open Credit Card Helper","Hey, I'm Caz. I'm an expert on credit cards. I analyze data on rewards, fees, and customer service to help you find the best card. Ask me to find a card, or ask me what I can do?"
+Credit Card Helper,help,"Try asking me about the best cash back or travel cards. If you're not sure what's the best card for you, can you ask me to ""take a quiz"" for custom picks?"
+Credit Card Helper,stop,Cheerio - I'm Caz your Credit Card Helper - talk later.
+Credit Card Helper,quit,
+Volley FM,"Alexa, open Volley FM",You have Volley FM - Personalized Morning News Radio Skill enabled. Do you want to open it?
+Volley FM,Yes,
+Volley FM,help,<Short audio>
+Volley FM,stop,<Short audio>
+Volley FM,quit,
+Market Moment,"Alexa, open Market Moment","Hmm, I don't know that."
+Market Moment,help,"For Help, please visit the help pages on the Amazon web site."
+Market Moment,stop,
+Market Moment,quit,
+Swenk Today,"Alexa, open Swenk Today","Sorry, I don't know that."
+Swenk Today,help,"For Help, please visit the help pages on the Amazon web site."
+Swenk Today,stop,
+Swenk Today,quit,
+Small Business Marketing Tips,"Alexa, open Small Business Marketing Tips","Small Business Marketing Tips is in your Flash Briefing; to hear it, just say, Whatâ€™s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Small Business Marketing Tips,help,"For Help, please visit the help pages on the Amazon web site."
+Small Business Marketing Tips,stop,
+Small Business Marketing Tips,quit,
+Dave Sanderson: Declassified,"Alexa, open Dave Sanderson: Declassified","Hmm, I'm not sure."
+Dave Sanderson: Declassified,help,"For Help, please visit the help pages on the Amazon web site."
+Dave Sanderson: Declassified,stop,
+Dave Sanderson: Declassified,quit,
+4 Minute Crypto,"Alexa, open 4 Minute Crypto","4 Minute Crypto is in your Flash Briefing; to hear it, just say, Whatâ€™s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+4 Minute Crypto,help,"For Help, please visit the help pages on the Amazon web site."
+4 Minute Crypto,stop,
+4 Minute Crypto,quit,
+BECU,"Alexa, open BECU","Sorry, Iâ€™m not sure about that."
+BECU,help,"For Help, please visit the help pages on the Amazon web site."
+BECU,stop,
+BECU,quit,
+Market Insights,"Alexa, open Market Insights",
+Market Insights,help,<Short audio>
+Market Insights,stop,<Short audio>
+Market Insights,quit,
+Millionaire Money Minute with Scott Alan Turner,"Alexa, open Millionaire Money Minute with Scott Alan Turner",<Audio only response>
+Millionaire Money Minute with Scott Alan Turner,help,"For Help, please visit the help pages on the Amazon web site."
+Millionaire Money Minute with Scott Alan Turner,stop,
+Millionaire Money Minute with Scott Alan Turner,quit,
+30-Second Blog and Business Tip,"Alexa, open 30-Second Blog and Business Tip","Hmm, I have a few skills that can help."
+30-Second Blog and Business Tip,help,"For Help, please visit the help pages on the Amazon web site."
+30-Second Blog and Business Tip,stop,
+30-Second Blog and Business Tip,quit,
+Business Freedom Daily Briefing,"Alexa, open Business Freedom Daily Briefing",Here's your news.
+Business Freedom Daily Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Business Freedom Daily Briefing,stop,
+Business Freedom Daily Briefing,quit,
+TradeIt,"Alexa, open TradeIt","Hmm, I'm not sure."
+TradeIt,help,"For Help, please visit the help pages on the Amazon web site."
+TradeIt,stop,
+TradeIt,quit,
+The Indicator from Planet Money,"Alexa, open The Indicator from Planet Money",You have PayPal enabled. Do you want to open it?
+The Indicator from Planet Money,Yes,"Welcome to PayPal. To get the most out of your experience, you'll first need to link your PayPal account. I've sent some information to your Alexa app to help you get started"
+The Indicator from Planet Money,help,"For Help, please visit the help pages on the Amazon web site."
+The Indicator from Planet Money,stop,
+The Indicator from Planet Money,quit,
+The MFCEO Kill Shots,"Alexa, open The MFCEO Kill Shots",
+The MFCEO Kill Shots,help,"For Help, please visit the help pages on the Amazon web site."
+The MFCEO Kill Shots,stop,
+The MFCEO Kill Shots,quit,
+Money Master - Personal Finance Flash Briefing,"Alexa, open Money Master - Personal Finance Flash Briefing",You have Westpac Banking enabled. Do you want to open it?
+Money Master - Personal Finance Flash Briefing,Yes,
+Money Master - Personal Finance Flash Briefing,help,Happy to help! I can tell you about your account balances or get your transaction details. Try saying: What's my balance? How many points do I have? or What are my recent transactions? Go ahead and ask me something!What can I help you with?
+Money Master - Personal Finance Flash Briefing,stop,have a nice day!
+Money Master - Personal Finance Flash Briefing,quit,
+Sigrun Sparks,"Alexa, open Sigrun Sparks","Sorry, I don't know that."
+Sigrun Sparks,help,"For Help, please visit the help pages on the Amazon web site."
+Sigrun Sparks,stop,
+Sigrun Sparks,quit,
+Farmers,"Alexa, open Farmers","Hmm, I'm not sure."
+Farmers,help,"For Help, please visit the help pages on the Amazon web site."
+Farmers,stop,
+Farmers,quit,
+Van Nuys Real Estate,"Alexa, open Van Nuys Real Estate",<Audio only response>
+Van Nuys Real Estate,help,"For Help, please visit the help pages on the Amazon web site."
+Van Nuys Real Estate,stop,
+Van Nuys Real Estate,quit,
+Stock Prices,"Alexa, open Stock Prices",You have Stock Prices by Opening Bell enabled. Do you want to open it?
+Stock Prices,Yes,What stock price would you like me to look up?
+Stock Prices,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Stock Prices,stop,O.K.
+Stock Prices,quit,
+Daily Mortgage Rates - Flash Briefing,"Alexa, open Daily Mortgage Rates - Flash Briefing",Here's your news.
+Daily Mortgage Rates - Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Daily Mortgage Rates - Flash Briefing,stop,
+Daily Mortgage Rates - Flash Briefing,quit,
+CenturyLink,"Alexa, open CenturyLink","Sorry, Iâ€™m not sure about that."
+CenturyLink,help,"For Help, please visit the help pages on the Amazon web site."
+CenturyLink,stop,
+CenturyLink,quit,
+The Massive Agent Minute for Real Estate Agents,"Alexa, open The Massive Agent Minute for Real Estate Agents",<Audio only response>
+The Massive Agent Minute for Real Estate Agents,help,"For Help, please visit the help pages on the Amazon web site."
+The Massive Agent Minute for Real Estate Agents,stop,
+The Massive Agent Minute for Real Estate Agents,quit,
+PSE and G,"Alexa, open PSE and G","Sorry, I'm not sure."
+PSE and G,help,"For Help, please visit the help pages on the Amazon web site."
+PSE and G,stop,
+PSE and G,quit,
+Bank Helper,"Alexa, open Bank Helper","Heya, I'm Sofia, your Bank Helper. What do you want to know about bank rates for CDs and savings accounts?"
+Bank Helper,help,"I can answer questions about cd interest rates. For example, ask 'What is the interest rate on a 5 year c d ? What would you like to ask?"
+Bank Helper,stop,Come back any time. Good bye.
+Bank Helper,quit,
+Leticia Sotomayor - Chino Real Estate,"Alexa, open Leticia Sotomayor - Chino Real Estate",<Audio only response>
+Leticia Sotomayor - Chino Real Estate,help,"For Help, please visit the help pages on the Amazon web site."
+Leticia Sotomayor - Chino Real Estate,stop,
+Leticia Sotomayor - Chino Real Estate,quit,
+Live Love Lex Minute,"Alexa, open Live Love Lex Minute","Hmm, I'm not sure."
+Live Love Lex Minute,help,"For Help, please visit the help pages on the Amazon web site."
+Live Love Lex Minute,stop,
+Live Love Lex Minute,quit,
+Agent Marketer Flash,"Alexa, open Agent Marketer Flash","Sorry, I don't know that."
+Agent Marketer Flash,help,"For Help, please visit the help pages on the Amazon web site."
+Agent Marketer Flash,stop,
+Agent Marketer Flash,quit,
+CryptoTracker,"Alexa, open CryptoTracker","Hmm, I don't know that."
+CryptoTracker,help,"For Help, please visit the help pages on the Amazon web site."
+CryptoTracker,stop,
+CryptoTracker,quit,
+Think Like a Millionaire - Finance Flash Briefing,"Alexa, open Think Like a Millionaire - Finance Flash Briefing",<Audio only response>
+Think Like a Millionaire - Finance Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Think Like a Millionaire - Finance Flash Briefing,stop,
+Think Like a Millionaire - Finance Flash Briefing,quit,
+Beetle Moment Marketing Flash Briefing,"Alexa, open Beetle Moment Marketing Flash Briefing","Hmm, I don't know that one."
+Beetle Moment Marketing Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Beetle Moment Marketing Flash Briefing,stop,
+Beetle Moment Marketing Flash Briefing,quit,
+Marketing School,"Alexa, open Marketing School",<Audio only response>
+Marketing School,help,"For Help, please visit the help pages on the Amazon web site."
+Marketing School,stop,
+Marketing School,quit,
+The Soulpreneur Studio,"Alexa, open The Soulpreneur Studio","Sorry, I don't know that one."
+The Soulpreneur Studio,help,"For Help, please visit the help pages on the Amazon web site."
+The Soulpreneur Studio,stop,
+The Soulpreneur Studio,quit,
+Mortgage Helper,"Alexa, open Mortgage Helper","Hi, I'm Morgan, your virtual assistant mortgage helper. I can calculate how much you can afford, estimate monthly payments, or you can ask for a list of all my calculators. Ask me for a calculator or ask for todayâ€™s national average rate?"
+Mortgage Helper,help,"I have a range of mortgage calculators. My 3 most popular ones are the monthly payment calculator, the home affordability calculator, and the mortgage PMI calculator. Which one would you like to start with? Monthly payments or home affordability?"
+Mortgage Helper,stop,I am Mortgage Helper Morgan. Come back anytime. Bye.
+Mortgage Helper,quit,
+Morningstar,"Alexa, open Morningstar","Hmm, I'm not sure."
+Morningstar,help,"For Help, please visit the help pages on the Amazon web site."
+Morningstar,stop,
+Morningstar,quit,
+Digital Marketing Morsel,"Alexa, open Digital Marketing Morsel",
+Digital Marketing Morsel,help,"For Help, please visit the help pages on the Amazon web site."
+Digital Marketing Morsel,stop,
+Digital Marketing Morsel,quit,
+Bennie Chukwurah - 77407 Real Estate,"Alexa, open Bennie Chukwurah - 77407 Real Estate",<Audio only response>
+Bennie Chukwurah - 77407 Real Estate,help,"For Help, please visit the help pages on the Amazon web site."
+Bennie Chukwurah - 77407 Real Estate,stop,
+Bennie Chukwurah - 77407 Real Estate,quit,
+Albany Real Estate,"Alexa, open Albany Real Estate",
+Albany Real Estate,help,I need you to link your account so that I can email you your results. Please check your alexa app or tell me your phone number with area code first. You can say goodbye to exit
+Albany Real Estate,stop,goodbye and thank you for using Berkshire Hathaway HomeServices Professional Realty's skill.
+Albany Real Estate,quit,
+Abi - Gearco's Cloud Assistant for Management,"Alexa, open Abi - Gearco's Cloud Assistant for Management","Your Gearco Account is required, to be linked to the Abi Skill. Please use the Alexa app, to link your Gearco account to the Abi Skill."
+Abi - Gearco's Cloud Assistant for Management,help,"For Help, please visit the help pages on the Amazon web site."
+Abi - Gearco's Cloud Assistant for Management,stop,
+Abi - Gearco's Cloud Assistant for Management,quit,
+Daily Bitcoin Podcast,"Alexa, open Daily Bitcoin Podcast","Daily Bitcoin Podcast is in your Flash Briefing; to hear it, just say, Whatâ€™s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Daily Bitcoin Podcast,help,"For Help, please visit the help pages on the Amazon web site."
+Daily Bitcoin Podcast,stop,
+Daily Bitcoin Podcast,quit,
+PullString,"Alexa, open PullString","Sorry, Iâ€™m not sure about that."
+PullString,help,"For Help, please visit the help pages on the Amazon web site."
+PullString,stop,
+PullString,quit,
+Travelers,"Alexa, open Travelers","Hmm, I'm not sure."
+Travelers,help,"For Help, please visit the help pages on the Amazon web site."
+Travelers,stop,
+Travelers,quit,
+Rhino Fleet Tracking,"Alexa, open Rhino Fleet Tracking","Sorry, I don't know that."
+Rhino Fleet Tracking,help,"For Help, please visit the help pages on the Amazon web site."
+Rhino Fleet Tracking,stop,
+Rhino Fleet Tracking,quit,
+Insurance Advisor,"Alexa, open Insurance Advisor",You have Car Insurance Finder enabled. Do you want to open it?
+Insurance Advisor,Yes,
+Insurance Advisor,help,"I'm Carrie. I research hundreds of insurance companies on their financial stability, their interactions with consumers, and their technology and pricing. Then I tell you who the best are."
+Insurance Advisor,stop,Good Bye friend!
+Insurance Advisor,quit,
+Billionaire Secrets - Quotes on Money and Business,"Alexa, open Billionaire Secrets - Quotes on Money and Business","Sorry, I don't know that one."
+Billionaire Secrets - Quotes on Money and Business,help,"For Help, please visit the help pages on the Amazon web site."
+Billionaire Secrets - Quotes on Money and Business,stop,
+Billionaire Secrets - Quotes on Money and Business,quit,
+MyFortress,"Alexa, open MyFortress","Hmm, I'm not sure."
+MyFortress,help,"For Help, please visit the help pages on the Amazon web site."
+MyFortress,stop,
+MyFortress,quit,
+Car Insurance Finder,"Alexa, open Car Insurance Finder","I'm Carrie, an artificial intelligence car insurance finder. I compare hundreds of rates and policy options to determine the best company for you. Ask me to get you a quick match for a quote, or ask for my most frequent questions? By the way, I can give a lot of great info through email. Go to the Alexa app to connect your account. Otherwise, I'll still try and give you some good information."
+Car Insurance Finder,help,"I'm Carrie, an AI car insurance finder. I can help you get better car insurance and figure out how much it costs. Soon I will also be able to tell you which companies are good and bad. I've looked at millions of complaints and rankings, so you are really protected. Ask me to get you a policy estimate?"
+Car Insurance Finder,stop,"Farewell, friend!"
+Car Insurance Finder,quit,
+Waste Management,"Alexa, open Waste Management",
+Waste Management,help,"For Help, please visit the help pages on the Amazon web site."
+Waste Management,stop,"Welcome to Waste Management on Alexa! You can ask Waste Management about your account balance, holiday schedule, next pickup, about careers, stock symbol, what Waste Management does for fun or say help. What would you like to know?"
+Waste Management,quit,
+PSEG Long Island,"Alexa, open PSEG Long Island","Sorry, I don't know that one."
+PSEG Long Island,help,"For Help, please visit the help pages on the Amazon web site."
+PSEG Long Island,stop,
+PSEG Long Island,quit,
+Tour de Profit with Rich Allen,"Alexa, open Tour de Profit with Rich Allen",<Audio only response>
+Tour de Profit with Rich Allen,help,"For Help, please visit the help pages on the Amazon web site."
+Tour de Profit with Rich Allen,stop,
+Tour de Profit with Rich Allen,quit,
+BizMagic Minute,"Alexa, open BizMagic Minute",
+BizMagic Minute,help,"For Help, please visit the help pages on the Amazon web site."
+BizMagic Minute,stop,
+BizMagic Minute,quit,
+CNN Business Flash Briefing,"Alexa, open CNN Business Flash Briefing",Here's your news.
+CNN Business Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+CNN Business Flash Briefing,stop,
+CNN Business Flash Briefing,quit,
+Coldwell Banker Home of the Week,"Alexa, open Coldwell Banker Home of the Week","Sorry, Iâ€™m not sure about that."
+Coldwell Banker Home of the Week,help,"For Help, please visit the help pages on the Amazon web site."
+Coldwell Banker Home of the Week,stop,
+Coldwell Banker Home of the Week,quit,
+My Realtor,"Alexa, open My Realtor","Sorry, Iâ€™m not sure about that."
+My Realtor,help,"For Help, please visit the help pages on the Amazon web site."
+My Realtor,stop,
+My Realtor,quit,
+California Association of Realtors,"Alexa, open California Association of Realtors","Sorry, I don't know that."
+California Association of Realtors,help,"For Help, please visit the help pages on the Amazon web site."
+California Association of Realtors,stop,
+California Association of Realtors,quit,
+Daily Shot of Social Media for Realtors,"Alexa, open Daily Shot of Social Media for Realtors","Hmm, I don't know that one."
+Daily Shot of Social Media for Realtors,help,"For Help, please visit the help pages on the Amazon web site."
+Daily Shot of Social Media for Realtors,stop,
+Daily Shot of Social Media for Realtors,quit,
+iPay QuickPay,"Alexa, open iPay QuickPay","Hmm, I don't know that one."
+iPay QuickPay,help,"For Help, please visit the help pages on the Amazon web site."
+iPay QuickPay,stop,
+iPay QuickPay,quit,
+Grange Insurance,"Alexa, open Grange Insurance",You have Car Insurance Finder enabled. Do you want to open it?
+Grange Insurance,Yes,"I'm Carrie, an artificial intelligence car insurance finder. I compare hundreds of rates and policy options to determine the best company for you. Ask me to get you a quick match for a quote, or ask for my most frequent questions? By the way, I can give a lot of great info through email. Go to the Alexa app to connect your account. Otherwise, I'll still try and give you some good information."
+Grange Insurance,help,"I'm Carrie, an AI car insurance finder. I can help you get better car insurance and figure out how much it costs. Soon I will also be able to tell you which companies are good and bad. I've looked at millions of complaints and rankings, so you are really protected. Ask me to get you a policy estimate?"
+Grange Insurance,stop,"Come back any time, I'm Carrie your Car Insurance Helper. Good bye!"
+Grange Insurance,quit,
+Livestream Universe Update: Livestreaming News,"Alexa, open Livestream Universe Update: Livestreaming News","Livestream Universe Update: Livestreaming News is in your Flash Briefing; to hear it, just say, Whatâ€™s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Livestream Universe Update: Livestreaming News,help,"For Help, please visit the help pages on the Amazon web site."
+Livestream Universe Update: Livestreaming News,stop,
+Livestream Universe Update: Livestreaming News,quit,
+First Hawaiian Bank,"Alexa, open First Hawaiian Bank","Ok, Here's StockTicker"
+First Hawaiian Bank,help,"I can help you get the latest price for a stock. You can simply open Stock Ticker and ask a question like, What's the stock price for Amazon. Or you can say exit to quit this skill. There maybe times where I have trouble recognizing or looking up a Company's name. For these cases, I am able to look up stock symbols as well. For stock symbol lookups, just replace the company name with the symbol, like, What's the stock price for GOOGL. Now, what company should I look up?"
+First Hawaiian Bank,stop,Goodbye!
+First Hawaiian Bank,quit,
+Morgan J's SDR Chronicles,"Alexa, open Morgan J's SDR Chronicles",You have Morgan Stanley enabled. Do you want to open it?
+Morgan J's SDR Chronicles,Yes,"Sure. Opening Morgan Stanley. Would you like to hear the latest ideas or learn about the company? For a full list of capabilities, say help."
+Morgan J's SDR Chronicles,help,"What would you like to know more about? You can say: Ideas Briefing, the ideas Podcast, Thoughts on the Market, Jargon Buster or Get to Know Morgan Stanley."
+Morgan J's SDR Chronicles,stop,Goodbye!
+Morgan J's SDR Chronicles,quit,
+She's Making an Impact with Rachel Ngom,"Alexa, open She's Making an Impact with Rachel Ngom",<Audio only response>
+She's Making an Impact with Rachel Ngom,help,"For Help, please visit the help pages on the Amazon web site."
+She's Making an Impact with Rachel Ngom,stop,
+She's Making an Impact with Rachel Ngom,quit,
+Garlic Ticker,"Alexa, open Garlic Ticker","Welcome to Garlic Ticker, you can ask about prices and changes for garlic coin. Would you like to hear the price of Garlic coin?"
+Garlic Ticker,help,"Garlic Ticker allows users to track the rank,price, and changes of garlicoin. Would you like to hear the price of Garlicoin?"
+Garlic Ticker,stop,Exiting Garlic Ticker...Thank You
+Garlic Ticker,quit,
+Westpac Banking,"Alexa, open Westpac Banking",Hey! What can I help you with?
+Westpac Banking,help,Happy to help! I can tell you about your account balances or get your transaction details. Try saying: What's my balance? How many points do I have? or What are my recent transactions? Go ahead and ask me something!How can I help?
+Westpac Banking,stop,See you later!
+Westpac Banking,quit,
+Optum Bank,"Alexa, open Optum Bank","Hello. I am the Optum Bank FAQ skill. Feel free to ask me whether an item is a qualified medical expense, or say help to see some of the other things I can do."
+Optum Bank,help,"The Optum Bank FAQ Skill can help you determine if an item is a qualified medical expense. It can also answer frequently asked questions regarding tax forms, different fees, and contribution limits for HSAs, FSAs and HRAs or tell you an interesting random fact. What other question can I help answer?"
+Optum Bank,stop,Thanks for using the Optum Bank skill. Goodbye.
+Optum Bank,quit,
+Equities,"Alexa, open Equities","Hmm, I'm not sure."
+Equities,help,"For Help, please visit the help pages on the Amazon web site."
+Equities,stop,
+Equities,quit,
+Mark Cuban Quotes,"Alexa, open Mark Cuban Quotes","Hmm, I don't know that."
+Mark Cuban Quotes,help,"For Help, please visit the help pages on the Amazon web site."
+Mark Cuban Quotes,stop,
+Mark Cuban Quotes,quit,
+Currency Converter,"Alexa, open Currency Converter",Welcome to the Currency Converter Skill. I can tell you the current currency exchange or convert money. What can I help you with?
+Currency Converter,help,"Ask me to look for current exchange rates. You can say: Exchange currency between dollars and sterling pounds. I can also make conversions from one currency to another. For example, you can say: can I have the conversion from ten euros to pounds?. The currencies you can ask me for are: american dollar, nicaraguan cordoba, euro, british pound, canadian dollar, chinese renminbi, brazilian real, colombian peso, and venezuelan bolivar. Do you want to convert something or ask me for some exchange rates?"
+Currency Converter,stop,"Ok, come back anytime you need help making currency conversions or finding exchange rates. Goodbye."
+Currency Converter,quit,
+CryptoCurrency,"Alexa, open CryptoCurrency","Sorry, I'm not sure."
+CryptoCurrency,help,"For Help, please visit the help pages on the Amazon web site."
+CryptoCurrency,stop,
+CryptoCurrency,quit,
+Marketplace,"Alexa, open Marketplace",<Audio only response>
+Marketplace,help,"For Help, please visit the help pages on the Amazon web site."
+Marketplace,stop,
+Marketplace,quit,
+MAGA,"Alexa, open MAGA","Hmm, I don't know that one."
+MAGA,help,"For Help, please visit the help pages on the Amazon web site."
+MAGA,stop,
+MAGA,quit,
+Comcast Business ActiveCore,"Alexa, open Comcast Business ActiveCore",It appears that your account is not currently linked. Go to your Alexa app and link your active core Alexa Skill.
+Comcast Business ActiveCore,help,"For Help, please visit the help pages on the Amazon web site."
+Comcast Business ActiveCore,stop,
+Comcast Business ActiveCore,quit,
+Create My Voice,"Alexa, open Create My Voice","Sorry, I don't know that one."
+Create My Voice,help,"For Help, please visit the help pages on the Amazon web site."
+Create My Voice,stop,
+Create My Voice,quit,
+On The Dot Woman Flash Briefing,"Alexa, open On The Dot Woman Flash Briefing",You have Inspire Me enabled. Do you want to open it?
+On The Dot Woman Flash Briefing,Yes,Here's some inspirational words from John Wooden :
+On The Dot Woman Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+On The Dot Woman Flash Briefing,stop,
+On The Dot Woman Flash Briefing,quit,
+Budget Bot,"Alexa, open Budget Bot","Welcome to Budget Bot. You can tell me when you make a purchase and I'll add it to your budget, or you can ask me about how much you've spent so far. What would you like to do?"
+Budget Bot,help,"Welcome to Budget Bot. You can tell me when you make a purchase and I'll add it to your budget, or you can ask me about how much you've spent so far. What would you like to do?"
+Budget Bot,stop,Goodbye!
+Budget Bot,quit,
+Cryptocurrency Flash Briefing,"Alexa, open Cryptocurrency Flash Briefing",Here's your news.
+Cryptocurrency Flash Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Cryptocurrency Flash Briefing,stop,
+Cryptocurrency Flash Briefing,quit,
+Marketplace Morning Report,"Alexa, open Marketplace Morning Report","Sorry, I don't know that one."
+Marketplace Morning Report,help,"For Help, please visit the help pages on the Amazon web site."
+Marketplace Morning Report,stop,
+Marketplace Morning Report,quit,
+David Killinger - Carbon Valley Real Estate,"Alexa, open David Killinger - Carbon Valley Real Estate",<Audio only response>
+David Killinger - Carbon Valley Real Estate,help,"For Help, please visit the help pages on the Amazon web site."
+David Killinger - Carbon Valley Real Estate,stop,
+David Killinger - Carbon Valley Real Estate,quit,
+Understanding HR with Jay Sharp,"Alexa, open Understanding HR with Jay Sharp","Sorry, Iâ€™m not sure about that."
+Understanding HR with Jay Sharp,help,"For Help, please visit the help pages on the Amazon web site."
+Understanding HR with Jay Sharp,stop,
+Understanding HR with Jay Sharp,quit,
+Dialpad,"Alexa, open Dialpad","Hmm, I don't know that."
+Dialpad,help,"For Help, please visit the help pages on the Amazon web site."
+Dialpad,stop,
+Dialpad,quit,
+Mortgage Rates,"Alexa, open Mortgage Rates","Sorry, I don't know open mortgage rates' definition."
+Mortgage Rates,help,"For Help, please visit the help pages on the Amazon web site."
+Mortgage Rates,stop,
+Mortgage Rates,quit,
+"Disher, Hamrick & Myers Residential Real Estate","Alexa, open Disher, Hamrick & Myers Residential Real Estate","Welcome to Disher, Hamrick and Myers Residential Real Estate in beautiful Charleston, South Carolina. We look forward to helping you with all your home buying and selling needs in the greater Charleston, SC market. To learn more about our agency, say ""About Us"". You can also ask about our ""Location"", ""Get Directions"", ""Hours of Operation"", or ""Phone Number"". What can I help you with?"
+"Disher, Hamrick & Myers Residential Real Estate",help,"I can help you answer many questions about our business. You can say things like ""About Us"" or ""Location"", or ""Hours of Operation"". You can also get ""Directions"" or ""Contact Information"". What would you like to know?"
+"Disher, Hamrick & Myers Residential Real Estate",stop,"Sorry, I'm having trouble accessing your Disher, Hamrick & Myers Residential Real Estate skill right now"
+"Disher, Hamrick & Myers Residential Real Estate",quit,
+Comcast Business,"Alexa, open Comcast Business",It appears that your account is not currently linked. Go to your Alexa app and link your active core Alexa Skill.
+Comcast Business,help,"For Help, please visit the help pages on the Amazon web site."
+Comcast Business,stop,
+Comcast Business,quit,
+CEO Tip of the Day,"Alexa, open CEO Tip of the Day",Welcome to Renaissance Executive Forums CEO Tip of the Day. You can ask what's the CEO Tip of the Day. What would you like to do?
+CEO Tip of the Day,help,"You can ask ""what's my CEO daily tip""? What would you like to do?"
+CEO Tip of the Day,stop,Thank you for using Renaissance Executive Forums CEO tips.
+CEO Tip of the Day,quit,
+"What Next in Branding, Entrepreneurs & Startups","Alexa, open What Next in Branding, Entrepreneurs & Startups","Hmm, I'm not sure."
+"What Next in Branding, Entrepreneurs & Startups",help,"For Help, please visit the help pages on the Amazon web site."
+"What Next in Branding, Entrepreneurs & Startups",stop,
+"What Next in Branding, Entrepreneurs & Startups",quit,
+Jen's 5 am Jumpstart,"Alexa, open Jen's 5 am Jumpstart","Jen's 5 am Jumpstart is in your Flash Briefing; to hear it, just say, Whatâ€™s my Flash Briefing. To manage it, go to your Alexa App, tap on settings, then select Flash Briefing."
+Jen's 5 am Jumpstart,help,"For Help, please visit the help pages on the Amazon web site."
+Jen's 5 am Jumpstart,stop,
+Jen's 5 am Jumpstart,quit,
+Morgan Stanley Ideas Briefing,"Alexa, open Morgan Stanley Ideas Briefing",
+Morgan Stanley Ideas Briefing,help,"For Help, please visit the help pages on the Amazon web site."
+Morgan Stanley Ideas Briefing,stop,
+Morgan Stanley Ideas Briefing,quit,
+Cryptocurrency Prices,"Alexa, open Cryptocurrency Prices","Hmm, I don't know that."
+Cryptocurrency Prices,help,"For Help, please visit the help pages on the Amazon web site."
+Cryptocurrency Prices,stop,
+Cryptocurrency Prices,quit,
+Crypto Agent,"Alexa, open Crypto Agent","Hmm, I don't know that."
+Crypto Agent,help,"For Help, please visit the help pages on the Amazon web site."
+Crypto Agent,stop,
+Crypto Agent,quit,
+SentinelOne,"Alexa, open SentinelOne","Sorry, I don't know that one."
+SentinelOne,help,"For Help, please visit the help pages on the Amazon web site."
+SentinelOne,stop,
+SentinelOne,quit,
+Enrichment Voice Teller,"Alexa, open Enrichment Voice Teller",
+Enrichment Voice Teller,help,"For Help, please visit the help pages on the Amazon web site."
+Enrichment Voice Teller,stop,
+Enrichment Voice Teller,quit,
+CryptoPrice,"Alexa, open CryptoPrice","Sorry, Iâ€™m not sure about that."
+CryptoPrice,help,"For Help, please visit the help pages on the Amazon web site."
+CryptoPrice,stop,
+CryptoPrice,quit,
+The Hustle,"Alexa, open The Hustle","Sorry, Iâ€™m not sure about that."
+The Hustle,help,"For Help, please visit the help pages on the Amazon web site."
+The Hustle,stop,
+The Hustle,quit,
+Exchange Rate,"Alexa, open Exchange Rate","Sorry, I'm having trouble accessing your Exchange Rate skill right now"
+Exchange Rate,help,"For Help, please visit the help pages on the Amazon web site."
+Exchange Rate,stop,
+Exchange Rate,quit,
+Web Analytics,"Alexa, open Web Analytics","Oops! It seems like you haven't linked your account yet. Please use the alexa mobile app or login to your alexa account from a web browser, and go to the skills section. Select webanalytics skill, and click on link account."
+Web Analytics,help,"For Help, please visit the help pages on the Amazon web site."
+Web Analytics,stop,
+Web Analytics,quit,
+Stock Info,"Alexa, open Stock Info",What stock price would you like me to look up?
+Stock Info,help,"I can tell you the stock price of any publicly traded company such as Apple, Tesla, Microsoft, and many more. Which would you like?"
+Stock Info,stop,O.K.
+Stock Info,quit,
+Bitcoin Price,"Alexa, open Bitcoin Price",
+Bitcoin Price,help,"For Help, please visit the help pages on the Amazon web site."
+Bitcoin Price,stop,
+Bitcoin Price,quit,
+Money Converter,"Alexa, open Money Converter",Welcome to the Currency Converter Skill. I can help you convert money or offer exchange rates. What can I help you with?
+Money Converter,help,"Ask me to look for current exchange rates. You can say: Exchange currency between dollars and sterling pounds. I can also make conversions from one currency to another. For example, you can say: can I have the conversion from ten euros to pounds?. The currencies you can ask me for are: american dollar, nicaraguan cordoba, euro, british pound, canadian dollar, chinese renminbi, brazilian real, colombian peso, and venezuelan bolivar. Do you want to convert something or ask me for some exchange rates?"
+Money Converter,stop,"Ok, come back anytime you need help making currency conversions or finding exchange rates. Goodbye."
+Money Converter,quit,
