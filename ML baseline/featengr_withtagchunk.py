@@ -307,7 +307,7 @@ class FeatEngr:
         from sklearn.linear_model import LogisticRegression 
         
         # load data 
-        dfTrain = pd.read_csv("train.csv")
+        dfTrain = pd.read_csv("sample_train.csv")
         # get training features and labels 
         self.X_train = self.build_train_features([list(dfTrain["response"])])
         self.y_train = np.array(dfTrain["label"], dtype=int)
@@ -331,7 +331,7 @@ class FeatEngr:
         """
         
         # read in test data 
-        dfTest  = pd.read_csv("test.csv")
+        dfTest  = pd.read_csv("sample_test.csv")
         
         # featurize test data 
         self.X_test = self.get_test_features([list(dfTest["response"])])

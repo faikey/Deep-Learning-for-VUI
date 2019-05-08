@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 from sklearn.manifold import TSNE
 
 
-df = pd.read_csv('train.csv')
+df = pd.read_csv('sample_train.csv')
 txt=''
 for index, row in df.iterrows():
     txt = txt + ' ' + row['response']
@@ -182,7 +182,7 @@ with tf.Session(graph=train_graph) as sess:
                     print(log)
             
             iteration += 1
-    save_path = saver.save(sess, "checkpoints/text8.ckpt")
+    save_path = saver.save(sess, "checkpoints/VUI.ckpt")
     embed_mat = sess.run(normalized_embedding)
 
 

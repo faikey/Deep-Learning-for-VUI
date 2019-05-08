@@ -20,8 +20,8 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 
 WEIGHT_FILE = 'wiki-news-300d-1M.vec'
-TRAIN_FILE = 'train.csv'
-TEST_FILE = 'test.csv'
+TRAIN_FILE = 'sample_train.csv'
+TEST_FILE = 'sample_test.csv'
 # Dataset Reader
 class Dataset:
 

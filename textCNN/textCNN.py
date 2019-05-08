@@ -18,10 +18,10 @@ from sklearn.metrics import confusion_matrix
 
 text = torchtext.data.Field(lower=True, batch_first=True, tokenize=word_tokenize, fix_length=70)
 target = torchtext.data.Field(sequential=False, use_vocab=False, is_target=True)
-train = torchtext.data.TabularDataset(path='train.csv', format='csv',
+train = torchtext.data.TabularDataset(path='sample_train.csv', format='csv',
                                       fields={'response': ('text',text),
                                               'label': ('target',target)})
-test = torchtext.data.TabularDataset(path='test.csv', format='csv',
+test = torchtext.data.TabularDataset(path='sample_test.csv', format='csv',
                                      fields={'response': ('text', text)})
 
 
@@ -111,22 +111,13 @@ def init_network(model, method='xavier', exclude='embedding', seed=123):
             else: 
                 pass
 
-def print_model(model, ignore='embedding'):
-    total = 0
-    for name, w in model.named_parameters():
-        if not ignore or ignore not in name:
-            total += w.nelement()
-            print('{} : {}  {} parameters'.format(name, w.shape, w.nelement()))
-    print('-------'*4)
-    print('Total {} parameters'.format(total))
-
 
 text.fix_length = 70
 model = TextCNN(text.vocab.vectors, padding_idx=text.vocab.stoi[text.pad_token], kernel_size=[1, 2, 3, 5], kernel_num=128, static=False, fixed_length=text.fix_length, dropout=0.1)
 init_network(model,method='kaiming')
 optimizer = optim.Adam(params=model.parameters(), lr=1e-3)
 loss_function = nn.NLLLoss()
-print_model(model, ignore=None)
+
 
 losses = training(50, model, loss_function, optimizer, train_iter)
 
