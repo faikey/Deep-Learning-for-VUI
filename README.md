@@ -62,6 +62,14 @@ The following table shows the trainning results:
 
 The analysis above proves the feasibility of deploying deep learning methods to conduct voice application evaluation. Based on this, In the future work, a chatbot trained by deep learning methods using the Alexa responses dataset can be deployed to do evaluation.
 
+## About the codes and how to run them
+
+### sample dataset 
+I only showed a sample of the Alexa Response Dataset because of future research reasons.
+
+### crawler codes
+1. alexacrawler.py is used to run the basic "open-help-stop" loop for each Alexa skill
+2. 
 
 
 
