@@ -95,8 +95,9 @@ You can try ```textCNN.py``` directly using ```sample_train.csv``` and ```sample
 You can try ```skip-gram.py``` directly using ```sample_train.csv``` and ```sample_test.csv```
 
 
-
-
+## References
+[1] Guo, Fenfei, Angeliki Metallinou, Chandra Khatri, Anirudh Raju, Anu Venkatesh, and Ashwin Ram. 2018. “Topic-Based Evaluation for Conversational Bots.” arXiv [cs.CL]. arXiv. http://arxiv.org/abs/1801.03622.
+[2]Han, Xu, and Tom Yeh. 2019. “Evaluating Voice Applications by User-Aware Design Guidelines Using an Automatic Voice Crawler.” http://ceur-ws.org/Vol-2327/IUI19WS-USER2AGENT-6.pdf.
 
 
 
